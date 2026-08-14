@@ -1,18 +1,48 @@
 name: Actualizar tasa BCV
-on: {schedule: [{cron: '0 22 * * *'}], workflow_dispatch: {}}
-permissions: {contents: write}
+
+on:
+  schedule:
+    # 22:00 UTC = 18:00 hora de Venezuela (UTC-4), de lunes a viernes
+    - cron: '0 22 * * 1-5'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: actualizar-tasa-bcv
+  cancel-in-progress: false
+
 jobs:
   actualizar:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-python@v5
-        with: {python-version: '3.12'}
-      - run: pip install -r requirements.txt
-      - run: python scraper/bcv_tasa.py
-      - run: |
+        with:
+          python-version: '3.12'
+          cache: pip
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Ejecutar scraper
+        run: python scraper/bcv_tasa.py
+
+      - name: Mostrar resultado
+        run: cat data/tasa.json
+
+      - name: Commit si cambio la tasa
+        run: |
           git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/tasa.json
-          git diff --staged --quiet || git commit -m "Tasa BCV $(date -u +%F)"
-          git push
+          if git diff --staged --quiet; then
+            echo "Sin cambios en data/tasa.json"
+            exit 0
+          fi
+          git commit -m "Tasa BCV $(date -u +%F)"
+          git pull --rebase --autostash origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
