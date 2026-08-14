@@ -1,0 +1,102 @@
+{
+  "actualizado_utc": "2026-08-14T16:19:00+00:00",
+  "actualizado_ve": "2026-08-14T12:19:00-04:00",
+  "bcv": {
+    "usd": 771.0714,
+    "eur": 889.45399204,
+    "fecha_valor": "2026-08-14T00:00:00-04:00"
+  },
+  "binance_p2p": {
+    "asset": "USDT",
+    "fiat": "VES",
+    "top_n": 5,
+    "referencia": 880.3,
+    "venta": {
+      "promedio": 880.3,
+      "minimo": 876.0,
+      "maximo": 893.0,
+      "anuncios_usados": 5,
+      "anuncios": [
+        {
+          "precio": 893.0,
+          "comerciante": "EstelarExchange",
+          "min": "300",
+          "max": "301",
+          "disponible": "2000.00"
+        },
+        {
+          "precio": 879.0,
+          "comerciante": "Tnestor1",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "0.66"
+        },
+        {
+          "precio": 877.0,
+          "comerciante": "jetaxcom1985",
+          "min": "500000",
+          "max": "3200000",
+          "disponible": "1861.88"
+        },
+        {
+          "precio": 876.5,
+          "comerciante": "CambiosTony94",
+          "min": "100000",
+          "max": "4000000",
+          "disponible": "4694.16"
+        },
+        {
+          "precio": 876.0,
+          "comerciante": "victorjwu",
+          "min": "1800000",
+          "max": "2014800",
+          "disponible": "2300.00"
+        }
+      ]
+    },
+    "compra": {
+      "promedio": 873.894,
+      "minimo": 869.98,
+      "maximo": 875.0,
+      "anuncios_usados": 5,
+      "anuncios": [
+        {
+          "precio": 869.98,
+          "comerciante": "Frank_Exchange ",
+          "min": "100000",
+          "max": "625750",
+          "disponible": "718.01"
+        },
+        {
+          "precio": 874.5,
+          "comerciante": "resu2k",
+          "min": "2700000",
+          "max": "5000000",
+          "disponible": "3395.38"
+        },
+        {
+          "precio": 874.99,
+          "comerciante": "JDTRADING",
+          "min": "2000000",
+          "max": "15000000",
+          "disponible": "8402.05"
+        },
+        {
+          "precio": 875.0,
+          "comerciante": "CriollosMONEY",
+          "min": "1000000",
+          "max": "36450000",
+          "disponible": "3657.34"
+        },
+        {
+          "precio": 875.0,
+          "comerciante": "TradewCrypto",
+          "min": "2000000",
+          "max": "10000000",
+          "disponible": "10254.80"
+        }
+      ]
+    }
+  },
+  "brecha_pct": 14.17
+}
