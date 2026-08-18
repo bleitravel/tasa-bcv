@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-08-17T22:53:21+00:00",
-  "actualizado_ve": "2026-08-17T18:53:21-04:00",
+  "actualizado_utc": "2026-08-18T22:55:01+00:00",
+  "actualizado_ve": "2026-08-18T18:55:01-04:00",
   "bcv": {
     "usd": 773.3125,
     "eur": 896.02946062,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 889.42,
+    "referencia": 911.5328,
     "venta": {
-      "promedio": 889.42,
-      "minimo": 888.2,
-      "maximo": 891.1,
+      "promedio": 911.5328,
+      "minimo": 911.012,
+      "maximo": 912.5,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 891.1,
-          "comerciante": "EllaTradea",
-          "min": "300",
-          "max": "400",
-          "disponible": "98.80"
+          "precio": 912.5,
+          "comerciante": "GOMEZTUSOLUCION",
+          "min": "36450000",
+          "max": "1400000000",
+          "disponible": "200000.00"
         },
         {
-          "precio": 891.0,
-          "comerciante": "EstelarExchange",
-          "min": "300",
-          "max": "301",
-          "disponible": "2000.00"
-        },
-        {
-          "precio": 888.5,
-          "comerciante": "CRIPTO-2026",
-          "min": "10000000",
-          "max": "36450000",
-          "disponible": "80000.00"
-        },
-        {
-          "precio": 888.3,
-          "comerciante": "TEQUISUNSHINE",
-          "min": "5000000",
-          "max": "12000000",
-          "disponible": "10000.06"
-        },
-        {
-          "precio": 888.2,
-          "comerciante": "Cross-26",
+          "precio": 911.5,
+          "comerciante": "GAZA_CRIPTO",
           "min": "7000000",
+          "max": "36450000",
+          "disponible": "56000.00"
+        },
+        {
+          "precio": 911.45,
+          "comerciante": "HAVALLL",
+          "min": "5000000",
           "max": "36000000",
-          "disponible": "48338.06"
+          "disponible": "54514.24"
+        },
+        {
+          "precio": 911.202,
+          "comerciante": "HectorB",
+          "min": "2000000",
+          "max": "36000000",
+          "disponible": "16820.10"
+        },
+        {
+          "precio": 911.012,
+          "comerciante": "Avatar_Roku",
+          "min": "1500000",
+          "max": "36000000",
+          "disponible": "45439.74"
         }
       ]
     },
     "compra": {
-      "promedio": 885.6818,
-      "minimo": 879.9,
-      "maximo": 887.81,
+      "promedio": 911.418,
+      "minimo": 910.8,
+      "maximo": 911.9,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 879.9,
-          "comerciante": "CDanielgg TS ",
-          "min": "4000000",
-          "max": "14000000",
-          "disponible": "15259.03"
+          "precio": 910.8,
+          "comerciante": "Yesicara",
+          "min": "950000",
+          "max": "953000",
+          "disponible": "1046.78"
         },
         {
-          "precio": 886.0,
-          "comerciante": "LTD_Skairipa",
-          "min": "10000",
-          "max": "177000",
-          "disponible": "199.84"
+          "precio": 911.0,
+          "comerciante": "CriptoAleM",
+          "min": "550000",
+          "max": "600000",
+          "disponible": "737.90"
         },
         {
-          "precio": 886.9,
-          "comerciante": "Globalbusinessmxsss",
-          "min": "469999",
-          "max": "470000",
-          "disponible": "530.67"
+          "precio": 911.58,
+          "comerciante": "User-45c8f",
+          "min": "45775",
+          "max": "966852",
+          "disponible": "285.38"
         },
         {
-          "precio": 887.799,
-          "comerciante": "VelociCambiosMx",
-          "min": "207000",
-          "max": "207001",
-          "disponible": "256.27"
-        },
-        {
-          "precio": 887.81,
+          "precio": 911.81,
           "comerciante": "adrubita",
-          "min": "1062000",
+          "min": "1153000",
           "max": "10000000",
-          "disponible": "1324.15"
+          "disponible": "1268.92"
+        },
+        {
+          "precio": 911.9,
+          "comerciante": "MoneyBoss2",
+          "min": "700000",
+          "max": "14000000",
+          "disponible": "1682.80"
         }
       ]
     }
   },
-  "brecha_pct": 15.01
+  "brecha_pct": 17.87
 }
