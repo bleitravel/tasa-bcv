@@ -1,102 +1,102 @@
 {
-  "actualizado_utc": "2026-08-19T22:54:28+00:00",
-  "actualizado_ve": "2026-08-19T18:54:28-04:00",
+  "actualizado_utc": "2026-08-20T23:00:01+00:00",
+  "actualizado_ve": "2026-08-20T19:00:01-04:00",
   "bcv": {
-    "usd": 777.4161,
-    "eur": 906.83255816,
-    "fecha_valor": "2026-08-20T00:00:00-04:00"
+    "usd": 779.9522,
+    "eur": 911.21815526,
+    "fecha_valor": "2026-08-21T00:00:00-04:00"
   },
   "binance_p2p": {
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 917.7224,
+    "referencia": 917.29,
     "venta": {
-      "promedio": 917.7224,
-      "minimo": 917.31,
-      "maximo": 918.1,
+      "promedio": 917.29,
+      "minimo": 916.8,
+      "maximo": 918.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 918.1,
-          "comerciante": "pingpong baq",
-          "min": "500000",
-          "max": "995000",
-          "disponible": "1864.77"
-        },
-        {
           "precio": 918.0,
-          "comerciante": "LantzAvance",
-          "min": "400000",
-          "max": "4000000",
-          "disponible": "9107.28"
+          "comerciante": "User-6193a",
+          "min": "4277",
+          "max": "4278",
+          "disponible": "100.00"
         },
         {
-          "precio": 917.602,
-          "comerciante": "yucatrader",
-          "min": "2000000",
-          "max": "35000000",
-          "disponible": "12000.00"
-        },
-        {
-          "precio": 917.6,
-          "comerciante": "CROMOSOMA-21",
-          "min": "2000000",
+          "precio": 917.3,
+          "comerciante": "CRIPTO-2026",
+          "min": "10000000",
           "max": "36450000",
-          "disponible": "3643.72"
+          "disponible": "80000.00"
         },
         {
-          "precio": 917.31,
-          "comerciante": "JB-INVESTMENTS",
-          "min": "300000",
-          "max": "1500000",
-          "disponible": "19478.30"
+          "precio": 917.2,
+          "comerciante": "IsaBTC-",
+          "min": "7000000",
+          "max": "36450000",
+          "disponible": "44267.87"
+        },
+        {
+          "precio": 917.15,
+          "comerciante": "MICHELITA_",
+          "min": "5000000",
+          "max": "36000000",
+          "disponible": "48127.46"
+        },
+        {
+          "precio": 916.8,
+          "comerciante": "Capitalisca",
+          "min": "3000000",
+          "max": "4000000",
+          "disponible": "20000.00"
         }
       ]
     },
     "compra": {
-      "promedio": 917.318,
-      "minimo": 917.0,
-      "maximo": 917.5,
+      "promedio": 916.982,
+      "minimo": 915.21,
+      "maximo": 917.8,
       "anuncios_usados": 5,
       "anuncios": [
         {
+          "precio": 915.21,
+          "comerciante": "EL_MARA_CAMBIOS",
+          "min": "300000",
+          "max": "2000000",
+          "disponible": "420.67"
+        },
+        {
           "precio": 917.0,
-          "comerciante": "GabyGaby12",
-          "min": "3000000",
-          "max": "3128000",
-          "disponible": "3394.06"
+          "comerciante": "Jhair lopez",
+          "min": "3000",
+          "max": "70000",
+          "disponible": "416.14"
         },
         {
-          "precio": 917.2,
-          "comerciante": "EL-PODER-ES-DE-DIOS",
-          "min": "800000",
-          "max": "2800000",
-          "disponible": "4908.26"
-        },
-        {
-          "precio": 917.44,
-          "comerciante": "ROME_BUSINESS",
-          "min": "4000002",
-          "max": "6000000",
-          "disponible": "6005.01"
-        },
-        {
-          "precio": 917.45,
-          "comerciante": "Bull_Rrun_Trading",
-          "min": "1000000",
-          "max": "36000000",
-          "disponible": "4993.75"
+          "precio": 917.4,
+          "comerciante": "REMESAS_DGNJ",
+          "min": "5000",
+          "max": "20000",
+          "disponible": "92.67"
         },
         {
           "precio": 917.5,
-          "comerciante": "Lucky--Luciano",
-          "min": "4000000",
-          "max": "13000000",
-          "disponible": "6095.36"
+          "comerciante": "JesusBrazon27",
+          "min": "278500",
+          "max": "2298000",
+          "disponible": "303.80"
+        },
+        {
+          "precio": 917.8,
+          "comerciante": "KingFA",
+          "min": "300",
+          "max": "900000",
+          "disponible": "36.90"
         }
       ]
     }
   },
-  "brecha_pct": 18.05
+  "brecha_pct": 17.61
 }
