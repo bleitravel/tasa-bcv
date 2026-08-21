@@ -1,102 +1,102 @@
 {
-  "actualizado_utc": "2026-08-20T23:00:01+00:00",
-  "actualizado_ve": "2026-08-20T19:00:01-04:00",
+  "actualizado_utc": "2026-08-21T22:54:18+00:00",
+  "actualizado_ve": "2026-08-21T18:54:18-04:00",
   "bcv": {
-    "usd": 779.9522,
-    "eur": 911.21815526,
-    "fecha_valor": "2026-08-21T00:00:00-04:00"
+    "usd": 784.6633,
+    "eur": 916.00808978,
+    "fecha_valor": "2026-08-24T00:00:00-04:00"
   },
   "binance_p2p": {
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 917.29,
+    "referencia": 922.45,
     "venta": {
-      "promedio": 917.29,
-      "minimo": 916.8,
-      "maximo": 918.0,
+      "promedio": 922.45,
+      "minimo": 920.0,
+      "maximo": 930.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 918.0,
-          "comerciante": "User-6193a",
-          "min": "4277",
-          "max": "4278",
-          "disponible": "100.00"
+          "precio": 930.0,
+          "comerciante": "Blackwold666",
+          "min": "22400",
+          "max": "22500",
+          "disponible": "75.92"
         },
         {
-          "precio": 917.3,
-          "comerciante": "CRIPTO-2026",
+          "precio": 922.0,
+          "comerciante": "GOMEZTUSOLUCION",
+          "min": "36450000",
+          "max": "1400000000",
+          "disponible": "150000.00"
+        },
+        {
+          "precio": 920.15,
+          "comerciante": "不知道你",
           "min": "10000000",
           "max": "36450000",
+          "disponible": "66632.62"
+        },
+        {
+          "precio": 920.1,
+          "comerciante": "Cross-26",
+          "min": "7000000",
+          "max": "36000000",
           "disponible": "80000.00"
         },
         {
-          "precio": 917.2,
-          "comerciante": "IsaBTC-",
-          "min": "7000000",
+          "precio": 920.0,
+          "comerciante": "TheOchoa",
+          "min": "1000000",
           "max": "36450000",
-          "disponible": "44267.87"
-        },
-        {
-          "precio": 917.15,
-          "comerciante": "MICHELITA_",
-          "min": "5000000",
-          "max": "36000000",
-          "disponible": "48127.46"
-        },
-        {
-          "precio": 916.8,
-          "comerciante": "Capitalisca",
-          "min": "3000000",
-          "max": "4000000",
-          "disponible": "20000.00"
+          "disponible": "60207.31"
         }
       ]
     },
     "compra": {
-      "promedio": 916.982,
-      "minimo": 915.21,
-      "maximo": 917.8,
+      "promedio": 919.58,
+      "minimo": 919.4,
+      "maximo": 919.75,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 915.21,
-          "comerciante": "EL_MARA_CAMBIOS",
-          "min": "300000",
-          "max": "2000000",
-          "disponible": "420.67"
+          "precio": 919.4,
+          "comerciante": "MACHUuuuu",
+          "min": "74000",
+          "max": "75000",
+          "disponible": "99.75"
         },
         {
-          "precio": 917.0,
-          "comerciante": "Jhair lopez",
-          "min": "3000",
-          "max": "70000",
-          "disponible": "416.14"
-        },
-        {
-          "precio": 917.4,
-          "comerciante": "REMESAS_DGNJ",
+          "precio": 919.5,
+          "comerciante": "cambios_rapidos100",
           "min": "5000",
-          "max": "20000",
-          "disponible": "92.67"
+          "max": "400000",
+          "disponible": "24.79"
         },
         {
-          "precio": 917.5,
-          "comerciante": "JesusBrazon27",
-          "min": "278500",
-          "max": "2298000",
-          "disponible": "303.80"
+          "precio": 919.5,
+          "comerciante": "CHARLES VIP",
+          "min": "15999",
+          "max": "16000",
+          "disponible": "82.35"
         },
         {
-          "precio": 917.8,
-          "comerciante": "KingFA",
+          "precio": 919.75,
+          "comerciante": "Zuly1760",
           "min": "300",
-          "max": "900000",
-          "disponible": "36.90"
+          "max": "4000",
+          "disponible": "24.76"
+        },
+        {
+          "precio": 919.75,
+          "comerciante": "CambiosDiFortunato",
+          "min": "500",
+          "max": "150000",
+          "disponible": "0.89"
         }
       ]
     }
   },
-  "brecha_pct": 17.61
+  "brecha_pct": 17.56
 }
