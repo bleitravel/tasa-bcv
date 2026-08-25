@@ -1,102 +1,102 @@
 {
-  "actualizado_utc": "2026-08-24T22:56:54+00:00",
-  "actualizado_ve": "2026-08-24T18:56:54-04:00",
+  "actualizado_utc": "2026-08-25T22:59:32+00:00",
+  "actualizado_ve": "2026-08-25T18:59:32-04:00",
   "bcv": {
-    "usd": 785.0693,
-    "eur": 916.02670993,
-    "fecha_valor": "2026-08-25T00:00:00-04:00"
+    "usd": 787.5196,
+    "eur": 919.15350114,
+    "fecha_valor": "2026-08-26T00:00:00-04:00"
   },
   "binance_p2p": {
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 933.2,
+    "referencia": 937.35,
     "venta": {
-      "promedio": 933.2,
-      "minimo": 927.0,
-      "maximo": 941.0,
+      "promedio": 937.35,
+      "minimo": 936.15,
+      "maximo": 940.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 941.0,
+          "precio": 940.0,
           "comerciante": "Ghostdddd",
           "min": "300",
           "max": "91000",
-          "disponible": "305.38"
+          "disponible": "216.84"
         },
         {
-          "precio": 935.0,
+          "precio": 937.1,
           "comerciante": "themagnate10",
           "min": "300",
-          "max": "500000",
-          "disponible": "100.06"
+          "max": "400000",
+          "disponible": "120.00"
         },
         {
-          "precio": 935.0,
-          "comerciante": "Blackwold666",
-          "min": "500000",
-          "max": "690000",
-          "disponible": "780.00"
+          "precio": 937.0,
+          "comerciante": "User-6193a",
+          "min": "9054",
+          "max": "9055",
+          "disponible": "100.00"
         },
         {
-          "precio": 928.0,
-          "comerciante": "LantzAvance",
-          "min": "800000",
-          "max": "4000000",
-          "disponible": "21186.99"
-        },
-        {
-          "precio": 927.0,
-          "comerciante": "Zelda_34",
-          "min": "2000000",
+          "precio": 936.5,
+          "comerciante": "Gustavo129",
+          "min": "7000000",
           "max": "36450000",
-          "disponible": "2500.00"
+          "disponible": "38921.51"
+        },
+        {
+          "precio": 936.15,
+          "comerciante": "LordCambios",
+          "min": "4000000",
+          "max": "28500000",
+          "disponible": "30443.00"
         }
       ]
     },
     "compra": {
-      "promedio": 928.118,
-      "minimo": 927.9,
-      "maximo": 928.69,
+      "promedio": 935.3998,
+      "minimo": 935.0,
+      "maximo": 936.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 927.9,
-          "comerciante": "RicoMcPato_3minutos",
-          "min": "5000000",
-          "max": "36450000",
-          "disponible": "17979.01"
+          "precio": 935.0,
+          "comerciante": "gochocambiokey",
+          "min": "12570",
+          "max": "12580",
+          "disponible": "169.70"
         },
         {
-          "precio": 928.0,
-          "comerciante": "Jhair lopez",
-          "min": "3000",
-          "max": "70000",
-          "disponible": "33.42"
+          "precio": 935.0,
+          "comerciante": "Cristal",
+          "min": "185000",
+          "max": "4000000",
+          "disponible": "199.50"
         },
         {
-          "precio": 928.0,
-          "comerciante": "WorldTradeinCripto",
-          "min": "3000000",
-          "max": "36450000",
-          "disponible": "20999.94"
+          "precio": 935.499,
+          "comerciante": "LeonCrypto611",
+          "min": "50000",
+          "max": "92000",
+          "disponible": "99.75"
         },
         {
-          "precio": 928.0,
-          "comerciante": "hernandez2525",
-          "min": "90000",
-          "max": "128780",
-          "disponible": "136.65"
+          "precio": 935.5,
+          "comerciante": "Angele Fricano IXeW",
+          "min": "5000",
+          "max": "93500",
+          "disponible": "13.57"
         },
         {
-          "precio": 928.69,
-          "comerciante": "Gjsan",
-          "min": "3000000",
-          "max": "36450000",
-          "disponible": "14981.27"
+          "precio": 936.0,
+          "comerciante": "P2P-5d8aa0vm",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "0.67"
         }
       ]
     }
   },
-  "brecha_pct": 18.87
+  "brecha_pct": 19.03
 }
