@@ -1,102 +1,102 @@
 {
-  "actualizado_utc": "2026-08-28T04:31:50+00:00",
-  "actualizado_ve": "2026-08-28T00:31:50-04:00",
+  "actualizado_utc": "2026-08-28T22:01:08+00:00",
+  "actualizado_ve": "2026-08-28T18:01:08-04:00",
   "bcv": {
-    "usd": 791.6667,
-    "eur": 921.88003881,
-    "fecha_valor": "2026-08-28T00:00:00-04:00"
+    "usd": 794.9917,
+    "eur": 922.69121677,
+    "fecha_valor": "2026-08-31T00:00:00-04:00"
   },
   "binance_p2p": {
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 940.2382,
+    "referencia": 936.76,
     "venta": {
-      "promedio": 940.2382,
-      "minimo": 940.0,
-      "maximo": 941.001,
+      "promedio": 936.76,
+      "minimo": 936.4,
+      "maximo": 937.5,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 941.001,
-          "comerciante": "User-f1ddf",
-          "min": "441979",
-          "max": "441980",
-          "disponible": "470.00"
+          "precio": 937.5,
+          "comerciante": "TOPlevelS",
+          "min": "10000000",
+          "max": "36000000",
+          "disponible": "69333.34"
         },
         {
-          "precio": 940.19,
-          "comerciante": "DorBin",
-          "min": "367000",
+          "precio": 937.0,
+          "comerciante": "被放逐的狐狸",
+          "min": "1000000",
+          "max": "34000000",
+          "disponible": "19466.91"
+        },
+        {
+          "precio": 936.5,
+          "comerciante": "PEJAGOBLA",
+          "min": "7000000",
+          "max": "36450000",
+          "disponible": "18400.36"
+        },
+        {
+          "precio": 936.4,
+          "comerciante": "ArepaPower",
+          "min": "1500000",
           "max": "4000000",
-          "disponible": "390.52"
+          "disponible": "2290.06"
         },
         {
-          "precio": 940.0,
-          "comerciante": "Fanta",
-          "min": "987000",
-          "max": "999220",
-          "disponible": "1063.00"
-        },
-        {
-          "precio": 940.0,
-          "comerciante": "thebbest",
-          "min": "300",
-          "max": "188000",
-          "disponible": "0.35"
-        },
-        {
-          "precio": 940.0,
-          "comerciante": "User-6193a",
-          "min": "5749",
-          "max": "5750",
-          "disponible": "100.00"
+          "precio": 936.4,
+          "comerciante": "NewtScamander",
+          "min": "2000000",
+          "max": "36450000",
+          "disponible": "25757.77"
         }
       ]
     },
     "compra": {
-      "promedio": 939.7754,
-      "minimo": 939.0,
-      "maximo": 939.999,
+      "promedio": 934.776,
+      "minimo": 932.88,
+      "maximo": 935.6,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 939.0,
-          "comerciante": "EDGAR_ReMeSaS",
-          "min": "110000",
-          "max": "120000",
-          "disponible": "117.90"
+          "precio": 932.88,
+          "comerciante": "franleal2530",
+          "min": "5000",
+          "max": "5001",
+          "disponible": "109.15"
         },
         {
-          "precio": 939.899,
-          "comerciante": "AdrianTrader",
-          "min": "30000",
-          "max": "398000",
-          "disponible": "32.78"
+          "precio": 934.9,
+          "comerciante": "TCLkey",
+          "min": "575000",
+          "max": "4000000",
+          "disponible": "615.71"
         },
         {
-          "precio": 939.98,
-          "comerciante": "Vic_trade",
-          "min": "448000",
-          "max": "1755914",
-          "disponible": "479.35"
+          "precio": 935.2,
+          "comerciante": "Globalbusinessmxsss",
+          "min": "199999",
+          "max": "200000",
+          "disponible": "214.46"
         },
         {
-          "precio": 939.999,
-          "comerciante": "JohnLB",
-          "min": "300",
-          "max": "40000",
-          "disponible": "54.29"
+          "precio": 935.3,
+          "comerciante": "Nerio Gonzalez",
+          "min": "109000",
+          "max": "316144",
+          "disponible": "117.08"
         },
         {
-          "precio": 939.999,
-          "comerciante": "Mp2pM",
-          "min": "10000",
-          "max": "1000000",
-          "disponible": "32.83"
+          "precio": 935.6,
+          "comerciante": "诚信支付",
+          "min": "10100000",
+          "max": "34000000",
+          "disponible": "32276.07"
         }
       ]
     }
   },
-  "brecha_pct": 18.77
+  "brecha_pct": 17.83
 }
