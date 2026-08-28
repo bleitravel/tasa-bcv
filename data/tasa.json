@@ -1,102 +1,102 @@
 {
-  "actualizado_utc": "2026-08-25T22:59:32+00:00",
-  "actualizado_ve": "2026-08-25T18:59:32-04:00",
+  "actualizado_utc": "2026-08-28T04:31:50+00:00",
+  "actualizado_ve": "2026-08-28T00:31:50-04:00",
   "bcv": {
-    "usd": 787.5196,
-    "eur": 919.15350114,
-    "fecha_valor": "2026-08-26T00:00:00-04:00"
+    "usd": 791.6667,
+    "eur": 921.88003881,
+    "fecha_valor": "2026-08-28T00:00:00-04:00"
   },
   "binance_p2p": {
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 937.35,
+    "referencia": 940.2382,
     "venta": {
-      "promedio": 937.35,
-      "minimo": 936.15,
-      "maximo": 940.0,
+      "promedio": 940.2382,
+      "minimo": 940.0,
+      "maximo": 941.001,
       "anuncios_usados": 5,
       "anuncios": [
         {
+          "precio": 941.001,
+          "comerciante": "User-f1ddf",
+          "min": "441979",
+          "max": "441980",
+          "disponible": "470.00"
+        },
+        {
+          "precio": 940.19,
+          "comerciante": "DorBin",
+          "min": "367000",
+          "max": "4000000",
+          "disponible": "390.52"
+        },
+        {
           "precio": 940.0,
-          "comerciante": "Ghostdddd",
-          "min": "300",
-          "max": "91000",
-          "disponible": "216.84"
+          "comerciante": "Fanta",
+          "min": "987000",
+          "max": "999220",
+          "disponible": "1063.00"
         },
         {
-          "precio": 937.1,
-          "comerciante": "themagnate10",
+          "precio": 940.0,
+          "comerciante": "thebbest",
           "min": "300",
-          "max": "400000",
-          "disponible": "120.00"
+          "max": "188000",
+          "disponible": "0.35"
         },
         {
-          "precio": 937.0,
+          "precio": 940.0,
           "comerciante": "User-6193a",
-          "min": "9054",
-          "max": "9055",
+          "min": "5749",
+          "max": "5750",
           "disponible": "100.00"
-        },
-        {
-          "precio": 936.5,
-          "comerciante": "Gustavo129",
-          "min": "7000000",
-          "max": "36450000",
-          "disponible": "38921.51"
-        },
-        {
-          "precio": 936.15,
-          "comerciante": "LordCambios",
-          "min": "4000000",
-          "max": "28500000",
-          "disponible": "30443.00"
         }
       ]
     },
     "compra": {
-      "promedio": 935.3998,
-      "minimo": 935.0,
-      "maximo": 936.0,
+      "promedio": 939.7754,
+      "minimo": 939.0,
+      "maximo": 939.999,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 935.0,
-          "comerciante": "gochocambiokey",
-          "min": "12570",
-          "max": "12580",
-          "disponible": "169.70"
+          "precio": 939.0,
+          "comerciante": "EDGAR_ReMeSaS",
+          "min": "110000",
+          "max": "120000",
+          "disponible": "117.90"
         },
         {
-          "precio": 935.0,
-          "comerciante": "Cristal",
-          "min": "185000",
-          "max": "4000000",
-          "disponible": "199.50"
+          "precio": 939.899,
+          "comerciante": "AdrianTrader",
+          "min": "30000",
+          "max": "398000",
+          "disponible": "32.78"
         },
         {
-          "precio": 935.499,
-          "comerciante": "LeonCrypto611",
-          "min": "50000",
-          "max": "92000",
-          "disponible": "99.75"
+          "precio": 939.98,
+          "comerciante": "Vic_trade",
+          "min": "448000",
+          "max": "1755914",
+          "disponible": "479.35"
         },
         {
-          "precio": 935.5,
-          "comerciante": "Angele Fricano IXeW",
-          "min": "5000",
-          "max": "93500",
-          "disponible": "13.57"
-        },
-        {
-          "precio": 936.0,
-          "comerciante": "P2P-5d8aa0vm",
+          "precio": 939.999,
+          "comerciante": "JohnLB",
           "min": "300",
-          "max": "4000000",
-          "disponible": "0.67"
+          "max": "40000",
+          "disponible": "54.29"
+        },
+        {
+          "precio": 939.999,
+          "comerciante": "Mp2pM",
+          "min": "10000",
+          "max": "1000000",
+          "disponible": "32.83"
         }
       ]
     }
   },
-  "brecha_pct": 19.03
+  "brecha_pct": 18.77
 }
