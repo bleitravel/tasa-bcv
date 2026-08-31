@@ -1,102 +1,102 @@
 {
-  "actualizado_utc": "2026-08-28T22:01:08+00:00",
-  "actualizado_ve": "2026-08-28T18:01:08-04:00",
+  "actualizado_utc": "2026-08-31T22:01:02+00:00",
+  "actualizado_ve": "2026-08-31T18:01:02-04:00",
   "bcv": {
-    "usd": 794.9917,
-    "eur": 922.69121677,
-    "fecha_valor": "2026-08-31T00:00:00-04:00"
+    "usd": 798.326,
+    "eur": 926.55312212,
+    "fecha_valor": "2026-09-01T00:00:00-04:00"
   },
   "binance_p2p": {
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 936.76,
+    "referencia": 932.6392,
     "venta": {
-      "promedio": 936.76,
-      "minimo": 936.4,
-      "maximo": 937.5,
+      "promedio": 932.6392,
+      "minimo": 931.0,
+      "maximo": 938.591,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 937.5,
-          "comerciante": "TOPlevelS",
-          "min": "10000000",
-          "max": "36000000",
-          "disponible": "69333.34"
+          "precio": 938.591,
+          "comerciante": "TRADING-RIGHT-NOW",
+          "min": "70000",
+          "max": "130000",
+          "disponible": "125.00"
         },
         {
-          "precio": 937.0,
-          "comerciante": "被放逐的狐狸",
-          "min": "1000000",
-          "max": "34000000",
-          "disponible": "19466.91"
-        },
-        {
-          "precio": 936.5,
-          "comerciante": "PEJAGOBLA",
+          "precio": 931.5,
+          "comerciante": "USDTFASTTT",
           "min": "7000000",
           "max": "36450000",
-          "disponible": "18400.36"
+          "disponible": "37450.05"
         },
         {
-          "precio": 936.4,
-          "comerciante": "ArepaPower",
+          "precio": 931.1,
+          "comerciante": "SasukeTrader",
           "min": "1500000",
-          "max": "4000000",
-          "disponible": "2290.06"
+          "max": "36450000",
+          "disponible": "15750.70"
         },
         {
-          "precio": 936.4,
-          "comerciante": "NewtScamander",
-          "min": "2000000",
+          "precio": 931.005,
+          "comerciante": "活着的价值",
+          "min": "15000000",
           "max": "36450000",
-          "disponible": "25757.77"
+          "disponible": "80000.00"
+        },
+        {
+          "precio": 931.0,
+          "comerciante": "Blank_Mind",
+          "min": "1000000",
+          "max": "36450000",
+          "disponible": "25691.39"
         }
       ]
     },
     "compra": {
-      "promedio": 934.776,
-      "minimo": 932.88,
-      "maximo": 935.6,
+      "promedio": 931.0018,
+      "minimo": 930.0,
+      "maximo": 931.989,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 932.88,
-          "comerciante": "franleal2530",
+          "precio": 930.0,
+          "comerciante": "GeremiAlm_pago_3min",
           "min": "5000",
-          "max": "5001",
-          "disponible": "109.15"
+          "max": "559800",
+          "disponible": "598.50"
         },
         {
-          "precio": 934.9,
-          "comerciante": "TCLkey",
-          "min": "575000",
-          "max": "4000000",
-          "disponible": "615.71"
+          "precio": 930.42,
+          "comerciante": "Datobns",
+          "min": "1000000",
+          "max": "3350000",
+          "disponible": "3592.01"
         },
         {
-          "precio": 935.2,
-          "comerciante": "Globalbusinessmxsss",
-          "min": "199999",
+          "precio": 931.0,
+          "comerciante": "Jhair lopez",
+          "min": "3000",
           "max": "200000",
-          "disponible": "214.46"
+          "disponible": "79.87"
         },
         {
-          "precio": 935.3,
-          "comerciante": "Nerio Gonzalez",
-          "min": "109000",
-          "max": "316144",
-          "disponible": "117.08"
+          "precio": 931.6,
+          "comerciante": "tineoc0301",
+          "min": "10000",
+          "max": "200000",
+          "disponible": "83.19"
         },
         {
-          "precio": 935.6,
-          "comerciante": "诚信支付",
-          "min": "10100000",
-          "max": "34000000",
-          "disponible": "32276.07"
+          "precio": 931.989,
+          "comerciante": "SeñoritaMilix",
+          "min": "300",
+          "max": "30000",
+          "disponible": "99.75"
         }
       ]
     }
   },
-  "brecha_pct": 17.83
+  "brecha_pct": 16.82
 }
