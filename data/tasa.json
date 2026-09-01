@@ -1,102 +1,102 @@
 {
-  "actualizado_utc": "2026-08-31T22:01:02+00:00",
-  "actualizado_ve": "2026-08-31T18:01:02-04:00",
+  "actualizado_utc": "2026-09-01T22:01:12+00:00",
+  "actualizado_ve": "2026-09-01T18:01:12-04:00",
   "bcv": {
-    "usd": 798.326,
-    "eur": 926.55312212,
-    "fecha_valor": "2026-09-01T00:00:00-04:00"
+    "usd": 801.1752,
+    "eur": 929.09083243,
+    "fecha_valor": "2026-09-02T00:00:00-04:00"
   },
   "binance_p2p": {
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 932.6392,
+    "referencia": 958.4,
     "venta": {
-      "promedio": 932.6392,
-      "minimo": 931.0,
-      "maximo": 938.591,
+      "promedio": 958.4,
+      "minimo": 958.0,
+      "maximo": 959.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 938.591,
-          "comerciante": "TRADING-RIGHT-NOW",
-          "min": "70000",
-          "max": "130000",
-          "disponible": "125.00"
-        },
-        {
-          "precio": 931.5,
-          "comerciante": "USDTFASTTT",
-          "min": "7000000",
-          "max": "36450000",
-          "disponible": "37450.05"
-        },
-        {
-          "precio": 931.1,
-          "comerciante": "SasukeTrader",
-          "min": "1500000",
-          "max": "36450000",
-          "disponible": "15750.70"
-        },
-        {
-          "precio": 931.005,
-          "comerciante": "活着的价值",
-          "min": "15000000",
-          "max": "36450000",
-          "disponible": "80000.00"
-        },
-        {
-          "precio": 931.0,
+          "precio": 959.0,
           "comerciante": "Blank_Mind",
-          "min": "1000000",
+          "min": "5000000",
           "max": "36450000",
-          "disponible": "25691.39"
+          "disponible": "50000.00"
+        },
+        {
+          "precio": 959.0,
+          "comerciante": "HonorYNegocioP2P",
+          "min": "500000",
+          "max": "36000000",
+          "disponible": "22324.03"
+        },
+        {
+          "precio": 958.0,
+          "comerciante": "Gustavo129",
+          "min": "700000",
+          "max": "36450000",
+          "disponible": "15512.43"
+        },
+        {
+          "precio": 958.0,
+          "comerciante": "Trust-Broker",
+          "min": "1800000",
+          "max": "36450000",
+          "disponible": "39385.31"
+        },
+        {
+          "precio": 958.0,
+          "comerciante": "GOMEZTUSOLUCION",
+          "min": "37000000",
+          "max": "300000000",
+          "disponible": "156000.00"
         }
       ]
     },
     "compra": {
-      "promedio": 931.0018,
-      "minimo": 930.0,
-      "maximo": 931.989,
+      "promedio": 957.18,
+      "minimo": 956.9,
+      "maximo": 958.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 930.0,
-          "comerciante": "GeremiAlm_pago_3min",
-          "min": "5000",
-          "max": "559800",
-          "disponible": "598.50"
+          "precio": 956.9,
+          "comerciante": "Bry_CAMBIOSseguros",
+          "min": "300",
+          "max": "120569",
+          "disponible": "0.34"
         },
         {
-          "precio": 930.42,
-          "comerciante": "Datobns",
-          "min": "1000000",
-          "max": "3350000",
-          "disponible": "3592.01"
-        },
-        {
-          "precio": 931.0,
+          "precio": 957.0,
           "comerciante": "Jhair lopez",
           "min": "3000",
           "max": "200000",
-          "disponible": "79.87"
+          "disponible": "30.93"
         },
         {
-          "precio": 931.6,
-          "comerciante": "tineoc0301",
-          "min": "10000",
-          "max": "200000",
-          "disponible": "83.19"
-        },
-        {
-          "precio": 931.989,
-          "comerciante": "SeñoritaMilix",
-          "min": "300",
-          "max": "30000",
+          "precio": 957.0,
+          "comerciante": "Verano_p2P",
+          "min": "48500",
+          "max": "48501",
           "disponible": "99.75"
+        },
+        {
+          "precio": 957.0,
+          "comerciante": "_DemoCambios_",
+          "min": "648447",
+          "max": "648448",
+          "disponible": "798.00"
+        },
+        {
+          "precio": 958.0,
+          "comerciante": "User-0ge7e",
+          "min": "95560",
+          "max": "95561",
+          "disponible": "100.00"
         }
       ]
     }
   },
-  "brecha_pct": 16.82
+  "brecha_pct": 19.62
 }
