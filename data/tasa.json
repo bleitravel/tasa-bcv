@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-02T21:33:35+00:00",
-  "actualizado_ve": "2026-09-02T17:33:35-04:00",
+  "actualizado_utc": "2026-09-02T22:02:11+00:00",
+  "actualizado_ve": "2026-09-02T18:02:11-04:00",
   "bcv": {
     "usd": 804.8109,
     "eur": 932.80802553,
@@ -10,70 +10,56 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 973.7542,
+    "referencia": 975.4114,
     "venta": {
-      "promedio": 973.7542,
-      "minimo": 973.5,
-      "maximo": 974.001,
+      "promedio": 975.4114,
+      "minimo": 975.205,
+      "maximo": 976.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 974.001,
-          "comerciante": "DOCTOR_CAMBIO",
+          "precio": 976.0,
+          "comerciante": "你就变得更强",
+          "min": "878000",
+          "max": "878400",
+          "disponible": "1000.00"
+        },
+        {
+          "precio": 975.302,
+          "comerciante": "TOPlevelS",
           "min": "10000000",
+          "max": "36000000",
+          "disponible": "50000.00"
+        },
+        {
+          "precio": 975.3,
+          "comerciante": "-TSxRV-",
+          "min": "5000000",
           "max": "36450000",
-          "disponible": "60000.00"
+          "disponible": "58880.58"
         },
         {
-          "precio": 974.0,
-          "comerciante": "Cross-26",
-          "min": "10000000",
-          "max": "36000000",
-          "disponible": "60000.00"
+          "precio": 975.25,
+          "comerciante": "JM-Phantom",
+          "min": "4000000",
+          "max": "36450000",
+          "disponible": "43029.41"
         },
         {
-          "precio": 973.65,
-          "comerciante": "销CryptoAptus售",
-          "min": "800000",
-          "max": "9000000",
-          "disponible": "2226.79"
-        },
-        {
-          "precio": 973.62,
-          "comerciante": "ミReinaPepiadaCoinミ",
+          "precio": 975.205,
+          "comerciante": "CROMOSOMA-21",
           "min": "3000000",
-          "max": "36000000",
-          "disponible": "5280.99"
-        },
-        {
-          "precio": 973.5,
-          "comerciante": "CAMBIOS_RAPIDOS",
-          "min": "1000000",
-          "max": "19000000",
-          "disponible": "1762.12"
+          "max": "27000000",
+          "disponible": "23227.07"
         }
       ]
     },
     "compra": {
-      "promedio": 972.17,
-      "minimo": 970.35,
-      "maximo": 973.0,
+      "promedio": 973.92,
+      "minimo": 972.6,
+      "maximo": 975.0,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 970.35,
-          "comerciante": "JesCrypto-P2P",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "0.48"
-        },
-        {
-          "precio": 972.0,
-          "comerciante": "DIEGOMOTORCYCLE65",
-          "min": "50000",
-          "max": "55000",
-          "disponible": "99.75"
-        },
         {
           "precio": 972.6,
           "comerciante": "VISÓN CRIPTØ",
@@ -82,21 +68,35 @@
           "disponible": "149374.36"
         },
         {
-          "precio": 972.9,
-          "comerciante": "ChiflySeguro",
+          "precio": 974.0,
+          "comerciante": "Empanadasalajillo",
           "min": "300",
-          "max": "180000",
-          "disponible": "0.47"
+          "max": "4000000",
+          "disponible": "0.32"
         },
         {
-          "precio": 973.0,
-          "comerciante": "Elturconegro",
+          "precio": 974.0,
+          "comerciante": "Positivomasuno",
           "min": "300",
-          "max": "107800",
-          "disponible": "1.62"
+          "max": "4000000",
+          "disponible": "1.00"
+        },
+        {
+          "precio": 974.0,
+          "comerciante": "JPMorganchase",
+          "min": "165000",
+          "max": "4000000",
+          "disponible": "173.57"
+        },
+        {
+          "precio": 975.0,
+          "comerciante": "alexa1809",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "1.22"
         }
       ]
     }
   },
-  "brecha_pct": 20.99
+  "brecha_pct": 21.2
 }
