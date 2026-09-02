@@ -2,8 +2,8 @@ name: Actualizar tasa BCV
 
 on:
   schedule:
-    # 22:00 UTC = 18:00 hora de Venezuela (UTC-4), de lunes a viernes
-    - cron: '0 22 * * 1-5'
+    # cada 30 minutos, todos los días: el P2P cambia dentro del día
+    - cron: '*/30 * * * *'
   workflow_dispatch: {}
 
 permissions:
