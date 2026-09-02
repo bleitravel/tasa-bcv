@@ -1,63 +1,63 @@
 {
-  "actualizado_utc": "2026-09-02T21:02:04+00:00",
-  "actualizado_ve": "2026-09-02T17:02:04-04:00",
+  "actualizado_utc": "2026-09-02T21:33:35+00:00",
+  "actualizado_ve": "2026-09-02T17:33:35-04:00",
   "bcv": {
-    "usd": 801.1752,
-    "eur": 929.09083243,
-    "fecha_valor": "2026-09-02T00:00:00-04:00"
+    "usd": 804.8109,
+    "eur": 932.80802553,
+    "fecha_valor": "2026-09-03T00:00:00-04:00"
   },
   "binance_p2p": {
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 972.4612,
+    "referencia": 973.7542,
     "venta": {
-      "promedio": 972.4612,
-      "minimo": 972.26,
-      "maximo": 972.521,
+      "promedio": 973.7542,
+      "minimo": 973.5,
+      "maximo": 974.001,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 972.521,
-          "comerciante": "TOPlevelS",
+          "precio": 974.001,
+          "comerciante": "DOCTOR_CAMBIO",
+          "min": "10000000",
+          "max": "36450000",
+          "disponible": "60000.00"
+        },
+        {
+          "precio": 974.0,
+          "comerciante": "Cross-26",
           "min": "10000000",
           "max": "36000000",
-          "disponible": "65810.08"
+          "disponible": "60000.00"
         },
         {
-          "precio": 972.515,
-          "comerciante": "PEJAGOBLA",
-          "min": "5000000",
-          "max": "36400000",
-          "disponible": "48358.70"
+          "precio": 973.65,
+          "comerciante": "销CryptoAptus售",
+          "min": "800000",
+          "max": "9000000",
+          "disponible": "2226.79"
         },
         {
-          "precio": 972.51,
-          "comerciante": "Kw2",
+          "precio": 973.62,
+          "comerciante": "ミReinaPepiadaCoinミ",
           "min": "3000000",
-          "max": "14000000",
-          "disponible": "14961.50"
+          "max": "36000000",
+          "disponible": "5280.99"
         },
         {
-          "precio": 972.5,
-          "comerciante": "TPhillips",
-          "min": "10000000",
-          "max": "36450000",
-          "disponible": "80000.00"
-        },
-        {
-          "precio": 972.26,
-          "comerciante": "ReadyToTrade_",
-          "min": "2000000",
-          "max": "36450000",
-          "disponible": "35581.50"
+          "precio": 973.5,
+          "comerciante": "CAMBIOS_RAPIDOS",
+          "min": "1000000",
+          "max": "19000000",
+          "disponible": "1762.12"
         }
       ]
     },
     "compra": {
-      "promedio": 971.02,
+      "promedio": 972.17,
       "minimo": 970.35,
-      "maximo": 971.3,
+      "maximo": 973.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "0.48"
         },
         {
-          "precio": 971.1,
-          "comerciante": "IngeP2P",
+          "precio": 972.0,
+          "comerciante": "DIEGOMOTORCYCLE65",
+          "min": "50000",
+          "max": "55000",
+          "disponible": "99.75"
+        },
+        {
+          "precio": 972.6,
+          "comerciante": "VISÓN CRIPTØ",
+          "min": "36450000",
+          "max": "500000000",
+          "disponible": "149374.36"
+        },
+        {
+          "precio": 972.9,
+          "comerciante": "ChiflySeguro",
           "min": "300",
-          "max": "122572",
-          "disponible": "0.32"
+          "max": "180000",
+          "disponible": "0.47"
         },
         {
-          "precio": 971.1,
-          "comerciante": "CASABR",
-          "min": "20000",
-          "max": "4000000",
-          "disponible": "26.09"
-        },
-        {
-          "precio": 971.25,
-          "comerciante": "P2P-7a16d8xr",
-          "min": "2000",
-          "max": "400000",
-          "disponible": "3.01"
-        },
-        {
-          "precio": 971.3,
-          "comerciante": "Carlos E Guillén P",
+          "precio": 973.0,
+          "comerciante": "Elturconegro",
           "min": "300",
-          "max": "600000",
-          "disponible": "89.55"
+          "max": "107800",
+          "disponible": "1.62"
         }
       ]
     }
   },
-  "brecha_pct": 21.38
+  "brecha_pct": 20.99
 }
