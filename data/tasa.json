@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-01T22:01:12+00:00",
-  "actualizado_ve": "2026-09-01T18:01:12-04:00",
+  "actualizado_utc": "2026-09-02T20:23:47+00:00",
+  "actualizado_ve": "2026-09-02T16:23:47-04:00",
   "bcv": {
     "usd": 801.1752,
     "eur": 929.09083243,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 958.4,
+    "referencia": 971.1904,
     "venta": {
-      "promedio": 958.4,
-      "minimo": 958.0,
-      "maximo": 959.0,
+      "promedio": 971.1904,
+      "minimo": 971.1,
+      "maximo": 971.25,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 959.0,
-          "comerciante": "Blank_Mind",
-          "min": "5000000",
-          "max": "36450000",
-          "disponible": "50000.00"
+          "precio": 971.25,
+          "comerciante": "Kw2",
+          "min": "3000000",
+          "max": "14000000",
+          "disponible": "8800.06"
         },
         {
-          "precio": 959.0,
-          "comerciante": "HonorYNegocioP2P",
-          "min": "500000",
+          "precio": 971.202,
+          "comerciante": "TOPlevelS",
+          "min": "10000000",
           "max": "36000000",
-          "disponible": "22324.03"
+          "disponible": "45000.06"
         },
         {
-          "precio": 958.0,
-          "comerciante": "Gustavo129",
-          "min": "700000",
+          "precio": 971.2,
+          "comerciante": "Money77ves",
+          "min": "15000000",
           "max": "36450000",
-          "disponible": "15512.43"
+          "disponible": "18770.27"
         },
         {
-          "precio": 958.0,
-          "comerciante": "Trust-Broker",
-          "min": "1800000",
+          "precio": 971.2,
+          "comerciante": "YGinversiones",
+          "min": "2000000",
           "max": "36450000",
-          "disponible": "39385.31"
+          "disponible": "77500.06"
         },
         {
-          "precio": 958.0,
-          "comerciante": "GOMEZTUSOLUCION",
-          "min": "37000000",
-          "max": "300000000",
-          "disponible": "156000.00"
+          "precio": 971.1,
+          "comerciante": "2020EXCHANGEVIP",
+          "min": "2000000",
+          "max": "36450000",
+          "disponible": "3612.83"
         }
       ]
     },
     "compra": {
-      "promedio": 957.18,
-      "minimo": 956.9,
-      "maximo": 958.0,
+      "promedio": 969.598,
+      "minimo": 969.0,
+      "maximo": 970.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 956.9,
-          "comerciante": "Bry_CAMBIOSseguros",
+          "precio": 969.0,
+          "comerciante": "Haroldalmeida21",
+          "min": "969",
+          "max": "4000000",
+          "disponible": "2.52"
+        },
+        {
+          "precio": 969.0,
+          "comerciante": "Cece777",
+          "min": "10000",
+          "max": "4000000",
+          "disponible": "17.90"
+        },
+        {
+          "precio": 969.99,
+          "comerciante": "Nerio Gonzalez",
+          "min": "120000",
+          "max": "316144",
+          "disponible": "200.50"
+        },
+        {
+          "precio": 970.0,
+          "comerciante": "CambiosCES",
           "min": "300",
-          "max": "120569",
-          "disponible": "0.34"
+          "max": "4000000",
+          "disponible": "0.32"
         },
         {
-          "precio": 957.0,
-          "comerciante": "Jhair lopez",
-          "min": "3000",
-          "max": "200000",
-          "disponible": "30.93"
-        },
-        {
-          "precio": 957.0,
-          "comerciante": "Verano_p2P",
-          "min": "48500",
-          "max": "48501",
-          "disponible": "99.75"
-        },
-        {
-          "precio": 957.0,
-          "comerciante": "_DemoCambios_",
-          "min": "648447",
-          "max": "648448",
-          "disponible": "798.00"
-        },
-        {
-          "precio": 958.0,
-          "comerciante": "User-0ge7e",
-          "min": "95560",
-          "max": "95561",
-          "disponible": "100.00"
+          "precio": 970.0,
+          "comerciante": "JairGOVA佳尔",
+          "min": "35000",
+          "max": "860000",
+          "disponible": "399.65"
         }
       ]
     }
   },
-  "brecha_pct": 19.62
+  "brecha_pct": 21.22
 }
