@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-02T22:35:12+00:00",
-  "actualizado_ve": "2026-09-02T18:35:12-04:00",
+  "actualizado_utc": "2026-09-02T23:01:41+00:00",
+  "actualizado_ve": "2026-09-02T19:01:41-04:00",
   "bcv": {
     "usd": 804.8109,
     "eur": 932.80802553,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 976.2402,
+    "referencia": 977.7,
     "venta": {
-      "promedio": 976.2402,
-      "minimo": 975.701,
-      "maximo": 977.0,
+      "promedio": 977.7,
+      "minimo": 977.0,
+      "maximo": 979.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 977.0,
+          "precio": 979.0,
+          "comerciante": "LordCambios",
+          "min": "1000000",
+          "max": "27744000",
+          "disponible": "25246.29"
+        },
+        {
+          "precio": 978.0,
+          "comerciante": "Money77ves",
+          "min": "500000",
+          "max": "36450000",
+          "disponible": "17284.30"
+        },
+        {
+          "precio": 977.5,
           "comerciante": "GOMEZTUSOLUCION",
           "min": "37000000",
           "max": "300000000",
-          "disponible": "153000.00"
+          "disponible": "80000.00"
         },
         {
-          "precio": 976.5,
-          "comerciante": "Yahweh__7",
-          "min": "4000000",
-          "max": "36000000",
-          "disponible": "66526.90"
+          "precio": 977.0,
+          "comerciante": "安全与信任",
+          "min": "37000000",
+          "max": "500000000",
+          "disponible": "81800.00"
         },
         {
-          "precio": 976.0,
-          "comerciante": "Smolder-",
-          "min": "10000000",
-          "max": "36450000",
-          "disponible": "56315.00"
-        },
-        {
-          "precio": 976.0,
-          "comerciante": "Nacariiiiit",
-          "min": "12000",
-          "max": "18800",
-          "disponible": "53.19"
-        },
-        {
-          "precio": 975.701,
-          "comerciante": "TOPlevelS",
-          "min": "5000000",
-          "max": "36000000",
-          "disponible": "72797.53"
+          "precio": 977.0,
+          "comerciante": "Cambio1829",
+          "min": "2000000",
+          "max": "4000000",
+          "disponible": "10235.00"
         }
       ]
     },
     "compra": {
-      "promedio": 974.8,
-      "minimo": 974.0,
-      "maximo": 976.0,
+      "promedio": 977.2,
+      "minimo": 977.0,
+      "maximo": 977.5,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 974.0,
-          "comerciante": "Empanadasalajillo",
-          "min": "300",
+          "precio": 977.0,
+          "comerciante": "JairGOVA佳尔",
+          "min": "35000",
+          "max": "860000",
+          "disponible": "404.19"
+        },
+        {
+          "precio": 977.0,
+          "comerciante": "GAPRA",
+          "min": "55000",
+          "max": "56000",
+          "disponible": "165.30"
+        },
+        {
+          "precio": 977.0,
+          "comerciante": "ChandeNQ",
+          "min": "300000",
           "max": "4000000",
-          "disponible": "0.32"
+          "disponible": "1086.81"
         },
         {
-          "precio": 974.0,
-          "comerciante": "tucambioseguro",
-          "min": "100000",
-          "max": "4000000",
-          "disponible": "299.25"
+          "precio": 977.5,
+          "comerciante": "HermesPay",
+          "min": "20000",
+          "max": "144464",
+          "disponible": "46.15"
         },
         {
-          "precio": 975.0,
-          "comerciante": "sergiocruz-94",
-          "min": "100000",
-          "max": "4000000",
-          "disponible": "136.45"
-        },
-        {
-          "precio": 975.0,
-          "comerciante": "cambiosjuancho",
-          "min": "285000",
-          "max": "292500",
-          "disponible": "299.25"
-        },
-        {
-          "precio": 976.0,
-          "comerciante": "FranKing06",
-          "min": "30000",
-          "max": "97000",
-          "disponible": "388.29"
+          "precio": 977.5,
+          "comerciante": "PAGAMOSRAPIDOS",
+          "min": "242400",
+          "max": "242420",
+          "disponible": "248.17"
         }
       ]
     }
   },
-  "brecha_pct": 21.3
+  "brecha_pct": 21.48
 }
