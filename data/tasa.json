@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-02T20:23:47+00:00",
-  "actualizado_ve": "2026-09-02T16:23:47-04:00",
+  "actualizado_utc": "2026-09-02T20:34:47+00:00",
+  "actualizado_ve": "2026-09-02T16:34:47-04:00",
   "bcv": {
     "usd": 801.1752,
     "eur": 929.09083243,
@@ -10,63 +10,56 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 971.1904,
+    "referencia": 970.02,
     "venta": {
-      "promedio": 971.1904,
-      "minimo": 971.1,
-      "maximo": 971.25,
+      "promedio": 970.02,
+      "minimo": 969.5,
+      "maximo": 970.6,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 971.25,
-          "comerciante": "Kw2",
-          "min": "3000000",
-          "max": "14000000",
-          "disponible": "8800.06"
-        },
-        {
-          "precio": 971.202,
-          "comerciante": "TOPlevelS",
-          "min": "10000000",
-          "max": "36000000",
-          "disponible": "45000.06"
-        },
-        {
-          "precio": 971.2,
-          "comerciante": "Money77ves",
-          "min": "15000000",
-          "max": "36450000",
-          "disponible": "18770.27"
-        },
-        {
-          "precio": 971.2,
+          "precio": 970.6,
           "comerciante": "YGinversiones",
           "min": "2000000",
           "max": "36450000",
-          "disponible": "77500.06"
+          "disponible": "46252.21"
         },
         {
-          "precio": 971.1,
-          "comerciante": "2020EXCHANGEVIP",
-          "min": "2000000",
+          "precio": 970.0,
+          "comerciante": "Ateneaaa",
+          "min": "36450000",
+          "max": "100000000",
+          "disponible": "100000.00"
+        },
+        {
+          "precio": 970.0,
+          "comerciante": "Julian",
+          "min": "500000",
+          "max": "4000000",
+          "disponible": "1500.00"
+        },
+        {
+          "precio": 970.0,
+          "comerciante": "CRIPTO-2026",
+          "min": "5000000",
           "max": "36450000",
-          "disponible": "3612.83"
+          "disponible": "6288.66"
+        },
+        {
+          "precio": 969.5,
+          "comerciante": "TPhillips",
+          "min": "36450000",
+          "max": "96760000",
+          "disponible": "100000.00"
         }
       ]
     },
     "compra": {
-      "promedio": 969.598,
+      "promedio": 969.6,
       "minimo": 969.0,
       "maximo": 970.0,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 969.0,
-          "comerciante": "Haroldalmeida21",
-          "min": "969",
-          "max": "4000000",
-          "disponible": "2.52"
-        },
         {
           "precio": 969.0,
           "comerciante": "Cece777",
@@ -75,11 +68,11 @@
           "disponible": "17.90"
         },
         {
-          "precio": 969.99,
-          "comerciante": "Nerio Gonzalez",
-          "min": "120000",
-          "max": "316144",
-          "disponible": "200.50"
+          "precio": 969.0,
+          "comerciante": "kalamardo",
+          "min": "80000",
+          "max": "36450000",
+          "disponible": "496.99"
         },
         {
           "precio": 970.0,
@@ -90,13 +83,20 @@
         },
         {
           "precio": 970.0,
-          "comerciante": "JairGOVA佳尔",
-          "min": "35000",
-          "max": "860000",
-          "disponible": "399.65"
+          "comerciante": "_--Cambios-Shaggy--_",
+          "min": "5000",
+          "max": "181457",
+          "disponible": "7.72"
+        },
+        {
+          "precio": 970.0,
+          "comerciante": "KRYSM10",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "10.44"
         }
       ]
     }
   },
-  "brecha_pct": 21.22
+  "brecha_pct": 21.07
 }
