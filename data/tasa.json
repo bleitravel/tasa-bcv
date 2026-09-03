@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-03T16:35:24+00:00",
-  "actualizado_ve": "2026-09-03T12:35:24-04:00",
+  "actualizado_utc": "2026-09-03T17:01:51+00:00",
+  "actualizado_ve": "2026-09-03T13:01:51-04:00",
   "bcv": {
     "usd": 804.8109,
     "eur": 932.80802553,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 983.3304,
+    "referencia": 982.9012,
     "venta": {
-      "promedio": 983.3304,
-      "minimo": 983.0,
-      "maximo": 984.0,
+      "promedio": 982.9012,
+      "minimo": 982.5,
+      "maximo": 983.5,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 984.0,
-          "comerciante": "Mafer1003",
-          "min": "100000",
-          "max": "4000000",
-          "disponible": "4400.18"
-        },
-        {
-          "precio": 983.501,
-          "comerciante": "Blank_Mind",
-          "min": "1000000",
-          "max": "36450000",
-          "disponible": "3866.90"
-        },
-        {
-          "precio": 983.15,
-          "comerciante": "Trust-Broker",
+          "precio": 983.5,
+          "comerciante": "KaioSama16",
           "min": "3000000",
           "max": "36450000",
-          "disponible": "35000.12"
+          "disponible": "80000.00"
         },
         {
           "precio": 983.001,
-          "comerciante": "HenryCryptob",
-          "min": "208000",
-          "max": "208001",
-          "disponible": "2311.56"
+          "comerciante": "Blank_Mind",
+          "min": "1000000",
+          "max": "36450000",
+          "disponible": "5872.25"
         },
         {
           "precio": 983.0,
-          "comerciante": "LAZER1406",
-          "min": "800000",
+          "comerciante": "-Akopan-",
+          "min": "3000000",
+          "max": "36450000",
+          "disponible": "32691.23"
+        },
+        {
+          "precio": 982.505,
+          "comerciante": "Trust-Broker",
+          "min": "3000000",
+          "max": "36450000",
+          "disponible": "40061.12"
+        },
+        {
+          "precio": 982.5,
+          "comerciante": "上天保佑",
+          "min": "300000",
           "max": "4000000",
-          "disponible": "5365.98"
+          "disponible": "556.83"
         }
       ]
     },
     "compra": {
-      "promedio": 984.296,
-      "minimo": 984.0,
-      "maximo": 984.5,
+      "promedio": 982.3998,
+      "minimo": 982.0,
+      "maximo": 982.5,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 984.0,
-          "comerciante": "kalamardo",
-          "min": "80000",
-          "max": "36450000",
-          "disponible": "798.94"
+          "precio": 982.0,
+          "comerciante": "Cambios_EyD",
+          "min": "3000",
+          "max": "147000",
+          "disponible": "11.19"
         },
         {
-          "precio": 984.2,
-          "comerciante": "CriptoJAS2",
-          "min": "50000",
-          "max": "250000",
-          "disponible": "249.37"
+          "precio": 982.499,
+          "comerciante": "VelociCambiosMx",
+          "min": "60030",
+          "max": "60031",
+          "disponible": "101.99"
         },
         {
-          "precio": 984.3,
-          "comerciante": "Cheryimport",
-          "min": "379000",
+          "precio": 982.5,
+          "comerciante": "_DemoCambios_",
+          "min": "300000",
+          "max": "3000000",
+          "disponible": "498.75"
+        },
+        {
+          "precio": 982.5,
+          "comerciante": "JUNIOR-MONTERO",
+          "min": "5000",
           "max": "4000000",
-          "disponible": "387.54"
+          "disponible": "28.80"
         },
         {
-          "precio": 984.48,
-          "comerciante": "multiserviciosyenval",
-          "min": "35000",
-          "max": "4000000",
-          "disponible": "48.27"
-        },
-        {
-          "precio": 984.5,
-          "comerciante": "yaracripto",
-          "min": "57000",
-          "max": "57001",
-          "disponible": "99.75"
+          "precio": 982.5,
+          "comerciante": "CambiosRocaFuerte",
+          "min": "190000",
+          "max": "195500",
+          "disponible": "199.50"
         }
       ]
     }
   },
-  "brecha_pct": 22.18
+  "brecha_pct": 22.13
 }
