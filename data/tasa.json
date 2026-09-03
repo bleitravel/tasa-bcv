@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-03T07:35:00+00:00",
-  "actualizado_ve": "2026-09-03T03:35:00-04:00",
+  "actualizado_utc": "2026-09-03T08:02:09+00:00",
+  "actualizado_ve": "2026-09-03T04:02:09-04:00",
   "bcv": {
     "usd": 804.8109,
     "eur": 932.80802553,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 974.3304,
+    "referencia": 974.2102,
     "venta": {
-      "promedio": 974.3304,
-      "minimo": 973.501,
+      "promedio": 974.2102,
+      "minimo": 973.5,
       "maximo": 976.05,
       "anuncios_usados": 5,
       "anuncios": [
@@ -23,13 +23,6 @@
           "min": "3000",
           "max": "5000",
           "disponible": "95.91"
-        },
-        {
-          "precio": 974.101,
-          "comerciante": "HenryCryptob",
-          "min": "300",
-          "max": "2621",
-          "disponible": "2512.72"
         },
         {
           "precio": 974.0,
@@ -51,13 +44,20 @@
           "min": "1000",
           "max": "336070",
           "disponible": "1.34"
+        },
+        {
+          "precio": 973.5,
+          "comerciante": "zama2004",
+          "min": "800000",
+          "max": "36450000",
+          "disponible": "18230.34"
         }
       ]
     },
     "compra": {
-      "promedio": 977.5,
+      "promedio": 977.6,
       "minimo": 977.0,
-      "maximo": 978.0,
+      "maximo": 978.5,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -89,14 +89,14 @@
           "disponible": "2654.35"
         },
         {
-          "precio": 978.0,
+          "precio": 978.5,
           "comerciante": "MMEDRANO",
-          "min": "300",
-          "max": "481180",
-          "disponible": "369.08"
+          "min": "340000",
+          "max": "342303",
+          "disponible": "349.24"
         }
       ]
     }
   },
-  "brecha_pct": 21.06
+  "brecha_pct": 21.05
 }
