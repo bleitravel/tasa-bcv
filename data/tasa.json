@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-03T05:15:31+00:00",
-  "actualizado_ve": "2026-09-03T01:15:31-04:00",
+  "actualizado_utc": "2026-09-03T05:50:39+00:00",
+  "actualizado_ve": "2026-09-03T01:50:39-04:00",
   "bcv": {
     "usd": 804.8109,
     "eur": 932.80802553,
@@ -10,33 +10,19 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 974.2602,
+    "referencia": 973.8404,
     "venta": {
-      "promedio": 974.2602,
-      "minimo": 974.0,
-      "maximo": 975.0,
+      "promedio": 973.8404,
+      "minimo": 973.501,
+      "maximo": 974.101,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 975.0,
-          "comerciante": "BERMAN11",
-          "min": "40000",
-          "max": "41000",
-          "disponible": "100.00"
-        },
-        {
-          "precio": 974.2,
-          "comerciante": "FAMZ5",
-          "min": "1000000",
-          "max": "4000000",
-          "disponible": "16300.00"
-        },
         {
           "precio": 974.101,
           "comerciante": "HenryCryptob",
           "min": "300",
-          "max": "664",
-          "disponible": "2566.10"
+          "max": "3884",
+          "disponible": "2550.95"
         },
         {
           "precio": 974.0,
@@ -51,13 +37,27 @@
           "min": "250000",
           "max": "4000000",
           "disponible": "382.72"
+        },
+        {
+          "precio": 973.6,
+          "comerciante": "BalduinoIV",
+          "min": "2000000",
+          "max": "36450000",
+          "disponible": "41447.66"
+        },
+        {
+          "precio": 973.501,
+          "comerciante": "eldoctormata",
+          "min": "1000",
+          "max": "336070",
+          "disponible": "1.34"
         }
       ]
     },
     "compra": {
-      "promedio": 977.38,
+      "promedio": 977.2598,
       "minimo": 977.0,
-      "maximo": 978.0,
+      "maximo": 977.5,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -75,11 +75,18 @@
           "disponible": "1995.01"
         },
         {
+          "precio": 977.399,
+          "comerciante": "TuCambioYa_",
+          "min": "1000000",
+          "max": "36000000",
+          "disponible": "21102.34"
+        },
+        {
           "precio": 977.4,
           "comerciante": "RoronoaZoro3",
           "min": "1000000",
           "max": "3000000",
-          "disponible": "1913.86"
+          "disponible": "2017.44"
         },
         {
           "precio": 977.5,
@@ -87,16 +94,9 @@
           "min": "900000",
           "max": "8000000",
           "disponible": "3859.12"
-        },
-        {
-          "precio": 978.0,
-          "comerciante": "CarlosBelloNexoCapit",
-          "min": "1000001",
-          "max": "14000000",
-          "disponible": "2654.35"
         }
       ]
     }
   },
-  "brecha_pct": 21.05
+  "brecha_pct": 21.0
 }
