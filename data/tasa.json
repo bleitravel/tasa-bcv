@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-03T06:04:56+00:00",
-  "actualizado_ve": "2026-09-03T02:04:56-04:00",
+  "actualizado_utc": "2026-09-03T06:38:51+00:00",
+  "actualizado_ve": "2026-09-03T02:38:51-04:00",
   "bcv": {
     "usd": 804.8109,
     "eur": 932.80802553,
@@ -10,19 +10,26 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 973.8802,
+    "referencia": 974.3502,
     "venta": {
-      "promedio": 973.8802,
+      "promedio": 974.3502,
       "minimo": 973.6,
-      "maximo": 974.101,
+      "maximo": 976.05,
       "anuncios_usados": 5,
       "anuncios": [
+        {
+          "precio": 976.05,
+          "comerciante": "RapidSC",
+          "min": "3000",
+          "max": "5000",
+          "disponible": "100.00"
+        },
         {
           "precio": 974.101,
           "comerciante": "HenryCryptob",
           "min": "300",
-          "max": "32459",
-          "disponible": "2533.08"
+          "max": "2621",
+          "disponible": "2512.72"
         },
         {
           "precio": 974.0,
@@ -39,27 +46,27 @@
           "disponible": "382.72"
         },
         {
-          "precio": 973.7,
-          "comerciante": "-TSxRV-",
-          "min": "5000000",
-          "max": "36450000",
-          "disponible": "49397.30"
-        },
-        {
           "precio": 973.6,
-          "comerciante": "BalduinoIV",
+          "comerciante": "-TSxRV-",
           "min": "2000000",
           "max": "36450000",
-          "disponible": "41447.66"
+          "disponible": "49397.30"
         }
       ]
     },
     "compra": {
-      "promedio": 977.4598,
+      "promedio": 977.2598,
       "minimo": 977.0,
-      "maximo": 978.0,
+      "maximo": 977.5,
       "anuncios_usados": 5,
       "anuncios": [
+        {
+          "precio": 977.0,
+          "comerciante": "ArepaConCafe",
+          "min": "36450000",
+          "max": "200000000",
+          "disponible": "111893.94"
+        },
         {
           "precio": 977.0,
           "comerciante": "Ronaldelectro",
@@ -79,7 +86,7 @@
           "comerciante": "RoronoaZoro3",
           "min": "1000000",
           "max": "3000000",
-          "disponible": "2017.44"
+          "disponible": "2533.23"
         },
         {
           "precio": 977.5,
@@ -87,16 +94,9 @@
           "min": "900000",
           "max": "8000000",
           "disponible": "3859.12"
-        },
-        {
-          "precio": 978.0,
-          "comerciante": "CarlosBelloNexoCapit",
-          "min": "1000001",
-          "max": "14000000",
-          "disponible": "2654.35"
         }
       ]
     }
   },
-  "brecha_pct": 21.01
+  "brecha_pct": 21.07
 }
