@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-03T20:34:35+00:00",
-  "actualizado_ve": "2026-09-03T16:34:35-04:00",
+  "actualizado_utc": "2026-09-03T21:02:12+00:00",
+  "actualizado_ve": "2026-09-03T17:02:12-04:00",
   "bcv": {
     "usd": 804.8109,
     "eur": 932.80802553,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 976.73,
+    "referencia": 977.173,
     "venta": {
-      "promedio": 976.73,
-      "minimo": 976.0,
+      "promedio": 977.173,
+      "minimo": 976.715,
       "maximo": 978.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -25,78 +25,78 @@
           "disponible": "30000.00"
         },
         {
-          "precio": 977.1,
-          "comerciante": "RendirseJamas",
-          "min": "300",
-          "max": "2480",
-          "disponible": "100.00"
+          "precio": 977.15,
+          "comerciante": "KaioSama16",
+          "min": "2500000",
+          "max": "36450000",
+          "disponible": "77400.06"
         },
         {
-          "precio": 976.5,
-          "comerciante": "inversiones Jd16",
-          "min": "9000",
-          "max": "19000",
-          "disponible": "281.49"
+          "precio": 977.0,
+          "comerciante": "PEJAGOBLA",
+          "min": "10000000",
+          "max": "36400000",
+          "disponible": "32488.67"
         },
         {
-          "precio": 976.05,
-          "comerciante": "José Moisés tavera",
-          "min": "300",
-          "max": "135495",
-          "disponible": "0.55"
+          "precio": 977.0,
+          "comerciante": "SojiroX",
+          "min": "1000000",
+          "max": "20000000",
+          "disponible": "12360.12"
         },
         {
-          "precio": 976.0,
-          "comerciante": "alexa1809",
-          "min": "1000",
-          "max": "4000000",
-          "disponible": "1.07"
+          "precio": 976.715,
+          "comerciante": "walner17",
+          "min": "900000",
+          "max": "36000000",
+          "disponible": "6518.30"
         }
       ]
     },
     "compra": {
-      "promedio": 973.828,
-      "minimo": 973.0,
-      "maximo": 974.55,
+      "promedio": 977.4798,
+      "minimo": 977.0,
+      "maximo": 977.9,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 973.0,
-          "comerciante": "BlhoVdelValle",
-          "min": "97000",
-          "max": "100000",
-          "disponible": "536.57"
+          "precio": 977.0,
+          "comerciante": "Yousberth2907",
+          "min": "19500",
+          "max": "19600",
+          "disponible": "79.69"
         },
         {
-          "precio": 973.5,
-          "comerciante": "resu2k",
-          "min": "3000000",
-          "max": "5000000",
-          "disponible": "3119.10"
+          "precio": 977.1,
+          "comerciante": "Joseph-Blessed",
+          "min": "59870",
+          "max": "59871",
+          "disponible": "99.75"
         },
         {
-          "precio": 973.9,
-          "comerciante": "-HashiramaSenju",
-          "min": "1000000",
-          "max": "20000000",
-          "disponible": "7657.25"
+          "precio": 977.6,
+          "comerciante": "CAMBIOS-JV",
+          "min": "100000",
+          "max": "14000000",
+          "disponible": "122.00"
         },
         {
-          "precio": 974.19,
-          "comerciante": "Sg-Cambioseguro",
-          "min": "3000000",
-          "max": "9000000",
-          "disponible": "4991.26"
+          "precio": 977.799,
+          "comerciante": "Adrian2802",
+          "min": "8799",
+          "max": "44000",
+          "disponible": "159.99"
         },
         {
-          "precio": 974.55,
-          "comerciante": "moip2p",
-          "min": "1200000",
-          "max": "36450000",
-          "disponible": "2037.53"
+          "precio": 977.9,
+          "comerciante": "Dani_cryptofin",
+          "min": "1000",
+          "max": "20000",
+          "disponible": "99.75"
         }
       ]
     }
   },
-  "brecha_pct": 21.36
+  "brecha_pct": 21.42
 }
