@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-03T14:35:32+00:00",
-  "actualizado_ve": "2026-09-03T10:35:32-04:00",
+  "actualizado_utc": "2026-09-03T15:01:52+00:00",
+  "actualizado_ve": "2026-09-03T11:01:52-04:00",
   "bcv": {
     "usd": 804.8109,
     "eur": 932.80802553,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 981.141,
+    "referencia": 984.801,
     "venta": {
-      "promedio": 981.141,
-      "minimo": 980.3,
-      "maximo": 982.0,
+      "promedio": 984.801,
+      "minimo": 984.0,
+      "maximo": 986.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 982.0,
-          "comerciante": "Blank_Mind",
-          "min": "2000000",
+          "precio": 986.0,
+          "comerciante": "GAMBINO-",
+          "min": "3000000",
           "max": "36450000",
-          "disponible": "69817.58"
+          "disponible": "46750.06"
         },
         {
-          "precio": 981.7,
+          "precio": 985.0,
+          "comerciante": "GOMEZTUSOLUCION",
+          "min": "37000000",
+          "max": "300000000",
+          "disponible": "153000.00"
+        },
+        {
+          "precio": 985.0,
           "comerciante": "我米德克",
           "min": "5000000",
           "max": "36450000",
-          "disponible": "73882.15"
+          "disponible": "74000.06"
         },
         {
-          "precio": 981.005,
-          "comerciante": "Trust-Broker",
-          "min": "900000",
+          "precio": 984.005,
+          "comerciante": "-Tyrion-Lannister-",
+          "min": "7000000",
           "max": "36450000",
-          "disponible": "4222.63"
+          "disponible": "60000.00"
         },
         {
-          "precio": 980.7,
-          "comerciante": "P2P-56c1f574",
-          "min": "3000000",
-          "max": "4000000",
-          "disponible": "6381.94"
-        },
-        {
-          "precio": 980.3,
-          "comerciante": "EPONTA",
-          "min": "400000",
-          "max": "24000000",
-          "disponible": "7248.01"
+          "precio": 984.0,
+          "comerciante": "-Isalam-",
+          "min": "1000000",
+          "max": "36450000",
+          "disponible": "18957.84"
         }
       ]
     },
     "compra": {
-      "promedio": 980.42,
-      "minimo": 980.0,
-      "maximo": 981.0,
+      "promedio": 981.6992,
+      "minimo": 981.0,
+      "maximo": 982.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 980.0,
-          "comerciante": "ivanaquino",
-          "min": "101500",
-          "max": "4000000",
-          "disponible": "103.74"
-        },
-        {
-          "precio": 980.0,
-          "comerciante": "Jorco020",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "1.45"
-        },
-        {
-          "precio": 980.5,
-          "comerciante": "ReyDavid_",
-          "min": "300",
-          "max": "25000",
-          "disponible": "78.06"
-        },
-        {
-          "precio": 980.6,
-          "comerciante": "juandavid17venezuela",
-          "min": "20000",
-          "max": "400000",
-          "disponible": "448.87"
-        },
-        {
           "precio": 981.0,
-          "comerciante": "Luis David cardozo ",
+          "comerciante": "ComercianteP2P_BR",
+          "min": "500",
+          "max": "4000000",
+          "disponible": "1.06"
+        },
+        {
+          "precio": 981.5,
+          "comerciante": "GABITOP2P",
+          "min": "300",
+          "max": "999999",
+          "disponible": "4.03"
+        },
+        {
+          "precio": 981.996,
+          "comerciante": "elshadday392",
+          "min": "5000",
+          "max": "5500",
+          "disponible": "79.35"
+        },
+        {
+          "precio": 982.0,
+          "comerciante": "anelisp2p",
+          "min": "300",
+          "max": "133552",
+          "disponible": "0.36"
+        },
+        {
+          "precio": 982.0,
+          "comerciante": "Dieiviaidi",
           "min": "300",
           "max": "4000000",
-          "disponible": "0.52"
+          "disponible": "0.44"
         }
       ]
     }
   },
-  "brecha_pct": 21.91
+  "brecha_pct": 22.36
 }
