@@ -1,19 +1,19 @@
 {
-  "actualizado_utc": "2026-09-03T22:01:51+00:00",
-  "actualizado_ve": "2026-09-03T18:01:51-04:00",
+  "actualizado_utc": "2026-09-03T22:32:18+00:00",
+  "actualizado_ve": "2026-09-03T18:32:18-04:00",
   "bcv": {
-    "usd": 804.8109,
-    "eur": 932.80802553,
-    "fecha_valor": "2026-09-03T00:00:00-04:00"
+    "usd": 807.3862,
+    "eur": 938.44920184,
+    "fecha_valor": "2026-09-04T00:00:00-04:00"
   },
   "binance_p2p": {
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 975.72,
+    "referencia": 974.74,
     "venta": {
-      "promedio": 975.72,
-      "minimo": 974.6,
+      "promedio": 974.74,
+      "minimo": 973.0,
       "maximo": 979.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -25,78 +25,78 @@
           "disponible": "1022.00"
         },
         {
-          "precio": 975.0,
-          "comerciante": "P2P-cf0637fu",
-          "min": "300000",
-          "max": "780000",
-          "disponible": "518.99"
+          "precio": 974.5,
+          "comerciante": "Trader_Quin",
+          "min": "50000",
+          "max": "3000000",
+          "disponible": "415.00"
         },
         {
-          "precio": 975.0,
-          "comerciante": "R del valle ",
-          "min": "400000",
-          "max": "4000000",
-          "disponible": "418.90"
-        },
-        {
-          "precio": 975.0,
+          "precio": 974.0,
           "comerciante": "CrxptoFast",
           "min": "2000000",
           "max": "4000000",
-          "disponible": "21824.24"
+          "disponible": "30000.00"
         },
         {
-          "precio": 974.6,
-          "comerciante": "Maximo1720",
-          "min": "30000",
-          "max": "916000",
-          "disponible": "31.47"
+          "precio": 973.2,
+          "comerciante": "KaioSama16",
+          "min": "2500000",
+          "max": "36450000",
+          "disponible": "80000.00"
+        },
+        {
+          "precio": 973.0,
+          "comerciante": "被放逐的狐狸",
+          "min": "1000000",
+          "max": "34000000",
+          "disponible": "74995.89"
         }
       ]
     },
     "compra": {
-      "promedio": 970.698,
-      "minimo": 970.0,
-      "maximo": 971.0,
+      "promedio": 972.02,
+      "minimo": 972.0,
+      "maximo": 972.1,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 970.0,
-          "comerciante": "Holy_Spirit_",
-          "min": "2000000",
-          "max": "36450000",
-          "disponible": "28825.52"
+          "precio": 972.0,
+          "comerciante": "Dekar13",
+          "min": "130000",
+          "max": "132000",
+          "disponible": "136.65"
         },
         {
-          "precio": 970.5,
-          "comerciante": "CANAIMA21",
-          "min": "5000000",
-          "max": "36450000",
-          "disponible": "7600.77"
-        },
-        {
-          "precio": 970.99,
-          "comerciante": "TradingCambios",
-          "min": "5000000",
-          "max": "36450000",
-          "disponible": "33442.52"
-        },
-        {
-          "precio": 971.0,
-          "comerciante": "CAMBIORAPID0S",
-          "min": "5000000",
+          "precio": 972.0,
+          "comerciante": "Axcapital1",
+          "min": "1000000",
           "max": "36000000",
-          "disponible": "44922.86"
+          "disponible": "1571.39"
         },
         {
-          "precio": 971.0,
-          "comerciante": "TradewCrypto",
-          "min": "2000000",
-          "max": "10000000",
-          "disponible": "2489.39"
+          "precio": 972.0,
+          "comerciante": "Leaisx",
+          "min": "20000",
+          "max": "4000000",
+          "disponible": "56.85"
+        },
+        {
+          "precio": 972.0,
+          "comerciante": "CryptoVelozz",
+          "min": "400000",
+          "max": "530000",
+          "disponible": "548.39"
+        },
+        {
+          "precio": 972.1,
+          "comerciante": "tupanal",
+          "min": "20000",
+          "max": "100000",
+          "disponible": "299.25"
         }
       ]
     }
   },
-  "brecha_pct": 21.24
+  "brecha_pct": 20.73
 }
