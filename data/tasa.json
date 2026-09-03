@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-03T17:01:51+00:00",
-  "actualizado_ve": "2026-09-03T13:01:51-04:00",
+  "actualizado_utc": "2026-09-03T17:34:39+00:00",
+  "actualizado_ve": "2026-09-03T13:34:39-04:00",
   "bcv": {
     "usd": 804.8109,
     "eur": 932.80802553,
@@ -10,90 +10,90 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 982.9012,
+    "referencia": 982.88,
     "venta": {
-      "promedio": 982.9012,
+      "promedio": 982.88,
       "minimo": 982.5,
-      "maximo": 983.5,
+      "maximo": 983.2,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 983.5,
+          "precio": 983.2,
+          "comerciante": "CrxptoFast",
+          "min": "2500000",
+          "max": "4000000",
+          "disponible": "27457.29"
+        },
+        {
+          "precio": 983.1,
           "comerciante": "KaioSama16",
           "min": "3000000",
           "max": "36450000",
           "disponible": "80000.00"
         },
         {
-          "precio": 983.001,
-          "comerciante": "Blank_Mind",
-          "min": "1000000",
-          "max": "36450000",
-          "disponible": "5872.25"
-        },
-        {
           "precio": 983.0,
-          "comerciante": "-Akopan-",
+          "comerciante": "doctor_zoidberg",
           "min": "3000000",
-          "max": "36450000",
-          "disponible": "32691.23"
+          "max": "34790000",
+          "disponible": "23390.41"
         },
         {
-          "precio": 982.505,
-          "comerciante": "Trust-Broker",
-          "min": "3000000",
+          "precio": 982.6,
+          "comerciante": "Cachy13Usdt",
+          "min": "5000000",
           "max": "36450000",
-          "disponible": "40061.12"
+          "disponible": "40000.00"
         },
         {
           "precio": 982.5,
-          "comerciante": "上天保佑",
-          "min": "300000",
-          "max": "4000000",
-          "disponible": "556.83"
+          "comerciante": "Trust-Broker",
+          "min": "3000000",
+          "max": "36450000",
+          "disponible": "30000.06"
         }
       ]
     },
     "compra": {
-      "promedio": 982.3998,
+      "promedio": 982.4792,
       "minimo": 982.0,
-      "maximo": 982.5,
+      "maximo": 982.797,
       "anuncios_usados": 5,
       "anuncios": [
         {
           "precio": 982.0,
-          "comerciante": "Cambios_EyD",
+          "comerciante": "Jhair lopez",
           "min": "3000",
-          "max": "147000",
-          "disponible": "11.19"
+          "max": "200000",
+          "disponible": "275.28"
         },
         {
-          "precio": 982.499,
-          "comerciante": "VelociCambiosMx",
-          "min": "60030",
-          "max": "60031",
-          "disponible": "101.99"
+          "precio": 982.4,
+          "comerciante": "alexveliz2001",
+          "min": "500",
+          "max": "9850",
+          "disponible": "78.35"
         },
         {
-          "precio": 982.5,
-          "comerciante": "_DemoCambios_",
-          "min": "300000",
-          "max": "3000000",
-          "disponible": "498.75"
+          "precio": 982.599,
+          "comerciante": "Fabvsm",
+          "min": "27850",
+          "max": "27900",
+          "disponible": "99.75"
         },
         {
-          "precio": 982.5,
-          "comerciante": "JUNIOR-MONTERO",
-          "min": "5000",
-          "max": "4000000",
-          "disponible": "28.80"
+          "precio": 982.6,
+          "comerciante": "JER2811",
+          "min": "500",
+          "max": "97000",
+          "disponible": "5.78"
         },
         {
-          "precio": 982.5,
-          "comerciante": "CambiosRocaFuerte",
-          "min": "190000",
-          "max": "195500",
-          "disponible": "199.50"
+          "precio": 982.797,
+          "comerciante": "Aladdin25",
+          "min": "75000",
+          "max": "94000",
+          "disponible": "99.75"
         }
       ]
     }
