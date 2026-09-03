@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-03T10:35:01+00:00",
-  "actualizado_ve": "2026-09-03T06:35:01-04:00",
+  "actualizado_utc": "2026-09-03T11:01:43+00:00",
+  "actualizado_ve": "2026-09-03T07:01:43-04:00",
   "bcv": {
     "usd": 804.8109,
     "eur": 932.80802553,
@@ -10,56 +10,63 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 973.2402,
+    "referencia": 973.7536,
     "venta": {
-      "promedio": 973.2402,
-      "minimo": 972.5,
-      "maximo": 974.0,
+      "promedio": 973.7536,
+      "minimo": 973.168,
+      "maximo": 975.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 974.0,
-          "comerciante": "BTC57",
+          "precio": 975.0,
+          "comerciante": "AutosAlpha",
+          "min": "200000",
+          "max": "4000000",
+          "disponible": "910.65"
+        },
+        {
+          "precio": 973.6,
+          "comerciante": "AM_BovedaActiva",
+          "min": "500000",
+          "max": "7031059",
+          "disponible": "6641.55"
+        },
+        {
+          "precio": 973.5,
+          "comerciante": "Pagorapidoventr",
+          "min": "300000",
+          "max": "4000000",
+          "disponible": "2501.98"
+        },
+        {
+          "precio": 973.5,
+          "comerciante": "Milicia01",
           "min": "250000",
-          "max": "4000000",
-          "disponible": "382.72"
+          "max": "10000000",
+          "disponible": "1402.95"
         },
         {
-          "precio": 973.501,
-          "comerciante": "eldoctormata",
-          "min": "1000",
-          "max": "336070",
-          "disponible": "1.34"
-        },
-        {
-          "precio": 973.2,
-          "comerciante": "zoecambios_21",
-          "min": "1000000",
-          "max": "35000000",
-          "disponible": "2700.06"
-        },
-        {
-          "precio": 973.0,
-          "comerciante": "zama2004",
-          "min": "800000",
-          "max": "36450000",
-          "disponible": "9431.39"
-        },
-        {
-          "precio": 972.5,
-          "comerciante": "Alexander canelon",
-          "min": "20000",
-          "max": "4000000",
-          "disponible": "80.39"
+          "precio": 973.168,
+          "comerciante": "Trabso",
+          "min": "50000",
+          "max": "898035",
+          "disponible": "193.42"
         }
       ]
     },
     "compra": {
-      "promedio": 977.3,
-      "minimo": 977.0,
-      "maximo": 978.0,
+      "promedio": 976.998,
+      "minimo": 976.99,
+      "maximo": 977.0,
       "anuncios_usados": 5,
       "anuncios": [
+        {
+          "precio": 976.99,
+          "comerciante": "CH-Intercambios",
+          "min": "400000",
+          "max": "950000",
+          "disponible": "1916.64"
+        },
         {
           "precio": 977.0,
           "comerciante": "ArepaConCafe",
@@ -76,27 +83,20 @@
         },
         {
           "precio": 977.0,
-          "comerciante": "PadronEsteves",
-          "min": "172000",
-          "max": "172500",
-          "disponible": "176.14"
+          "comerciante": "DiosesbuenoDiosteama",
+          "min": "300000",
+          "max": "10000000",
+          "disponible": "500.00"
         },
         {
-          "precio": 977.5,
-          "comerciante": "圎Sushi",
-          "min": "900000",
-          "max": "8000000",
-          "disponible": "3859.12"
-        },
-        {
-          "precio": 978.0,
-          "comerciante": "CarlosBelloNexoCapit",
-          "min": "1000001",
-          "max": "14000000",
-          "disponible": "2654.35"
+          "precio": 977.0,
+          "comerciante": "Azir-p2p",
+          "min": "2000000",
+          "max": "15000000",
+          "disponible": "5080.47"
         }
       ]
     }
   },
-  "brecha_pct": 20.93
+  "brecha_pct": 20.99
 }
