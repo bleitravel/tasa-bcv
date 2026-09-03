@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-03T13:35:02+00:00",
-  "actualizado_ve": "2026-09-03T09:35:02-04:00",
+  "actualizado_utc": "2026-09-03T14:02:24+00:00",
+  "actualizado_ve": "2026-09-03T10:02:24-04:00",
   "bcv": {
     "usd": 804.8109,
     "eur": 932.80802553,
@@ -10,63 +10,56 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 979.9008,
+    "referencia": 979.84,
     "venta": {
-      "promedio": 979.9008,
-      "minimo": 979.5,
-      "maximo": 981.0,
+      "promedio": 979.84,
+      "minimo": 978.5,
+      "maximo": 980.7,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 981.0,
-          "comerciante": "Blank_Mind",
-          "min": "2000000",
-          "max": "36450000",
-          "disponible": "61361.37"
+          "precio": 980.7,
+          "comerciante": "P2P-56c1f574",
+          "min": "3000000",
+          "max": "4000000",
+          "disponible": "8482.94"
         },
         {
           "precio": 980.0,
-          "comerciante": "memo",
-          "min": "1479700",
-          "max": "1479800",
-          "disponible": "1510.00"
+          "comerciante": "Nkbusiness ",
+          "min": "500000",
+          "max": "4000000",
+          "disponible": "7481.95"
         },
         {
-          "precio": 979.504,
-          "comerciante": "DOCTOR_CAMBIO",
-          "min": "5000000",
+          "precio": 980.0,
+          "comerciante": "Blank_Mind",
+          "min": "2000000",
           "max": "36450000",
-          "disponible": "37963.80"
+          "disponible": "84128.44"
         },
         {
-          "precio": 979.5,
+          "precio": 980.0,
+          "comerciante": "ZEUS-TRAIDING",
+          "min": "1000000",
+          "max": "4000000",
+          "disponible": "24000.00"
+        },
+        {
+          "precio": 978.5,
           "comerciante": "Trust-Broker",
           "min": "900000",
           "max": "36450000",
-          "disponible": "18039.82"
-        },
-        {
-          "precio": 979.5,
-          "comerciante": "-TSxRV-",
-          "min": "5000000",
-          "max": "36450000",
-          "disponible": "56350.06"
+          "disponible": "5751.67"
         }
       ]
     },
     "compra": {
-      "promedio": 978.579,
-      "minimo": 977.996,
-      "maximo": 979.0,
+      "promedio": 978.57,
+      "minimo": 978.0,
+      "maximo": 979.1,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 977.996,
-          "comerciante": "elshadday392",
-          "min": "5000",
-          "max": "5500",
-          "disponible": "75.02"
-        },
         {
           "precio": 978.0,
           "comerciante": "ComercianteP2P_BR",
@@ -75,28 +68,35 @@
           "disponible": "2.05"
         },
         {
-          "precio": 978.9,
-          "comerciante": "PAGOYLIBERORAPIDOOOO",
-          "min": "70000",
-          "max": "4000000",
-          "disponible": "73.81"
+          "precio": 978.0,
+          "comerciante": "Cripto-Tunnig",
+          "min": "489000",
+          "max": "978000",
+          "disponible": "917.70"
         },
         {
-          "precio": 978.999,
-          "comerciante": "ElBossP2P",
-          "min": "300",
-          "max": "10000",
-          "disponible": "179.07"
+          "precio": 978.75,
+          "comerciante": "Godspeed_Crypto",
+          "min": "2000000",
+          "max": "36450000",
+          "disponible": "6055.46"
         },
         {
           "precio": 979.0,
-          "comerciante": "user RV",
-          "min": "121800",
-          "max": "122375",
-          "disponible": "124.68"
+          "comerciante": "User-b1d31",
+          "min": "420000",
+          "max": "4000000",
+          "disponible": "498.75"
+        },
+        {
+          "precio": 979.1,
+          "comerciante": "tineoc0301",
+          "min": "10000",
+          "max": "200000",
+          "disponible": "15.96"
         }
       ]
     }
   },
-  "brecha_pct": 21.76
+  "brecha_pct": 21.75
 }
