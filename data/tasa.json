@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-03T14:02:24+00:00",
-  "actualizado_ve": "2026-09-03T10:02:24-04:00",
+  "actualizado_utc": "2026-09-03T14:35:32+00:00",
+  "actualizado_ve": "2026-09-03T10:35:32-04:00",
   "bcv": {
     "usd": 804.8109,
     "eur": 932.80802553,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 979.84,
+    "referencia": 981.141,
     "venta": {
-      "promedio": 979.84,
-      "minimo": 978.5,
-      "maximo": 980.7,
+      "promedio": 981.141,
+      "minimo": 980.3,
+      "maximo": 982.0,
       "anuncios_usados": 5,
       "anuncios": [
+        {
+          "precio": 982.0,
+          "comerciante": "Blank_Mind",
+          "min": "2000000",
+          "max": "36450000",
+          "disponible": "69817.58"
+        },
+        {
+          "precio": 981.7,
+          "comerciante": "我米德克",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "73882.15"
+        },
+        {
+          "precio": 981.005,
+          "comerciante": "Trust-Broker",
+          "min": "900000",
+          "max": "36450000",
+          "disponible": "4222.63"
+        },
         {
           "precio": 980.7,
           "comerciante": "P2P-56c1f574",
           "min": "3000000",
           "max": "4000000",
-          "disponible": "8482.94"
+          "disponible": "6381.94"
         },
         {
-          "precio": 980.0,
-          "comerciante": "Nkbusiness ",
-          "min": "500000",
-          "max": "4000000",
-          "disponible": "7481.95"
-        },
-        {
-          "precio": 980.0,
-          "comerciante": "Blank_Mind",
-          "min": "2000000",
-          "max": "36450000",
-          "disponible": "84128.44"
-        },
-        {
-          "precio": 980.0,
-          "comerciante": "ZEUS-TRAIDING",
-          "min": "1000000",
-          "max": "4000000",
-          "disponible": "24000.00"
-        },
-        {
-          "precio": 978.5,
-          "comerciante": "Trust-Broker",
-          "min": "900000",
-          "max": "36450000",
-          "disponible": "5751.67"
+          "precio": 980.3,
+          "comerciante": "EPONTA",
+          "min": "400000",
+          "max": "24000000",
+          "disponible": "7248.01"
         }
       ]
     },
     "compra": {
-      "promedio": 978.57,
-      "minimo": 978.0,
-      "maximo": 979.1,
+      "promedio": 980.42,
+      "minimo": 980.0,
+      "maximo": 981.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 978.0,
-          "comerciante": "ComercianteP2P_BR",
-          "min": "500",
+          "precio": 980.0,
+          "comerciante": "ivanaquino",
+          "min": "101500",
           "max": "4000000",
-          "disponible": "2.05"
+          "disponible": "103.74"
         },
         {
-          "precio": 978.0,
-          "comerciante": "Cripto-Tunnig",
-          "min": "489000",
-          "max": "978000",
-          "disponible": "917.70"
-        },
-        {
-          "precio": 978.75,
-          "comerciante": "Godspeed_Crypto",
-          "min": "2000000",
-          "max": "36450000",
-          "disponible": "6055.46"
-        },
-        {
-          "precio": 979.0,
-          "comerciante": "User-b1d31",
-          "min": "420000",
+          "precio": 980.0,
+          "comerciante": "Jorco020",
+          "min": "300",
           "max": "4000000",
-          "disponible": "498.75"
+          "disponible": "1.45"
         },
         {
-          "precio": 979.1,
-          "comerciante": "tineoc0301",
-          "min": "10000",
-          "max": "200000",
-          "disponible": "15.96"
+          "precio": 980.5,
+          "comerciante": "ReyDavid_",
+          "min": "300",
+          "max": "25000",
+          "disponible": "78.06"
+        },
+        {
+          "precio": 980.6,
+          "comerciante": "juandavid17venezuela",
+          "min": "20000",
+          "max": "400000",
+          "disponible": "448.87"
+        },
+        {
+          "precio": 981.0,
+          "comerciante": "Luis David cardozo ",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "0.52"
         }
       ]
     }
   },
-  "brecha_pct": 21.75
+  "brecha_pct": 21.91
 }
