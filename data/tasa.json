@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-03T13:01:54+00:00",
-  "actualizado_ve": "2026-09-03T09:01:54-04:00",
+  "actualizado_utc": "2026-09-03T13:35:02+00:00",
+  "actualizado_ve": "2026-09-03T09:35:02-04:00",
   "bcv": {
     "usd": 804.8109,
     "eur": 932.80802553,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 975.422,
+    "referencia": 979.9008,
     "venta": {
-      "promedio": 975.422,
-      "minimo": 975.2,
-      "maximo": 975.61,
+      "promedio": 979.9008,
+      "minimo": 979.5,
+      "maximo": 981.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 975.61,
-          "comerciante": "Gatsby_24",
-          "min": "10000000",
+          "precio": 981.0,
+          "comerciante": "Blank_Mind",
+          "min": "2000000",
           "max": "36450000",
-          "disponible": "53500.06"
+          "disponible": "61361.37"
         },
         {
-          "precio": 975.6,
-          "comerciante": "Money77ves",
-          "min": "7000000",
-          "max": "36450000",
-          "disponible": "30208.75"
+          "precio": 980.0,
+          "comerciante": "memo",
+          "min": "1479700",
+          "max": "1479800",
+          "disponible": "1510.00"
         },
         {
-          "precio": 975.5,
-          "comerciante": "Ateneaaa",
-          "min": "36450000",
-          "max": "100000000",
-          "disponible": "60000.00"
-        },
-        {
-          "precio": 975.2,
-          "comerciante": "Brawcoins",
+          "precio": 979.504,
+          "comerciante": "DOCTOR_CAMBIO",
           "min": "5000000",
           "max": "36450000",
-          "disponible": "44872.85"
+          "disponible": "37963.80"
         },
         {
-          "precio": 975.2,
-          "comerciante": "eladio20",
-          "min": "487600",
-          "max": "4000000",
-          "disponible": "500.00"
+          "precio": 979.5,
+          "comerciante": "Trust-Broker",
+          "min": "900000",
+          "max": "36450000",
+          "disponible": "18039.82"
+        },
+        {
+          "precio": 979.5,
+          "comerciante": "-TSxRV-",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "56350.06"
         }
       ]
     },
     "compra": {
-      "promedio": 976.7,
-      "minimo": 975.0,
-      "maximo": 977.5,
+      "promedio": 978.579,
+      "minimo": 977.996,
+      "maximo": 979.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 975.0,
-          "comerciante": "OkanaDila2301",
+          "precio": 977.996,
+          "comerciante": "elshadday392",
           "min": "5000",
-          "max": "40000",
-          "disponible": "84.69"
+          "max": "5500",
+          "disponible": "75.02"
         },
         {
-          "precio": 977.0,
-          "comerciante": "Inter-Pagos",
-          "min": "200000",
-          "max": "1000000",
-          "disponible": "905.40"
+          "precio": 978.0,
+          "comerciante": "ComercianteP2P_BR",
+          "min": "500",
+          "max": "4000000",
+          "disponible": "2.05"
         },
         {
-          "precio": 977.0,
-          "comerciante": "SamiqDuq",
-          "min": "80000",
-          "max": "1000000",
-          "disponible": "195.60"
+          "precio": 978.9,
+          "comerciante": "PAGOYLIBERORAPIDOOOO",
+          "min": "70000",
+          "max": "4000000",
+          "disponible": "73.81"
         },
         {
-          "precio": 977.0,
-          "comerciante": "TopoDigital",
-          "min": "80000",
-          "max": "1000000",
-          "disponible": "264.32"
+          "precio": 978.999,
+          "comerciante": "ElBossP2P",
+          "min": "300",
+          "max": "10000",
+          "disponible": "179.07"
         },
         {
-          "precio": 977.5,
-          "comerciante": "calcrip",
-          "min": "10000",
-          "max": "30986",
-          "disponible": "20.46"
+          "precio": 979.0,
+          "comerciante": "user RV",
+          "min": "121800",
+          "max": "122375",
+          "disponible": "124.68"
         }
       ]
     }
   },
-  "brecha_pct": 21.2
+  "brecha_pct": 21.76
 }
