@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-03T22:32:18+00:00",
-  "actualizado_ve": "2026-09-03T18:32:18-04:00",
+  "actualizado_utc": "2026-09-03T23:01:49+00:00",
+  "actualizado_ve": "2026-09-03T19:01:49-04:00",
   "bcv": {
     "usd": 807.3862,
     "eur": 938.44920184,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 974.74,
+    "referencia": 975.22,
     "venta": {
-      "promedio": 974.74,
-      "minimo": 973.0,
+      "promedio": 975.22,
+      "minimo": 974.0,
       "maximo": 979.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -25,11 +25,18 @@
           "disponible": "1022.00"
         },
         {
-          "precio": 974.5,
-          "comerciante": "Trader_Quin",
-          "min": "50000",
-          "max": "3000000",
-          "disponible": "415.00"
+          "precio": 975.0,
+          "comerciante": "被放逐的狐狸",
+          "min": "1000000",
+          "max": "34000000",
+          "disponible": "70838.36"
+        },
+        {
+          "precio": 974.1,
+          "comerciante": "KaioSama16",
+          "min": "2500000",
+          "max": "36450000",
+          "disponible": "71650.06"
         },
         {
           "precio": 974.0,
@@ -39,64 +46,57 @@
           "disponible": "30000.00"
         },
         {
-          "precio": 973.2,
-          "comerciante": "KaioSama16",
-          "min": "2500000",
+          "precio": 974.0,
+          "comerciante": "Blank_Mind",
+          "min": "500000",
           "max": "36450000",
-          "disponible": "80000.00"
-        },
-        {
-          "precio": 973.0,
-          "comerciante": "被放逐的狐狸",
-          "min": "1000000",
-          "max": "34000000",
-          "disponible": "74995.89"
+          "disponible": "28096.72"
         }
       ]
     },
     "compra": {
-      "promedio": 972.02,
-      "minimo": 972.0,
-      "maximo": 972.1,
+      "promedio": 973.4598,
+      "minimo": 973.0,
+      "maximo": 974.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 972.0,
-          "comerciante": "Dekar13",
-          "min": "130000",
-          "max": "132000",
-          "disponible": "136.65"
+          "precio": 973.0,
+          "comerciante": "MrBitkoin",
+          "min": "145000",
+          "max": "194600",
+          "disponible": "199.50"
         },
         {
-          "precio": 972.0,
-          "comerciante": "Axcapital1",
-          "min": "1000000",
-          "max": "36000000",
-          "disponible": "1571.39"
-        },
-        {
-          "precio": 972.0,
-          "comerciante": "Leaisx",
+          "precio": 973.0,
+          "comerciante": "Vanejinete88",
           "min": "20000",
           "max": "4000000",
-          "disponible": "56.85"
+          "disponible": "99.75"
         },
         {
-          "precio": 972.0,
-          "comerciante": "CryptoVelozz",
-          "min": "400000",
-          "max": "530000",
-          "disponible": "548.39"
+          "precio": 973.399,
+          "comerciante": "Armonymx",
+          "min": "126719",
+          "max": "126720",
+          "disponible": "130.67"
         },
         {
-          "precio": 972.1,
-          "comerciante": "tupanal",
-          "min": "20000",
-          "max": "100000",
-          "disponible": "299.25"
+          "precio": 973.9,
+          "comerciante": "Xyde15",
+          "min": "97000",
+          "max": "97001",
+          "disponible": "99.75"
+        },
+        {
+          "precio": 974.0,
+          "comerciante": "Rapid-Pay-Exchance",
+          "min": "5000",
+          "max": "440000",
+          "disponible": "12.47"
         }
       ]
     }
   },
-  "brecha_pct": 20.73
+  "brecha_pct": 20.79
 }
