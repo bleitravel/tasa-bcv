@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-03T11:01:43+00:00",
-  "actualizado_ve": "2026-09-03T07:01:43-04:00",
+  "actualizado_utc": "2026-09-03T11:33:28+00:00",
+  "actualizado_ve": "2026-09-03T07:33:28-04:00",
   "bcv": {
     "usd": 804.8109,
     "eur": 932.80802553,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 973.7536,
+    "referencia": 974.6782,
     "venta": {
-      "promedio": 973.7536,
-      "minimo": 973.168,
-      "maximo": 975.0,
+      "promedio": 974.6782,
+      "minimo": 974.19,
+      "maximo": 975.001,
       "anuncios_usados": 5,
       "anuncios": [
         {
+          "precio": 975.001,
+          "comerciante": "-TSxRV-",
+          "min": "3000000",
+          "max": "36450000",
+          "disponible": "47000.06"
+        },
+        {
           "precio": 975.0,
-          "comerciante": "AutosAlpha",
-          "min": "200000",
-          "max": "4000000",
-          "disponible": "910.65"
+          "comerciante": "Ateneaaa",
+          "min": "36450000",
+          "max": "100000000",
+          "disponible": "60000.00"
         },
         {
-          "precio": 973.6,
-          "comerciante": "AM_BovedaActiva",
-          "min": "500000",
-          "max": "7031059",
-          "disponible": "6641.55"
+          "precio": 975.0,
+          "comerciante": "Brawcoins",
+          "min": "3000000",
+          "max": "36450000",
+          "disponible": "50000.00"
         },
         {
-          "precio": 973.5,
-          "comerciante": "Pagorapidoventr",
-          "min": "300000",
-          "max": "4000000",
-          "disponible": "2501.98"
+          "precio": 974.2,
+          "comerciante": "User-95450",
+          "min": "2000000",
+          "max": "30000000",
+          "disponible": "16500.06"
         },
         {
-          "precio": 973.5,
-          "comerciante": "Milicia01",
-          "min": "250000",
-          "max": "10000000",
-          "disponible": "1402.95"
-        },
-        {
-          "precio": 973.168,
-          "comerciante": "Trabso",
-          "min": "50000",
-          "max": "898035",
-          "disponible": "193.42"
+          "precio": 974.19,
+          "comerciante": "贝HarveySpecter贝",
+          "min": "1000000",
+          "max": "36000000",
+          "disponible": "15414.44"
         }
       ]
     },
     "compra": {
-      "promedio": 976.998,
-      "minimo": 976.99,
-      "maximo": 977.0,
+      "promedio": 976.6598,
+      "minimo": 976.5,
+      "maximo": 976.8,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 976.99,
-          "comerciante": "CH-Intercambios",
-          "min": "400000",
-          "max": "950000",
-          "disponible": "1916.64"
+          "precio": 976.5,
+          "comerciante": "P2P-24418b6y",
+          "min": "20000",
+          "max": "4000000",
+          "disponible": "32.16"
         },
         {
-          "precio": 977.0,
-          "comerciante": "ArepaConCafe",
-          "min": "36450000",
-          "max": "200000000",
-          "disponible": "111893.94"
+          "precio": 976.5,
+          "comerciante": "RealExchangeVE",
+          "min": "976000",
+          "max": "976500",
+          "disponible": "1053.13"
         },
         {
-          "precio": 977.0,
-          "comerciante": "Ronaldelectro",
-          "min": "1620000",
-          "max": "1620000",
-          "disponible": "1995.01"
+          "precio": 976.7,
+          "comerciante": "Soy-Tu-Trader",
+          "min": "1000000",
+          "max": "4000000",
+          "disponible": "2495.63"
         },
         {
-          "precio": 977.0,
-          "comerciante": "DiosesbuenoDiosteama",
-          "min": "300000",
-          "max": "10000000",
-          "disponible": "500.00"
+          "precio": 976.799,
+          "comerciante": "RicoMcPato_3minutos",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "27965.04"
         },
         {
-          "precio": 977.0,
-          "comerciante": "Azir-p2p",
+          "precio": 976.8,
+          "comerciante": "Lmg_traders",
           "min": "2000000",
-          "max": "15000000",
-          "disponible": "5080.47"
+          "max": "36450000",
+          "disponible": "10398.05"
         }
       ]
     }
   },
-  "brecha_pct": 20.99
+  "brecha_pct": 21.11
 }
