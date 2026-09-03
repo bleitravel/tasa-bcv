@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-03T19:31:27+00:00",
-  "actualizado_ve": "2026-09-03T15:31:27-04:00",
+  "actualizado_utc": "2026-09-03T20:02:01+00:00",
+  "actualizado_ve": "2026-09-03T16:02:01-04:00",
   "bcv": {
     "usd": 804.8109,
     "eur": 932.80802553,
@@ -10,87 +10,87 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 984.3602,
+    "referencia": 982.561,
     "venta": {
-      "promedio": 984.3602,
-      "minimo": 983.001,
-      "maximo": 985.2,
+      "promedio": 982.561,
+      "minimo": 982.005,
+      "maximo": 983.5,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 985.2,
+          "precio": 983.5,
           "comerciante": "CrxptoFast",
-          "min": "2500000",
+          "min": "2000000",
           "max": "4000000",
           "disponible": "30000.00"
         },
         {
-          "precio": 985.1,
+          "precio": 983.0,
+          "comerciante": "Blank_Mind",
+          "min": "1000000",
+          "max": "36450000",
+          "disponible": "3284.85"
+        },
+        {
+          "precio": 982.2,
           "comerciante": "KaioSama16",
           "min": "2500000",
           "max": "36450000",
           "disponible": "80000.00"
         },
         {
-          "precio": 985.0,
-          "comerciante": "Blank_Mind",
-          "min": "1000000",
-          "max": "36450000",
-          "disponible": "20804.41"
-        },
-        {
-          "precio": 983.5,
+          "precio": 982.1,
           "comerciante": "Cachy13Usdt",
-          "min": "3000000",
+          "min": "7000000",
           "max": "36450000",
           "disponible": "50000.00"
         },
         {
-          "precio": 983.001,
-          "comerciante": "chango_pay",
+          "precio": 982.005,
+          "comerciante": "Day_Pagos",
           "min": "3000000",
-          "max": "36450000",
-          "disponible": "35630.06"
+          "max": "4000000",
+          "disponible": "5295.29"
         }
       ]
     },
     "compra": {
-      "promedio": 982.8588,
-      "minimo": 982.5,
-      "maximo": 982.999,
+      "promedio": 981.0,
+      "minimo": 980.0,
+      "maximo": 981.5,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 982.5,
-          "comerciante": "Krypto-Handeln",
-          "min": "2000000",
+          "precio": 980.0,
+          "comerciante": "ElMuSa30",
+          "min": "100000",
           "max": "36450000",
-          "disponible": "10096.02"
+          "disponible": "1544.70"
         },
         {
-          "precio": 982.8,
-          "comerciante": "Deswicripto",
-          "min": "147000",
-          "max": "147584",
-          "disponible": "149.62"
+          "precio": 981.0,
+          "comerciante": "Tokio2000",
+          "min": "12000",
+          "max": "13000",
+          "disponible": "99.75"
         },
         {
-          "precio": 982.997,
-          "comerciante": "RicoMcPato_3minutos",
-          "min": "5000000",
-          "max": "36000000",
-          "disponible": "19975.03"
+          "precio": 981.0,
+          "comerciante": "Santy_2511",
+          "min": "6000",
+          "max": "2000000",
+          "disponible": "199.50"
         },
         {
-          "precio": 982.998,
-          "comerciante": "Wil2589",
-          "min": "2000000",
-          "max": "28000000",
-          "disponible": "16291.98"
+          "precio": 981.5,
+          "comerciante": "Pikachuuu13",
+          "min": "1000000",
+          "max": "36450000",
+          "disponible": "7281.47"
         },
         {
-          "precio": 982.999,
-          "comerciante": "P2P-d275bas9",
+          "precio": 981.5,
+          "comerciante": "Business-ExchangeJM",
           "min": "90000",
           "max": "400000",
           "disponible": "99.75"
@@ -98,5 +98,5 @@
       ]
     }
   },
-  "brecha_pct": 22.31
+  "brecha_pct": 22.09
 }
