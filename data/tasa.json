@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-03T18:02:05+00:00",
-  "actualizado_ve": "2026-09-03T14:02:05-04:00",
+  "actualizado_utc": "2026-09-03T18:37:25+00:00",
+  "actualizado_ve": "2026-09-03T14:37:25-04:00",
   "bcv": {
     "usd": 804.8109,
     "eur": 932.80802553,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 983.86,
+    "referencia": 983.5802,
     "venta": {
-      "promedio": 983.86,
-      "minimo": 983.0,
-      "maximo": 987.0,
+      "promedio": 983.5802,
+      "minimo": 983.25,
+      "maximo": 984.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 987.0,
-          "comerciante": "Buttonario",
-          "min": "1800",
-          "max": "4000000",
-          "disponible": "105.00"
+          "precio": 984.0,
+          "comerciante": "KaioSama16",
+          "min": "2500000",
+          "max": "36450000",
+          "disponible": "80000.00"
         },
         {
-          "precio": 983.2,
+          "precio": 984.0,
+          "comerciante": "fcracco",
+          "min": "9999",
+          "max": "10000",
+          "disponible": "6672.00"
+        },
+        {
+          "precio": 983.4,
           "comerciante": "CrxptoFast",
           "min": "2500000",
           "max": "4000000",
           "disponible": "30000.00"
         },
         {
-          "precio": 983.1,
-          "comerciante": "KaioSama16",
-          "min": "3000000",
+          "precio": 983.251,
+          "comerciante": "chango_pay",
+          "min": "4000000",
           "max": "36450000",
-          "disponible": "80000.00"
+          "disponible": "37661.76"
         },
         {
-          "precio": 983.0,
-          "comerciante": "IntercambiosGILLC",
-          "min": "1000000",
-          "max": "1000001",
-          "disponible": "1165.42"
-        },
-        {
-          "precio": 983.0,
-          "comerciante": "doctor_zoidberg",
-          "min": "3000000",
-          "max": "12000000",
-          "disponible": "12207.00"
+          "precio": 983.25,
+          "comerciante": "Trust-Broker",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "50000.00"
         }
       ]
     },
     "compra": {
-      "promedio": 982.6778,
-      "minimo": 982.0,
-      "maximo": 983.789,
+      "promedio": 964.198,
+      "minimo": 885.99,
+      "maximo": 984.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 982.0,
-          "comerciante": "Carlos Haynes ",
-          "min": "98000",
-          "max": "98100",
-          "disponible": "100.74"
+          "precio": 885.99,
+          "comerciante": "VISÓN CRIPTØ",
+          "min": "36450000",
+          "max": "500000000",
+          "disponible": "150000.00"
         },
         {
-          "precio": 982.0,
-          "comerciante": "JesusBrazon27",
-          "min": "293600",
-          "max": "295500",
-          "disponible": "299.25"
-        },
-        {
-          "precio": 982.4,
-          "comerciante": "alexveliz2001",
-          "min": "500",
-          "max": "9850",
-          "disponible": "2.75"
-        },
-        {
-          "precio": 983.2,
-          "comerciante": "islam_dawud",
+          "precio": 983.0,
+          "comerciante": "nghj",
           "min": "30000",
-          "max": "294000",
-          "disponible": "299.25"
+          "max": "4000000",
+          "disponible": "267.24"
         },
         {
-          "precio": 983.789,
-          "comerciante": "JDCAPITAL-HOLDING",
-          "min": "100000",
-          "max": "7000000",
-          "disponible": "127.24"
+          "precio": 984.0,
+          "comerciante": "Alejandro torres cambios ",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "1.15"
+        },
+        {
+          "precio": 984.0,
+          "comerciante": "DAVID0308",
+          "min": "8000",
+          "max": "30000",
+          "disponible": "13.95"
+        },
+        {
+          "precio": 984.0,
+          "comerciante": "Vero__",
+          "min": "2500",
+          "max": "7000",
+          "disponible": "87.06"
         }
       ]
     }
   },
-  "brecha_pct": 22.25
+  "brecha_pct": 22.21
 }
