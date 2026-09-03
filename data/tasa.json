@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-03T08:02:09+00:00",
-  "actualizado_ve": "2026-09-03T04:02:09-04:00",
+  "actualizado_utc": "2026-09-03T08:36:47+00:00",
+  "actualizado_ve": "2026-09-03T04:36:47-04:00",
   "bcv": {
     "usd": 804.8109,
     "eur": 932.80802553,
@@ -55,9 +55,9 @@
       ]
     },
     "compra": {
-      "promedio": 977.6,
+      "promedio": 977.64,
       "minimo": 977.0,
-      "maximo": 978.5,
+      "maximo": 978.7,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -89,11 +89,11 @@
           "disponible": "2654.35"
         },
         {
-          "precio": 978.5,
-          "comerciante": "MMEDRANO",
-          "min": "340000",
-          "max": "342303",
-          "disponible": "349.24"
+          "precio": 978.7,
+          "comerciante": "Melani_sublimascione",
+          "min": "3000000",
+          "max": "15707470",
+          "disponible": "16008.01"
         }
       ]
     }
