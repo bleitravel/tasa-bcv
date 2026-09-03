@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-03T19:01:57+00:00",
-  "actualizado_ve": "2026-09-03T15:01:57-04:00",
+  "actualizado_utc": "2026-09-03T19:31:27+00:00",
+  "actualizado_ve": "2026-09-03T15:31:27-04:00",
   "bcv": {
     "usd": 804.8109,
     "eur": 932.80802553,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 984.36,
+    "referencia": 984.3602,
     "venta": {
-      "promedio": 984.36,
-      "minimo": 983.0,
+      "promedio": 984.3602,
+      "minimo": 983.001,
       "maximo": 985.2,
       "anuncios_usados": 5,
       "anuncios": [
@@ -36,64 +36,64 @@
           "comerciante": "Blank_Mind",
           "min": "1000000",
           "max": "36450000",
-          "disponible": "42845.30"
+          "disponible": "20804.41"
         },
         {
           "precio": 983.5,
-          "comerciante": "JEJGS",
-          "min": "565000",
-          "max": "566000",
-          "disponible": "590.00"
+          "comerciante": "Cachy13Usdt",
+          "min": "3000000",
+          "max": "36450000",
+          "disponible": "50000.00"
         },
         {
-          "precio": 983.0,
-          "comerciante": "P2Palba",
-          "min": "475000",
-          "max": "475300",
-          "disponible": "485.00"
+          "precio": 983.001,
+          "comerciante": "chango_pay",
+          "min": "3000000",
+          "max": "36450000",
+          "disponible": "35630.06"
         }
       ]
     },
     "compra": {
-      "promedio": 983.818,
-      "minimo": 983.0,
-      "maximo": 984.1,
+      "promedio": 982.8588,
+      "minimo": 982.5,
+      "maximo": 982.999,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 983.0,
-          "comerciante": "AMERICA1492LLC",
-          "min": "900000",
+          "precio": 982.5,
+          "comerciante": "Krypto-Handeln",
+          "min": "2000000",
           "max": "36450000",
-          "disponible": "2031.44"
+          "disponible": "10096.02"
         },
         {
-          "precio": 983.99,
-          "comerciante": "CRIPTOCARIBE-JE",
-          "min": "900000",
-          "max": "36450000",
-          "disponible": "1341.81"
+          "precio": 982.8,
+          "comerciante": "Deswicripto",
+          "min": "147000",
+          "max": "147584",
+          "disponible": "149.62"
         },
         {
-          "precio": 984.0,
-          "comerciante": "NimaX-64",
-          "min": "7500000",
-          "max": "8100000",
-          "disponible": "10576.43"
+          "precio": 982.997,
+          "comerciante": "RicoMcPato_3minutos",
+          "min": "5000000",
+          "max": "36000000",
+          "disponible": "19975.03"
         },
         {
-          "precio": 984.0,
-          "comerciante": "hernandez2525",
-          "min": "94800",
-          "max": "94900",
+          "precio": 982.998,
+          "comerciante": "Wil2589",
+          "min": "2000000",
+          "max": "28000000",
+          "disponible": "16291.98"
+        },
+        {
+          "precio": 982.999,
+          "comerciante": "P2P-d275bas9",
+          "min": "90000",
+          "max": "400000",
           "disponible": "99.75"
-        },
-        {
-          "precio": 984.1,
-          "comerciante": "team-wolf",
-          "min": "10000",
-          "max": "294245",
-          "disponible": "298.25"
         }
       ]
     }
