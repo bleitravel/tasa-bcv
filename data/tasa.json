@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-03T16:02:04+00:00",
-  "actualizado_ve": "2026-09-03T12:02:04-04:00",
+  "actualizado_utc": "2026-09-03T16:35:24+00:00",
+  "actualizado_ve": "2026-09-03T12:35:24-04:00",
   "bcv": {
     "usd": 804.8109,
     "eur": 932.80802553,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 984.601,
+    "referencia": 983.3304,
     "venta": {
-      "promedio": 984.601,
-      "minimo": 984.0,
-      "maximo": 986.0,
-      "anuncios_usados": 5,
-      "anuncios": [
-        {
-          "precio": 986.0,
-          "comerciante": "我米德克",
-          "min": "5000000",
-          "max": "36450000",
-          "disponible": "43109.74"
-        },
-        {
-          "precio": 985.0,
-          "comerciante": "Blank_Mind",
-          "min": "2000000",
-          "max": "36450000",
-          "disponible": "66562.00"
-        },
-        {
-          "precio": 984.005,
-          "comerciante": "Trust-Broker",
-          "min": "1900000",
-          "max": "36450000",
-          "disponible": "45549.12"
-        },
-        {
-          "precio": 984.0,
-          "comerciante": "Mafer1003",
-          "min": "982000",
-          "max": "4000000",
-          "disponible": "6000.00"
-        },
-        {
-          "precio": 984.0,
-          "comerciante": "FengXchange",
-          "min": "500000",
-          "max": "1000000",
-          "disponible": "1500.00"
-        }
-      ]
-    },
-    "compra": {
-      "promedio": 983.0456,
-      "minimo": 981.0,
+      "promedio": 983.3304,
+      "minimo": 983.0,
       "maximo": 984.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 981.0,
-          "comerciante": "ComercianteP2P_BR",
-          "min": "500",
+          "precio": 984.0,
+          "comerciante": "Mafer1003",
+          "min": "100000",
           "max": "4000000",
-          "disponible": "1.06"
+          "disponible": "4400.18"
+        },
+        {
+          "precio": 983.501,
+          "comerciante": "Blank_Mind",
+          "min": "1000000",
+          "max": "36450000",
+          "disponible": "3866.90"
+        },
+        {
+          "precio": 983.15,
+          "comerciante": "Trust-Broker",
+          "min": "3000000",
+          "max": "36450000",
+          "disponible": "35000.12"
+        },
+        {
+          "precio": 983.001,
+          "comerciante": "HenryCryptob",
+          "min": "208000",
+          "max": "208001",
+          "disponible": "2311.56"
         },
         {
           "precio": 983.0,
-          "comerciante": "antunezchanges",
-          "min": "300",
-          "max": "98300",
-          "disponible": "99.75"
-        },
-        {
-          "precio": 983.229,
-          "comerciante": "VelociCambiosMx",
-          "min": "146995",
-          "max": "146996",
-          "disponible": "221.56"
-        },
-        {
-          "precio": 983.999,
-          "comerciante": "Bayridge",
-          "min": "98000",
-          "max": "1030200",
-          "disponible": "99.75"
-        },
+          "comerciante": "LAZER1406",
+          "min": "800000",
+          "max": "4000000",
+          "disponible": "5365.98"
+        }
+      ]
+    },
+    "compra": {
+      "promedio": 984.296,
+      "minimo": 984.0,
+      "maximo": 984.5,
+      "anuncios_usados": 5,
+      "anuncios": [
         {
           "precio": 984.0,
-          "comerciante": "Alejandromataa",
-          "min": "90000",
-          "max": "300000",
+          "comerciante": "kalamardo",
+          "min": "80000",
+          "max": "36450000",
+          "disponible": "798.94"
+        },
+        {
+          "precio": 984.2,
+          "comerciante": "CriptoJAS2",
+          "min": "50000",
+          "max": "250000",
+          "disponible": "249.37"
+        },
+        {
+          "precio": 984.3,
+          "comerciante": "Cheryimport",
+          "min": "379000",
+          "max": "4000000",
+          "disponible": "387.54"
+        },
+        {
+          "precio": 984.48,
+          "comerciante": "multiserviciosyenval",
+          "min": "35000",
+          "max": "4000000",
+          "disponible": "48.27"
+        },
+        {
+          "precio": 984.5,
+          "comerciante": "yaracripto",
+          "min": "57000",
+          "max": "57001",
           "disponible": "99.75"
         }
       ]
     }
   },
-  "brecha_pct": 22.34
+  "brecha_pct": 22.18
 }
