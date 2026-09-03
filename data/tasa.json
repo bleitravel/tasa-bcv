@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-03T21:33:13+00:00",
-  "actualizado_ve": "2026-09-03T17:33:13-04:00",
+  "actualizado_utc": "2026-09-03T22:01:51+00:00",
+  "actualizado_ve": "2026-09-03T18:01:51-04:00",
   "bcv": {
     "usd": 804.8109,
     "eur": 932.80802553,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 977.6842,
+    "referencia": 975.72,
     "venta": {
-      "promedio": 977.6842,
-      "minimo": 976.5,
+      "promedio": 975.72,
+      "minimo": 974.6,
       "maximo": 979.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -25,78 +25,78 @@
           "disponible": "1022.00"
         },
         {
-          "precio": 978.5,
+          "precio": 975.0,
+          "comerciante": "P2P-cf0637fu",
+          "min": "300000",
+          "max": "780000",
+          "disponible": "518.99"
+        },
+        {
+          "precio": 975.0,
+          "comerciante": "R del valle ",
+          "min": "400000",
+          "max": "4000000",
+          "disponible": "418.90"
+        },
+        {
+          "precio": 975.0,
           "comerciante": "CrxptoFast",
           "min": "2000000",
           "max": "4000000",
-          "disponible": "30000.00"
+          "disponible": "21824.24"
         },
         {
-          "precio": 977.871,
-          "comerciante": "Akila Services",
-          "min": "20000",
-          "max": "8100000",
-          "disponible": "500.00"
-        },
-        {
-          "precio": 976.55,
-          "comerciante": "LAZER1406",
-          "min": "400000",
-          "max": "905520",
-          "disponible": "927.00"
-        },
-        {
-          "precio": 976.5,
-          "comerciante": "KaioSama16",
-          "min": "2500000",
-          "max": "36450000",
-          "disponible": "80000.00"
+          "precio": 974.6,
+          "comerciante": "Maximo1720",
+          "min": "30000",
+          "max": "916000",
+          "disponible": "31.47"
         }
       ]
     },
     "compra": {
-      "promedio": 977.6596,
-      "minimo": 977.0,
-      "maximo": 977.999,
+      "promedio": 970.698,
+      "minimo": 970.0,
+      "maximo": 971.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 977.0,
-          "comerciante": "bethania1991",
-          "min": "48850",
-          "max": "195400",
-          "disponible": "138.43"
+          "precio": 970.0,
+          "comerciante": "Holy_Spirit_",
+          "min": "2000000",
+          "max": "36450000",
+          "disponible": "28825.52"
         },
         {
-          "precio": 977.5,
-          "comerciante": "Inteligencia3",
-          "min": "97500",
-          "max": "97800",
-          "disponible": "99.75"
+          "precio": 970.5,
+          "comerciante": "CANAIMA21",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "7600.77"
         },
         {
-          "precio": 977.8,
-          "comerciante": "Cheryimport",
-          "min": "1274000",
-          "max": "4000000",
-          "disponible": "1304.33"
+          "precio": 970.99,
+          "comerciante": "TradingCambios",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "33442.52"
         },
         {
-          "precio": 977.999,
-          "comerciante": "Zuly1760",
-          "min": "300",
-          "max": "300000",
-          "disponible": "1.38"
+          "precio": 971.0,
+          "comerciante": "CAMBIORAPID0S",
+          "min": "5000000",
+          "max": "36000000",
+          "disponible": "44922.86"
         },
         {
-          "precio": 977.999,
-          "comerciante": "_TropiCoqueta_",
-          "min": "500000",
+          "precio": 971.0,
+          "comerciante": "TradewCrypto",
+          "min": "2000000",
           "max": "10000000",
-          "disponible": "860.73"
+          "disponible": "2489.39"
         }
       ]
     }
   },
-  "brecha_pct": 21.48
+  "brecha_pct": 21.24
 }
