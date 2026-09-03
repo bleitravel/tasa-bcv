@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-03T09:02:12+00:00",
-  "actualizado_ve": "2026-09-03T05:02:12-04:00",
+  "actualizado_utc": "2026-09-03T09:35:20+00:00",
+  "actualizado_ve": "2026-09-03T05:35:20-04:00",
   "bcv": {
     "usd": 804.8109,
     "eur": 932.80802553,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 974.2102,
+    "referencia": 974.0102,
     "venta": {
-      "promedio": 974.2102,
-      "minimo": 973.5,
+      "promedio": 974.0102,
+      "minimo": 973.0,
       "maximo": 976.05,
       "anuncios_usados": 5,
       "anuncios": [
@@ -22,14 +22,7 @@
           "comerciante": "RapidSC",
           "min": "3000",
           "max": "5000",
-          "disponible": "95.91"
-        },
-        {
-          "precio": 974.0,
-          "comerciante": "vivi_88",
-          "min": "1000000",
-          "max": "4000000",
-          "disponible": "1579.37"
+          "disponible": "85.67"
         },
         {
           "precio": 974.0,
@@ -50,12 +43,19 @@
           "comerciante": "zama2004",
           "min": "800000",
           "max": "36450000",
-          "disponible": "18230.34"
+          "disponible": "15145.40"
+        },
+        {
+          "precio": 973.0,
+          "comerciante": "Alexander canelon",
+          "min": "20000",
+          "max": "4000000",
+          "disponible": "2000.00"
         }
       ]
     },
     "compra": {
-      "promedio": 977.5,
+      "promedio": 977.3998,
       "minimo": 977.0,
       "maximo": 978.0,
       "anuncios_usados": 5,
@@ -75,11 +75,18 @@
           "disponible": "1995.01"
         },
         {
+          "precio": 977.499,
+          "comerciante": "aconde15",
+          "min": "1000000",
+          "max": "2000000",
+          "disponible": "1190.05"
+        },
+        {
           "precio": 977.5,
           "comerciante": "圎Sushi",
           "min": "900000",
           "max": "8000000",
-          "disponible": "3859.12"
+          "disponible": "2836.11"
         },
         {
           "precio": 978.0,
@@ -87,16 +94,9 @@
           "min": "1000001",
           "max": "14000000",
           "disponible": "2654.35"
-        },
-        {
-          "precio": 978.0,
-          "comerciante": "USDTVZLA",
-          "min": "2000000",
-          "max": "4000000",
-          "disponible": "29925.18"
         }
       ]
     }
   },
-  "brecha_pct": 21.05
+  "brecha_pct": 21.02
 }
