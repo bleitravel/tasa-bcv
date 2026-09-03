@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-03T21:02:12+00:00",
-  "actualizado_ve": "2026-09-03T17:02:12-04:00",
+  "actualizado_utc": "2026-09-03T21:33:13+00:00",
+  "actualizado_ve": "2026-09-03T17:33:13-04:00",
   "bcv": {
     "usd": 804.8109,
     "eur": 932.80802553,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 977.173,
+    "referencia": 977.6842,
     "venta": {
-      "promedio": 977.173,
-      "minimo": 976.715,
-      "maximo": 978.0,
+      "promedio": 977.6842,
+      "minimo": 976.5,
+      "maximo": 979.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 978.0,
+          "precio": 979.0,
+          "comerciante": "Col-Primavera",
+          "min": "1000000",
+          "max": "1000538",
+          "disponible": "1022.00"
+        },
+        {
+          "precio": 978.5,
           "comerciante": "CrxptoFast",
           "min": "2000000",
           "max": "4000000",
           "disponible": "30000.00"
         },
         {
-          "precio": 977.15,
+          "precio": 977.871,
+          "comerciante": "Akila Services",
+          "min": "20000",
+          "max": "8100000",
+          "disponible": "500.00"
+        },
+        {
+          "precio": 976.55,
+          "comerciante": "LAZER1406",
+          "min": "400000",
+          "max": "905520",
+          "disponible": "927.00"
+        },
+        {
+          "precio": 976.5,
           "comerciante": "KaioSama16",
           "min": "2500000",
           "max": "36450000",
-          "disponible": "77400.06"
-        },
-        {
-          "precio": 977.0,
-          "comerciante": "PEJAGOBLA",
-          "min": "10000000",
-          "max": "36400000",
-          "disponible": "32488.67"
-        },
-        {
-          "precio": 977.0,
-          "comerciante": "SojiroX",
-          "min": "1000000",
-          "max": "20000000",
-          "disponible": "12360.12"
-        },
-        {
-          "precio": 976.715,
-          "comerciante": "walner17",
-          "min": "900000",
-          "max": "36000000",
-          "disponible": "6518.30"
+          "disponible": "80000.00"
         }
       ]
     },
     "compra": {
-      "promedio": 977.4798,
+      "promedio": 977.6596,
       "minimo": 977.0,
-      "maximo": 977.9,
+      "maximo": 977.999,
       "anuncios_usados": 5,
       "anuncios": [
         {
           "precio": 977.0,
-          "comerciante": "Yousberth2907",
-          "min": "19500",
-          "max": "19600",
-          "disponible": "79.69"
+          "comerciante": "bethania1991",
+          "min": "48850",
+          "max": "195400",
+          "disponible": "138.43"
         },
         {
-          "precio": 977.1,
-          "comerciante": "Joseph-Blessed",
-          "min": "59870",
-          "max": "59871",
+          "precio": 977.5,
+          "comerciante": "Inteligencia3",
+          "min": "97500",
+          "max": "97800",
           "disponible": "99.75"
         },
         {
-          "precio": 977.6,
-          "comerciante": "CAMBIOS-JV",
-          "min": "100000",
-          "max": "14000000",
-          "disponible": "122.00"
+          "precio": 977.8,
+          "comerciante": "Cheryimport",
+          "min": "1274000",
+          "max": "4000000",
+          "disponible": "1304.33"
         },
         {
-          "precio": 977.799,
-          "comerciante": "Adrian2802",
-          "min": "8799",
-          "max": "44000",
-          "disponible": "159.99"
+          "precio": 977.999,
+          "comerciante": "Zuly1760",
+          "min": "300",
+          "max": "300000",
+          "disponible": "1.38"
         },
         {
-          "precio": 977.9,
-          "comerciante": "Dani_cryptofin",
-          "min": "1000",
-          "max": "20000",
-          "disponible": "99.75"
+          "precio": 977.999,
+          "comerciante": "_TropiCoqueta_",
+          "min": "500000",
+          "max": "10000000",
+          "disponible": "860.73"
         }
       ]
     }
   },
-  "brecha_pct": 21.42
+  "brecha_pct": 21.48
 }
