@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-03T15:01:52+00:00",
-  "actualizado_ve": "2026-09-03T11:01:52-04:00",
+  "actualizado_utc": "2026-09-03T15:35:12+00:00",
+  "actualizado_ve": "2026-09-03T11:35:12-04:00",
   "bcv": {
     "usd": 804.8109,
     "eur": 932.80802553,
@@ -10,54 +10,54 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 984.801,
+    "referencia": 984.062,
     "venta": {
-      "promedio": 984.801,
-      "minimo": 984.0,
-      "maximo": 986.0,
+      "promedio": 984.062,
+      "minimo": 983.21,
+      "maximo": 985.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 986.0,
+          "precio": 985.0,
+          "comerciante": "Blank_Mind",
+          "min": "2000000",
+          "max": "36450000",
+          "disponible": "74927.48"
+        },
+        {
+          "precio": 984.7,
+          "comerciante": "P2P-56c1f574",
+          "min": "3000000",
+          "max": "4000000",
+          "disponible": "14000.00"
+        },
+        {
+          "precio": 983.7,
           "comerciante": "GAMBINO-",
           "min": "3000000",
           "max": "36450000",
-          "disponible": "46750.06"
+          "disponible": "33000.06"
         },
         {
-          "precio": 985.0,
-          "comerciante": "GOMEZTUSOLUCION",
-          "min": "37000000",
-          "max": "300000000",
-          "disponible": "153000.00"
-        },
-        {
-          "precio": 985.0,
-          "comerciante": "我米德克",
-          "min": "5000000",
+          "precio": 983.7,
+          "comerciante": "Trust-Broker",
+          "min": "1900000",
           "max": "36450000",
-          "disponible": "74000.06"
+          "disponible": "47500.06"
         },
         {
-          "precio": 984.005,
-          "comerciante": "-Tyrion-Lannister-",
-          "min": "7000000",
+          "precio": 983.21,
+          "comerciante": "Twix",
+          "min": "3000000",
           "max": "36450000",
-          "disponible": "60000.00"
-        },
-        {
-          "precio": 984.0,
-          "comerciante": "-Isalam-",
-          "min": "1000000",
-          "max": "36450000",
-          "disponible": "18957.84"
+          "disponible": "3051.29"
         }
       ]
     },
     "compra": {
-      "promedio": 981.6992,
+      "promedio": 983.02,
       "minimo": 981.0,
-      "maximo": 982.0,
+      "maximo": 984.1,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "1.06"
         },
         {
-          "precio": 981.5,
-          "comerciante": "GABITOP2P",
-          "min": "300",
-          "max": "999999",
-          "disponible": "4.03"
+          "precio": 983.0,
+          "comerciante": "Tripleese03",
+          "min": "49100",
+          "max": "49200",
+          "disponible": "99.75"
         },
         {
-          "precio": 981.996,
-          "comerciante": "elshadday392",
-          "min": "5000",
-          "max": "5500",
-          "disponible": "79.35"
+          "precio": 983.0,
+          "comerciante": "_DemoCambios_",
+          "min": "300000",
+          "max": "3000000",
+          "disponible": "498.75"
         },
         {
-          "precio": 982.0,
-          "comerciante": "anelisp2p",
-          "min": "300",
-          "max": "133552",
-          "disponible": "0.36"
+          "precio": 984.0,
+          "comerciante": "ArepaConCafe",
+          "min": "36450000",
+          "max": "200000000",
+          "disponible": "111972.24"
         },
         {
-          "precio": 982.0,
-          "comerciante": "Dieiviaidi",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "0.44"
+          "precio": 984.1,
+          "comerciante": "team-wolf",
+          "min": "10000",
+          "max": "259802",
+          "disponible": "19.48"
         }
       ]
     }
   },
-  "brecha_pct": 22.36
+  "brecha_pct": 22.27
 }
