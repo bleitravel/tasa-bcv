@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-02T23:32:22+00:00",
-  "actualizado_ve": "2026-09-02T19:32:22-04:00",
+  "actualizado_utc": "2026-09-03T00:02:42+00:00",
+  "actualizado_ve": "2026-09-02T20:02:42-04:00",
   "bcv": {
     "usd": 804.8109,
     "eur": 932.80802553,
@@ -10,9 +10,9 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 976.011,
+    "referencia": 975.801,
     "venta": {
-      "promedio": 976.011,
+      "promedio": 975.801,
       "minimo": 975.0,
       "maximo": 978.0,
       "anuncios_usados": 5,
@@ -21,82 +21,82 @@
           "precio": 978.0,
           "comerciante": "LordCambios",
           "min": "1000000",
-          "max": "27744000",
-          "disponible": "20490.26"
+          "max": "20060000",
+          "disponible": "16764.85"
         },
         {
           "precio": 976.005,
           "comerciante": "Trust-Broker",
           "min": "1000000",
           "max": "36450000",
-          "disponible": "15872.05"
-        },
-        {
-          "precio": 975.55,
-          "comerciante": "Don-Cangrejo",
-          "min": "3000000",
-          "max": "36450000",
-          "disponible": "8582.65"
-        },
-        {
-          "precio": 975.5,
-          "comerciante": "Verysafef",
-          "min": "100000",
-          "max": "4000000",
-          "disponible": "1324.88"
+          "disponible": "13310.60"
         },
         {
           "precio": 975.0,
-          "comerciante": "WChurchill",
-          "min": "6138",
-          "max": "6139",
+          "comerciante": "User-6193a",
+          "min": "7315",
+          "max": "7316",
           "disponible": "100.00"
+        },
+        {
+          "precio": 975.0,
+          "comerciante": "Giovanni Ascanio",
+          "min": "100000",
+          "max": "2000000",
+          "disponible": "3282.30"
+        },
+        {
+          "precio": 975.0,
+          "comerciante": "贝HarveySpecter贝",
+          "min": "36450000",
+          "max": "500000000",
+          "disponible": "100000.00"
         }
       ]
     },
     "compra": {
-      "promedio": 976.708,
+      "promedio": 976.857,
       "minimo": 976.5,
-      "maximo": 976.9,
+      "maximo": 977.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
           "precio": 976.5,
-          "comerciante": "Servicios-Criptos-27",
-          "min": "1500000",
+          "comerciante": "Elnegrop2p",
+          "min": "3000000",
           "max": "14000000",
-          "disponible": "3094.58"
-        },
-        {
-          "precio": 976.5,
-          "comerciante": "Matildes",
-          "min": "1500",
-          "max": "20000",
-          "disponible": "99.75"
-        },
-        {
-          "precio": 976.75,
-          "comerciante": " Blessed ",
-          "min": "36450000",
-          "max": "102000000",
-          "disponible": "50000.00"
+          "disponible": "9509.09"
         },
         {
           "precio": 976.89,
-          "comerciante": "JDTRADING",
+          "comerciante": "Wil2589",
           "min": "2000000",
-          "max": "15000000",
-          "disponible": "6425.20"
+          "max": "28000000",
+          "disponible": "16545.20"
         },
         {
           "precio": 976.9,
-          "comerciante": "CryptoSickoP2P",
+          "comerciante": "WorldTradeinCripto",
           "min": "3000000",
           "max": "36450000",
-          "disponible": "22318.74"
+          "disponible": "25000.00"
+        },
+        {
+          "precio": 976.995,
+          "comerciante": "trade-key",
+          "min": "1500000",
+          "max": "36450000",
+          "disponible": "3125.11"
+        },
+        {
+          "precio": 977.0,
+          "comerciante": "JairGOVA佳尔",
+          "min": "35000",
+          "max": "860000",
+          "disponible": "404.19"
         }
       ]
     }
   },
-  "brecha_pct": 21.27
+  "brecha_pct": 21.25
 }
