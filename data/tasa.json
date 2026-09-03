@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-03T07:03:16+00:00",
-  "actualizado_ve": "2026-09-03T03:03:16-04:00",
+  "actualizado_utc": "2026-09-03T07:35:00+00:00",
+  "actualizado_ve": "2026-09-03T03:35:00-04:00",
   "bcv": {
     "usd": 804.8109,
     "eur": 932.80802553,
@@ -22,7 +22,7 @@
           "comerciante": "RapidSC",
           "min": "3000",
           "max": "5000",
-          "disponible": "100.00"
+          "disponible": "95.91"
         },
         {
           "precio": 974.101,
@@ -55,9 +55,9 @@
       ]
     },
     "compra": {
-      "promedio": 977.2598,
+      "promedio": 977.5,
       "minimo": 977.0,
-      "maximo": 977.5,
+      "maximo": 978.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -75,25 +75,25 @@
           "disponible": "1995.01"
         },
         {
-          "precio": 977.399,
-          "comerciante": "TuCambioYa_",
-          "min": "1000000",
-          "max": "36000000",
-          "disponible": "21102.34"
-        },
-        {
-          "precio": 977.4,
-          "comerciante": "RoronoaZoro3",
-          "min": "1000000",
-          "max": "3000000",
-          "disponible": "2533.23"
-        },
-        {
           "precio": 977.5,
           "comerciante": "圎Sushi",
           "min": "900000",
           "max": "8000000",
           "disponible": "3859.12"
+        },
+        {
+          "precio": 978.0,
+          "comerciante": "CarlosBelloNexoCapit",
+          "min": "1000001",
+          "max": "14000000",
+          "disponible": "2654.35"
+        },
+        {
+          "precio": 978.0,
+          "comerciante": "MMEDRANO",
+          "min": "300",
+          "max": "481180",
+          "disponible": "369.08"
         }
       ]
     }
