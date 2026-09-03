@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-03T01:35:14+00:00",
-  "actualizado_ve": "2026-09-02T21:35:14-04:00",
+  "actualizado_utc": "2026-09-03T02:05:29+00:00",
+  "actualizado_ve": "2026-09-02T22:05:29-04:00",
   "bcv": {
     "usd": 804.8109,
     "eur": 932.80802553,
@@ -10,54 +10,54 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 976.134,
+    "referencia": 976.1224,
     "venta": {
-      "promedio": 976.134,
-      "minimo": 975.62,
-      "maximo": 978.0,
+      "promedio": 976.1224,
+      "minimo": 975.802,
+      "maximo": 977.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 978.0,
+          "precio": 977.0,
           "comerciante": "LordCambios",
           "min": "1000000",
-          "max": "12834800",
-          "disponible": "7792.07"
+          "max": "2966000",
+          "disponible": "3035.83"
         },
         {
-          "precio": 975.7,
-          "comerciante": "HectorB",
-          "min": "2000000",
-          "max": "36000000",
-          "disponible": "8400.85"
+          "precio": 976.0,
+          "comerciante": "Deiby oliveros ",
+          "min": "500000",
+          "max": "4000000",
+          "disponible": "5000.00"
         },
         {
-          "precio": 975.7,
-          "comerciante": "OscarCapote",
-          "min": "300000",
-          "max": "36450000",
-          "disponible": "2000.00"
+          "precio": 976.0,
+          "comerciante": "Kris",
+          "min": "61000",
+          "max": "62000",
+          "disponible": "100.00"
         },
         {
-          "precio": 975.65,
-          "comerciante": "BalduinoIV",
-          "min": "3000000",
-          "max": "36450000",
-          "disponible": "50629.68"
+          "precio": 975.81,
+          "comerciante": "SinVerif-Rapido-Uz",
+          "min": "400000",
+          "max": "6000000",
+          "disponible": "1253.44"
         },
         {
-          "precio": 975.62,
-          "comerciante": "GoldenLion_",
-          "min": "800000",
-          "max": "14000000",
-          "disponible": "3000.00"
+          "precio": 975.802,
+          "comerciante": "cathrret",
+          "min": "20000",
+          "max": "291175",
+          "disponible": "62.61"
         }
       ]
     },
     "compra": {
-      "promedio": 977.7298,
+      "promedio": 978.0176,
       "minimo": 977.0,
-      "maximo": 978.0,
+      "maximo": 978.588,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,32 +68,32 @@
           "disponible": "111893.94"
         },
         {
-          "precio": 977.7,
-          "comerciante": "trader-jade",
-          "min": "98000",
-          "max": "100000",
-          "disponible": "102.02"
-        },
-        {
-          "precio": 977.949,
-          "comerciante": "jesus3203 ",
-          "min": "190000",
-          "max": "4000000",
-          "disponible": "199.51"
+          "precio": 978.0,
+          "comerciante": "gilangel19",
+          "min": "250000",
+          "max": "300000",
+          "disponible": "309.23"
         },
         {
           "precio": 978.0,
           "comerciante": "NarvaCrypfa",
           "min": "1000000",
-          "max": "4000000",
-          "disponible": "7980.04"
+          "max": "2799640",
+          "disponible": "2892.76"
         },
         {
-          "precio": 978.0,
-          "comerciante": "王冠__你们的头",
-          "min": "100000",
+          "precio": 978.5,
+          "comerciante": "doctor_zoidberg",
+          "min": "3000000",
           "max": "36450000",
-          "disponible": "1492.98"
+          "disponible": "4568.08"
+        },
+        {
+          "precio": 978.588,
+          "comerciante": "StartBusiness",
+          "min": "2000000",
+          "max": "20000000",
+          "disponible": "8843.61"
         }
       ]
     }
