@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-03T15:35:12+00:00",
-  "actualizado_ve": "2026-09-03T11:35:12-04:00",
+  "actualizado_utc": "2026-09-03T16:02:04+00:00",
+  "actualizado_ve": "2026-09-03T12:02:04-04:00",
   "bcv": {
     "usd": 804.8109,
     "eur": 932.80802553,
@@ -10,54 +10,54 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 984.062,
+    "referencia": 984.601,
     "venta": {
-      "promedio": 984.062,
-      "minimo": 983.21,
-      "maximo": 985.0,
+      "promedio": 984.601,
+      "minimo": 984.0,
+      "maximo": 986.0,
       "anuncios_usados": 5,
       "anuncios": [
+        {
+          "precio": 986.0,
+          "comerciante": "我米德克",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "43109.74"
+        },
         {
           "precio": 985.0,
           "comerciante": "Blank_Mind",
           "min": "2000000",
           "max": "36450000",
-          "disponible": "74927.48"
+          "disponible": "66562.00"
         },
         {
-          "precio": 984.7,
-          "comerciante": "P2P-56c1f574",
-          "min": "3000000",
-          "max": "4000000",
-          "disponible": "14000.00"
-        },
-        {
-          "precio": 983.7,
-          "comerciante": "GAMBINO-",
-          "min": "3000000",
-          "max": "36450000",
-          "disponible": "33000.06"
-        },
-        {
-          "precio": 983.7,
+          "precio": 984.005,
           "comerciante": "Trust-Broker",
           "min": "1900000",
           "max": "36450000",
-          "disponible": "47500.06"
+          "disponible": "45549.12"
         },
         {
-          "precio": 983.21,
-          "comerciante": "Twix",
-          "min": "3000000",
-          "max": "36450000",
-          "disponible": "3051.29"
+          "precio": 984.0,
+          "comerciante": "Mafer1003",
+          "min": "982000",
+          "max": "4000000",
+          "disponible": "6000.00"
+        },
+        {
+          "precio": 984.0,
+          "comerciante": "FengXchange",
+          "min": "500000",
+          "max": "1000000",
+          "disponible": "1500.00"
         }
       ]
     },
     "compra": {
-      "promedio": 983.02,
+      "promedio": 983.0456,
       "minimo": 981.0,
-      "maximo": 984.1,
+      "maximo": 984.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -69,34 +69,34 @@
         },
         {
           "precio": 983.0,
-          "comerciante": "Tripleese03",
-          "min": "49100",
-          "max": "49200",
+          "comerciante": "antunezchanges",
+          "min": "300",
+          "max": "98300",
           "disponible": "99.75"
         },
         {
-          "precio": 983.0,
-          "comerciante": "_DemoCambios_",
-          "min": "300000",
-          "max": "3000000",
-          "disponible": "498.75"
+          "precio": 983.229,
+          "comerciante": "VelociCambiosMx",
+          "min": "146995",
+          "max": "146996",
+          "disponible": "221.56"
+        },
+        {
+          "precio": 983.999,
+          "comerciante": "Bayridge",
+          "min": "98000",
+          "max": "1030200",
+          "disponible": "99.75"
         },
         {
           "precio": 984.0,
-          "comerciante": "ArepaConCafe",
-          "min": "36450000",
-          "max": "200000000",
-          "disponible": "111972.24"
-        },
-        {
-          "precio": 984.1,
-          "comerciante": "team-wolf",
-          "min": "10000",
-          "max": "259802",
-          "disponible": "19.48"
+          "comerciante": "Alejandromataa",
+          "min": "90000",
+          "max": "300000",
+          "disponible": "99.75"
         }
       ]
     }
   },
-  "brecha_pct": 22.27
+  "brecha_pct": 22.34
 }
