@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-04T07:34:53+00:00",
-  "actualizado_ve": "2026-09-04T03:34:53-04:00",
+  "actualizado_utc": "2026-09-04T08:01:56+00:00",
+  "actualizado_ve": "2026-09-04T04:01:56-04:00",
   "bcv": {
     "usd": 807.3862,
     "eur": 938.44920184,
@@ -10,27 +10,13 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 972.3648,
+    "referencia": 971.3426,
     "venta": {
-      "promedio": 972.3648,
-      "minimo": 971.203,
-      "maximo": 975.0,
+      "promedio": 971.3426,
+      "minimo": 971.0,
+      "maximo": 972.0,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 975.0,
-          "comerciante": "LA_GLORIA_DE_DIOS",
-          "min": "500",
-          "max": "1000",
-          "disponible": "97.10"
-        },
-        {
-          "precio": 972.121,
-          "comerciante": "VISÓN CRIPTØ",
-          "min": "200000",
-          "max": "36450000",
-          "disponible": "23266.09"
-        },
         {
           "precio": 972.0,
           "comerciante": "zama2004",
@@ -51,13 +37,27 @@
           "min": "100001",
           "max": "1000000",
           "disponible": "2276.05"
+        },
+        {
+          "precio": 971.01,
+          "comerciante": "FlashCambios1",
+          "min": "90000",
+          "max": "13000000",
+          "disponible": "9165.84"
+        },
+        {
+          "precio": 971.0,
+          "comerciante": "x88rising",
+          "min": "50000",
+          "max": "3537000",
+          "disponible": "2503.31"
         }
       ]
     },
     "compra": {
-      "promedio": 975.84,
+      "promedio": 975.9198,
       "minimo": 975.2,
-      "maximo": 976.6,
+      "maximo": 976.999,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -89,14 +89,14 @@
           "disponible": "28624.50"
         },
         {
-          "precio": 976.6,
-          "comerciante": "Cambios239",
-          "min": "400000",
-          "max": "3000000",
-          "disponible": "835.70"
+          "precio": 976.999,
+          "comerciante": "YHWHTrade",
+          "min": "1000000",
+          "max": "5000000",
+          "disponible": "4810.58"
         }
       ]
     }
   },
-  "brecha_pct": 20.43
+  "brecha_pct": 20.31
 }
