@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-04T03:35:10+00:00",
-  "actualizado_ve": "2026-09-03T23:35:10-04:00",
+  "actualizado_utc": "2026-09-04T04:01:44+00:00",
+  "actualizado_ve": "2026-09-04T00:01:44-04:00",
   "bcv": {
     "usd": 807.3862,
     "eur": 938.44920184,
@@ -10,62 +10,69 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 973.47,
+    "referencia": 972.1146,
     "venta": {
-      "promedio": 973.47,
-      "minimo": 973.0,
-      "maximo": 974.0,
+      "promedio": 972.1146,
+      "minimo": 972.0,
+      "maximo": 972.301,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 974.0,
-          "comerciante": "NZL23",
-          "min": "206000",
-          "max": "206800",
-          "disponible": "212.32"
+          "precio": 972.301,
+          "comerciante": "VENTASJM",
+          "min": "400000",
+          "max": "19055000",
+          "disponible": "13861.75"
         },
         {
-          "precio": 973.55,
-          "comerciante": "ExchangeVeskha",
-          "min": "250000",
-          "max": "7979339",
-          "disponible": "4179.98"
-        },
-        {
-          "precio": 973.5,
-          "comerciante": "Cjm_distribuidor",
-          "min": "1000000",
-          "max": "4000000",
-          "disponible": "25010.12"
-        },
-        {
-          "precio": 973.3,
-          "comerciante": "THE_BOSS_962",
-          "min": "100000",
+          "precio": 972.2,
+          "comerciante": "zama2004",
+          "min": "2000000",
           "max": "36450000",
-          "disponible": "20886.25"
+          "disponible": "45000.00"
         },
         {
-          "precio": 973.0,
-          "comerciante": "FielCrypto",
-          "min": "97300",
-          "max": "1614780",
-          "disponible": "126.01"
+          "precio": 972.072,
+          "comerciante": "VISÓN CRIPTØ",
+          "min": "1000000",
+          "max": "36450000",
+          "disponible": "80000.00"
+        },
+        {
+          "precio": 972.0,
+          "comerciante": "JURGEN_TRADER",
+          "min": "450000",
+          "max": "36450000",
+          "disponible": "9322.12"
+        },
+        {
+          "precio": 972.0,
+          "comerciante": "BTC57",
+          "min": "300000",
+          "max": "4000000",
+          "disponible": "950.00"
         }
       ]
     },
     "compra": {
-      "promedio": 974.418,
+      "promedio": 973.9636,
       "minimo": 972.0,
-      "maximo": 975.6,
+      "maximo": 975.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
           "precio": 972.0,
           "comerciante": "User-a370e",
-          "min": "450000",
+          "min": "350000",
           "max": "1400000",
-          "disponible": "1168.03"
+          "disponible": "567.98"
+        },
+        {
+          "precio": 973.818,
+          "comerciante": "adrubita",
+          "min": "971000",
+          "max": "10000000",
+          "disponible": "1089.07"
         },
         {
           "precio": 974.0,
@@ -75,28 +82,21 @@
           "disponible": "0.33"
         },
         {
-          "precio": 974.9,
-          "comerciante": "K69_Trades",
-          "min": "1000000",
-          "max": "36450000",
-          "disponible": "11117.85"
+          "precio": 975.0,
+          "comerciante": "mike13",
+          "min": "9700",
+          "max": "4000000",
+          "disponible": "35.33"
         },
         {
-          "precio": 975.59,
-          "comerciante": "josealtu",
-          "min": "4500000",
-          "max": "10000000",
-          "disponible": "5564.23"
-        },
-        {
-          "precio": 975.6,
-          "comerciante": "Sr_____Trader",
-          "min": "1000000",
-          "max": "7000000",
-          "disponible": "6058.22"
+          "precio": 975.0,
+          "comerciante": "Cambiosisabella",
+          "min": "50000",
+          "max": "195000",
+          "disponible": "66.18"
         }
       ]
     }
   },
-  "brecha_pct": 20.57
+  "brecha_pct": 20.4
 }
