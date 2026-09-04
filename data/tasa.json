@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-04T10:02:07+00:00",
-  "actualizado_ve": "2026-09-04T06:02:07-04:00",
+  "actualizado_utc": "2026-09-04T10:35:04+00:00",
+  "actualizado_ve": "2026-09-04T06:35:04-04:00",
   "bcv": {
     "usd": 807.3862,
     "eur": 938.44920184,
@@ -10,33 +10,33 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 972.4202,
+    "referencia": 973.414,
     "venta": {
-      "promedio": 972.4202,
+      "promedio": 973.414,
       "minimo": 972.0,
-      "maximo": 973.5,
+      "maximo": 979.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 973.5,
-          "comerciante": "_Cyber_Glup_Matrix_-",
-          "min": "5000",
-          "max": "5100",
-          "disponible": "100.00"
+          "precio": 979.0,
+          "comerciante": "Col-Primavera",
+          "min": "1000000",
+          "max": "1000538",
+          "disponible": "1022.00"
         },
         {
-          "precio": 972.301,
-          "comerciante": "Moncayo",
-          "min": "150000",
-          "max": "450000",
-          "disponible": "2190.55"
+          "precio": 972.055,
+          "comerciante": "JugadorFranquiicia1",
+          "min": "250000",
+          "max": "36000000",
+          "disponible": "5061.80"
         },
         {
-          "precio": 972.3,
-          "comerciante": "zoecambios_21",
-          "min": "600000",
-          "max": "35000000",
-          "disponible": "5690.47"
+          "precio": 972.015,
+          "comerciante": "SirCaiza-Trader",
+          "min": "500000",
+          "max": "6500000",
+          "disponible": "6690.00"
         },
         {
           "precio": 972.0,
@@ -47,33 +47,19 @@
         },
         {
           "precio": 972.0,
-          "comerciante": "SACL17",
-          "min": "100000",
-          "max": "777600",
-          "disponible": "800.00"
+          "comerciante": "zoecambios_21",
+          "min": "600000",
+          "max": "35000000",
+          "disponible": "6857.34"
         }
       ]
     },
     "compra": {
-      "promedio": 975.32,
-      "minimo": 974.0,
-      "maximo": 976.0,
+      "promedio": 976.0196,
+      "minimo": 975.7,
+      "maximo": 976.699,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 974.0,
-          "comerciante": "SamiqDuq",
-          "min": "80000",
-          "max": "1000000",
-          "disponible": "199.50"
-        },
-        {
-          "precio": 975.2,
-          "comerciante": "J17CS",
-          "min": "5000000",
-          "max": "36450000",
-          "disponible": "8788.09"
-        },
         {
           "precio": 975.7,
           "comerciante": "Guayoyoo",
@@ -89,14 +75,28 @@
           "disponible": "1.06"
         },
         {
+          "precio": 975.999,
+          "comerciante": "CH-Intercambios",
+          "min": "400000",
+          "max": "950000",
+          "disponible": "1946.59"
+        },
+        {
           "precio": 976.0,
           "comerciante": "Anonymouss-Exchange",
           "min": "4000000",
           "max": "36000000",
-          "disponible": "23911.40"
+          "disponible": "28624.50"
+        },
+        {
+          "precio": 976.699,
+          "comerciante": "rParadas",
+          "min": "2000000",
+          "max": "15000000",
+          "disponible": "6784.96"
         }
       ]
     }
   },
-  "brecha_pct": 20.44
+  "brecha_pct": 20.56
 }
