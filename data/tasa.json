@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-04T11:01:49+00:00",
-  "actualizado_ve": "2026-09-04T07:01:49-04:00",
+  "actualizado_utc": "2026-09-04T11:34:08+00:00",
+  "actualizado_ve": "2026-09-04T07:34:08-04:00",
   "bcv": {
     "usd": 807.3862,
     "eur": 938.44920184,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 974.116,
+    "referencia": 974.7244,
     "venta": {
-      "promedio": 974.116,
-      "minimo": 972.7,
+      "promedio": 974.7244,
+      "minimo": 973.2,
       "maximo": 979.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -25,78 +25,78 @@
           "disponible": "1022.00"
         },
         {
-          "precio": 973.1,
-          "comerciante": "CAMBIOS_RAPIDOS",
-          "min": "800000",
-          "max": "25000000",
-          "disponible": "6969.27"
+          "precio": 975.0,
+          "comerciante": "MattDemond",
+          "min": "20000",
+          "max": "1200044",
+          "disponible": "633.00"
         },
         {
-          "precio": 972.9,
-          "comerciante": "Tico",
-          "min": "70000",
-          "max": "2500000",
-          "disponible": "830.78"
+          "precio": 973.222,
+          "comerciante": "VISÓN CRIPTØ",
+          "min": "500000",
+          "max": "36450000",
+          "disponible": "3454.37"
         },
         {
-          "precio": 972.88,
-          "comerciante": "mayerlingm",
-          "min": "100000",
-          "max": "4750000",
-          "disponible": "578.52"
+          "precio": 973.2,
+          "comerciante": "AENETEACHEOENEYE",
+          "min": "4000000",
+          "max": "8655540",
+          "disponible": "8894.35"
         },
         {
-          "precio": 972.7,
-          "comerciante": "T_A_U_R_O--pro--",
-          "min": "200000",
-          "max": "2000000",
-          "disponible": "50000.00"
+          "precio": 973.2,
+          "comerciante": "Cambios-bajocero",
+          "min": "600000",
+          "max": "6448616",
+          "disponible": "1147.74"
         }
       ]
     },
     "compra": {
-      "promedio": 975.64,
+      "promedio": 975.378,
       "minimo": 975.0,
-      "maximo": 976.5,
+      "maximo": 975.99,
       "anuncios_usados": 5,
       "anuncios": [
         {
           "precio": 975.0,
-          "comerciante": "P2P-Brisenderos",
-          "min": "975",
-          "max": "112125",
-          "disponible": "96.25"
+          "comerciante": "LAGOMAR",
+          "min": "30000",
+          "max": "400000",
+          "disponible": "121.03"
         },
         {
           "precio": 975.0,
-          "comerciante": "yvamar7",
-          "min": "50000",
-          "max": "4000000",
-          "disponible": "706.81"
+          "comerciante": "Yousberth2907",
+          "min": "195900",
+          "max": "196000",
+          "disponible": "201.66"
+        },
+        {
+          "precio": 975.2,
+          "comerciante": "J17CS",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "8788.09"
         },
         {
           "precio": 975.7,
           "comerciante": "lindaKe",
           "min": "300",
           "max": "125674",
-          "disponible": "1.06"
+          "disponible": "0.62"
         },
         {
-          "precio": 976.0,
-          "comerciante": "P2P-176515tv",
-          "min": "1000000",
-          "max": "4000000",
-          "disponible": "6349.50"
-        },
-        {
-          "precio": 976.5,
-          "comerciante": "intercambios_EES86",
+          "precio": 975.99,
+          "comerciante": "1Somos",
           "min": "300",
-          "max": "97650",
-          "disponible": "63.64"
+          "max": "420000",
+          "disponible": "0.64"
         }
       ]
     }
   },
-  "brecha_pct": 20.65
+  "brecha_pct": 20.73
 }
