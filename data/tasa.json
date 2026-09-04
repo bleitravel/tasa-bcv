@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-04T07:02:28+00:00",
-  "actualizado_ve": "2026-09-04T03:02:28-04:00",
+  "actualizado_utc": "2026-09-04T07:34:53+00:00",
+  "actualizado_ve": "2026-09-04T03:34:53-04:00",
   "bcv": {
     "usd": 807.3862,
     "eur": 938.44920184,
@@ -10,26 +10,26 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 971.774,
+    "referencia": 972.3648,
     "venta": {
-      "promedio": 971.774,
-      "minimo": 971.333,
-      "maximo": 972.027,
+      "promedio": 972.3648,
+      "minimo": 971.203,
+      "maximo": 975.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 972.027,
-          "comerciante": "VISÓN CRIPTØ",
-          "min": "500000",
-          "max": "36450000",
-          "disponible": "25208.92"
+          "precio": 975.0,
+          "comerciante": "LA_GLORIA_DE_DIOS",
+          "min": "500",
+          "max": "1000",
+          "disponible": "97.10"
         },
         {
-          "precio": 972.01,
-          "comerciante": "THE_BOSS_962",
+          "precio": 972.121,
+          "comerciante": "VISÓN CRIPTØ",
           "min": "200000",
           "max": "36450000",
-          "disponible": "9347.78"
+          "disponible": "23266.09"
         },
         {
           "precio": 972.0,
@@ -46,11 +46,11 @@
           "disponible": "10300.00"
         },
         {
-          "precio": 971.333,
-          "comerciante": "CambioRapido13",
-          "min": "100000",
-          "max": "1915428",
-          "disponible": "145.29"
+          "precio": 971.203,
+          "comerciante": "Espj_15",
+          "min": "100001",
+          "max": "1000000",
+          "disponible": "2276.05"
         }
       ]
     },
@@ -98,5 +98,5 @@
       ]
     }
   },
-  "brecha_pct": 20.36
+  "brecha_pct": 20.43
 }
