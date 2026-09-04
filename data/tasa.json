@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-04T23:01:50+00:00",
-  "actualizado_ve": "2026-09-04T19:01:50-04:00",
+  "actualizado_utc": "2026-09-04T23:31:17+00:00",
+  "actualizado_ve": "2026-09-04T19:31:17-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 964.214,
+    "referencia": 965.52,
     "venta": {
-      "promedio": 964.214,
-      "minimo": 962.51,
-      "maximo": 966.0,
+      "promedio": 965.52,
+      "minimo": 964.6,
+      "maximo": 967.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 966.0,
+          "precio": 967.0,
           "comerciante": "CriptoseguroAyM",
           "min": "1500000",
           "max": "34000000",
-          "disponible": "35265.20"
+          "disponible": "33712.41"
         },
         {
-          "precio": 965.005,
+          "precio": 966.0,
           "comerciante": "Trust-Broker",
           "min": "1000000",
           "max": "36450000",
-          "disponible": "30932.38"
+          "disponible": "29832.44"
         },
         {
           "precio": 965.0,
           "comerciante": "Blank_Mind",
           "min": "500000",
           "max": "36450000",
-          "disponible": "24481.87"
+          "disponible": "21802.42"
         },
         {
-          "precio": 962.555,
-          "comerciante": "我米德克",
-          "min": "10000000",
-          "max": "36450000",
-          "disponible": "80000.00"
+          "precio": 965.0,
+          "comerciante": "Escocrida",
+          "min": "3000000",
+          "max": "10000000",
+          "disponible": "6735.06"
         },
         {
-          "precio": 962.51,
-          "comerciante": "Cambioscorleone",
-          "min": "7000000",
-          "max": "36450000",
-          "disponible": "58895.04"
+          "precio": 964.6,
+          "comerciante": "Rappid0",
+          "min": "299500",
+          "max": "300000",
+          "disponible": "311.53"
         }
       ]
     },
     "compra": {
-      "promedio": 962.129,
-      "minimo": 962.1,
-      "maximo": 962.196,
+      "promedio": 962.7558,
+      "minimo": 961.5,
+      "maximo": 963.49,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 962.1,
-          "comerciante": "Servicios-Criptos-27",
-          "min": "2000000",
-          "max": "14000000",
-          "disponible": "2994.75"
+          "precio": 961.5,
+          "comerciante": "danyCambios",
+          "min": "800",
+          "max": "400000",
+          "disponible": "8.50"
         },
         {
-          "precio": 962.11,
-          "comerciante": "BOLIVARES_BS",
-          "min": "3000000",
-          "max": "36450000",
-          "disponible": "5648.58"
+          "precio": 962.0,
+          "comerciante": "HYPERION-CRYPT",
+          "min": "40000",
+          "max": "42000",
+          "disponible": "99.75"
         },
         {
-          "precio": 962.119,
-          "comerciante": "-JPMorgan-",
-          "min": "4000000",
-          "max": "36000000",
-          "disponible": "13896.80"
+          "precio": 963.3,
+          "comerciante": "GlobalBusinessmx",
+          "min": "72520",
+          "max": "72521",
+          "disponible": "99.75"
         },
         {
-          "precio": 962.12,
-          "comerciante": "Josebat23",
-          "min": "5000000",
-          "max": "25000000",
-          "disponible": "16912.47"
+          "precio": 963.489,
+          "comerciante": "JDCAPITAL-HOLDING",
+          "min": "100000",
+          "max": "7000000",
+          "disponible": "598.95"
         },
         {
-          "precio": 962.196,
-          "comerciante": "jaro23",
-          "min": "3000000",
-          "max": "36000000",
-          "disponible": "25656.11"
+          "precio": 963.49,
+          "comerciante": "Carlitos-trading",
+          "min": "3500000",
+          "max": "9000000",
+          "disponible": "7006.24"
         }
       ]
     }
   },
-  "brecha_pct": 18.49
+  "brecha_pct": 18.65
 }
