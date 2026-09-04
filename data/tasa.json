@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-04T06:38:26+00:00",
-  "actualizado_ve": "2026-09-04T02:38:26-04:00",
+  "actualizado_utc": "2026-09-04T07:02:28+00:00",
+  "actualizado_ve": "2026-09-04T03:02:28-04:00",
   "bcv": {
     "usd": 807.3862,
     "eur": 938.44920184,
@@ -10,33 +10,26 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 972.5374,
+    "referencia": 971.774,
     "venta": {
-      "promedio": 972.5374,
-      "minimo": 971.65,
-      "maximo": 975.0,
+      "promedio": 971.774,
+      "minimo": 971.333,
+      "maximo": 972.027,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 975.0,
-          "comerciante": "LA_GLORIA_DE_DIOS",
-          "min": "500",
-          "max": "1000",
-          "disponible": "97.45"
-        },
         {
           "precio": 972.027,
           "comerciante": "VISÓN CRIPTØ",
           "min": "500000",
           "max": "36450000",
-          "disponible": "27408.91"
+          "disponible": "25208.92"
         },
         {
           "precio": 972.01,
           "comerciante": "THE_BOSS_962",
           "min": "200000",
           "max": "36450000",
-          "disponible": "10722.78"
+          "disponible": "9347.78"
         },
         {
           "precio": 972.0,
@@ -46,11 +39,18 @@
           "disponible": "39500.06"
         },
         {
-          "precio": 971.65,
-          "comerciante": "JURGEN_TRADER",
-          "min": "450000",
+          "precio": 971.5,
+          "comerciante": "YAMISENSEI",
+          "min": "1000000",
           "max": "36450000",
-          "disponible": "6486.92"
+          "disponible": "10300.00"
+        },
+        {
+          "precio": 971.333,
+          "comerciante": "CambioRapido13",
+          "min": "100000",
+          "max": "1915428",
+          "disponible": "145.29"
         }
       ]
     },
@@ -86,7 +86,7 @@
           "comerciante": "Anonymouss-Exchange",
           "min": "4000000",
           "max": "36000000",
-          "disponible": "24400.12"
+          "disponible": "28624.50"
         },
         {
           "precio": 976.6,
@@ -98,5 +98,5 @@
       ]
     }
   },
-  "brecha_pct": 20.46
+  "brecha_pct": 20.36
 }
