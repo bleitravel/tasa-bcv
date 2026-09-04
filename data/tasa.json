@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-04T05:01:48+00:00",
-  "actualizado_ve": "2026-09-04T01:01:48-04:00",
+  "actualizado_utc": "2026-09-04T05:33:56+00:00",
+  "actualizado_ve": "2026-09-04T01:33:56-04:00",
   "bcv": {
     "usd": 807.3862,
     "eur": 938.44920184,
@@ -10,47 +10,47 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 973.3238,
+    "referencia": 972.16,
     "venta": {
-      "promedio": 973.3238,
-      "minimo": 973.0,
-      "maximo": 974.0,
+      "promedio": 972.16,
+      "minimo": 971.9,
+      "maximo": 972.4,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 974.0,
-          "comerciante": "Cjm_distribuidor",
-          "min": "1000000",
-          "max": "4000000",
-          "disponible": "25010.12"
-        },
-        {
-          "precio": 973.5,
+          "precio": 972.4,
           "comerciante": "VISÓN CRIPTØ",
-          "min": "100000",
+          "min": "700000",
           "max": "36450000",
-          "disponible": "47376.74"
+          "disponible": "33553.76"
         },
         {
-          "precio": 973.118,
-          "comerciante": "ceryo123",
-          "min": "88200",
-          "max": "1039000",
-          "disponible": "780.80"
+          "precio": 972.2,
+          "comerciante": "zama2004",
+          "min": "1000000",
+          "max": "36450000",
+          "disponible": "45000.00"
         },
         {
-          "precio": 973.001,
-          "comerciante": "Capital_VES_P2P",
-          "min": "100001",
-          "max": "36400000",
-          "disponible": "2065.17"
+          "precio": 972.2,
+          "comerciante": "THE_BOSS_962",
+          "min": "300000",
+          "max": "36450000",
+          "disponible": "14378.28"
         },
         {
-          "precio": 973.0,
-          "comerciante": "Aj2016",
-          "min": "200000",
-          "max": "400000",
-          "disponible": "425.08"
+          "precio": 972.1,
+          "comerciante": "RoronoaZoro3",
+          "min": "100000",
+          "max": "10000000",
+          "disponible": "8824.96"
+        },
+        {
+          "precio": 971.9,
+          "comerciante": "Ale1498",
+          "min": "11000",
+          "max": "720000",
+          "disponible": "17.26"
         }
       ]
     },
@@ -93,10 +93,10 @@
           "comerciante": "SuperDuko",
           "min": "50000",
           "max": "15000000",
-          "disponible": "4528.23"
+          "disponible": "2106.58"
         }
       ]
     }
   },
-  "brecha_pct": 20.55
+  "brecha_pct": 20.41
 }
