@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-04T09:02:17+00:00",
-  "actualizado_ve": "2026-09-04T05:02:17-04:00",
+  "actualizado_utc": "2026-09-04T09:35:09+00:00",
+  "actualizado_ve": "2026-09-04T05:35:09-04:00",
   "bcv": {
     "usd": 807.3862,
     "eur": 938.44920184,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 971.2288,
+    "referencia": 971.342,
     "venta": {
-      "promedio": 971.2288,
-      "minimo": 970.601,
+      "promedio": 971.342,
+      "minimo": 970.8,
       "maximo": 972.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -22,44 +22,51 @@
           "comerciante": "zama2004",
           "min": "1000000",
           "max": "36450000",
-          "disponible": "39500.06"
+          "disponible": "36458.18"
+        },
+        {
+          "precio": 971.6,
+          "comerciante": "zoecambios_21",
+          "min": "600000",
+          "max": "35000000",
+          "disponible": "8600.00"
         },
         {
           "precio": 971.5,
           "comerciante": "YAMISENSEI",
           "min": "1000000",
           "max": "36450000",
-          "disponible": "10300.00"
+          "disponible": "8756.00"
         },
         {
-          "precio": 971.333,
-          "comerciante": "CambioRapido13",
-          "min": "100000",
-          "max": "1915428",
-          "disponible": "145.29"
-        },
-        {
-          "precio": 970.71,
+          "precio": 970.81,
           "comerciante": "JugadorFranquiicia1",
           "min": "250000",
           "max": "36000000",
           "disponible": "5000.00"
         },
         {
-          "precio": 970.601,
-          "comerciante": "Espj_15",
-          "min": "90001",
-          "max": "1000000",
-          "disponible": "2176.11"
+          "precio": 970.8,
+          "comerciante": "CAMBIORAPID0S",
+          "min": "400000",
+          "max": "36000000",
+          "disponible": "18969.87"
         }
       ]
     },
     "compra": {
-      "promedio": 975.91,
-      "minimo": 975.2,
-      "maximo": 976.95,
+      "promedio": 975.52,
+      "minimo": 975.0,
+      "maximo": 976.0,
       "anuncios_usados": 5,
       "anuncios": [
+        {
+          "precio": 975.0,
+          "comerciante": "cambiosramses",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "99.75"
+        },
         {
           "precio": 975.2,
           "comerciante": "J17CS",
@@ -87,16 +94,9 @@
           "min": "4000000",
           "max": "36000000",
           "disponible": "28624.50"
-        },
-        {
-          "precio": 976.95,
-          "comerciante": "el_jose_jose",
-          "min": "1000000",
-          "max": "7282303",
-          "disponible": "7444.81"
         }
       ]
     }
   },
-  "brecha_pct": 20.29
+  "brecha_pct": 20.31
 }
