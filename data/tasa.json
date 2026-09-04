@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-04T17:01:54+00:00",
-  "actualizado_ve": "2026-09-04T13:01:54-04:00",
+  "actualizado_utc": "2026-09-04T17:32:02+00:00",
+  "actualizado_ve": "2026-09-04T13:32:02-04:00",
   "bcv": {
     "usd": 807.3862,
     "eur": 938.44920184,
@@ -10,19 +10,19 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 965.6202,
+    "referencia": 966.0,
     "venta": {
-      "promedio": 965.6202,
-      "minimo": 963.5,
+      "promedio": 966.0,
+      "minimo": 964.0,
       "maximo": 970.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
           "precio": 970.0,
-          "comerciante": "被放逐的狐狸",
-          "min": "1000000",
-          "max": "34000000",
-          "disponible": "75656.10"
+          "comerciante": "User-6193a",
+          "min": "3468",
+          "max": "3469",
+          "disponible": "100.00"
         },
         {
           "precio": 967.0,
@@ -32,6 +32,13 @@
           "disponible": "25323.30"
         },
         {
+          "precio": 965.0,
+          "comerciante": "trader301",
+          "min": "300",
+          "max": "500",
+          "disponible": "100.00"
+        },
+        {
           "precio": 964.0,
           "comerciante": "alex",
           "min": "80000",
@@ -39,64 +46,57 @@
           "disponible": "100.00"
         },
         {
-          "precio": 963.601,
-          "comerciante": "Cambios-Vargas",
-          "min": "10000",
-          "max": "4000000",
-          "disponible": "310.00"
-        },
-        {
-          "precio": 963.5,
-          "comerciante": "LeonBlanco11",
-          "min": "800000",
-          "max": "4000000",
-          "disponible": "4000.00"
+          "precio": 964.0,
+          "comerciante": "CriptoseguroAyM",
+          "min": "500000",
+          "max": "14000000",
+          "disponible": "8256.63"
         }
       ]
     },
     "compra": {
-      "promedio": 963.8898,
-      "minimo": 963.45,
-      "maximo": 964.0,
+      "promedio": 961.9716,
+      "minimo": 961.9,
+      "maximo": 961.999,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 963.45,
-          "comerciante": "CarlaM-1002",
-          "min": "1500000",
-          "max": "6200000",
-          "disponible": "1921.28"
+          "precio": 961.9,
+          "comerciante": "AthenaCryptoP2P",
+          "min": "3000000",
+          "max": "8000000",
+          "disponible": "8266.96"
         },
         {
-          "precio": 963.999,
-          "comerciante": "LechugaExpress",
-          "min": "5900000",
+          "precio": 961.98,
+          "comerciante": "Azir-p2p",
+          "min": "2000000",
+          "max": "15000000",
+          "disponible": "6947.71"
+        },
+        {
+          "precio": 961.989,
+          "comerciante": "BOLIVARES_BS",
+          "min": "3000000",
           "max": "36450000",
-          "disponible": "6123.25"
+          "disponible": "11985.01"
         },
         {
-          "precio": 964.0,
-          "comerciante": "Carlos1703",
-          "min": "3000",
-          "max": "300254",
-          "disponible": "6.33"
+          "precio": 961.99,
+          "comerciante": "Gjsan",
+          "min": "2000000",
+          "max": "36450000",
+          "disponible": "6991.26"
         },
         {
-          "precio": 964.0,
-          "comerciante": "CAMBIOSCRY",
-          "min": "1000",
-          "max": "168300",
-          "disponible": "10.48"
-        },
-        {
-          "precio": 964.0,
-          "comerciante": "Susann Columbo h3Ge",
-          "min": "5000",
-          "max": "300000",
-          "disponible": "7.22"
+          "precio": 961.999,
+          "comerciante": "MANTEQUILLAA",
+          "min": "5000000",
+          "max": "30000000",
+          "disponible": "29986.37"
         }
       ]
     }
   },
-  "brecha_pct": 19.6
+  "brecha_pct": 19.65
 }
