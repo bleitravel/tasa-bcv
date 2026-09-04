@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-04T01:32:27+00:00",
-  "actualizado_ve": "2026-09-03T21:32:27-04:00",
+  "actualizado_utc": "2026-09-04T02:02:01+00:00",
+  "actualizado_ve": "2026-09-03T22:02:01-04:00",
   "bcv": {
     "usd": 807.3862,
     "eur": 938.44920184,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 972.6012,
+    "referencia": 971.6534,
     "venta": {
-      "promedio": 972.6012,
-      "minimo": 970.006,
-      "maximo": 976.0,
+      "promedio": 971.6534,
+      "minimo": 971.007,
+      "maximo": 974.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 976.0,
-          "comerciante": "Tacondi",
-          "min": "30000",
-          "max": "156000",
-          "disponible": "160.00"
-        },
-        {
-          "precio": 973.0,
-          "comerciante": "jgaetano152",
-          "min": "999",
-          "max": "1000",
-          "disponible": "1000.00"
-        },
-        {
-          "precio": 973.0,
+          "precio": 974.0,
           "comerciante": "Trust-Broker",
           "min": "3000000",
           "max": "36450000",
-          "disponible": "80000.00"
+          "disponible": "73783.41"
         },
         {
-          "precio": 971.0,
-          "comerciante": "KaioSama16",
-          "min": "250000",
-          "max": "279390",
-          "disponible": "287.00"
+          "precio": 971.105,
+          "comerciante": "guamo-1",
+          "min": "900000",
+          "max": "34000000",
+          "disponible": "4597.97"
         },
         {
-          "precio": 970.006,
-          "comerciante": "Trust-Broker",
-          "min": "2000000",
-          "max": "36450000",
-          "disponible": "37000.06"
+          "precio": 971.1,
+          "comerciante": "zoecambios_21",
+          "min": "700000",
+          "max": "35000000",
+          "disponible": "6970.53"
+        },
+        {
+          "precio": 971.055,
+          "comerciante": "JugadorFranquiicia1",
+          "min": "300000",
+          "max": "36000000",
+          "disponible": "78415.17"
+        },
+        {
+          "precio": 971.007,
+          "comerciante": "MekaddeshJM",
+          "min": "200000",
+          "max": "4000000",
+          "disponible": "644.96"
         }
       ]
     },
     "compra": {
-      "promedio": 972.1392,
-      "minimo": 971.999,
-      "maximo": 972.399,
+      "promedio": 972.5358,
+      "minimo": 972.0,
+      "maximo": 972.78,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 971.999,
-          "comerciante": "_TropiCoqueta_",
-          "min": "500000",
-          "max": "10000000",
-          "disponible": "8134.92"
-        },
-        {
           "precio": 972.0,
-          "comerciante": "sanchez237",
-          "min": "7855000",
-          "max": "8000000",
-          "disponible": "8085.84"
+          "comerciante": "Vanejinete88",
+          "min": "20000",
+          "max": "4000000",
+          "disponible": "33.91"
         },
         {
-          "precio": 972.0,
-          "comerciante": "intercash",
-          "min": "700",
-          "max": "50000",
-          "disponible": "366.21"
+          "precio": 972.599,
+          "comerciante": "Diego",
+          "min": "4000000",
+          "max": "6000000",
+          "disponible": "6786.87"
         },
         {
-          "precio": 972.298,
-          "comerciante": "Vaneandreina7",
-          "min": "599000",
-          "max": "600000",
-          "disponible": "1296.75"
-        },
-        {
-          "precio": 972.399,
-          "comerciante": "Dergut_23",
-          "min": "1500000",
+          "precio": 972.6,
+          "comerciante": "Pikachuuu13",
+          "min": "1000000",
           "max": "36450000",
-          "disponible": "1796.85"
+          "disponible": "5200.00"
+        },
+        {
+          "precio": 972.7,
+          "comerciante": "kaizenholder",
+          "min": "1500000",
+          "max": "36000000",
+          "disponible": "2534.29"
+        },
+        {
+          "precio": 972.78,
+          "comerciante": "亀CryptoKoku",
+          "min": "3000000",
+          "max": "36450000",
+          "disponible": "8323.45"
         }
       ]
     }
   },
-  "brecha_pct": 20.46
+  "brecha_pct": 20.35
 }
