@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-04T14:34:48+00:00",
-  "actualizado_ve": "2026-09-04T10:34:48-04:00",
+  "actualizado_utc": "2026-09-04T15:01:57+00:00",
+  "actualizado_ve": "2026-09-04T11:01:57-04:00",
   "bcv": {
     "usd": 807.3862,
     "eur": 938.44920184,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 970.9,
+    "referencia": 973.802,
     "venta": {
-      "promedio": 970.9,
-      "minimo": 967.5,
+      "promedio": 973.802,
+      "minimo": 970.01,
       "maximo": 979.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -25,78 +25,78 @@
           "disponible": "1022.00"
         },
         {
-          "precio": 971.0,
+          "precio": 975.0,
           "comerciante": "被放逐的狐狸",
           "min": "1000000",
           "max": "34000000",
-          "disponible": "64836.75"
+          "disponible": "66812.23"
         },
         {
-          "precio": 969.0,
-          "comerciante": "CriptoseguroAyM",
-          "min": "600000",
-          "max": "14000000",
-          "disponible": "14000.00"
-        },
-        {
-          "precio": 968.0,
+          "precio": 974.0,
           "comerciante": "Trust-Broker",
+          "min": "2000000",
+          "max": "36450000",
+          "disponible": "41457.94"
+        },
+        {
+          "precio": 971.0,
+          "comerciante": "CriptoseguroAyM",
+          "min": "500000",
+          "max": "14000000",
+          "disponible": "17177.93"
+        },
+        {
+          "precio": 970.01,
+          "comerciante": "diomedez14",
           "min": "3000000",
           "max": "36450000",
-          "disponible": "47489.76"
-        },
-        {
-          "precio": 967.5,
-          "comerciante": "MARIA DIAZ",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "0.40"
+          "disponible": "20207.61"
         }
       ]
     },
     "compra": {
-      "promedio": 966.72,
-      "minimo": 966.5,
-      "maximo": 966.8,
+      "promedio": 966.9354,
+      "minimo": 965.9,
+      "maximo": 967.35,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 966.5,
-          "comerciante": "LosRosales",
-          "min": "50000",
-          "max": "152500",
-          "disponible": "159.60"
+          "precio": 965.9,
+          "comerciante": "CryptoEthx",
+          "min": "10000",
+          "max": "100000",
+          "disponible": "21.45"
         },
         {
-          "precio": 966.7,
-          "comerciante": "robert619",
-          "min": "403000",
-          "max": "405400",
-          "disponible": "418.41"
+          "precio": 967.0,
+          "comerciante": "LeoWinged",
+          "min": "950",
+          "max": "93700",
+          "disponible": "12.29"
         },
         {
-          "precio": 966.8,
-          "comerciante": "NexusPremiun",
-          "min": "1000000",
-          "max": "20000000",
-          "disponible": "13019.34"
+          "precio": 967.1,
+          "comerciante": "team-wolf",
+          "min": "10000",
+          "max": "251446",
+          "disponible": "28.84"
         },
         {
-          "precio": 966.8,
-          "comerciante": "CryptoMendoza-",
-          "min": "1000000",
-          "max": "25000000",
-          "disponible": "3442.71"
+          "precio": 967.327,
+          "comerciante": "Cambio-Ideal",
+          "min": "5000",
+          "max": "250000",
+          "disponible": "99.75"
         },
         {
-          "precio": 966.8,
-          "comerciante": "-HashiramaSenju",
-          "min": "1000000",
-          "max": "20000000",
-          "disponible": "9113.21"
+          "precio": 967.35,
+          "comerciante": "Mary_IzaTer",
+          "min": "15000",
+          "max": "285000",
+          "disponible": "289.27"
         }
       ]
     }
   },
-  "brecha_pct": 20.25
+  "brecha_pct": 20.61
 }
