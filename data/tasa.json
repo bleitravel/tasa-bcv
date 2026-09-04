@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-04T02:34:12+00:00",
-  "actualizado_ve": "2026-09-03T22:34:12-04:00",
+  "actualizado_utc": "2026-09-04T03:01:59+00:00",
+  "actualizado_ve": "2026-09-03T23:01:59-04:00",
   "bcv": {
     "usd": 807.3862,
     "eur": 938.44920184,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 973.412,
+    "referencia": 972.5542,
     "venta": {
-      "promedio": 973.412,
-      "minimo": 972.0,
-      "maximo": 976.05,
+      "promedio": 972.5542,
+      "minimo": 972.351,
+      "maximo": 973.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 976.05,
-          "comerciante": "Anyelo",
-          "min": "362000",
-          "max": "362500",
-          "disponible": "800.00"
-        },
-        {
-          "precio": 975.0,
-          "comerciante": "Trust-Broker",
-          "min": "2000000",
-          "max": "36450000",
-          "disponible": "67257.67"
-        },
-        {
-          "precio": 972.01,
-          "comerciante": "doctor_zoidberg",
-          "min": "1000000",
-          "max": "19484000",
-          "disponible": "15456.64"
-        },
-        {
-          "precio": 972.0,
-          "comerciante": "Proca_vnzla",
-          "min": "2000000",
+          "precio": 973.0,
+          "comerciante": "trades-acv2",
+          "min": "20000",
           "max": "4000000",
-          "disponible": "11600.00"
+          "disponible": "900.00"
         },
         {
-          "precio": 972.0,
-          "comerciante": "贝HarveySpecter贝",
+          "precio": 972.7,
+          "comerciante": "caramedio ",
+          "min": "857000",
+          "max": "858000",
+          "disponible": "882.00"
+        },
+        {
+          "precio": 972.36,
+          "comerciante": "Cjm_distribuidor",
           "min": "500000",
+          "max": "4000000",
+          "disponible": "26680.06"
+        },
+        {
+          "precio": 972.36,
+          "comerciante": "CAMBIORAPID0S",
+          "min": "1000000",
           "max": "36000000",
-          "disponible": "50000.00"
+          "disponible": "8405.14"
+        },
+        {
+          "precio": 972.351,
+          "comerciante": "Srexchanges",
+          "min": "400000",
+          "max": "36000000",
+          "disponible": "13347.37"
         }
       ]
     },
     "compra": {
-      "promedio": 973.5194,
-      "minimo": 973.3,
-      "maximo": 973.6,
+      "promedio": 974.3036,
+      "minimo": 973.818,
+      "maximo": 974.9,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 973.3,
-          "comerciante": "Cheryimport",
-          "min": "1299000",
+          "precio": 973.818,
+          "comerciante": "adrubita",
+          "min": "971000",
+          "max": "10000000",
+          "disponible": "1100.37"
+        },
+        {
+          "precio": 974.0,
+          "comerciante": "AnaAlmanza",
+          "min": "300",
           "max": "4000000",
-          "disponible": "1336.75"
+          "disponible": "0.33"
         },
         {
-          "precio": 973.498,
-          "comerciante": "Primeramente Dios ",
-          "min": "80000",
+          "precio": 974.0,
+          "comerciante": "yvamar7",
+          "min": "50000",
           "max": "4000000",
-          "disponible": "338.49"
+          "disponible": "1635.68"
         },
         {
-          "precio": 973.599,
-          "comerciante": "douglas1997",
-          "min": "600000",
-          "max": "11000000",
-          "disponible": "1615.99"
+          "precio": 974.8,
+          "comerciante": "kaizenholder",
+          "min": "1500000",
+          "max": "36000000",
+          "disponible": "12362.77"
         },
         {
-          "precio": 973.6,
-          "comerciante": "Euclides001",
-          "min": "10000",
-          "max": "271559",
-          "disponible": "154.39"
-        },
-        {
-          "precio": 973.6,
-          "comerciante": "Armonymx",
-          "min": "153999",
-          "max": "154000",
-          "disponible": "158.19"
+          "precio": 974.9,
+          "comerciante": "K69_Trades",
+          "min": "1000000",
+          "max": "36450000",
+          "disponible": "18184.14"
         }
       ]
     }
   },
-  "brecha_pct": 20.56
+  "brecha_pct": 20.46
 }
