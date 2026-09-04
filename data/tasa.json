@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-04T19:31:20+00:00",
-  "actualizado_ve": "2026-09-04T15:31:20-04:00",
+  "actualizado_utc": "2026-09-04T20:01:40+00:00",
+  "actualizado_ve": "2026-09-04T16:01:40-04:00",
   "bcv": {
     "usd": 807.3862,
     "eur": 938.44920184,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 964.9202,
+    "referencia": 964.9,
     "venta": {
-      "promedio": 964.9202,
-      "minimo": 963.601,
+      "promedio": 964.9,
+      "minimo": 963.5,
       "maximo": 966.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -29,7 +29,7 @@
           "comerciante": "Trust-Broker",
           "min": "1000000",
           "max": "36450000",
-          "disponible": "42993.81"
+          "disponible": "36993.87"
         },
         {
           "precio": 965.0,
@@ -43,57 +43,57 @@
           "comerciante": "CriptoseguroAyM",
           "min": "500000",
           "max": "14000000",
-          "disponible": "9756.35"
+          "disponible": "9226.41"
         },
         {
-          "precio": 963.601,
-          "comerciante": "Cambios-Vargas",
-          "min": "10000",
-          "max": "4000000",
-          "disponible": "310.00"
+          "precio": 963.5,
+          "comerciante": "P2P-fb00cddr",
+          "min": "30000",
+          "max": "818975",
+          "disponible": "759.06"
         }
       ]
     },
     "compra": {
-      "promedio": 962.46,
-      "minimo": 960.311,
-      "maximo": 963.0,
+      "promedio": 961.6458,
+      "minimo": 960.0,
+      "maximo": 962.73,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 960.311,
-          "comerciante": "AlltheServices",
-          "min": "10000",
-          "max": "96333",
-          "disponible": "19.60"
+          "precio": 960.0,
+          "comerciante": "Alyaac",
+          "min": "959999",
+          "max": "960000",
+          "disponible": "1000.00"
         },
         {
-          "precio": 962.99,
-          "comerciante": "Pesce_Exchange",
-          "min": "242215",
-          "max": "242216",
-          "disponible": "347.43"
+          "precio": 960.8,
+          "comerciante": "AVENTPHILIPS",
+          "min": "1247000",
+          "max": "4000000",
+          "disponible": "1300.81"
         },
         {
-          "precio": 962.999,
-          "comerciante": "pinfi10",
+          "precio": 961.999,
+          "comerciante": "Innoka",
+          "min": "68100",
+          "max": "68101",
+          "disponible": "99.75"
+        },
+        {
+          "precio": 962.7,
+          "comerciante": "ViGorized-ViGchanges",
           "min": "1000000",
-          "max": "3600000",
-          "disponible": "3747.41"
+          "max": "12000000",
+          "disponible": "4682.91"
         },
         {
-          "precio": 963.0,
-          "comerciante": "anelisp2p",
-          "min": "300",
-          "max": "134820",
-          "disponible": "0.55"
-        },
-        {
-          "precio": 963.0,
-          "comerciante": "rapidcambios2025",
-          "min": "8000",
-          "max": "116000",
-          "disponible": "9.67"
+          "precio": 962.73,
+          "comerciante": "亀CryptoKoku",
+          "min": "3000000",
+          "max": "36450000",
+          "disponible": "8363.84"
         }
       ]
     }
