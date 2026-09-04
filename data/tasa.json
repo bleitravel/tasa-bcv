@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-04T04:35:13+00:00",
-  "actualizado_ve": "2026-09-04T00:35:13-04:00",
+  "actualizado_utc": "2026-09-04T05:01:48+00:00",
+  "actualizado_ve": "2026-09-04T01:01:48-04:00",
   "bcv": {
     "usd": 807.3862,
     "eur": 938.44920184,
@@ -10,70 +10,56 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 973.2998,
+    "referencia": 973.3238,
     "venta": {
-      "promedio": 973.2998,
-      "minimo": 972.299,
-      "maximo": 973.9,
+      "promedio": 973.3238,
+      "minimo": 973.0,
+      "maximo": 974.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 973.9,
-          "comerciante": "VISÓN CRIPTØ",
-          "min": "1000000",
-          "max": "36450000",
-          "disponible": "80000.00"
-        },
-        {
-          "precio": 973.8,
-          "comerciante": "CHAPMANGOLD_TRADING",
-          "min": "1000000",
-          "max": "20000000",
-          "disponible": "80000.00"
-        },
-        {
-          "precio": 973.5,
+          "precio": 974.0,
           "comerciante": "Cjm_distribuidor",
           "min": "1000000",
           "max": "4000000",
           "disponible": "25010.12"
         },
         {
+          "precio": 973.5,
+          "comerciante": "VISÓN CRIPTØ",
+          "min": "100000",
+          "max": "36450000",
+          "disponible": "47376.74"
+        },
+        {
+          "precio": 973.118,
+          "comerciante": "ceryo123",
+          "min": "88200",
+          "max": "1039000",
+          "disponible": "780.80"
+        },
+        {
+          "precio": 973.001,
+          "comerciante": "Capital_VES_P2P",
+          "min": "100001",
+          "max": "36400000",
+          "disponible": "2065.17"
+        },
+        {
           "precio": 973.0,
           "comerciante": "Aj2016",
           "min": "200000",
-          "max": "800000",
-          "disponible": "700.00"
-        },
-        {
-          "precio": 972.299,
-          "comerciante": "CambiosRapido-AyO",
-          "min": "100000",
-          "max": "4000000",
-          "disponible": "2164.15"
+          "max": "400000",
+          "disponible": "425.08"
         }
       ]
     },
     "compra": {
-      "promedio": 974.72,
-      "minimo": 973.0,
-      "maximo": 975.7,
+      "promedio": 975.82,
+      "minimo": 975.2,
+      "maximo": 976.5,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 973.0,
-          "comerciante": "MM AKA playboy",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "86.53"
-        },
-        {
-          "precio": 974.0,
-          "comerciante": "RASO-p2p",
-          "min": "1000",
-          "max": "4000000",
-          "disponible": "85.69"
-        },
         {
           "precio": 975.2,
           "comerciante": "J17CS",
@@ -94,6 +80,20 @@
           "min": "300",
           "max": "125674",
           "disponible": "1.06"
+        },
+        {
+          "precio": 976.0,
+          "comerciante": "Anonymouss-Exchange",
+          "min": "4000000",
+          "max": "36000000",
+          "disponible": "28624.50"
+        },
+        {
+          "precio": 976.5,
+          "comerciante": "SuperDuko",
+          "min": "50000",
+          "max": "15000000",
+          "disponible": "4528.23"
         }
       ]
     }
