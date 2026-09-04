@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-04T12:39:31+00:00",
-  "actualizado_ve": "2026-09-04T08:39:31-04:00",
+  "actualizado_utc": "2026-09-04T13:01:53+00:00",
+  "actualizado_ve": "2026-09-04T09:01:53-04:00",
   "bcv": {
     "usd": 807.3862,
     "eur": 938.44920184,
@@ -10,13 +10,20 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 974.22,
+    "referencia": 975.66,
     "venta": {
-      "promedio": 974.22,
-      "minimo": 971.1,
-      "maximo": 979.0,
+      "promedio": 975.66,
+      "minimo": 971.3,
+      "maximo": 980.0,
       "anuncios_usados": 5,
       "anuncios": [
+        {
+          "precio": 980.0,
+          "comerciante": "MavilHidalgo",
+          "min": "1000000",
+          "max": "4000000",
+          "disponible": "1679.66"
+        },
         {
           "precio": 979.0,
           "comerciante": "Col-Primavera",
@@ -25,78 +32,71 @@
           "disponible": "1022.00"
         },
         {
-          "precio": 976.0,
+          "precio": 975.0,
           "comerciante": "Trust-Broker",
           "min": "2000000",
           "max": "36450000",
-          "disponible": "42437.67"
+          "disponible": "23377.06"
         },
         {
           "precio": 973.0,
           "comerciante": "CriptoseguroAyM",
           "min": "500000",
           "max": "14000000",
-          "disponible": "15669.47"
+          "disponible": "1056.87"
         },
         {
-          "precio": 972.0,
-          "comerciante": "Cambioslatamatvg369",
-          "min": "200000",
-          "max": "650000",
-          "disponible": "1077.20"
-        },
-        {
-          "precio": 971.1,
-          "comerciante": "diomedez14",
-          "min": "3000000",
-          "max": "36450000",
-          "disponible": "51777.99"
+          "precio": 971.3,
+          "comerciante": "GaboBustamante",
+          "min": "1000000",
+          "max": "4000000",
+          "disponible": "4118.19"
         }
       ]
     },
     "compra": {
-      "promedio": 973.6278,
-      "minimo": 972.44,
+      "promedio": 973.4554,
+      "minimo": 972.999,
       "maximo": 973.999,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 972.44,
-          "comerciante": "CRapidoP2P",
-          "min": "10000",
-          "max": "890000",
-          "disponible": "58.90"
+          "precio": 972.999,
+          "comerciante": "In_God-I_trust",
+          "min": "4990000",
+          "max": "5000000",
+          "disponible": "5979.01"
         },
         {
-          "precio": 973.9,
-          "comerciante": "nene",
-          "min": "208000",
-          "max": "10000000",
-          "disponible": "215.87"
+          "precio": 973.0,
+          "comerciante": "danamonsalv",
+          "min": "1000",
+          "max": "30000",
+          "disponible": "2.06"
         },
         {
-          "precio": 973.9,
-          "comerciante": "biomena10",
-          "min": "30000",
-          "max": "339000",
-          "disponible": "261.34"
+          "precio": 973.599,
+          "comerciante": "Crypton",
+          "min": "50000",
+          "max": "60000",
+          "disponible": "105.73"
         },
         {
-          "precio": 973.9,
-          "comerciante": "el_jose_jose",
-          "min": "5000000",
-          "max": "7279835",
-          "disponible": "7465.59"
+          "precio": 973.68,
+          "comerciante": "LosRosales",
+          "min": "50000",
+          "max": "152500",
+          "disponible": "159.60"
         },
         {
           "precio": 973.999,
           "comerciante": "ElBossP2P",
           "min": "300",
           "max": "10000",
-          "disponible": "364.78"
+          "disponible": "297.18"
         }
       ]
     }
   },
-  "brecha_pct": 20.66
+  "brecha_pct": 20.84
 }
