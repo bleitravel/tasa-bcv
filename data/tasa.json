@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-04T20:34:08+00:00",
-  "actualizado_ve": "2026-09-04T16:34:08-04:00",
+  "actualizado_utc": "2026-09-04T21:01:50+00:00",
+  "actualizado_ve": "2026-09-04T17:01:50-04:00",
   "bcv": {
     "usd": 807.3862,
     "eur": 938.44920184,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 964.401,
+    "referencia": 965.0,
     "venta": {
-      "promedio": 964.401,
-      "minimo": 962.0,
+      "promedio": 965.0,
+      "minimo": 964.0,
       "maximo": 966.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -25,78 +25,78 @@
           "disponible": "74394.48"
         },
         {
-          "precio": 965.005,
+          "precio": 966.0,
           "comerciante": "Trust-Broker",
           "min": "1000000",
           "max": "36450000",
-          "disponible": "34630.42"
+          "disponible": "33179.26"
         },
         {
           "precio": 965.0,
           "comerciante": "Blank_Mind",
           "min": "800000",
           "max": "36450000",
-          "disponible": "18350.31"
+          "disponible": "14002.49"
         },
         {
           "precio": 964.0,
           "comerciante": "CriptoseguroAyM",
           "min": "500000",
           "max": "14000000",
-          "disponible": "7215.01"
+          "disponible": "20237.40"
         },
         {
-          "precio": 962.0,
-          "comerciante": "KaioSama16",
-          "min": "3000000",
-          "max": "33019950",
-          "disponible": "30824.33"
+          "precio": 964.0,
+          "comerciante": "P2P-2007803c",
+          "min": "97364",
+          "max": "4000000",
+          "disponible": "101.00"
         }
       ]
     },
     "compra": {
-      "promedio": 955.6194,
-      "minimo": 933.3,
-      "maximo": 961.9,
+      "promedio": 962.2958,
+      "minimo": 962.0,
+      "maximo": 962.4,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 933.3,
-          "comerciante": "ORP2G",
-          "min": "30000",
-          "max": "400000",
-          "disponible": "99.75"
+          "precio": 962.0,
+          "comerciante": "-TuCambioseguroo-",
+          "min": "700000",
+          "max": "800000",
+          "disponible": "1017.45"
         },
         {
-          "precio": 960.0,
-          "comerciante": "Change_Instant",
-          "min": "50000",
-          "max": "51000",
-          "disponible": "99.75"
+          "precio": 962.3,
+          "comerciante": "AEBA-KF",
+          "min": "500000",
+          "max": "10000000",
+          "disponible": "940.37"
         },
         {
-          "precio": 960.999,
-          "comerciante": "NexusPremiun",
-          "min": "1000000",
-          "max": "20000000",
-          "disponible": "6836.91"
+          "precio": 962.389,
+          "comerciante": "AC_Cryptochange",
+          "min": "500000",
+          "max": "4830401",
+          "disponible": "2011.39"
         },
         {
-          "precio": 961.898,
-          "comerciante": "HonorYNegocioP2P",
-          "min": "1000000",
-          "max": "36000000",
-          "disponible": "15790.59"
+          "precio": 962.39,
+          "comerciante": "JrCotiz",
+          "min": "500000",
+          "max": "1900000",
+          "disponible": "712.03"
         },
         {
-          "precio": 961.9,
-          "comerciante": "-MEDUSA-",
-          "min": "1000000",
-          "max": "36000000",
-          "disponible": "17600.74"
+          "precio": 962.4,
+          "comerciante": "Tzar25",
+          "min": "300000",
+          "max": "600000",
+          "disponible": "1136.01"
         }
       ]
     }
   },
-  "brecha_pct": 19.45
+  "brecha_pct": 19.52
 }
