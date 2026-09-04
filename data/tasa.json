@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-04T19:01:33+00:00",
-  "actualizado_ve": "2026-09-04T15:01:33-04:00",
+  "actualizado_utc": "2026-09-04T19:31:20+00:00",
+  "actualizado_ve": "2026-09-04T15:31:20-04:00",
   "bcv": {
     "usd": 807.3862,
     "eur": 938.44920184,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 964.6202,
+    "referencia": 964.9202,
     "venta": {
-      "promedio": 964.6202,
-      "minimo": 963.5,
+      "promedio": 964.9202,
+      "minimo": 963.601,
       "maximo": 966.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -22,21 +22,28 @@
           "comerciante": "被放逐的狐狸",
           "min": "1500000",
           "max": "34000000",
-          "disponible": "80000.00"
+          "disponible": "75947.27"
         },
         {
           "precio": 966.0,
           "comerciante": "Trust-Broker",
           "min": "1000000",
           "max": "36450000",
-          "disponible": "44039.75"
+          "disponible": "42993.81"
+        },
+        {
+          "precio": 965.0,
+          "comerciante": "Blank_Mind",
+          "min": "800000",
+          "max": "36450000",
+          "disponible": "20154.26"
         },
         {
           "precio": 964.0,
-          "comerciante": "Blank_Mind",
-          "min": "900000",
-          "max": "36450000",
-          "disponible": "20154.26"
+          "comerciante": "CriptoseguroAyM",
+          "min": "500000",
+          "max": "14000000",
+          "disponible": "9756.35"
         },
         {
           "precio": 963.601,
@@ -44,59 +51,52 @@
           "min": "10000",
           "max": "4000000",
           "disponible": "310.00"
-        },
-        {
-          "precio": 963.5,
-          "comerciante": "CriptoseguroAyM",
-          "min": "500000",
-          "max": "14000000",
-          "disponible": "13374.42"
         }
       ]
     },
     "compra": {
-      "promedio": 959.4818,
-      "minimo": 957.41,
-      "maximo": 960.0,
+      "promedio": 962.46,
+      "minimo": 960.311,
+      "maximo": 963.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 957.41,
-          "comerciante": "pr0isak",
-          "min": "100000",
-          "max": "3000000",
-          "disponible": "3085.82"
-        },
-        {
-          "precio": 959.999,
-          "comerciante": "Innoka",
-          "min": "4800",
-          "max": "4801",
-          "disponible": "99.75"
-        },
-        {
-          "precio": 960.0,
-          "comerciante": "CLC_trader",
+          "precio": 960.311,
+          "comerciante": "AlltheServices",
           "min": "10000",
-          "max": "4000000",
-          "disponible": "16.42"
+          "max": "96333",
+          "disponible": "19.60"
         },
         {
-          "precio": 960.0,
-          "comerciante": "Potro08",
-          "min": "570000",
-          "max": "579000",
-          "disponible": "598.50"
+          "precio": 962.99,
+          "comerciante": "Pesce_Exchange",
+          "min": "242215",
+          "max": "242216",
+          "disponible": "347.43"
         },
         {
-          "precio": 960.0,
-          "comerciante": "KairosC",
-          "min": "1000",
-          "max": "15000",
-          "disponible": "169.42"
+          "precio": 962.999,
+          "comerciante": "pinfi10",
+          "min": "1000000",
+          "max": "3600000",
+          "disponible": "3747.41"
+        },
+        {
+          "precio": 963.0,
+          "comerciante": "anelisp2p",
+          "min": "300",
+          "max": "134820",
+          "disponible": "0.55"
+        },
+        {
+          "precio": 963.0,
+          "comerciante": "rapidcambios2025",
+          "min": "8000",
+          "max": "116000",
+          "disponible": "9.67"
         }
       ]
     }
   },
-  "brecha_pct": 19.47
+  "brecha_pct": 19.51
 }
