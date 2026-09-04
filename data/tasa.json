@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-04T20:01:40+00:00",
-  "actualizado_ve": "2026-09-04T16:01:40-04:00",
+  "actualizado_utc": "2026-09-04T20:34:08+00:00",
+  "actualizado_ve": "2026-09-04T16:34:08-04:00",
   "bcv": {
     "usd": 807.3862,
     "eur": 938.44920184,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 964.9,
+    "referencia": 964.401,
     "venta": {
-      "promedio": 964.9,
-      "minimo": 963.5,
+      "promedio": 964.401,
+      "minimo": 962.0,
       "maximo": 966.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -22,81 +22,81 @@
           "comerciante": "被放逐的狐狸",
           "min": "1500000",
           "max": "34000000",
-          "disponible": "75947.27"
+          "disponible": "74394.48"
         },
         {
-          "precio": 966.0,
+          "precio": 965.005,
           "comerciante": "Trust-Broker",
           "min": "1000000",
           "max": "36450000",
-          "disponible": "36993.87"
+          "disponible": "34630.42"
         },
         {
           "precio": 965.0,
           "comerciante": "Blank_Mind",
           "min": "800000",
           "max": "36450000",
-          "disponible": "20154.26"
+          "disponible": "18350.31"
         },
         {
           "precio": 964.0,
           "comerciante": "CriptoseguroAyM",
           "min": "500000",
           "max": "14000000",
-          "disponible": "9226.41"
+          "disponible": "7215.01"
         },
         {
-          "precio": 963.5,
-          "comerciante": "P2P-fb00cddr",
-          "min": "30000",
-          "max": "818975",
-          "disponible": "759.06"
+          "precio": 962.0,
+          "comerciante": "KaioSama16",
+          "min": "3000000",
+          "max": "33019950",
+          "disponible": "30824.33"
         }
       ]
     },
     "compra": {
-      "promedio": 961.6458,
-      "minimo": 960.0,
-      "maximo": 962.73,
+      "promedio": 955.6194,
+      "minimo": 933.3,
+      "maximo": 961.9,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 960.0,
-          "comerciante": "Alyaac",
-          "min": "959999",
-          "max": "960000",
-          "disponible": "1000.00"
-        },
-        {
-          "precio": 960.8,
-          "comerciante": "AVENTPHILIPS",
-          "min": "1247000",
-          "max": "4000000",
-          "disponible": "1300.81"
-        },
-        {
-          "precio": 961.999,
-          "comerciante": "Innoka",
-          "min": "68100",
-          "max": "68101",
+          "precio": 933.3,
+          "comerciante": "ORP2G",
+          "min": "30000",
+          "max": "400000",
           "disponible": "99.75"
         },
         {
-          "precio": 962.7,
-          "comerciante": "ViGorized-ViGchanges",
-          "min": "1000000",
-          "max": "12000000",
-          "disponible": "4682.91"
+          "precio": 960.0,
+          "comerciante": "Change_Instant",
+          "min": "50000",
+          "max": "51000",
+          "disponible": "99.75"
         },
         {
-          "precio": 962.73,
-          "comerciante": "亀CryptoKoku",
-          "min": "3000000",
-          "max": "36450000",
-          "disponible": "8363.84"
+          "precio": 960.999,
+          "comerciante": "NexusPremiun",
+          "min": "1000000",
+          "max": "20000000",
+          "disponible": "6836.91"
+        },
+        {
+          "precio": 961.898,
+          "comerciante": "HonorYNegocioP2P",
+          "min": "1000000",
+          "max": "36000000",
+          "disponible": "15790.59"
+        },
+        {
+          "precio": 961.9,
+          "comerciante": "-MEDUSA-",
+          "min": "1000000",
+          "max": "36000000",
+          "disponible": "17600.74"
         }
       ]
     }
   },
-  "brecha_pct": 19.51
+  "brecha_pct": 19.45
 }
