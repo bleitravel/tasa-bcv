@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-04T09:35:09+00:00",
-  "actualizado_ve": "2026-09-04T05:35:09-04:00",
+  "actualizado_utc": "2026-09-04T10:02:07+00:00",
+  "actualizado_ve": "2026-09-04T06:02:07-04:00",
   "bcv": {
     "usd": 807.3862,
     "eur": 938.44920184,
@@ -10,13 +10,34 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 971.342,
+    "referencia": 972.4202,
     "venta": {
-      "promedio": 971.342,
-      "minimo": 970.8,
-      "maximo": 972.0,
+      "promedio": 972.4202,
+      "minimo": 972.0,
+      "maximo": 973.5,
       "anuncios_usados": 5,
       "anuncios": [
+        {
+          "precio": 973.5,
+          "comerciante": "_Cyber_Glup_Matrix_-",
+          "min": "5000",
+          "max": "5100",
+          "disponible": "100.00"
+        },
+        {
+          "precio": 972.301,
+          "comerciante": "Moncayo",
+          "min": "150000",
+          "max": "450000",
+          "disponible": "2190.55"
+        },
+        {
+          "precio": 972.3,
+          "comerciante": "zoecambios_21",
+          "min": "600000",
+          "max": "35000000",
+          "disponible": "5690.47"
+        },
         {
           "precio": 972.0,
           "comerciante": "zama2004",
@@ -25,47 +46,26 @@
           "disponible": "36458.18"
         },
         {
-          "precio": 971.6,
-          "comerciante": "zoecambios_21",
-          "min": "600000",
-          "max": "35000000",
-          "disponible": "8600.00"
-        },
-        {
-          "precio": 971.5,
-          "comerciante": "YAMISENSEI",
-          "min": "1000000",
-          "max": "36450000",
-          "disponible": "8756.00"
-        },
-        {
-          "precio": 970.81,
-          "comerciante": "JugadorFranquiicia1",
-          "min": "250000",
-          "max": "36000000",
-          "disponible": "5000.00"
-        },
-        {
-          "precio": 970.8,
-          "comerciante": "CAMBIORAPID0S",
-          "min": "400000",
-          "max": "36000000",
-          "disponible": "18969.87"
+          "precio": 972.0,
+          "comerciante": "SACL17",
+          "min": "100000",
+          "max": "777600",
+          "disponible": "800.00"
         }
       ]
     },
     "compra": {
-      "promedio": 975.52,
-      "minimo": 975.0,
+      "promedio": 975.32,
+      "minimo": 974.0,
       "maximo": 976.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 975.0,
-          "comerciante": "cambiosramses",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "99.75"
+          "precio": 974.0,
+          "comerciante": "SamiqDuq",
+          "min": "80000",
+          "max": "1000000",
+          "disponible": "199.50"
         },
         {
           "precio": 975.2,
@@ -93,10 +93,10 @@
           "comerciante": "Anonymouss-Exchange",
           "min": "4000000",
           "max": "36000000",
-          "disponible": "28624.50"
+          "disponible": "23911.40"
         }
       ]
     }
   },
-  "brecha_pct": 20.31
+  "brecha_pct": 20.44
 }
