@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-04T06:01:56+00:00",
-  "actualizado_ve": "2026-09-04T02:01:56-04:00",
+  "actualizado_utc": "2026-09-04T06:38:26+00:00",
+  "actualizado_ve": "2026-09-04T02:38:26-04:00",
   "bcv": {
     "usd": 807.3862,
     "eur": 938.44920184,
@@ -10,63 +10,56 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 971.54,
+    "referencia": 972.5374,
     "venta": {
-      "promedio": 971.54,
-      "minimo": 971.3,
-      "maximo": 972.0,
+      "promedio": 972.5374,
+      "minimo": 971.65,
+      "maximo": 975.0,
       "anuncios_usados": 5,
       "anuncios": [
+        {
+          "precio": 975.0,
+          "comerciante": "LA_GLORIA_DE_DIOS",
+          "min": "500",
+          "max": "1000",
+          "disponible": "97.45"
+        },
+        {
+          "precio": 972.027,
+          "comerciante": "VISÓN CRIPTØ",
+          "min": "500000",
+          "max": "36450000",
+          "disponible": "27408.91"
+        },
+        {
+          "precio": 972.01,
+          "comerciante": "THE_BOSS_962",
+          "min": "200000",
+          "max": "36450000",
+          "disponible": "10722.78"
+        },
         {
           "precio": 972.0,
           "comerciante": "zama2004",
           "min": "1000000",
           "max": "36450000",
-          "disponible": "45000.00"
+          "disponible": "39500.06"
         },
         {
-          "precio": 971.6,
-          "comerciante": "VISÓN CRIPTØ",
-          "min": "500000",
+          "precio": 971.65,
+          "comerciante": "JURGEN_TRADER",
+          "min": "450000",
           "max": "36450000",
-          "disponible": "28799.33"
-        },
-        {
-          "precio": 971.5,
-          "comerciante": "YAMISENSEI",
-          "min": "1000000",
-          "max": "36450000",
-          "disponible": "10300.00"
-        },
-        {
-          "precio": 971.3,
-          "comerciante": "Luiselita_",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "0.40"
-        },
-        {
-          "precio": 971.3,
-          "comerciante": "RoronoaZoro3",
-          "min": "20000",
-          "max": "33000",
-          "disponible": "1558.47"
+          "disponible": "6486.92"
         }
       ]
     },
     "compra": {
-      "promedio": 975.32,
-      "minimo": 974.0,
-      "maximo": 976.0,
+      "promedio": 975.84,
+      "minimo": 975.2,
+      "maximo": 976.6,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 974.0,
-          "comerciante": "DOMAINELLP",
-          "min": "160000",
-          "max": "4000000",
-          "disponible": "169.57"
-        },
         {
           "precio": 975.2,
           "comerciante": "J17CS",
@@ -93,10 +86,17 @@
           "comerciante": "Anonymouss-Exchange",
           "min": "4000000",
           "max": "36000000",
-          "disponible": "28624.50"
+          "disponible": "24400.12"
+        },
+        {
+          "precio": 976.6,
+          "comerciante": "Cambios239",
+          "min": "400000",
+          "max": "3000000",
+          "disponible": "835.70"
         }
       ]
     }
   },
-  "brecha_pct": 20.33
+  "brecha_pct": 20.46
 }
