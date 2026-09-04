@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-04T08:01:56+00:00",
-  "actualizado_ve": "2026-09-04T04:01:56-04:00",
+  "actualizado_utc": "2026-09-04T08:36:19+00:00",
+  "actualizado_ve": "2026-09-04T04:36:19-04:00",
   "bcv": {
     "usd": 807.3862,
     "eur": 938.44920184,
@@ -10,13 +10,27 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 971.3426,
+    "referencia": 974.0202,
     "venta": {
-      "promedio": 971.3426,
-      "minimo": 971.0,
-      "maximo": 972.0,
+      "promedio": 974.0202,
+      "minimo": 970.601,
+      "maximo": 980.0,
       "anuncios_usados": 5,
       "anuncios": [
+        {
+          "precio": 980.0,
+          "comerciante": "LA_GLORIA_DE_DIOS",
+          "min": "500",
+          "max": "1000",
+          "disponible": "99.04"
+        },
+        {
+          "precio": 976.0,
+          "comerciante": "TRAPITOSVZLA",
+          "min": "3000",
+          "max": "38000",
+          "disponible": "100.00"
+        },
         {
           "precio": 972.0,
           "comerciante": "zama2004",
@@ -32,25 +46,11 @@
           "disponible": "10300.00"
         },
         {
-          "precio": 971.203,
+          "precio": 970.601,
           "comerciante": "Espj_15",
-          "min": "100001",
+          "min": "90001",
           "max": "1000000",
           "disponible": "2276.05"
-        },
-        {
-          "precio": 971.01,
-          "comerciante": "FlashCambios1",
-          "min": "90000",
-          "max": "13000000",
-          "disponible": "9165.84"
-        },
-        {
-          "precio": 971.0,
-          "comerciante": "x88rising",
-          "min": "50000",
-          "max": "3537000",
-          "disponible": "2503.31"
         }
       ]
     },
@@ -98,5 +98,5 @@
       ]
     }
   },
-  "brecha_pct": 20.31
+  "brecha_pct": 20.64
 }
