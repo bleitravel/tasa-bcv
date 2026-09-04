@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-04T15:01:57+00:00",
-  "actualizado_ve": "2026-09-04T11:01:57-04:00",
+  "actualizado_utc": "2026-09-04T15:35:13+00:00",
+  "actualizado_ve": "2026-09-04T11:35:13-04:00",
   "bcv": {
     "usd": 807.3862,
     "eur": 938.44920184,
@@ -10,40 +10,40 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 973.802,
+    "referencia": 976.883,
     "venta": {
-      "promedio": 973.802,
+      "promedio": 976.883,
       "minimo": 970.01,
-      "maximo": 979.0,
+      "maximo": 991.4,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 979.0,
-          "comerciante": "Col-Primavera",
-          "min": "1000000",
-          "max": "1000538",
-          "disponible": "1022.00"
+          "precio": 991.4,
+          "comerciante": "Word-Traiding",
+          "min": "50000",
+          "max": "400000",
+          "disponible": "2828.26"
         },
         {
-          "precio": 975.0,
+          "precio": 976.0,
           "comerciante": "被放逐的狐狸",
           "min": "1000000",
           "max": "34000000",
-          "disponible": "66812.23"
+          "disponible": "58682.54"
         },
         {
-          "precio": 974.0,
+          "precio": 975.005,
           "comerciante": "Trust-Broker",
           "min": "2000000",
           "max": "36450000",
-          "disponible": "41457.94"
+          "disponible": "39357.84"
         },
         {
-          "precio": 971.0,
+          "precio": 972.0,
           "comerciante": "CriptoseguroAyM",
           "min": "500000",
           "max": "14000000",
-          "disponible": "17177.93"
+          "disponible": "14763.12"
         },
         {
           "precio": 970.01,
@@ -55,48 +55,48 @@
       ]
     },
     "compra": {
-      "promedio": 966.9354,
-      "minimo": 965.9,
-      "maximo": 967.35,
+      "promedio": 968.8974,
+      "minimo": 968.5,
+      "maximo": 968.999,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 965.9,
-          "comerciante": "CryptoEthx",
-          "min": "10000",
-          "max": "100000",
-          "disponible": "21.45"
+          "precio": 968.5,
+          "comerciante": "Inversiones-usdt",
+          "min": "11392",
+          "max": "11393",
+          "disponible": "88.00"
         },
         {
-          "precio": 967.0,
-          "comerciante": "LeoWinged",
-          "min": "950",
-          "max": "93700",
-          "disponible": "12.29"
+          "precio": 968.99,
+          "comerciante": "Fabvsm",
+          "min": "109900",
+          "max": "109950",
+          "disponible": "119.70"
         },
         {
-          "precio": 967.1,
-          "comerciante": "team-wolf",
-          "min": "10000",
-          "max": "251446",
-          "disponible": "28.84"
+          "precio": 968.999,
+          "comerciante": "Zuly1760",
+          "min": "300",
+          "max": "300000",
+          "disponible": "0.92"
         },
         {
-          "precio": 967.327,
-          "comerciante": "Cambio-Ideal",
-          "min": "5000",
-          "max": "250000",
-          "disponible": "99.75"
+          "precio": 968.999,
+          "comerciante": "Samuel Jair",
+          "min": "300",
+          "max": "3500",
+          "disponible": "106.08"
         },
         {
-          "precio": 967.35,
-          "comerciante": "Mary_IzaTer",
-          "min": "15000",
-          "max": "285000",
-          "disponible": "289.27"
+          "precio": 968.999,
+          "comerciante": "ElBossP2P",
+          "min": "300",
+          "max": "10000",
+          "disponible": "296.71"
         }
       ]
     }
   },
-  "brecha_pct": 20.61
+  "brecha_pct": 20.99
 }
