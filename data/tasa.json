@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-05T10:01:43+00:00",
-  "actualizado_ve": "2026-09-05T06:01:43-04:00",
+  "actualizado_utc": "2026-09-05T10:31:56+00:00",
+  "actualizado_ve": "2026-09-05T06:31:56-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 963.6092,
+    "referencia": 962.141,
     "venta": {
-      "promedio": 963.6092,
-      "minimo": 962.5,
-      "maximo": 965.0,
+      "promedio": 962.141,
+      "minimo": 961.5,
+      "maximo": 964.0,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 965.0,
-          "comerciante": "lavoluntaddeDios",
-          "min": "300",
-          "max": "287595",
-          "disponible": "0.73"
-        },
-        {
-          "precio": 964.0,
-          "comerciante": "zama2004",
-          "min": "1000000",
-          "max": "36450000",
-          "disponible": "76096.12"
-        },
         {
           "precio": 964.0,
           "comerciante": "ReadyToTrade_",
           "min": "1000000",
           "max": "22000000",
-          "disponible": "30000.00"
+          "disponible": "28950.06"
         },
         {
-          "precio": 962.546,
-          "comerciante": "FlashTrading_degc",
-          "min": "300000",
+          "precio": 962.0,
+          "comerciante": "sergiocruz-94",
+          "min": "96200",
           "max": "4000000",
-          "disponible": "750.00"
+          "disponible": "160.02"
         },
         {
-          "precio": 962.5,
-          "comerciante": "fasc1971",
-          "min": "200000",
-          "max": "4000000",
-          "disponible": "542.27"
+          "precio": 961.705,
+          "comerciante": "thecarpio",
+          "min": "500",
+          "max": "20000",
+          "disponible": "1.00"
+        },
+        {
+          "precio": 961.5,
+          "comerciante": "LadyCapitalP2P",
+          "min": "5000000",
+          "max": "8500000",
+          "disponible": "8846.00"
+        },
+        {
+          "precio": 961.5,
+          "comerciante": "Father-01",
+          "min": "100000",
+          "max": "10000000",
+          "disponible": "126.93"
         }
       ]
     },
     "compra": {
-      "promedio": 969.7556,
-      "minimo": 969.599,
-      "maximo": 969.899,
+      "promedio": 967.8796,
+      "minimo": 966.9,
+      "maximo": 968.499,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 969.599,
-          "comerciante": "ImJustGirl",
-          "min": "3000000",
-          "max": "6000000",
-          "disponible": "4308.89"
-        },
-        {
-          "precio": 969.6,
+          "precio": 966.9,
           "comerciante": "Krypto-Handeln",
           "min": "2000000",
           "max": "9300000",
           "disponible": "9991.73"
         },
         {
-          "precio": 969.8,
-          "comerciante": "eduardo94268",
-          "min": "2000000",
-          "max": "12500000",
-          "disponible": "11812.32"
+          "precio": 967.999,
+          "comerciante": "Servicios-Criptos-27",
+          "min": "1000000",
+          "max": "14000000",
+          "disponible": "2096.33"
         },
         {
-          "precio": 969.88,
-          "comerciante": "CAMBIORAPID0S",
-          "min": "5000000",
-          "max": "36000000",
-          "disponible": "49772.41"
+          "precio": 968.0,
+          "comerciante": "EL-PODER-ES-DE-DIOS",
+          "min": "1000000",
+          "max": "4000000",
+          "disponible": "6828.09"
         },
         {
-          "precio": 969.899,
-          "comerciante": "Richgato_Reload",
-          "min": "3000000",
-          "max": "25000000",
-          "disponible": "11997.00"
+          "precio": 968.0,
+          "comerciante": "ChangerExpress",
+          "min": "1000000",
+          "max": "6000000",
+          "disponible": "4494.38"
+        },
+        {
+          "precio": 968.499,
+          "comerciante": "Cambios_seguros1",
+          "min": "1000000",
+          "max": "4000000",
+          "disponible": "1497.37"
         }
       ]
     }
   },
-  "brecha_pct": 18.42
+  "brecha_pct": 18.24
 }
