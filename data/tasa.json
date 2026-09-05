@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-05T18:02:11+00:00",
-  "actualizado_ve": "2026-09-05T14:02:11-04:00",
+  "actualizado_utc": "2026-09-05T18:35:41+00:00",
+  "actualizado_ve": "2026-09-05T14:35:41-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 968.001,
+    "referencia": 966.601,
     "venta": {
-      "promedio": 968.001,
-      "minimo": 963.005,
+      "promedio": 966.601,
+      "minimo": 962.0,
       "maximo": 980.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -25,13 +25,6 @@
           "disponible": "100.00"
         },
         {
-          "precio": 967.0,
-          "comerciante": "被放逐的狐狸",
-          "min": "1500000",
-          "max": "34000000",
-          "disponible": "31537.41"
-        },
-        {
           "precio": 965.0,
           "comerciante": "luismi14",
           "min": "300000",
@@ -39,64 +32,71 @@
           "disponible": "1000.00"
         },
         {
-          "precio": 965.0,
-          "comerciante": "Blank_Mind",
-          "min": "1000000",
-          "max": "36450000",
-          "disponible": "1406.52"
-        },
-        {
           "precio": 963.005,
           "comerciante": "Trust-Broker",
           "min": "1000000",
           "max": "36450000",
           "disponible": "48965.88"
+        },
+        {
+          "precio": 963.0,
+          "comerciante": "CriptoseguroAyM",
+          "min": "500000",
+          "max": "34000000",
+          "disponible": "4433.33"
+        },
+        {
+          "precio": 962.0,
+          "comerciante": "JAG_CRIPTO",
+          "min": "2000000",
+          "max": "2001000",
+          "disponible": "2080.00"
         }
       ]
     },
     "compra": {
-      "promedio": 960.8598,
-      "minimo": 960.0,
-      "maximo": 961.3,
+      "promedio": 959.76,
+      "minimo": 958.0,
+      "maximo": 960.9,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 960.0,
-          "comerciante": "SPAICER",
-          "min": "320",
-          "max": "877000",
-          "disponible": "1.08"
+          "precio": 958.0,
+          "comerciante": "User-a2e79",
+          "min": "250000",
+          "max": "550000",
+          "disponible": "598.50"
         },
         {
-          "precio": 960.999,
-          "comerciante": "Adrian2802",
-          "min": "8799",
-          "max": "44000",
-          "disponible": "110.47"
-        },
-        {
-          "precio": 961.0,
-          "comerciante": "DavidGlup",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "9.52"
-        },
-        {
-          "precio": 961.0,
-          "comerciante": "P2P-9ffaf7bl",
-          "min": "20000",
-          "max": "32000",
-          "disponible": "32.84"
-        },
-        {
-          "precio": 961.3,
-          "comerciante": "Nexotrade_P2P",
-          "min": "1000",
+          "precio": 959.9,
+          "comerciante": "NyH Compra y venta",
+          "min": "150000",
           "max": "400000",
-          "disponible": "82.65"
+          "disponible": "286.92"
+        },
+        {
+          "precio": 960.0,
+          "comerciante": "Inter-Pagos",
+          "min": "200000",
+          "max": "1000000",
+          "disponible": "451.68"
+        },
+        {
+          "precio": 960.0,
+          "comerciante": "javiersalazar19",
+          "min": "10000",
+          "max": "4000000",
+          "disponible": "129.67"
+        },
+        {
+          "precio": 960.9,
+          "comerciante": "Bruce-Wayne-93",
+          "min": "200000",
+          "max": "800000",
+          "disponible": "7168.30"
         }
       ]
     }
   },
-  "brecha_pct": 18.96
+  "brecha_pct": 18.79
 }
