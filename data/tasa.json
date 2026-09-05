@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-05T00:02:26+00:00",
-  "actualizado_ve": "2026-09-04T20:02:26-04:00",
+  "actualizado_utc": "2026-09-05T00:40:59+00:00",
+  "actualizado_ve": "2026-09-04T20:40:59-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 965.22,
+    "referencia": 965.721,
     "venta": {
-      "promedio": 965.22,
-      "minimo": 963.0,
+      "promedio": 965.721,
+      "minimo": 964.5,
       "maximo": 967.1,
       "anuncios_usados": 5,
       "anuncios": [
@@ -22,42 +22,42 @@
           "comerciante": "CriptoseguroAyM",
           "min": "1500000",
           "max": "34000000",
-          "disponible": "33712.41"
+          "disponible": "17994.91"
         },
         {
-          "precio": 967.0,
+          "precio": 966.005,
           "comerciante": "Trust-Broker",
           "min": "1000000",
           "max": "36450000",
-          "disponible": "29832.44"
+          "disponible": "28745.58"
         },
         {
           "precio": 966.0,
           "comerciante": "Blank_Mind",
           "min": "500000",
           "max": "36450000",
-          "disponible": "20668.54"
+          "disponible": "17707.81"
         },
         {
-          "precio": 963.0,
-          "comerciante": "KaioSama16",
-          "min": "3000000",
-          "max": "33019950",
-          "disponible": "21374.51"
-        },
-        {
-          "precio": 963.0,
-          "comerciante": "CambioConfiable1",
-          "min": "200000",
+          "precio": 965.0,
+          "comerciante": "Daniaarilo",
+          "min": "400000",
           "max": "4000000",
-          "disponible": "703.19"
+          "disponible": "2000.00"
+        },
+        {
+          "precio": 964.5,
+          "comerciante": "-The_Dark_Knight-",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "80000.00"
         }
       ]
     },
     "compra": {
-      "promedio": 964.116,
+      "promedio": 964.0,
       "minimo": 964.0,
-      "maximo": 964.4,
+      "maximo": 964.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -75,28 +75,28 @@
           "disponible": "0.35"
         },
         {
-          "precio": 964.08,
-          "comerciante": "JDVR_05",
-          "min": "1700000",
-          "max": "35000000",
-          "disponible": "7000.00"
+          "precio": 964.0,
+          "comerciante": "Vaneandreina7",
+          "min": "599000",
+          "max": "600000",
+          "disponible": "2593.51"
         },
         {
-          "precio": 964.1,
-          "comerciante": "JugadorFranquiicia1",
-          "min": "1200000",
-          "max": "36450000",
-          "disponible": "19869.06"
+          "precio": 964.0,
+          "comerciante": "intercash",
+          "min": "700",
+          "max": "50000",
+          "disponible": "294.99"
         },
         {
-          "precio": 964.4,
-          "comerciante": "Vip_Super_p2p",
-          "min": "5000000",
-          "max": "7800000",
-          "disponible": "7986.02"
+          "precio": 964.0,
+          "comerciante": "Anonymous-User-765fb",
+          "min": "96400",
+          "max": "577500",
+          "disponible": "424.23"
         }
       ]
     }
   },
-  "brecha_pct": 18.62
+  "brecha_pct": 18.68
 }
