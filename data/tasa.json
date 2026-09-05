@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-05T13:31:41+00:00",
-  "actualizado_ve": "2026-09-05T09:31:41-04:00",
+  "actualizado_utc": "2026-09-05T14:01:52+00:00",
+  "actualizado_ve": "2026-09-05T10:01:52-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 968.2518,
+    "referencia": 967.811,
     "venta": {
-      "promedio": 968.2518,
-      "minimo": 965.459,
-      "maximo": 971.8,
+      "promedio": 967.811,
+      "minimo": 964.5,
+      "maximo": 971.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 971.8,
-          "comerciante": "Excharge-Vnzla",
-          "min": "300000",
-          "max": "2000000",
-          "disponible": "1749.30"
+          "precio": 971.0,
+          "comerciante": "被放逐的狐狸",
+          "min": "1500000",
+          "max": "34000000",
+          "disponible": "70740.79"
         },
         {
-          "precio": 969.0,
+          "precio": 970.0,
           "comerciante": "Blank_Mind",
           "min": "1000000",
           "max": "36450000",
-          "disponible": "28968.01"
+          "disponible": "48565.41"
         },
         {
           "precio": 969.0,
           "comerciante": "CriptoseguroAyM",
           "min": "500000",
           "max": "34000000",
-          "disponible": "34137.86"
+          "disponible": "31435.80"
         },
         {
-          "precio": 966.0,
-          "comerciante": "Cross-26",
-          "min": "10000000",
-          "max": "36000000",
-          "disponible": "69648.04"
+          "precio": 964.555,
+          "comerciante": "ELTIBURON-DEL-CRYPTO",
+          "min": "1000000",
+          "max": "4000000",
+          "disponible": "1374.29"
         },
         {
-          "precio": 965.459,
-          "comerciante": "DOCTOR_CAMBIO",
-          "min": "5000000",
-          "max": "36450000",
-          "disponible": "40000.00"
+          "precio": 964.5,
+          "comerciante": "GAleja1011",
+          "min": "2360000",
+          "max": "2366000",
+          "disponible": "2457.00"
         }
       ]
     },
     "compra": {
-      "promedio": 964.7396,
-      "minimo": 964.0,
-      "maximo": 965.0,
+      "promedio": 965.02,
+      "minimo": 965.0,
+      "maximo": 965.1,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 964.0,
-          "comerciante": "P2P-e177fenr",
-          "min": "4840",
-          "max": "618880",
-          "disponible": "5.28"
-        },
-        {
-          "precio": 964.7,
-          "comerciante": "TheMai_97",
-          "min": "300",
-          "max": "10000",
-          "disponible": "73.85"
-        },
-        {
-          "precio": 964.999,
-          "comerciante": "ElBossP2P",
-          "min": "300",
-          "max": "10000",
-          "disponible": "241.37"
-        },
-        {
-          "precio": 964.999,
-          "comerciante": "BreMerLo",
-          "min": "200000",
-          "max": "205000",
-          "disponible": "209.47"
-        },
         {
           "precio": 965.0,
           "comerciante": "gabyh2911",
           "min": "300",
           "max": "4000000",
-          "disponible": "2.08"
+          "disponible": "2.53"
+        },
+        {
+          "precio": 965.0,
+          "comerciante": "Juanchoooo17",
+          "min": "50000",
+          "max": "530750",
+          "disponible": "248.13"
+        },
+        {
+          "precio": 965.0,
+          "comerciante": "JohaTeran",
+          "min": "75999",
+          "max": "76000",
+          "disponible": "99.75"
+        },
+        {
+          "precio": 965.0,
+          "comerciante": "MariaCoins",
+          "min": "191730",
+          "max": "1000000",
+          "disponible": "199.43"
+        },
+        {
+          "precio": 965.1,
+          "comerciante": "RodriTrader22",
+          "min": "300",
+          "max": "300000",
+          "disponible": "10.21"
         }
       ]
     }
   },
-  "brecha_pct": 18.99
+  "brecha_pct": 18.93
 }
