@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-05T20:01:40+00:00",
-  "actualizado_ve": "2026-09-05T16:01:40-04:00",
+  "actualizado_utc": "2026-09-05T20:32:56+00:00",
+  "actualizado_ve": "2026-09-05T16:32:56-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 965.541,
+    "referencia": 965.201,
     "venta": {
-      "promedio": 965.541,
-      "minimo": 960.7,
+      "promedio": 965.201,
+      "minimo": 960.0,
       "maximo": 980.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -22,14 +22,14 @@
           "comerciante": "USER0798736",
           "min": "10000",
           "max": "18000",
-          "disponible": "100.00"
+          "disponible": "89.80"
         },
         {
           "precio": 964.0,
           "comerciante": "CriptoseguroAyM",
           "min": "1500000",
-          "max": "30000000",
-          "disponible": "8927.87"
+          "max": "14000000",
+          "disponible": "30000.00"
         },
         {
           "precio": 962.0,
@@ -39,64 +39,64 @@
           "disponible": "2080.00"
         },
         {
-          "precio": 961.005,
+          "precio": 960.005,
           "comerciante": "Trust-Broker",
           "min": "800000",
           "max": "36450000",
-          "disponible": "44019.71"
+          "disponible": "39666.21"
         },
         {
-          "precio": 960.7,
-          "comerciante": "Jin-Woo-Sung",
-          "min": "8000000",
-          "max": "36450000",
-          "disponible": "80000.00"
+          "precio": 960.0,
+          "comerciante": "-Akopan-",
+          "min": "4000000",
+          "max": "34650000",
+          "disponible": "15300.00"
         }
       ]
     },
     "compra": {
-      "promedio": 960.0666,
-      "minimo": 960.0,
-      "maximo": 960.333,
+      "promedio": 939.386,
+      "minimo": 860.0,
+      "maximo": 959.73,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 960.0,
-          "comerciante": "OPABIANCHI",
-          "min": "3000000",
-          "max": "10000000",
-          "disponible": "9000.00"
+          "precio": 860.0,
+          "comerciante": "Card0dolores",
+          "min": "1000000",
+          "max": "5000000",
+          "disponible": "5042.52"
         },
         {
-          "precio": 960.0,
-          "comerciante": "Salamanca_",
-          "min": "5000",
-          "max": "585000",
+          "precio": 958.0,
+          "comerciante": "jhonyjcr",
+          "min": "970",
+          "max": "97500",
           "disponible": "99.75"
         },
         {
-          "precio": 960.0,
-          "comerciante": "Servic2009",
-          "min": "1240000",
-          "max": "1240000",
-          "disponible": "3072.34"
+          "precio": 959.5,
+          "comerciante": "REMESAS_DGNJ",
+          "min": "20000",
+          "max": "26000",
+          "disponible": "99.75"
         },
         {
-          "precio": 960.0,
-          "comerciante": "VENCAMBIOS™",
-          "min": "95000",
-          "max": "36450000",
-          "disponible": "99.87"
+          "precio": 959.7,
+          "comerciante": "Alex 12000",
+          "min": "95970",
+          "max": "95977",
+          "disponible": "106.73"
         },
         {
-          "precio": 960.333,
-          "comerciante": "LanaCattleya",
-          "min": "1300000",
-          "max": "1800000",
-          "disponible": "1796.40"
+          "precio": 959.73,
+          "comerciante": "JRNBRAVO",
+          "min": "30000",
+          "max": "4000000",
+          "disponible": "199.50"
         }
       ]
     }
   },
-  "brecha_pct": 18.66
+  "brecha_pct": 18.61
 }
