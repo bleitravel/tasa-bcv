@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-05T22:01:34+00:00",
-  "actualizado_ve": "2026-09-05T18:01:34-04:00",
+  "actualizado_utc": "2026-09-05T22:31:48+00:00",
+  "actualizado_ve": "2026-09-05T18:31:48-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 965.541,
+    "referencia": 964.701,
     "venta": {
-      "promedio": 965.541,
-      "minimo": 956.7,
+      "promedio": 964.701,
+      "minimo": 956.5,
       "maximo": 995.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -25,78 +25,78 @@
           "disponible": "100.00"
         },
         {
-          "precio": 960.0,
-          "comerciante": "victorusdtrodriguez",
-          "min": "50000",
-          "max": "300000",
-          "disponible": "100.00"
-        },
-        {
           "precio": 958.005,
           "comerciante": "Trust-Broker",
           "min": "800000",
           "max": "36450000",
-          "disponible": "35849.50"
+          "disponible": "33472.77"
         },
         {
-          "precio": 958.0,
-          "comerciante": "REMESASBARINAS",
-          "min": "1000000",
-          "max": "4000000",
-          "disponible": "25300.90"
-        },
-        {
-          "precio": 956.7,
+          "precio": 957.0,
           "comerciante": "TPhillips",
-          "min": "5000000",
+          "min": "3000000",
           "max": "36450000",
-          "disponible": "61725.87"
+          "disponible": "33199.40"
+        },
+        {
+          "precio": 957.0,
+          "comerciante": "SusaC",
+          "min": "500000",
+          "max": "4000000",
+          "disponible": "3535.00"
+        },
+        {
+          "precio": 956.5,
+          "comerciante": "securitylc",
+          "min": "2000000",
+          "max": "36450000",
+          "disponible": "31863.57"
         }
       ]
     },
     "compra": {
-      "promedio": 957.1298,
-      "minimo": 957.0,
-      "maximo": 957.299,
+      "promedio": 956.92,
+      "minimo": 956.6,
+      "maximo": 957.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 957.0,
-          "comerciante": "CambiosUniverS",
-          "min": "3000000",
-          "max": "3800000",
-          "disponible": "3274.82"
+          "precio": 956.6,
+          "comerciante": "Estheban_H",
+          "min": "100000",
+          "max": "4000000",
+          "disponible": "199.50"
         },
         {
           "precio": 957.0,
-          "comerciante": "Omaneiron",
-          "min": "155000",
-          "max": "175000",
-          "disponible": "166.99"
+          "comerciante": "AGROAAA",
+          "min": "9569",
+          "max": "9570",
+          "disponible": "99.75"
         },
         {
-          "precio": 957.1,
-          "comerciante": "ConoorsCorp",
-          "min": "900000",
-          "max": "14000000",
-          "disponible": "1698.66"
+          "precio": 957.0,
+          "comerciante": "Rapidez100Canapia",
+          "min": "200000",
+          "max": "2513000",
+          "disponible": "250.06"
         },
         {
-          "precio": 957.25,
-          "comerciante": "EnLineaPagoRapido",
-          "min": "800000",
-          "max": "3000000",
-          "disponible": "1147.99"
+          "precio": 957.0,
+          "comerciante": "Jhair lopez",
+          "min": "3000",
+          "max": "200000",
+          "disponible": "311.69"
         },
         {
-          "precio": 957.299,
-          "comerciante": "LeNary-",
-          "min": "400000",
-          "max": "1400000",
-          "disponible": "1261.55"
+          "precio": 957.0,
+          "comerciante": "Cripto-ven",
+          "min": "300000",
+          "max": "1000000",
+          "disponible": "490.24"
         }
       ]
     }
   },
-  "brecha_pct": 18.66
+  "brecha_pct": 18.55
 }
