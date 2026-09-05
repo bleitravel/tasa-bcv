@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-05T08:33:21+00:00",
-  "actualizado_ve": "2026-09-05T04:33:21-04:00",
+  "actualizado_utc": "2026-09-05T09:01:28+00:00",
+  "actualizado_ve": "2026-09-05T05:01:28-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 963.3402,
+    "referencia": 963.522,
     "venta": {
-      "promedio": 963.3402,
-      "minimo": 961.701,
+      "promedio": 963.522,
+      "minimo": 962.03,
       "maximo": 965.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -22,7 +22,7 @@
           "comerciante": "lavoluntaddeDios",
           "min": "300",
           "max": "287595",
-          "disponible": "1.04"
+          "disponible": "0.53"
         },
         {
           "precio": 964.0,
@@ -39,36 +39,36 @@
           "disponible": "30000.00"
         },
         {
-          "precio": 962.0,
-          "comerciante": "sergiocruz-94",
-          "min": "96200",
+          "precio": 962.58,
+          "comerciante": "FlashTrading_degc",
+          "min": "300000",
           "max": "4000000",
-          "disponible": "160.02"
+          "disponible": "750.00"
         },
         {
-          "precio": 961.701,
-          "comerciante": "塞薩羅德里格斯",
-          "min": "2000000",
-          "max": "9000000",
-          "disponible": "18000.00"
+          "precio": 962.03,
+          "comerciante": "FlashCambiosX",
+          "min": "45000",
+          "max": "45200",
+          "disponible": "53.23"
         }
       ]
     },
     "compra": {
-      "promedio": 969.5554,
-      "minimo": 968.9,
+      "promedio": 969.4754,
+      "minimo": 968.7,
       "maximo": 970.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 968.9,
+          "precio": 968.7,
           "comerciante": "JD_solucion_",
           "min": "300000",
           "max": "1500000",
-          "disponible": "864.48"
+          "disponible": "1497.37"
         },
         {
-          "precio": 969.0,
+          "precio": 968.8,
           "comerciante": "CambiosFacil",
           "min": "400000",
           "max": "5000000",
@@ -98,5 +98,5 @@
       ]
     }
   },
-  "brecha_pct": 18.38
+  "brecha_pct": 18.41
 }
