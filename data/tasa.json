@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-05T10:31:56+00:00",
-  "actualizado_ve": "2026-09-05T06:31:56-04:00",
+  "actualizado_utc": "2026-09-05T11:01:39+00:00",
+  "actualizado_ve": "2026-09-05T07:01:39-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 962.141,
+    "referencia": 963.962,
     "venta": {
-      "promedio": 962.141,
-      "minimo": 961.5,
-      "maximo": 964.0,
+      "promedio": 963.962,
+      "minimo": 963.6,
+      "maximo": 965.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
+          "precio": 965.0,
+          "comerciante": "lavoluntaddeDios",
+          "min": "300",
+          "max": "287595",
+          "disponible": "1.04"
+        },
+        {
           "precio": 964.0,
-          "comerciante": "ReadyToTrade_",
+          "comerciante": "Niur_R",
+          "min": "150000",
+          "max": "1000000",
+          "disponible": "1019.00"
+        },
+        {
+          "precio": 963.61,
+          "comerciante": "Emmanuelli",
+          "min": "2000000",
+          "max": "20002121",
+          "disponible": "13527.63"
+        },
+        {
+          "precio": 963.6,
+          "comerciante": "caguy",
           "min": "1000000",
-          "max": "22000000",
-          "disponible": "28950.06"
+          "max": "36450000",
+          "disponible": "10450.00"
         },
         {
-          "precio": 962.0,
-          "comerciante": "sergiocruz-94",
-          "min": "96200",
-          "max": "4000000",
-          "disponible": "160.02"
-        },
-        {
-          "precio": 961.705,
-          "comerciante": "thecarpio",
-          "min": "500",
-          "max": "20000",
-          "disponible": "1.00"
-        },
-        {
-          "precio": 961.5,
-          "comerciante": "LadyCapitalP2P",
-          "min": "5000000",
-          "max": "8500000",
-          "disponible": "8846.00"
-        },
-        {
-          "precio": 961.5,
-          "comerciante": "Father-01",
+          "precio": 963.6,
+          "comerciante": "Jaed_crp",
           "min": "100000",
-          "max": "10000000",
-          "disponible": "126.93"
+          "max": "7300000",
+          "disponible": "191.96"
         }
       ]
     },
     "compra": {
-      "promedio": 967.8796,
-      "minimo": 966.9,
-      "maximo": 968.499,
+      "promedio": 967.798,
+      "minimo": 967.0,
+      "maximo": 968.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 966.9,
+          "precio": 967.0,
           "comerciante": "Krypto-Handeln",
           "min": "2000000",
           "max": "9300000",
           "disponible": "9991.73"
         },
         {
-          "precio": 967.999,
-          "comerciante": "Servicios-Criptos-27",
-          "min": "1000000",
-          "max": "14000000",
-          "disponible": "2096.33"
+          "precio": 967.99,
+          "comerciante": "Melani_sublimascione",
+          "min": "3000000",
+          "max": "12349868",
+          "disponible": "12742.33"
         },
         {
           "precio": 968.0,
           "comerciante": "EL-PODER-ES-DE-DIOS",
           "min": "1000000",
-          "max": "4000000",
-          "disponible": "6828.09"
+          "max": "6000000",
+          "disponible": "2592.59"
         },
         {
           "precio": 968.0,
-          "comerciante": "ChangerExpress",
+          "comerciante": "cambiosIA",
           "min": "1000000",
           "max": "6000000",
-          "disponible": "4494.38"
+          "disponible": "5744.72"
         },
         {
-          "precio": 968.499,
-          "comerciante": "Cambios_seguros1",
-          "min": "1000000",
-          "max": "4000000",
-          "disponible": "1497.37"
+          "precio": 968.0,
+          "comerciante": "Toshiro626",
+          "min": "2000000",
+          "max": "36450000",
+          "disponible": "10609.78"
         }
       ]
     }
   },
-  "brecha_pct": 18.24
+  "brecha_pct": 18.46
 }
