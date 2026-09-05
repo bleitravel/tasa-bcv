@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-05T01:32:22+00:00",
-  "actualizado_ve": "2026-09-04T21:32:22-04:00",
+  "actualizado_utc": "2026-09-05T02:01:43+00:00",
+  "actualizado_ve": "2026-09-04T22:01:43-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,62 +10,69 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 967.331,
+    "referencia": 967.3,
     "venta": {
-      "promedio": 967.331,
-      "minimo": 967.155,
-      "maximo": 967.5,
+      "promedio": 967.3,
+      "minimo": 966.2,
+      "maximo": 970.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 967.5,
+          "precio": 970.0,
+          "comerciante": "Trust-Broker",
+          "min": "1000000",
+          "max": "36450000",
+          "disponible": "26292.39"
+        },
+        {
+          "precio": 967.0,
           "comerciante": "Kj_Tp",
           "min": "150000",
           "max": "2000000",
-          "disponible": "1294.55"
+          "disponible": "549.02"
         },
         {
-          "precio": 967.5,
-          "comerciante": "Cross-26",
-          "min": "10000000",
+          "precio": 967.0,
+          "comerciante": "MICHELITA_",
+          "min": "7000000",
           "max": "36000000",
           "disponible": "80000.00"
         },
         {
-          "precio": 967.3,
-          "comerciante": "Smolder-",
-          "min": "7000000",
-          "max": "36450000",
-          "disponible": "60000.00"
+          "precio": 966.3,
+          "comerciante": "LeymusCoin",
+          "min": "600000",
+          "max": "25000000",
+          "disponible": "5808.73"
         },
         {
-          "precio": 967.2,
-          "comerciante": "IsaBTC-",
-          "min": "5000000",
-          "max": "36450000",
-          "disponible": "60000.00"
-        },
-        {
-          "precio": 967.155,
-          "comerciante": "CROMOSOMA-21",
-          "min": "3000000",
-          "max": "36450000",
-          "disponible": "50000.00"
+          "precio": 966.2,
+          "comerciante": "LindaS",
+          "min": "500000",
+          "max": "4000000",
+          "disponible": "2850.39"
         }
       ]
     },
     "compra": {
-      "promedio": 966.798,
-      "minimo": 966.0,
-      "maximo": 967.0,
+      "promedio": 967.0376,
+      "minimo": 966.8,
+      "maximo": 967.6,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 966.0,
-          "comerciante": "P2P-2f2abdvz",
-          "min": "29000",
-          "max": "29200",
-          "disponible": "99.75"
+          "precio": 966.8,
+          "comerciante": "CryptoSickoP2P",
+          "min": "4000000",
+          "max": "36450000",
+          "disponible": "5307.70"
+        },
+        {
+          "precio": 966.8,
+          "comerciante": "caro_caro",
+          "min": "600000",
+          "max": "679946",
+          "disponible": "647.95"
         },
         {
           "precio": 966.99,
@@ -75,28 +82,21 @@
           "disponible": "1458.03"
         },
         {
-          "precio": 967.0,
-          "comerciante": "Mairelis_14",
-          "min": "10000",
-          "max": "450000",
-          "disponible": "12.88"
+          "precio": 966.998,
+          "comerciante": "XFastLine",
+          "min": "100000",
+          "max": "36450000",
+          "disponible": "138.17"
         },
         {
-          "precio": 967.0,
-          "comerciante": "CAMBIOSONLINEEE",
+          "precio": 967.6,
+          "comerciante": "Danielajcg",
           "min": "1000",
-          "max": "473500",
-          "disponible": "1.66"
-        },
-        {
-          "precio": 967.0,
-          "comerciante": "OrionRed",
-          "min": "20000",
-          "max": "170000",
-          "disponible": "47.01"
+          "max": "81000",
+          "disponible": "1.67"
         }
       ]
     }
   },
-  "brecha_pct": 18.88
+  "brecha_pct": 18.87
 }
