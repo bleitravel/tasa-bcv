@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-05T12:01:56+00:00",
-  "actualizado_ve": "2026-09-05T08:01:56-04:00",
+  "actualizado_utc": "2026-09-05T12:36:38+00:00",
+  "actualizado_ve": "2026-09-05T08:36:38-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 964.7802,
+    "referencia": 964.711,
     "venta": {
-      "promedio": 964.7802,
-      "minimo": 964.401,
-      "maximo": 965.0,
+      "promedio": 964.711,
+      "minimo": 963.5,
+      "maximo": 967.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 965.0,
-          "comerciante": "AutosAlpha",
-          "min": "200000",
-          "max": "4000000",
-          "disponible": "1142.15"
+          "precio": 967.0,
+          "comerciante": "CriptoseguroAyM",
+          "min": "1000000",
+          "max": "34000000",
+          "disponible": "40000.00"
         },
         {
           "precio": 965.0,
           "comerciante": "KaioSama16",
           "min": "2000000",
           "max": "33019950",
-          "disponible": "21374.51"
+          "disponible": "19174.57"
         },
         {
-          "precio": 965.0,
-          "comerciante": "Tachira2008",
+          "precio": 964.335,
+          "comerciante": "alexfer87",
+          "min": "1500000",
+          "max": "4000000",
+          "disponible": "20327.48"
+        },
+        {
+          "precio": 963.72,
+          "comerciante": "arturo2493",
           "min": "500000",
-          "max": "30000000",
-          "disponible": "5000.00"
+          "max": "4000000",
+          "disponible": "6669.02"
         },
         {
-          "precio": 964.5,
-          "comerciante": "ミReinaPepiadaCoinミ",
-          "min": "800000",
-          "max": "20000000",
-          "disponible": "6522.86"
-        },
-        {
-          "precio": 964.401,
-          "comerciante": "-ARKA",
-          "min": "600000",
-          "max": "20471900",
-          "disponible": "11024.70"
+          "precio": 963.5,
+          "comerciante": "DOCTOR_CAMBIO",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "40000.00"
         }
       ]
     },
     "compra": {
-      "promedio": 965.0278,
-      "minimo": 959.89,
+      "promedio": 965.753,
+      "minimo": 965.0,
       "maximo": 966.45,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 959.89,
-          "comerciante": "CambiosRapid",
-          "min": "10000",
-          "max": "4000000",
-          "disponible": "212.71"
+          "precio": 965.0,
+          "comerciante": "cambiosjuancho",
+          "min": "880000",
+          "max": "887886",
+          "disponible": "919.70"
         },
         {
-          "precio": 966.0,
-          "comerciante": "CryptoVelozz",
-          "min": "3000000",
-          "max": "8439000",
-          "disponible": "8748.02"
+          "precio": 965.0,
+          "comerciante": "123XYZ",
+          "min": "100000",
+          "max": "500000",
+          "disponible": "150.00"
         },
         {
-          "precio": 966.399,
-          "comerciante": "Sag87",
-          "min": "1000000",
-          "max": "20000000",
-          "disponible": "2976.44"
+          "precio": 966.015,
+          "comerciante": "cripto yaya",
+          "min": "20000",
+          "max": "21000",
+          "disponible": "99.75"
         },
         {
-          "precio": 966.4,
-          "comerciante": "EXCHANGE-PRO",
-          "min": "3000000",
-          "max": "36450000",
-          "disponible": "15480.64"
+          "precio": 966.3,
+          "comerciante": "ElBossP2P",
+          "min": "300",
+          "max": "10000",
+          "disponible": "355.28"
         },
         {
           "precio": 966.45,
-          "comerciante": "quiander08",
-          "min": "2000000",
-          "max": "14000000",
-          "disponible": "10676.65"
+          "comerciante": "Pikachuuu13",
+          "min": "1000000",
+          "max": "36450000",
+          "disponible": "6254.88"
         }
       ]
     }
   },
-  "brecha_pct": 18.56
+  "brecha_pct": 18.55
 }
