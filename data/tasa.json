@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-05T06:36:23+00:00",
-  "actualizado_ve": "2026-09-05T02:36:23-04:00",
+  "actualizado_utc": "2026-09-05T07:01:39+00:00",
+  "actualizado_ve": "2026-09-05T03:01:39-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 965.626,
+    "referencia": 965.396,
     "venta": {
-      "promedio": 965.626,
-      "minimo": 965.31,
+      "promedio": 965.396,
+      "minimo": 965.0,
       "maximo": 966.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -22,21 +22,14 @@
           "comerciante": "Jef Roes",
           "min": "100000",
           "max": "800000",
-          "disponible": "510.36"
+          "disponible": "405.42"
         },
         {
-          "precio": 966.0,
-          "comerciante": "Barcola_p2p",
-          "min": "8000",
-          "max": "8665",
-          "disponible": "100.62"
-        },
-        {
-          "precio": 965.5,
-          "comerciante": "Estifen11 ",
-          "min": "1000",
-          "max": "173790",
-          "disponible": "180.00"
+          "precio": 965.35,
+          "comerciante": "ExchangeVeskha",
+          "min": "100000",
+          "max": "832844",
+          "disponible": "603.75"
         },
         {
           "precio": 965.32,
@@ -51,13 +44,20 @@
           "min": "300000",
           "max": "2380574",
           "disponible": "1752.63"
+        },
+        {
+          "precio": 965.0,
+          "comerciante": "Old Parr",
+          "min": "500000",
+          "max": "36450000",
+          "disponible": "11842.23"
         }
       ]
     },
     "compra": {
-      "promedio": 969.4136,
+      "promedio": 969.5038,
       "minimo": 968.9,
-      "maximo": 969.769,
+      "maximo": 969.97,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -65,7 +65,7 @@
           "comerciante": "JD_solucion_",
           "min": "500000",
           "max": "1500000",
-          "disponible": "1497.37"
+          "disponible": "797.32"
         },
         {
           "precio": 969.0,
@@ -75,28 +75,28 @@
           "disponible": "1526.11"
         },
         {
-          "precio": 969.699,
-          "comerciante": "ImJustGirl",
-          "min": "3000000",
-          "max": "6000000",
-          "disponible": "4308.89"
-        },
-        {
-          "precio": 969.7,
-          "comerciante": "CambioRapido13",
-          "min": "2000000",
-          "max": "4399740",
-          "disponible": "4528.82"
-        },
-        {
           "precio": 969.769,
           "comerciante": "ALBERTSIT0_P2P",
           "min": "1000000",
           "max": "3879076",
           "disponible": "3993.01"
+        },
+        {
+          "precio": 969.88,
+          "comerciante": "CAMBIORAPID0S",
+          "min": "5000000",
+          "max": "36000000",
+          "disponible": "49772.41"
+        },
+        {
+          "precio": 969.97,
+          "comerciante": "圎Sushi",
+          "min": "900000",
+          "max": "8000000",
+          "disponible": "4955.82"
         }
       ]
     }
   },
-  "brecha_pct": 18.67
+  "brecha_pct": 18.64
 }
