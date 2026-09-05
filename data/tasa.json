@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-05T00:40:59+00:00",
-  "actualizado_ve": "2026-09-04T20:40:59-04:00",
+  "actualizado_utc": "2026-09-05T01:01:38+00:00",
+  "actualizado_ve": "2026-09-04T21:01:38-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 965.721,
+    "referencia": 966.28,
     "venta": {
-      "promedio": 965.721,
-      "minimo": 964.5,
+      "promedio": 966.28,
+      "minimo": 965.3,
       "maximo": 967.1,
       "anuncios_usados": 5,
       "anuncios": [
@@ -22,14 +22,14 @@
           "comerciante": "CriptoseguroAyM",
           "min": "1500000",
           "max": "34000000",
-          "disponible": "17994.91"
+          "disponible": "15383.93"
         },
         {
-          "precio": 966.005,
+          "precio": 967.0,
           "comerciante": "Trust-Broker",
           "min": "1000000",
           "max": "36450000",
-          "disponible": "28745.58"
+          "disponible": "27334.33"
         },
         {
           "precio": 966.0,
@@ -39,64 +39,64 @@
           "disponible": "17707.81"
         },
         {
-          "precio": 965.0,
+          "precio": 966.0,
           "comerciante": "Daniaarilo",
-          "min": "400000",
+          "min": "300000",
           "max": "4000000",
-          "disponible": "2000.00"
+          "disponible": "889.57"
         },
         {
-          "precio": 964.5,
-          "comerciante": "-The_Dark_Knight-",
-          "min": "5000000",
-          "max": "36450000",
-          "disponible": "80000.00"
+          "precio": 965.3,
+          "comerciante": "HectorB",
+          "min": "10000000",
+          "max": "36000000",
+          "disponible": "75000.00"
         }
       ]
     },
     "compra": {
-      "promedio": 964.0,
-      "minimo": 964.0,
-      "maximo": 964.0,
+      "promedio": 964.58,
+      "minimo": 963.9,
+      "maximo": 965.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 964.0,
-          "comerciante": "CAMBIOSCRY",
-          "min": "1000",
-          "max": "168300",
-          "disponible": "1.89"
-        },
-        {
-          "precio": 964.0,
-          "comerciante": "TradeCertificate",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "0.35"
+          "precio": 963.9,
+          "comerciante": "GlobalBusinessmx",
+          "min": "170939",
+          "max": "170940",
+          "disponible": "177.55"
         },
         {
           "precio": 964.0,
           "comerciante": "Vaneandreina7",
           "min": "599000",
           "max": "600000",
-          "disponible": "2593.51"
+          "disponible": "2597.70"
         },
         {
-          "precio": 964.0,
-          "comerciante": "intercash",
-          "min": "700",
-          "max": "50000",
-          "disponible": "294.99"
+          "precio": 965.0,
+          "comerciante": "JesusCriptoVzla",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "0.73"
         },
         {
-          "precio": 964.0,
-          "comerciante": "Anonymous-User-765fb",
-          "min": "96400",
-          "max": "577500",
-          "disponible": "424.23"
+          "precio": 965.0,
+          "comerciante": "Angel629",
+          "min": "500",
+          "max": "250900",
+          "disponible": "1.81"
+        },
+        {
+          "precio": 965.0,
+          "comerciante": "nene",
+          "min": "192000",
+          "max": "1000000",
+          "disponible": "201.24"
         }
       ]
     }
   },
-  "brecha_pct": 18.68
+  "brecha_pct": 18.75
 }
