@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-05T14:01:52+00:00",
-  "actualizado_ve": "2026-09-05T10:01:52-04:00",
+  "actualizado_utc": "2026-09-05T14:32:09+00:00",
+  "actualizado_ve": "2026-09-05T10:32:09-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 967.811,
+    "referencia": 970.241,
     "venta": {
-      "promedio": 967.811,
-      "minimo": 964.5,
-      "maximo": 971.0,
+      "promedio": 970.241,
+      "minimo": 965.2,
+      "maximo": 974.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 971.0,
+          "precio": 974.0,
           "comerciante": "被放逐的狐狸",
           "min": "1500000",
           "max": "34000000",
-          "disponible": "70740.79"
+          "disponible": "68256.20"
+        },
+        {
+          "precio": 973.005,
+          "comerciante": "Trust-Broker",
+          "min": "2000000",
+          "max": "36450000",
+          "disponible": "50000.00"
         },
         {
           "precio": 970.0,
           "comerciante": "Blank_Mind",
           "min": "1000000",
           "max": "36450000",
-          "disponible": "48565.41"
+          "disponible": "46492.55"
         },
         {
           "precio": 969.0,
           "comerciante": "CriptoseguroAyM",
           "min": "500000",
           "max": "34000000",
-          "disponible": "31435.80"
+          "disponible": "28365.74"
         },
         {
-          "precio": 964.555,
-          "comerciante": "ELTIBURON-DEL-CRYPTO",
-          "min": "1000000",
-          "max": "4000000",
-          "disponible": "1374.29"
-        },
-        {
-          "precio": 964.5,
-          "comerciante": "GAleja1011",
-          "min": "2360000",
-          "max": "2366000",
-          "disponible": "2457.00"
+          "precio": 965.2,
+          "comerciante": "DOCTOR_CAMBIO",
+          "min": "10000000",
+          "max": "36450000",
+          "disponible": "40000.00"
         }
       ]
     },
     "compra": {
-      "promedio": 965.02,
-      "minimo": 965.0,
-      "maximo": 965.1,
+      "promedio": 964.402,
+      "minimo": 964.0,
+      "maximo": 965.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 965.0,
-          "comerciante": "gabyh2911",
-          "min": "300",
+          "precio": 964.0,
+          "comerciante": "Tito95Vzla",
+          "min": "10000",
           "max": "4000000",
-          "disponible": "2.53"
+          "disponible": "11.52"
         },
         {
-          "precio": 965.0,
-          "comerciante": "Juanchoooo17",
-          "min": "50000",
-          "max": "530750",
-          "disponible": "248.13"
-        },
-        {
-          "precio": 965.0,
-          "comerciante": "JohaTeran",
-          "min": "75999",
-          "max": "76000",
-          "disponible": "99.75"
-        },
-        {
-          "precio": 965.0,
-          "comerciante": "MariaCoins",
-          "min": "191730",
-          "max": "1000000",
-          "disponible": "199.43"
-        },
-        {
-          "precio": 965.1,
-          "comerciante": "RodriTrader22",
+          "precio": 964.0,
+          "comerciante": "ARAFMLY1p2p",
           "min": "300",
-          "max": "300000",
-          "disponible": "10.21"
+          "max": "60000",
+          "disponible": "9.49"
+        },
+        {
+          "precio": 964.01,
+          "comerciante": "Angel629",
+          "min": "500",
+          "max": "103149",
+          "disponible": "2.52"
+        },
+        {
+          "precio": 965.0,
+          "comerciante": "HYPERION-CRYPT",
+          "min": "10000",
+          "max": "187000",
+          "disponible": "20.25"
+        },
+        {
+          "precio": 965.0,
+          "comerciante": "ALTOVALORCL",
+          "min": "280000",
+          "max": "10000000",
+          "disponible": "299.40"
         }
       ]
     }
   },
-  "brecha_pct": 18.93
+  "brecha_pct": 19.23
 }
