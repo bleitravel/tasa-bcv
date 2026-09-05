@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-05T15:01:55+00:00",
-  "actualizado_ve": "2026-09-05T11:01:55-04:00",
+  "actualizado_utc": "2026-09-05T15:32:41+00:00",
+  "actualizado_ve": "2026-09-05T11:32:41-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 968.0704,
+    "referencia": 967.86,
     "venta": {
-      "promedio": 968.0704,
-      "minimo": 965.007,
+      "promedio": 967.86,
+      "minimo": 965.0,
       "maximo": 971.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -22,81 +22,81 @@
           "comerciante": "被放逐的狐狸",
           "min": "1500000",
           "max": "34000000",
-          "disponible": "57492.21"
+          "disponible": "50108.92"
         },
         {
           "precio": 970.0,
           "comerciante": "Blank_Mind",
           "min": "1000000",
           "max": "36450000",
-          "disponible": "14318.41"
+          "disponible": "9985.04"
         },
         {
-          "precio": 968.0,
+          "precio": 967.0,
           "comerciante": "CriptoseguroAyM",
           "min": "500000",
           "max": "34000000",
-          "disponible": "21130.17"
+          "disponible": "20292.53"
         },
         {
-          "precio": 966.345,
-          "comerciante": "ReloaderTED",
-          "min": "1000000",
-          "max": "1253324",
-          "disponible": "1300.00"
+          "precio": 966.3,
+          "comerciante": "P2P-a2abbd7e",
+          "min": "300000",
+          "max": "301485",
+          "disponible": "313.00"
         },
         {
-          "precio": 965.007,
-          "comerciante": "ELTIBURON-DEL-CRYPTO",
-          "min": "1000000",
-          "max": "4000000",
-          "disponible": "4561.68"
+          "precio": 965.0,
+          "comerciante": "TheRogers",
+          "min": "300",
+          "max": "350",
+          "disponible": "299.33"
         }
       ]
     },
     "compra": {
-      "promedio": 964.8,
-      "minimo": 964.0,
+      "promedio": 964.808,
+      "minimo": 964.2,
       "maximo": 965.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 964.0,
-          "comerciante": "P2P-8f2709di",
-          "min": "50000",
-          "max": "300000",
-          "disponible": "217.07"
+          "precio": 964.2,
+          "comerciante": "Ferxinho",
+          "min": "5000",
+          "max": "4000000",
+          "disponible": "5.70"
+        },
+        {
+          "precio": 964.84,
+          "comerciante": "P2P-d13a5bta",
+          "min": "1000",
+          "max": "40000",
+          "disponible": "1.66"
         },
         {
           "precio": 965.0,
           "comerciante": "Elcuchomara",
           "min": "965",
           "max": "4000000",
-          "disponible": "6.06"
+          "disponible": "1.94"
         },
         {
           "precio": 965.0,
-          "comerciante": "Aspenmcnate1",
-          "min": "310000",
-          "max": "5000000",
-          "disponible": "343.68"
+          "comerciante": "Gabygg20262",
+          "min": "10000",
+          "max": "482000",
+          "disponible": "14.86"
         },
         {
           "precio": 965.0,
-          "comerciante": "Malaquias3_10",
-          "min": "90000",
-          "max": "482780",
-          "disponible": "498.75"
-        },
-        {
-          "precio": 965.0,
-          "comerciante": "Inteligencia3",
-          "min": "96200",
-          "max": "96500",
-          "disponible": "99.75"
+          "comerciante": "cambioshassan",
+          "min": "20000",
+          "max": "50000",
+          "disponible": "47.95"
         }
       ]
     }
   },
-  "brecha_pct": 18.97
+  "brecha_pct": 18.94
 }
