@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-05T20:32:56+00:00",
-  "actualizado_ve": "2026-09-05T16:32:56-04:00",
+  "actualizado_utc": "2026-09-05T21:01:37+00:00",
+  "actualizado_ve": "2026-09-05T17:01:37-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 965.201,
+    "referencia": 967.33,
     "venta": {
-      "promedio": 965.201,
-      "minimo": 960.0,
+      "promedio": 967.33,
+      "minimo": 962.0,
       "maximo": 980.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -22,14 +22,28 @@
           "comerciante": "USER0798736",
           "min": "10000",
           "max": "18000",
-          "disponible": "89.80"
+          "disponible": "100.00"
         },
         {
-          "precio": 964.0,
+          "precio": 967.6,
+          "comerciante": "四_YONKO_皇",
+          "min": "30000",
+          "max": "35000",
+          "disponible": "100.00"
+        },
+        {
+          "precio": 965.0,
           "comerciante": "CriptoseguroAyM",
           "min": "1500000",
-          "max": "14000000",
-          "disponible": "30000.00"
+          "max": "25937000",
+          "disponible": "26877.00"
+        },
+        {
+          "precio": 962.05,
+          "comerciante": "Anyelo",
+          "min": "424000",
+          "max": "424150",
+          "disponible": "1377.84"
         },
         {
           "precio": 962.0,
@@ -37,66 +51,52 @@
           "min": "2000000",
           "max": "2001000",
           "disponible": "2080.00"
-        },
-        {
-          "precio": 960.005,
-          "comerciante": "Trust-Broker",
-          "min": "800000",
-          "max": "36450000",
-          "disponible": "39666.21"
-        },
-        {
-          "precio": 960.0,
-          "comerciante": "-Akopan-",
-          "min": "4000000",
-          "max": "34650000",
-          "disponible": "15300.00"
         }
       ]
     },
     "compra": {
-      "promedio": 939.386,
-      "minimo": 860.0,
-      "maximo": 959.73,
+      "promedio": 958.1998,
+      "minimo": 955.0,
+      "maximo": 959.099,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 860.0,
-          "comerciante": "Card0dolores",
-          "min": "1000000",
-          "max": "5000000",
-          "disponible": "5042.52"
+          "precio": 955.0,
+          "comerciante": "mileisicasanova",
+          "min": "7000",
+          "max": "10000",
+          "disponible": "92.00"
         },
         {
-          "precio": 958.0,
-          "comerciante": "jhonyjcr",
-          "min": "970",
-          "max": "97500",
-          "disponible": "99.75"
+          "precio": 958.9,
+          "comerciante": "CriptoLuf105",
+          "min": "10000",
+          "max": "40000",
+          "disponible": "11.20"
         },
         {
-          "precio": 959.5,
-          "comerciante": "REMESAS_DGNJ",
-          "min": "20000",
-          "max": "26000",
-          "disponible": "99.75"
-        },
-        {
-          "precio": 959.7,
-          "comerciante": "Alex 12000",
-          "min": "95970",
-          "max": "95977",
-          "disponible": "106.73"
-        },
-        {
-          "precio": 959.73,
-          "comerciante": "JRNBRAVO",
-          "min": "30000",
+          "precio": 959.0,
+          "comerciante": "kjm_21",
+          "min": "2000",
           "max": "4000000",
-          "disponible": "199.50"
+          "disponible": "383.43"
+        },
+        {
+          "precio": 959.0,
+          "comerciante": "ThoR-Cambios",
+          "min": "10000",
+          "max": "400000",
+          "disponible": "99.75"
+        },
+        {
+          "precio": 959.099,
+          "comerciante": "Innoka",
+          "min": "51500",
+          "max": "51501",
+          "disponible": "99.75"
         }
       ]
     }
   },
-  "brecha_pct": 18.61
+  "brecha_pct": 18.88
 }
