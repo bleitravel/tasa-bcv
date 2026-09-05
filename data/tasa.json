@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-05T11:01:39+00:00",
-  "actualizado_ve": "2026-09-05T07:01:39-04:00",
+  "actualizado_utc": "2026-09-05T11:31:33+00:00",
+  "actualizado_ve": "2026-09-05T07:31:33-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 963.962,
+    "referencia": 965.1798,
     "venta": {
-      "promedio": 963.962,
-      "minimo": 963.6,
-      "maximo": 965.0,
+      "promedio": 965.1798,
+      "minimo": 963.0,
+      "maximo": 969.899,
       "anuncios_usados": 5,
       "anuncios": [
         {
+          "precio": 969.899,
+          "comerciante": "compra_seguro",
+          "min": "5000",
+          "max": "970000",
+          "disponible": "1032.00"
+        },
+        {
           "precio": 965.0,
-          "comerciante": "lavoluntaddeDios",
-          "min": "300",
-          "max": "287595",
-          "disponible": "1.04"
+          "comerciante": "AutosAlpha",
+          "min": "200000",
+          "max": "4000000",
+          "disponible": "3534.50"
         },
         {
-          "precio": 964.0,
-          "comerciante": "Niur_R",
-          "min": "150000",
-          "max": "1000000",
-          "disponible": "1019.00"
+          "precio": 965.0,
+          "comerciante": "Cross-26",
+          "min": "5000000",
+          "max": "36000000",
+          "disponible": "48000.00"
         },
         {
-          "precio": 963.61,
-          "comerciante": "Emmanuelli",
-          "min": "2000000",
-          "max": "20002121",
-          "disponible": "13527.63"
-        },
-        {
-          "precio": 963.6,
-          "comerciante": "caguy",
-          "min": "1000000",
-          "max": "36450000",
-          "disponible": "10450.00"
-        },
-        {
-          "precio": 963.6,
-          "comerciante": "Jaed_crp",
+          "precio": 963.0,
+          "comerciante": "MasterMason33",
           "min": "100000",
-          "max": "7300000",
-          "disponible": "191.96"
+          "max": "300000",
+          "disponible": "395.06"
+        },
+        {
+          "precio": 963.0,
+          "comerciante": "Cambioscorleone",
+          "min": "3000000",
+          "max": "36450000",
+          "disponible": "74147.46"
         }
       ]
     },
     "compra": {
-      "promedio": 967.798,
-      "minimo": 967.0,
-      "maximo": 968.0,
+      "promedio": 965.34,
+      "minimo": 965.0,
+      "maximo": 965.9,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 967.0,
-          "comerciante": "Krypto-Handeln",
-          "min": "2000000",
-          "max": "9300000",
-          "disponible": "9991.73"
+          "precio": 965.0,
+          "comerciante": "Servicios-Criptos-27",
+          "min": "1500000",
+          "max": "14000000",
+          "disponible": "3094.58"
         },
         {
-          "precio": 967.99,
-          "comerciante": "Melani_sublimascione",
-          "min": "3000000",
-          "max": "12349868",
-          "disponible": "12742.33"
+          "precio": 965.0,
+          "comerciante": "-TSxRV-",
+          "min": "36450000",
+          "max": "500000000",
+          "disponible": "186170.84"
         },
         {
-          "precio": 968.0,
-          "comerciante": "EL-PODER-ES-DE-DIOS",
+          "precio": 965.0,
+          "comerciante": "FUERZA_ELITE",
+          "min": "36450000",
+          "max": "500000000",
+          "disponible": "104040.65"
+        },
+        {
+          "precio": 965.8,
+          "comerciante": "CASHEAA",
           "min": "1000000",
-          "max": "6000000",
-          "disponible": "2592.59"
+          "max": "5400000",
+          "disponible": "5810.49"
         },
         {
-          "precio": 968.0,
-          "comerciante": "cambiosIA",
-          "min": "1000000",
-          "max": "6000000",
-          "disponible": "5744.72"
-        },
-        {
-          "precio": 968.0,
-          "comerciante": "Toshiro626",
-          "min": "2000000",
-          "max": "36450000",
-          "disponible": "10609.78"
+          "precio": 965.9,
+          "comerciante": "nene",
+          "min": "204000",
+          "max": "1000000",
+          "disponible": "212.59"
         }
       ]
     }
   },
-  "brecha_pct": 18.46
+  "brecha_pct": 18.61
 }
