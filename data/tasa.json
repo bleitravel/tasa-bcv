@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-05T05:01:45+00:00",
-  "actualizado_ve": "2026-09-05T01:01:45-04:00",
+  "actualizado_utc": "2026-09-05T05:32:47+00:00",
+  "actualizado_ve": "2026-09-05T01:32:47-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,40 +10,26 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 966.3504,
+    "referencia": 965.9408,
     "venta": {
-      "promedio": 966.3504,
-      "minimo": 966.0,
-      "maximo": 966.891,
+      "promedio": 965.9408,
+      "minimo": 965.783,
+      "maximo": 966.061,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 966.891,
-          "comerciante": "Marquez25",
-          "min": "120000",
-          "max": "1500000",
-          "disponible": "726.43"
-        },
-        {
-          "precio": 966.401,
-          "comerciante": "SISISY",
-          "min": "200000",
-          "max": "10000000",
-          "disponible": "7774.44"
-        },
-        {
-          "precio": 966.4,
-          "comerciante": "销CryptoAptus售",
-          "min": "300000",
-          "max": "13000000",
-          "disponible": "3486.53"
+          "precio": 966.061,
+          "comerciante": "HenryCryptob",
+          "min": "107300",
+          "max": "107301",
+          "disponible": "1329.45"
         },
         {
           "precio": 966.06,
           "comerciante": "VISÓN CRIPTØ",
           "min": "700000",
           "max": "36450000",
-          "disponible": "38264.26"
+          "disponible": "38075.07"
         },
         {
           "precio": 966.0,
@@ -51,52 +37,66 @@
           "min": "100000",
           "max": "800000",
           "disponible": "1000.00"
+        },
+        {
+          "precio": 965.8,
+          "comerciante": "Dynamo_A",
+          "min": "400000",
+          "max": "22000000",
+          "disponible": "3682.31"
+        },
+        {
+          "precio": 965.783,
+          "comerciante": "Margrett Trousdale Yown",
+          "min": "100000",
+          "max": "2893750",
+          "disponible": "2310.90"
         }
       ]
     },
     "compra": {
-      "promedio": 969.726,
+      "promedio": 969.5474,
       "minimo": 969.0,
-      "maximo": 969.98,
+      "maximo": 969.8,
       "anuncios_usados": 5,
       "anuncios": [
         {
           "precio": 969.0,
-          "comerciante": "__--Segueri--__",
-          "min": "20000",
-          "max": "363000",
-          "disponible": "318.99"
+          "comerciante": "CambiosFacil",
+          "min": "400000",
+          "max": "5000000",
+          "disponible": "920.98"
+        },
+        {
+          "precio": 969.644,
+          "comerciante": "RecontraFino",
+          "min": "400000",
+          "max": "36450000",
+          "disponible": "6561.80"
+        },
+        {
+          "precio": 969.645,
+          "comerciante": "SatoruEXchange",
+          "min": "100000",
+          "max": "1000000",
+          "disponible": "1071.30"
+        },
+        {
+          "precio": 969.648,
+          "comerciante": "Elio",
+          "min": "100000",
+          "max": "36450000",
+          "disponible": "1651.40"
         },
         {
           "precio": 969.8,
           "comerciante": "CambioRapido13",
           "min": "2000000",
-          "max": "3724377",
-          "disponible": "3833.25"
-        },
-        {
-          "precio": 969.88,
-          "comerciante": "CAMBIORAPID0S",
-          "min": "5000000",
-          "max": "36000000",
-          "disponible": "49772.41"
-        },
-        {
-          "precio": 969.97,
-          "comerciante": "圎Sushi",
-          "min": "900000",
-          "max": "8000000",
-          "disponible": "1841.62"
-        },
-        {
-          "precio": 969.98,
-          "comerciante": "Aioria1508",
-          "min": "300000",
-          "max": "10000000",
-          "disponible": "4816.88"
+          "max": "4399740",
+          "disponible": "4528.82"
         }
       ]
     }
   },
-  "brecha_pct": 18.75
+  "brecha_pct": 18.7
 }
