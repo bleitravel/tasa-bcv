@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-05T19:31:17+00:00",
-  "actualizado_ve": "2026-09-05T15:31:17-04:00",
+  "actualizado_utc": "2026-09-05T20:01:40+00:00",
+  "actualizado_ve": "2026-09-05T16:01:40-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 966.6,
+    "referencia": 965.541,
     "venta": {
-      "promedio": 966.6,
-      "minimo": 962.0,
+      "promedio": 965.541,
+      "minimo": 960.7,
       "maximo": 980.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -25,18 +25,11 @@
           "disponible": "100.00"
         },
         {
-          "precio": 965.0,
-          "comerciante": "luismi14",
-          "min": "300000",
-          "max": "4000000",
-          "disponible": "1000.00"
-        },
-        {
           "precio": 964.0,
           "comerciante": "CriptoseguroAyM",
           "min": "1500000",
           "max": "30000000",
-          "disponible": "20570.73"
+          "disponible": "8927.87"
         },
         {
           "precio": 962.0,
@@ -46,57 +39,64 @@
           "disponible": "2080.00"
         },
         {
-          "precio": 962.0,
-          "comerciante": " Blessed ",
-          "min": "10000000",
+          "precio": 961.005,
+          "comerciante": "Trust-Broker",
+          "min": "800000",
+          "max": "36450000",
+          "disponible": "44019.71"
+        },
+        {
+          "precio": 960.7,
+          "comerciante": "Jin-Woo-Sung",
+          "min": "8000000",
           "max": "36450000",
           "disponible": "80000.00"
         }
       ]
     },
     "compra": {
-      "promedio": 961.6578,
-      "minimo": 961.0,
-      "maximo": 961.999,
+      "promedio": 960.0666,
+      "minimo": 960.0,
+      "maximo": 960.333,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 961.0,
-          "comerciante": "tucambioseguro",
-          "min": "100000",
-          "max": "4000000",
-          "disponible": "498.75"
+          "precio": 960.0,
+          "comerciante": "OPABIANCHI",
+          "min": "3000000",
+          "max": "10000000",
+          "disponible": "9000.00"
         },
         {
-          "precio": 961.5,
-          "comerciante": "Verano_p2P",
-          "min": "110000",
-          "max": "110001",
-          "disponible": "114.71"
-        },
-        {
-          "precio": 961.8,
-          "comerciante": "CristoEsLaRoca",
-          "min": "110000",
-          "max": "4000000",
-          "disponible": "121.32"
-        },
-        {
-          "precio": 961.99,
-          "comerciante": "enjeramo",
-          "min": "95900",
-          "max": "4000000",
+          "precio": 960.0,
+          "comerciante": "Salamanca_",
+          "min": "5000",
+          "max": "585000",
           "disponible": "99.75"
         },
         {
-          "precio": 961.999,
-          "comerciante": "Samuel Jair",
-          "min": "300",
-          "max": "10000",
-          "disponible": "120.25"
+          "precio": 960.0,
+          "comerciante": "Servic2009",
+          "min": "1240000",
+          "max": "1240000",
+          "disponible": "3072.34"
+        },
+        {
+          "precio": 960.0,
+          "comerciante": "VENCAMBIOS™",
+          "min": "95000",
+          "max": "36450000",
+          "disponible": "99.87"
+        },
+        {
+          "precio": 960.333,
+          "comerciante": "LanaCattleya",
+          "min": "1300000",
+          "max": "1800000",
+          "disponible": "1796.40"
         }
       ]
     }
   },
-  "brecha_pct": 18.79
+  "brecha_pct": 18.66
 }
