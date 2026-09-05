@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-05T02:01:43+00:00",
-  "actualizado_ve": "2026-09-04T22:01:43-04:00",
+  "actualizado_utc": "2026-09-05T02:33:58+00:00",
+  "actualizado_ve": "2026-09-04T22:33:58-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 967.3,
+    "referencia": 968.51,
     "venta": {
-      "promedio": 967.3,
-      "minimo": 966.2,
+      "promedio": 968.51,
+      "minimo": 968.0,
       "maximo": 970.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -22,51 +22,44 @@
           "comerciante": "Trust-Broker",
           "min": "1000000",
           "max": "36450000",
-          "disponible": "26292.39"
+          "disponible": "14406.62"
         },
         {
-          "precio": 967.0,
-          "comerciante": "Kj_Tp",
-          "min": "150000",
-          "max": "2000000",
-          "disponible": "549.02"
-        },
-        {
-          "precio": 967.0,
+          "precio": 968.5,
           "comerciante": "MICHELITA_",
-          "min": "7000000",
+          "min": "10000000",
           "max": "36000000",
           "disponible": "80000.00"
         },
         {
-          "precio": 966.3,
-          "comerciante": "LeymusCoin",
+          "precio": 968.05,
+          "comerciante": "Justcrip18",
           "min": "600000",
-          "max": "25000000",
-          "disponible": "5808.73"
+          "max": "1798200",
+          "disponible": "1857.55"
         },
         {
-          "precio": 966.2,
-          "comerciante": "LindaS",
-          "min": "500000",
-          "max": "4000000",
-          "disponible": "2850.39"
+          "precio": 968.0,
+          "comerciante": "Smolder-",
+          "min": "7000000",
+          "max": "36450000",
+          "disponible": "69669.43"
+        },
+        {
+          "precio": 968.0,
+          "comerciante": "安全与信任",
+          "min": "2000000",
+          "max": "36000000",
+          "disponible": "10937.71"
         }
       ]
     },
     "compra": {
-      "promedio": 967.0376,
+      "promedio": 967.62,
       "minimo": 966.8,
-      "maximo": 967.6,
+      "maximo": 969.0,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 966.8,
-          "comerciante": "CryptoSickoP2P",
-          "min": "4000000",
-          "max": "36450000",
-          "disponible": "5307.70"
-        },
         {
           "precio": 966.8,
           "comerciante": "caro_caro",
@@ -75,18 +68,11 @@
           "disponible": "647.95"
         },
         {
-          "precio": 966.99,
-          "comerciante": "RomeroChange",
+          "precio": 967.0,
+          "comerciante": "Cambiosbraycar",
           "min": "1000000",
-          "max": "4000000",
-          "disponible": "1458.03"
-        },
-        {
-          "precio": 966.998,
-          "comerciante": "XFastLine",
-          "min": "100000",
-          "max": "36450000",
-          "disponible": "138.17"
+          "max": "2000000",
+          "disponible": "1052.64"
         },
         {
           "precio": 967.6,
@@ -94,9 +80,23 @@
           "min": "1000",
           "max": "81000",
           "disponible": "1.67"
+        },
+        {
+          "precio": 967.7,
+          "comerciante": "LCEtrader",
+          "min": "20000",
+          "max": "120000",
+          "disponible": "70.36"
+        },
+        {
+          "precio": 969.0,
+          "comerciante": "Autana2003",
+          "min": "300",
+          "max": "100000",
+          "disponible": "0.31"
         }
       ]
     }
   },
-  "brecha_pct": 18.87
+  "brecha_pct": 19.02
 }
