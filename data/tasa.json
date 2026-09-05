@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-05T21:31:31+00:00",
-  "actualizado_ve": "2026-09-05T17:31:31-04:00",
+  "actualizado_utc": "2026-09-05T22:01:34+00:00",
+  "actualizado_ve": "2026-09-05T18:01:34-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,20 +10,13 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 976.401,
+    "referencia": 965.541,
     "venta": {
-      "promedio": 976.401,
-      "minimo": 960.005,
-      "maximo": 1000.0,
+      "promedio": 965.541,
+      "minimo": 956.7,
+      "maximo": 995.0,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 1000.0,
-          "comerciante": "luismi14",
-          "min": "30000",
-          "max": "4000000",
-          "disponible": "1000.00"
-        },
         {
           "precio": 995.0,
           "comerciante": "USER0798736",
@@ -32,71 +25,78 @@
           "disponible": "100.00"
         },
         {
-          "precio": 965.0,
-          "comerciante": "CriptoseguroAyM",
-          "min": "1500000",
-          "max": "20044000",
-          "disponible": "10215.72"
+          "precio": 960.0,
+          "comerciante": "victorusdtrodriguez",
+          "min": "50000",
+          "max": "300000",
+          "disponible": "100.00"
         },
         {
-          "precio": 962.0,
-          "comerciante": "JAG_CRIPTO",
-          "min": "2000000",
-          "max": "2001000",
-          "disponible": "2080.00"
-        },
-        {
-          "precio": 960.005,
+          "precio": 958.005,
           "comerciante": "Trust-Broker",
           "min": "800000",
           "max": "36450000",
-          "disponible": "36812.44"
+          "disponible": "35849.50"
+        },
+        {
+          "precio": 958.0,
+          "comerciante": "REMESASBARINAS",
+          "min": "1000000",
+          "max": "4000000",
+          "disponible": "25300.90"
+        },
+        {
+          "precio": 956.7,
+          "comerciante": "TPhillips",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "61725.87"
         }
       ]
     },
     "compra": {
-      "promedio": 958.0198,
-      "minimo": 958.0,
-      "maximo": 958.099,
+      "promedio": 957.1298,
+      "minimo": 957.0,
+      "maximo": 957.299,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 958.0,
-          "comerciante": "tupanal",
-          "min": "20000",
-          "max": "50000",
-          "disponible": "70.29"
+          "precio": 957.0,
+          "comerciante": "CambiosUniverS",
+          "min": "3000000",
+          "max": "3800000",
+          "disponible": "3274.82"
         },
         {
-          "precio": 958.0,
-          "comerciante": "cambiosvnzla25",
-          "min": "1000",
-          "max": "10000",
-          "disponible": "99.75"
+          "precio": 957.0,
+          "comerciante": "Omaneiron",
+          "min": "155000",
+          "max": "175000",
+          "disponible": "166.99"
         },
         {
-          "precio": 958.0,
-          "comerciante": "Newman Gudiño",
-          "min": "300",
-          "max": "97000",
-          "disponible": "30.82"
+          "precio": 957.1,
+          "comerciante": "ConoorsCorp",
+          "min": "900000",
+          "max": "14000000",
+          "disponible": "1698.66"
         },
         {
-          "precio": 958.0,
-          "comerciante": "CambiosRocaFuerte",
-          "min": "140000",
-          "max": "143700",
-          "disponible": "149.62"
+          "precio": 957.25,
+          "comerciante": "EnLineaPagoRapido",
+          "min": "800000",
+          "max": "3000000",
+          "disponible": "1147.99"
         },
         {
-          "precio": 958.099,
-          "comerciante": "Innoka",
-          "min": "36900",
-          "max": "36901",
-          "disponible": "99.75"
+          "precio": 957.299,
+          "comerciante": "LeNary-",
+          "min": "400000",
+          "max": "1400000",
+          "disponible": "1261.55"
         }
       ]
     }
   },
-  "brecha_pct": 19.99
+  "brecha_pct": 18.66
 }
