@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-05T22:31:48+00:00",
-  "actualizado_ve": "2026-09-05T18:31:48-04:00",
+  "actualizado_utc": "2026-09-05T23:01:29+00:00",
+  "actualizado_ve": "2026-09-05T19:01:29-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 964.701,
+    "referencia": 964.5812,
     "venta": {
-      "promedio": 964.701,
-      "minimo": 956.5,
+      "promedio": 964.5812,
+      "minimo": 956.2,
       "maximo": 995.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -32,71 +32,71 @@
           "disponible": "33472.77"
         },
         {
-          "precio": 957.0,
-          "comerciante": "TPhillips",
-          "min": "3000000",
-          "max": "36450000",
-          "disponible": "33199.40"
-        },
-        {
-          "precio": 957.0,
-          "comerciante": "SusaC",
-          "min": "500000",
+          "precio": 957.201,
+          "comerciante": "TheBlack_32",
+          "min": "200000",
           "max": "4000000",
-          "disponible": "3535.00"
+          "disponible": "789.64"
         },
         {
           "precio": 956.5,
-          "comerciante": "securitylc",
-          "min": "2000000",
-          "max": "36450000",
-          "disponible": "31863.57"
+          "comerciante": "LiraInversiones",
+          "min": "150000",
+          "max": "512000",
+          "disponible": "420.03"
+        },
+        {
+          "precio": 956.2,
+          "comerciante": "CambioConfiable1",
+          "min": "300000",
+          "max": "4000000",
+          "disponible": "8832.24"
         }
       ]
     },
     "compra": {
-      "promedio": 956.92,
-      "minimo": 956.6,
-      "maximo": 957.0,
+      "promedio": 956.3478,
+      "minimo": 955.0,
+      "maximo": 956.99,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 956.6,
-          "comerciante": "Estheban_H",
-          "min": "100000",
+          "precio": 955.0,
+          "comerciante": "kekeleon",
+          "min": "50000",
           "max": "4000000",
-          "disponible": "199.50"
+          "disponible": "299.25"
         },
         {
-          "precio": 957.0,
-          "comerciante": "AGROAAA",
-          "min": "9569",
-          "max": "9570",
-          "disponible": "99.75"
+          "precio": 955.9,
+          "comerciante": "trader-jade",
+          "min": "349000",
+          "max": "350000",
+          "disponible": "365.22"
         },
         {
-          "precio": 957.0,
-          "comerciante": "Rapidez100Canapia",
-          "min": "200000",
-          "max": "2513000",
-          "disponible": "250.06"
+          "precio": 956.9,
+          "comerciante": "Fast23exchangeVE",
+          "min": "100000",
+          "max": "393483",
+          "disponible": "409.97"
         },
         {
-          "precio": 957.0,
-          "comerciante": "Jhair lopez",
-          "min": "3000",
-          "max": "200000",
-          "disponible": "311.69"
+          "precio": 956.949,
+          "comerciante": "AdriV-P2P",
+          "min": "80000",
+          "max": "450000",
+          "disponible": "128.56"
         },
         {
-          "precio": 957.0,
-          "comerciante": "Cripto-ven",
-          "min": "300000",
-          "max": "1000000",
-          "disponible": "490.24"
+          "precio": 956.99,
+          "comerciante": "CambiosMacQueen",
+          "min": "50000",
+          "max": "400000",
+          "disponible": "399.00"
         }
       ]
     }
   },
-  "brecha_pct": 18.55
+  "brecha_pct": 18.54
 }
