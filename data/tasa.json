@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-05T11:31:33+00:00",
-  "actualizado_ve": "2026-09-05T07:31:33-04:00",
+  "actualizado_utc": "2026-09-05T12:01:56+00:00",
+  "actualizado_ve": "2026-09-05T08:01:56-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 965.1798,
+    "referencia": 964.7802,
     "venta": {
-      "promedio": 965.1798,
-      "minimo": 963.0,
-      "maximo": 969.899,
+      "promedio": 964.7802,
+      "minimo": 964.401,
+      "maximo": 965.0,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 969.899,
-          "comerciante": "compra_seguro",
-          "min": "5000",
-          "max": "970000",
-          "disponible": "1032.00"
-        },
         {
           "precio": 965.0,
           "comerciante": "AutosAlpha",
           "min": "200000",
           "max": "4000000",
-          "disponible": "3534.50"
+          "disponible": "1142.15"
         },
         {
           "precio": 965.0,
-          "comerciante": "Cross-26",
-          "min": "5000000",
-          "max": "36000000",
-          "disponible": "48000.00"
+          "comerciante": "KaioSama16",
+          "min": "2000000",
+          "max": "33019950",
+          "disponible": "21374.51"
         },
         {
-          "precio": 963.0,
-          "comerciante": "MasterMason33",
-          "min": "100000",
-          "max": "300000",
-          "disponible": "395.06"
+          "precio": 965.0,
+          "comerciante": "Tachira2008",
+          "min": "500000",
+          "max": "30000000",
+          "disponible": "5000.00"
         },
         {
-          "precio": 963.0,
-          "comerciante": "Cambioscorleone",
-          "min": "3000000",
-          "max": "36450000",
-          "disponible": "74147.46"
+          "precio": 964.5,
+          "comerciante": "ミReinaPepiadaCoinミ",
+          "min": "800000",
+          "max": "20000000",
+          "disponible": "6522.86"
+        },
+        {
+          "precio": 964.401,
+          "comerciante": "-ARKA",
+          "min": "600000",
+          "max": "20471900",
+          "disponible": "11024.70"
         }
       ]
     },
     "compra": {
-      "promedio": 965.34,
-      "minimo": 965.0,
-      "maximo": 965.9,
+      "promedio": 965.0278,
+      "minimo": 959.89,
+      "maximo": 966.45,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 965.0,
-          "comerciante": "Servicios-Criptos-27",
-          "min": "1500000",
-          "max": "14000000",
-          "disponible": "3094.58"
+          "precio": 959.89,
+          "comerciante": "CambiosRapid",
+          "min": "10000",
+          "max": "4000000",
+          "disponible": "212.71"
         },
         {
-          "precio": 965.0,
-          "comerciante": "-TSxRV-",
-          "min": "36450000",
-          "max": "500000000",
-          "disponible": "186170.84"
+          "precio": 966.0,
+          "comerciante": "CryptoVelozz",
+          "min": "3000000",
+          "max": "8439000",
+          "disponible": "8748.02"
         },
         {
-          "precio": 965.0,
-          "comerciante": "FUERZA_ELITE",
-          "min": "36450000",
-          "max": "500000000",
-          "disponible": "104040.65"
-        },
-        {
-          "precio": 965.8,
-          "comerciante": "CASHEAA",
+          "precio": 966.399,
+          "comerciante": "Sag87",
           "min": "1000000",
-          "max": "5400000",
-          "disponible": "5810.49"
+          "max": "20000000",
+          "disponible": "2976.44"
         },
         {
-          "precio": 965.9,
-          "comerciante": "nene",
-          "min": "204000",
-          "max": "1000000",
-          "disponible": "212.59"
+          "precio": 966.4,
+          "comerciante": "EXCHANGE-PRO",
+          "min": "3000000",
+          "max": "36450000",
+          "disponible": "15480.64"
+        },
+        {
+          "precio": 966.45,
+          "comerciante": "quiander08",
+          "min": "2000000",
+          "max": "14000000",
+          "disponible": "10676.65"
         }
       ]
     }
   },
-  "brecha_pct": 18.61
+  "brecha_pct": 18.56
 }
