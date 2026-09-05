@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-05T08:02:09+00:00",
-  "actualizado_ve": "2026-09-05T04:02:09-04:00",
+  "actualizado_utc": "2026-09-05T08:33:21+00:00",
+  "actualizado_ve": "2026-09-05T04:33:21-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 964.2186,
+    "referencia": 963.3402,
     "venta": {
-      "promedio": 964.2186,
-      "minimo": 964.0,
+      "promedio": 963.3402,
+      "minimo": 961.701,
       "maximo": 965.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -23,20 +23,6 @@
           "min": "300",
           "max": "287595",
           "disponible": "1.04"
-        },
-        {
-          "precio": 964.083,
-          "comerciante": "Margrett Trousdale Yown",
-          "min": "150000",
-          "max": "3171300",
-          "disponible": "886.10"
-        },
-        {
-          "precio": 964.01,
-          "comerciante": "EverCryptoUSDT ",
-          "min": "300000",
-          "max": "2380574",
-          "disponible": "1752.63"
         },
         {
           "precio": 964.0,
@@ -51,15 +37,36 @@
           "min": "1000000",
           "max": "22000000",
           "disponible": "30000.00"
+        },
+        {
+          "precio": 962.0,
+          "comerciante": "sergiocruz-94",
+          "min": "96200",
+          "max": "4000000",
+          "disponible": "160.02"
+        },
+        {
+          "precio": 961.701,
+          "comerciante": "塞薩羅德里格斯",
+          "min": "2000000",
+          "max": "9000000",
+          "disponible": "18000.00"
         }
       ]
     },
     "compra": {
-      "promedio": 969.7754,
-      "minimo": 969.0,
+      "promedio": 969.5554,
+      "minimo": 968.9,
       "maximo": 970.0,
       "anuncios_usados": 5,
       "anuncios": [
+        {
+          "precio": 968.9,
+          "comerciante": "JD_solucion_",
+          "min": "300000",
+          "max": "1500000",
+          "disponible": "864.48"
+        },
         {
           "precio": 969.0,
           "comerciante": "CambiosFacil",
@@ -87,16 +94,9 @@
           "min": "500000",
           "max": "7000000",
           "disponible": "9425.83"
-        },
-        {
-          "precio": 970.0,
-          "comerciante": "_Cyber_Glup_Matrix_-",
-          "min": "500000",
-          "max": "2018915",
-          "disponible": "2077.84"
         }
       ]
     }
   },
-  "brecha_pct": 18.49
+  "brecha_pct": 18.38
 }
