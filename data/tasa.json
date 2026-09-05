@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-05T03:01:44+00:00",
-  "actualizado_ve": "2026-09-04T23:01:44-04:00",
+  "actualizado_utc": "2026-09-05T03:33:37+00:00",
+  "actualizado_ve": "2026-09-04T23:33:37-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,20 +10,13 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 967.06,
+    "referencia": 965.9294,
     "venta": {
-      "promedio": 967.06,
-      "minimo": 967.0,
-      "maximo": 967.3,
+      "promedio": 965.9294,
+      "minimo": 965.511,
+      "maximo": 967.0,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 967.3,
-          "comerciante": "销CryptoAptus售",
-          "min": "500000",
-          "max": "13000000",
-          "disponible": "11800.00"
-        },
         {
           "precio": 967.0,
           "comerciante": "Kj_Tp",
@@ -32,41 +25,41 @@
           "disponible": "299.08"
         },
         {
-          "precio": 967.0,
-          "comerciante": "Smolder-",
-          "min": "7000000",
-          "max": "30809268",
-          "disponible": "31893.00"
-        },
-        {
-          "precio": 967.0,
-          "comerciante": "Cubo_rubik",
+          "precio": 966.066,
+          "comerciante": "VISÓN CRIPTØ",
           "min": "1000000",
-          "max": "20000000",
-          "disponible": "20682.00"
+          "max": "36450000",
+          "disponible": "38659.69"
         },
         {
-          "precio": 967.0,
-          "comerciante": "MICHELITA_",
-          "min": "2000000",
-          "max": "15437994",
-          "disponible": "15940.10"
+          "precio": 965.55,
+          "comerciante": "doctor_zoidberg",
+          "min": "900000",
+          "max": "36450000",
+          "disponible": "36950.06"
+        },
+        {
+          "precio": 965.52,
+          "comerciante": "zoecambios_21",
+          "min": "800000",
+          "max": "35000000",
+          "disponible": "3521.06"
+        },
+        {
+          "precio": 965.511,
+          "comerciante": "EverCryptoUSDT ",
+          "min": "500000",
+          "max": "4657132",
+          "disponible": "3673.12"
         }
       ]
     },
     "compra": {
-      "promedio": 967.28,
-      "minimo": 966.0,
-      "maximo": 969.0,
+      "promedio": 967.768,
+      "minimo": 966.8,
+      "maximo": 968.95,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 966.0,
-          "comerciante": "Carlos1703",
-          "min": "8000",
-          "max": "803258",
-          "disponible": "829.45"
-        },
         {
           "precio": 966.8,
           "comerciante": "caro_caro",
@@ -76,27 +69,34 @@
         },
         {
           "precio": 967.0,
-          "comerciante": "Cambiosbraycar",
+          "comerciante": "Mairelis_14",
+          "min": "10000",
+          "max": "450000",
+          "disponible": "11.09"
+        },
+        {
+          "precio": 967.3,
+          "comerciante": "Oasis_Trader",
           "min": "1000000",
-          "max": "2000000",
-          "disponible": "1052.64"
+          "max": "10000000",
+          "disponible": "1621.04"
         },
         {
-          "precio": 967.6,
-          "comerciante": "Danielajcg",
-          "min": "1000",
-          "max": "81000",
-          "disponible": "1.67"
+          "precio": 968.79,
+          "comerciante": "塞薩羅德里格斯",
+          "min": "2000000",
+          "max": "11000000",
+          "disponible": "2113.00"
         },
         {
-          "precio": 969.0,
-          "comerciante": "Autana2003",
-          "min": "300",
-          "max": "100000",
-          "disponible": "0.31"
+          "precio": 968.95,
+          "comerciante": "CryptoMendoza-",
+          "min": "1000000",
+          "max": "25000000",
+          "disponible": "5494.96"
         }
       ]
     }
   },
-  "brecha_pct": 18.84
+  "brecha_pct": 18.7
 }
