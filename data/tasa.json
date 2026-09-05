@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-05T01:01:38+00:00",
-  "actualizado_ve": "2026-09-04T21:01:38-04:00",
+  "actualizado_utc": "2026-09-05T01:32:22+00:00",
+  "actualizado_ve": "2026-09-04T21:32:22-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 966.28,
+    "referencia": 967.331,
     "venta": {
-      "promedio": 966.28,
-      "minimo": 965.3,
-      "maximo": 967.1,
+      "promedio": 967.331,
+      "minimo": 967.155,
+      "maximo": 967.5,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 967.1,
-          "comerciante": "CriptoseguroAyM",
-          "min": "1500000",
-          "max": "34000000",
-          "disponible": "15383.93"
+          "precio": 967.5,
+          "comerciante": "Kj_Tp",
+          "min": "150000",
+          "max": "2000000",
+          "disponible": "1294.55"
         },
         {
-          "precio": 967.0,
-          "comerciante": "Trust-Broker",
-          "min": "1000000",
-          "max": "36450000",
-          "disponible": "27334.33"
-        },
-        {
-          "precio": 966.0,
-          "comerciante": "Blank_Mind",
-          "min": "500000",
-          "max": "36450000",
-          "disponible": "17707.81"
-        },
-        {
-          "precio": 966.0,
-          "comerciante": "Daniaarilo",
-          "min": "300000",
-          "max": "4000000",
-          "disponible": "889.57"
-        },
-        {
-          "precio": 965.3,
-          "comerciante": "HectorB",
+          "precio": 967.5,
+          "comerciante": "Cross-26",
           "min": "10000000",
           "max": "36000000",
-          "disponible": "75000.00"
+          "disponible": "80000.00"
+        },
+        {
+          "precio": 967.3,
+          "comerciante": "Smolder-",
+          "min": "7000000",
+          "max": "36450000",
+          "disponible": "60000.00"
+        },
+        {
+          "precio": 967.2,
+          "comerciante": "IsaBTC-",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "60000.00"
+        },
+        {
+          "precio": 967.155,
+          "comerciante": "CROMOSOMA-21",
+          "min": "3000000",
+          "max": "36450000",
+          "disponible": "50000.00"
         }
       ]
     },
     "compra": {
-      "promedio": 964.58,
-      "minimo": 963.9,
-      "maximo": 965.0,
+      "promedio": 966.798,
+      "minimo": 966.0,
+      "maximo": 967.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 963.9,
-          "comerciante": "GlobalBusinessmx",
-          "min": "170939",
-          "max": "170940",
-          "disponible": "177.55"
+          "precio": 966.0,
+          "comerciante": "P2P-2f2abdvz",
+          "min": "29000",
+          "max": "29200",
+          "disponible": "99.75"
         },
         {
-          "precio": 964.0,
-          "comerciante": "Vaneandreina7",
-          "min": "599000",
-          "max": "600000",
-          "disponible": "2597.70"
-        },
-        {
-          "precio": 965.0,
-          "comerciante": "JesusCriptoVzla",
-          "min": "300",
+          "precio": 966.99,
+          "comerciante": "RomeroChange",
+          "min": "1000000",
           "max": "4000000",
-          "disponible": "0.73"
+          "disponible": "1458.03"
         },
         {
-          "precio": 965.0,
-          "comerciante": "Angel629",
-          "min": "500",
-          "max": "250900",
-          "disponible": "1.81"
+          "precio": 967.0,
+          "comerciante": "Mairelis_14",
+          "min": "10000",
+          "max": "450000",
+          "disponible": "12.88"
         },
         {
-          "precio": 965.0,
-          "comerciante": "nene",
-          "min": "192000",
-          "max": "1000000",
-          "disponible": "201.24"
+          "precio": 967.0,
+          "comerciante": "CAMBIOSONLINEEE",
+          "min": "1000",
+          "max": "473500",
+          "disponible": "1.66"
+        },
+        {
+          "precio": 967.0,
+          "comerciante": "OrionRed",
+          "min": "20000",
+          "max": "170000",
+          "disponible": "47.01"
         }
       ]
     }
   },
-  "brecha_pct": 18.75
+  "brecha_pct": 18.88
 }
