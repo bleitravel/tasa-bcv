@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-05T09:32:26+00:00",
-  "actualizado_ve": "2026-09-05T05:32:26-04:00",
+  "actualizado_utc": "2026-09-05T10:01:43+00:00",
+  "actualizado_ve": "2026-09-05T06:01:43-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,9 +10,9 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 963.7,
+    "referencia": 963.6092,
     "venta": {
-      "promedio": 963.7,
+      "promedio": 963.6092,
       "minimo": 962.5,
       "maximo": 965.0,
       "anuncios_usados": 5,
@@ -22,14 +22,14 @@
           "comerciante": "lavoluntaddeDios",
           "min": "300",
           "max": "287595",
-          "disponible": "1.04"
+          "disponible": "0.73"
         },
         {
           "precio": 964.0,
           "comerciante": "zama2004",
           "min": "1000000",
           "max": "36450000",
-          "disponible": "76887.97"
+          "disponible": "76096.12"
         },
         {
           "precio": 964.0,
@@ -39,34 +39,27 @@
           "disponible": "30000.00"
         },
         {
-          "precio": 963.0,
-          "comerciante": "Dynamo_A",
-          "min": "100000",
-          "max": "22000000",
-          "disponible": "1055.76"
+          "precio": 962.546,
+          "comerciante": "FlashTrading_degc",
+          "min": "300000",
+          "max": "4000000",
+          "disponible": "750.00"
         },
         {
           "precio": 962.5,
           "comerciante": "fasc1971",
           "min": "200000",
           "max": "4000000",
-          "disponible": "1000.00"
+          "disponible": "542.27"
         }
       ]
     },
     "compra": {
-      "promedio": 969.5956,
-      "minimo": 969.0,
+      "promedio": 969.7556,
+      "minimo": 969.599,
       "maximo": 969.899,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 969.0,
-          "comerciante": "CambiosFacil",
-          "min": "400000",
-          "max": "5000000",
-          "disponible": "2023.81"
-        },
         {
           "precio": 969.599,
           "comerciante": "ImJustGirl",
@@ -82,6 +75,13 @@
           "disponible": "9991.73"
         },
         {
+          "precio": 969.8,
+          "comerciante": "eduardo94268",
+          "min": "2000000",
+          "max": "12500000",
+          "disponible": "11812.32"
+        },
+        {
           "precio": 969.88,
           "comerciante": "CAMBIORAPID0S",
           "min": "5000000",
@@ -90,13 +90,13 @@
         },
         {
           "precio": 969.899,
-          "comerciante": "YisusCambios",
-          "min": "1400000",
-          "max": "10000000",
-          "disponible": "3993.01"
+          "comerciante": "Richgato_Reload",
+          "min": "3000000",
+          "max": "25000000",
+          "disponible": "11997.00"
         }
       ]
     }
   },
-  "brecha_pct": 18.43
+  "brecha_pct": 18.42
 }
