@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-06T14:01:47+00:00",
-  "actualizado_ve": "2026-09-06T10:01:47-04:00",
+  "actualizado_utc": "2026-09-06T14:33:03+00:00",
+  "actualizado_ve": "2026-09-06T10:33:03-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 963.5016,
+    "referencia": 964.21,
     "venta": {
-      "promedio": 963.5016,
-      "minimo": 955.008,
+      "promedio": 964.21,
+      "minimo": 956.05,
       "maximo": 995.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -22,81 +22,81 @@
           "comerciante": "USER0798736",
           "min": "10000",
           "max": "20000",
-          "disponible": "100.00"
+          "disponible": "80.06"
         },
         {
-          "precio": 956.0,
+          "precio": 957.0,
           "comerciante": "Redmagic17",
           "min": "5000000",
           "max": "36450000",
           "disponible": "30000.00"
         },
         {
-          "precio": 956.0,
-          "comerciante": "FVGlobal",
-          "min": "485000",
-          "max": "4000000",
-          "disponible": "1305.06"
-        },
-        {
-          "precio": 955.5,
-          "comerciante": "Justcrip18",
-          "min": "900000",
-          "max": "6776597",
-          "disponible": "1894.53"
-        },
-        {
-          "precio": 955.008,
-          "comerciante": "WillyWonka-",
-          "min": "500000",
+          "precio": 956.5,
+          "comerciante": "TPhillips",
+          "min": "3000000",
           "max": "36450000",
-          "disponible": "4711.74"
+          "disponible": "80000.00"
+        },
+        {
+          "precio": 956.5,
+          "comerciante": "Kalevv",
+          "min": "2000000",
+          "max": "19200000",
+          "disponible": "15430.25"
+        },
+        {
+          "precio": 956.05,
+          "comerciante": "Kingjvl",
+          "min": "1000000",
+          "max": "36450000",
+          "disponible": "33834.37"
         }
       ]
     },
     "compra": {
-      "promedio": 957.06,
-      "minimo": 957.0,
-      "maximo": 957.3,
+      "promedio": 957.24,
+      "minimo": 956.0,
+      "maximo": 958.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 957.0,
-          "comerciante": "CambiosUniverS",
-          "min": "2000000",
-          "max": "2700000",
-          "disponible": "2502.36"
+          "precio": 956.0,
+          "comerciante": "CAMBIOS_ATC",
+          "min": "5000",
+          "max": "20000",
+          "disponible": "91.24"
         },
         {
           "precio": 957.0,
-          "comerciante": "IGlobalHouse",
-          "min": "300",
+          "comerciante": "tucambioseguro",
+          "min": "100000",
           "max": "4000000",
-          "disponible": "147.69"
+          "disponible": "498.75"
         },
         {
-          "precio": 957.0,
-          "comerciante": "P_drm24030806",
+          "precio": 957.5,
+          "comerciante": "trader-jade",
+          "min": "99000",
+          "max": "100000",
+          "disponible": "104.16"
+        },
+        {
+          "precio": 957.7,
+          "comerciante": "GrupoEVONUT",
           "min": "300",
-          "max": "1400000",
-          "disponible": "99.75"
+          "max": "2000",
+          "disponible": "95.60"
         },
         {
-          "precio": 957.0,
-          "comerciante": "Alkoned",
+          "precio": 958.0,
+          "comerciante": "KELVINSITO1",
           "min": "300",
-          "max": "4000000",
-          "disponible": "119.70"
-        },
-        {
-          "precio": 957.3,
-          "comerciante": "cp2026",
-          "min": "80000",
-          "max": "4000000",
-          "disponible": "232.27"
+          "max": "148235",
+          "disponible": "0.58"
         }
       ]
     }
   },
-  "brecha_pct": 18.4
+  "brecha_pct": 18.49
 }
