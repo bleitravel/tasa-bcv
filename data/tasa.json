@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-06T08:02:04+00:00",
-  "actualizado_ve": "2026-09-06T04:02:04-04:00",
+  "actualizado_utc": "2026-09-06T08:34:58+00:00",
+  "actualizado_ve": "2026-09-06T04:34:58-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 963.166,
+    "referencia": 962.586,
     "venta": {
-      "promedio": 963.166,
-      "minimo": 954.02,
+      "promedio": 962.586,
+      "minimo": 954.0,
       "maximo": 995.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -23,13 +23,6 @@
           "min": "10000",
           "max": "20000",
           "disponible": "100.00"
-        },
-        {
-          "precio": 956.9,
-          "comerciante": "Global-Cambi0s",
-          "min": "100000",
-          "max": "270000",
-          "disponible": "300.00"
         },
         {
           "precio": 955.31,
@@ -51,13 +44,20 @@
           "min": "110000",
           "max": "260000",
           "disponible": "143.57"
+        },
+        {
+          "precio": 954.0,
+          "comerciante": "CryptoVersos",
+          "min": "600000",
+          "max": "9000000",
+          "disponible": "23480.07"
         }
       ]
     },
     "compra": {
-      "promedio": 959.772,
+      "promedio": 959.7738,
       "minimo": 959.0,
-      "maximo": 959.99,
+      "maximo": 959.999,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -89,14 +89,14 @@
           "disponible": "18600.59"
         },
         {
-          "precio": 959.99,
-          "comerciante": "Wil2589",
-          "min": "2000000",
-          "max": "28000000",
-          "disponible": "18556.38"
+          "precio": 959.999,
+          "comerciante": "-Ledger-",
+          "min": "36450000",
+          "max": "300000000",
+          "disponible": "100000.00"
         }
       ]
     }
   },
-  "brecha_pct": 18.36
+  "brecha_pct": 18.29
 }
