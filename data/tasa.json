@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-06T05:33:11+00:00",
-  "actualizado_ve": "2026-09-06T01:33:11-04:00",
+  "actualizado_utc": "2026-09-06T06:01:55+00:00",
+  "actualizado_ve": "2026-09-06T02:01:55-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,9 +10,9 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 963.382,
+    "referencia": 962.942,
     "venta": {
-      "promedio": 963.382,
+      "promedio": 962.942,
       "minimo": 954.6,
       "maximo": 995.0,
       "anuncios_usados": 5,
@@ -23,13 +23,6 @@
           "min": "10000",
           "max": "20000",
           "disponible": "100.00"
-        },
-        {
-          "precio": 957.0,
-          "comerciante": "KarlosGallardo",
-          "min": "949",
-          "max": "29000",
-          "disponible": "3.05"
         },
         {
           "precio": 955.31,
@@ -46,6 +39,13 @@
           "disponible": "148.43"
         },
         {
+          "precio": 954.8,
+          "comerciante": "Rolando2626",
+          "min": "50000",
+          "max": "4000000",
+          "disponible": "105.00"
+        },
+        {
           "precio": 954.6,
           "comerciante": "calorina sankey",
           "min": "1500000",
@@ -55,7 +55,7 @@
       ]
     },
     "compra": {
-      "promedio": 959.5478,
+      "promedio": 959.3778,
       "minimo": 958.999,
       "maximo": 959.99,
       "anuncios_usados": 5,
@@ -69,17 +69,17 @@
         },
         {
           "precio": 959.0,
+          "comerciante": "RJDtrades",
+          "min": "100000",
+          "max": "393795",
+          "disponible": "134.62"
+        },
+        {
+          "precio": 959.0,
           "comerciante": "Inteligencia3",
           "min": "95660",
           "max": "95900",
           "disponible": "99.75"
-        },
-        {
-          "precio": 959.85,
-          "comerciante": "x88rising",
-          "min": "2000000",
-          "max": "36450000",
-          "disponible": "6094.39"
         },
         {
           "precio": 959.9,
@@ -98,5 +98,5 @@
       ]
     }
   },
-  "brecha_pct": 18.39
+  "brecha_pct": 18.34
 }
