@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-06T11:32:40+00:00",
-  "actualizado_ve": "2026-09-06T07:32:40-04:00",
+  "actualizado_utc": "2026-09-06T12:01:46+00:00",
+  "actualizado_ve": "2026-09-06T08:01:46-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 963.2224,
+    "referencia": 963.0198,
     "venta": {
-      "promedio": 963.2224,
-      "minimo": 954.602,
+      "promedio": 963.0198,
+      "minimo": 954.7,
       "maximo": 995.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -25,13 +25,6 @@
           "disponible": "100.00"
         },
         {
-          "precio": 956.5,
-          "comerciante": "JMCrip26",
-          "min": "600000",
-          "max": "15675000",
-          "disponible": "14135.40"
-        },
-        {
           "precio": 955.31,
           "comerciante": "AndresCh99",
           "min": "450000",
@@ -39,64 +32,71 @@
           "disponible": "16950.60"
         },
         {
-          "precio": 954.7,
-          "comerciante": "JLACOIN",
-          "min": "300000",
-          "max": "4800000",
-          "disponible": "4040.06"
+          "precio": 955.3,
+          "comerciante": "P2P-f7729etw",
+          "min": "4800",
+          "max": "5000",
+          "disponible": "100.00"
         },
         {
-          "precio": 954.602,
-          "comerciante": "roaJf_p2p",
-          "min": "100000",
-          "max": "7700000",
-          "disponible": "966.48"
+          "precio": 954.789,
+          "comerciante": "Trabso",
+          "min": "150000",
+          "max": "958800",
+          "disponible": "302.62"
+        },
+        {
+          "precio": 954.7,
+          "comerciante": "edduar24",
+          "min": "200000",
+          "max": "4000000",
+          "disponible": "506.90"
         }
       ]
     },
     "compra": {
-      "promedio": 958.588,
-      "minimo": 958.0,
-      "maximo": 959.0,
+      "promedio": 959.7058,
+      "minimo": 958.95,
+      "maximo": 959.999,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 958.0,
-          "comerciante": "Ander Albeiro ",
-          "min": "4500",
-          "max": "20000",
+          "precio": 958.95,
+          "comerciante": "kelly",
+          "min": "30000",
+          "max": "40000",
           "disponible": "99.75"
         },
         {
-          "precio": 958.0,
-          "comerciante": "User-d2cd3",
+          "precio": 959.79,
+          "comerciante": "TraderImperial",
+          "min": "3000000",
+          "max": "36450000",
+          "disponible": "3338.64"
+        },
+        {
+          "precio": 959.8,
+          "comerciante": "CHAPMANGOLD_TRADING",
+          "min": "1500000",
+          "max": "36000000",
+          "disponible": "21580.92"
+        },
+        {
+          "precio": 959.99,
+          "comerciante": "Waku-Trade",
           "min": "20000",
-          "max": "4000000",
-          "disponible": "299.25"
+          "max": "103401",
+          "disponible": "60.62"
         },
         {
-          "precio": 958.95,
-          "comerciante": "正直高尚的人",
-          "min": "90000",
-          "max": "4000000",
-          "disponible": "201.49"
-        },
-        {
-          "precio": 958.99,
-          "comerciante": "IATECH92",
-          "min": "2000000",
-          "max": "32000000",
-          "disponible": "7000.00"
-        },
-        {
-          "precio": 959.0,
-          "comerciante": "Soy-Tu-Trader",
-          "min": "1000000",
-          "max": "4000000",
-          "disponible": "1807.26"
+          "precio": 959.999,
+          "comerciante": "-Ledger-",
+          "min": "36450000",
+          "max": "300000000",
+          "disponible": "100000.00"
         }
       ]
     }
   },
-  "brecha_pct": 18.37
+  "brecha_pct": 18.35
 }
