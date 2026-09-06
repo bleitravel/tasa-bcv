@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-06T18:35:05+00:00",
-  "actualizado_ve": "2026-09-06T14:35:05-04:00",
+  "actualizado_utc": "2026-09-06T19:01:22+00:00",
+  "actualizado_ve": "2026-09-06T15:01:22-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 958.401,
+    "referencia": 958.1212,
     "venta": {
-      "promedio": 958.401,
-      "minimo": 958.0,
-      "maximo": 959.005,
+      "promedio": 958.1212,
+      "minimo": 957.5,
+      "maximo": 959.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 959.005,
-          "comerciante": "Trust-Broker",
-          "min": "1000000",
+          "precio": 959.0,
+          "comerciante": "Jin-Woo-Sung",
+          "min": "5000000",
           "max": "36450000",
-          "disponible": "32657.82"
+          "disponible": "80000.00"
         },
         {
           "precio": 958.5,
           "comerciante": "TPhillips",
           "min": "3000000",
           "max": "36450000",
-          "disponible": "44316.05"
+          "disponible": "37350.24"
         },
         {
-          "precio": 958.5,
-          "comerciante": "Wxl_",
-          "min": "800000",
-          "max": "4000000",
-          "disponible": "6241.63"
+          "precio": 958.005,
+          "comerciante": "Trust-Broker",
+          "min": "1000000",
+          "max": "36450000",
+          "disponible": "26136.41"
         },
         {
-          "precio": 958.0,
-          "comerciante": "caldetrading",
-          "min": "500000",
-          "max": "4000000",
-          "disponible": "10037.15"
+          "precio": 957.601,
+          "comerciante": "securitylc",
+          "min": "1500000",
+          "max": "36450000",
+          "disponible": "15820.70"
         },
         {
-          "precio": 958.0,
-          "comerciante": "DorBin",
-          "min": "832170",
-          "max": "4000000",
-          "disponible": "871.67"
+          "precio": 957.5,
+          "comerciante": "SangetsuTrader",
+          "min": "1000000",
+          "max": "34000000",
+          "disponible": "9118.16"
         }
       ]
     },
     "compra": {
-      "promedio": 959.2604,
+      "promedio": 959.0,
       "minimo": 959.0,
-      "maximo": 959.5,
+      "maximo": 959.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
           "precio": 959.0,
-          "comerciante": "ivanaquino",
-          "min": "174000",
+          "comerciante": "jessicagallardo",
+          "min": "15000",
           "max": "4000000",
-          "disponible": "181.54"
+          "disponible": "18.37"
         },
         {
           "precio": 959.0,
-          "comerciante": "Lunar2026",
-          "min": "100000",
-          "max": "378500",
-          "disponible": "393.79"
-        },
-        {
-          "precio": 959.302,
-          "comerciante": "Daniel - E",
-          "min": "2000",
+          "comerciante": "thor1504",
+          "min": "117200",
           "max": "4000000",
-          "disponible": "14.59"
+          "disponible": "122.29"
         },
         {
-          "precio": 959.5,
-          "comerciante": "palatrem",
-          "min": "300",
+          "precio": 959.0,
+          "comerciante": "123XYZ",
+          "min": "95000",
+          "max": "500000",
+          "disponible": "100.00"
+        },
+        {
+          "precio": 959.0,
+          "comerciante": "User-4963f",
+          "min": "19000",
           "max": "4000000",
-          "disponible": "1.69"
+          "disponible": "36.78"
         },
         {
-          "precio": 959.5,
-          "comerciante": "lili89HE",
-          "min": "300",
-          "max": "100000",
-          "disponible": "275.20"
+          "precio": 959.0,
+          "comerciante": "Money_Go_",
+          "min": "94000",
+          "max": "94100",
+          "disponible": "99.75"
         }
       ]
     }
   },
-  "brecha_pct": 17.78
+  "brecha_pct": 17.74
 }
