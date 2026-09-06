@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-06T07:33:29+00:00",
-  "actualizado_ve": "2026-09-06T03:33:29-04:00",
+  "actualizado_utc": "2026-09-06T08:02:04+00:00",
+  "actualizado_ve": "2026-09-06T04:02:04-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,9 +10,9 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 963.186,
+    "referencia": 963.166,
     "venta": {
-      "promedio": 963.186,
+      "promedio": 963.166,
       "minimo": 954.02,
       "maximo": 995.0,
       "anuncios_usados": 5,
@@ -25,11 +25,11 @@
           "disponible": "100.00"
         },
         {
-          "precio": 957.0,
-          "comerciante": "KarlosGallardo",
-          "min": "949",
-          "max": "29000",
-          "disponible": "2.94"
+          "precio": 956.9,
+          "comerciante": "Global-Cambi0s",
+          "min": "100000",
+          "max": "270000",
+          "disponible": "300.00"
         },
         {
           "precio": 955.31,
@@ -78,8 +78,8 @@
           "precio": 959.98,
           "comerciante": "RacheMoney",
           "min": "700000",
-          "max": "731130",
-          "disponible": "760.47"
+          "max": "776623",
+          "disponible": "807.38"
         },
         {
           "precio": 959.99,
@@ -98,5 +98,5 @@
       ]
     }
   },
-  "brecha_pct": 18.37
+  "brecha_pct": 18.36
 }
