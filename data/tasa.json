@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-06T19:01:22+00:00",
-  "actualizado_ve": "2026-09-06T15:01:22-04:00",
+  "actualizado_utc": "2026-09-06T19:31:28+00:00",
+  "actualizado_ve": "2026-09-06T15:31:28-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,19 +10,19 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 958.1212,
+    "referencia": 958.391,
     "venta": {
-      "promedio": 958.1212,
-      "minimo": 957.5,
-      "maximo": 959.0,
+      "promedio": 958.391,
+      "minimo": 958.1,
+      "maximo": 959.005,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 959.0,
-          "comerciante": "Jin-Woo-Sung",
-          "min": "5000000",
+          "precio": 959.005,
+          "comerciante": "Trust-Broker",
+          "min": "1000000",
           "max": "36450000",
-          "disponible": "80000.00"
+          "disponible": "17165.14"
         },
         {
           "precio": 958.5,
@@ -32,71 +32,71 @@
           "disponible": "37350.24"
         },
         {
-          "precio": 958.005,
-          "comerciante": "Trust-Broker",
-          "min": "1000000",
-          "max": "36450000",
-          "disponible": "26136.41"
+          "precio": 958.2,
+          "comerciante": "ミReinaPepiadaCoinミ",
+          "min": "800000",
+          "max": "30000000",
+          "disponible": "9834.02"
         },
         {
-          "precio": 957.601,
+          "precio": 958.15,
           "comerciante": "securitylc",
           "min": "1500000",
           "max": "36450000",
           "disponible": "15820.70"
         },
         {
-          "precio": 957.5,
-          "comerciante": "SangetsuTrader",
+          "precio": 958.1,
+          "comerciante": "caguy",
           "min": "1000000",
-          "max": "34000000",
-          "disponible": "9118.16"
+          "max": "36450000",
+          "disponible": "2655.00"
         }
       ]
     },
     "compra": {
-      "promedio": 959.0,
-      "minimo": 959.0,
-      "maximo": 959.0,
+      "promedio": 957.2138,
+      "minimo": 955.0,
+      "maximo": 958.579,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 959.0,
-          "comerciante": "jessicagallardo",
-          "min": "15000",
-          "max": "4000000",
-          "disponible": "18.37"
+          "precio": 955.0,
+          "comerciante": "ElMuSa30",
+          "min": "100000",
+          "max": "36450000",
+          "disponible": "3269.37"
         },
         {
-          "precio": 959.0,
-          "comerciante": "thor1504",
-          "min": "117200",
-          "max": "4000000",
-          "disponible": "122.29"
-        },
-        {
-          "precio": 959.0,
-          "comerciante": "123XYZ",
-          "min": "95000",
+          "precio": 956.0,
+          "comerciante": "jt rider",
+          "min": "100000",
           "max": "500000",
-          "disponible": "100.00"
+          "disponible": "119.70"
         },
         {
-          "precio": 959.0,
-          "comerciante": "User-4963f",
-          "min": "19000",
-          "max": "4000000",
-          "disponible": "36.78"
-        },
-        {
-          "precio": 959.0,
-          "comerciante": "Money_Go_",
-          "min": "94000",
-          "max": "94100",
+          "precio": 957.99,
+          "comerciante": "Juznyd",
+          "min": "60000",
+          "max": "60001",
           "disponible": "99.75"
+        },
+        {
+          "precio": 958.5,
+          "comerciante": "trader-jade",
+          "min": "98000",
+          "max": "100000",
+          "disponible": "104.05"
+        },
+        {
+          "precio": 958.579,
+          "comerciante": "P2P-4390feak",
+          "min": "12000",
+          "max": "30000",
+          "disponible": "165.18"
         }
       ]
     }
   },
-  "brecha_pct": 17.74
+  "brecha_pct": 17.78
 }
