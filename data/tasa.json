@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-06T02:33:56+00:00",
-  "actualizado_ve": "2026-09-05T22:33:56-04:00",
+  "actualizado_utc": "2026-09-06T03:01:43+00:00",
+  "actualizado_ve": "2026-09-05T23:01:43-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,9 +10,9 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 964.4,
+    "referencia": 964.42,
     "venta": {
-      "promedio": 964.4,
+      "promedio": 964.42,
       "minimo": 956.0,
       "maximo": 995.0,
       "anuncios_usados": 5,
@@ -29,14 +29,21 @@
           "comerciante": "Trust-Broker",
           "min": "800000",
           "max": "36450000",
-          "disponible": "16764.10"
+          "disponible": "14597.72"
         },
         {
           "precio": 957.0,
           "comerciante": "Trust-Broker",
           "min": "1000000",
           "max": "36450000",
-          "disponible": "29135.13"
+          "disponible": "28090.20"
+        },
+        {
+          "precio": 956.1,
+          "comerciante": "P2P_Business_Fer",
+          "min": "1000000",
+          "max": "4000000",
+          "disponible": "5000.00"
         },
         {
           "precio": 956.0,
@@ -44,13 +51,6 @@
           "min": "4000000",
           "max": "36450000",
           "disponible": "36000.00"
-        },
-        {
-          "precio": 956.0,
-          "comerciante": "herisheng",
-          "min": "500000",
-          "max": "4000000",
-          "disponible": "9470.06"
         }
       ]
     },
@@ -62,10 +62,10 @@
       "anuncios": [
         {
           "precio": 957.0,
-          "comerciante": "User-e6b0d",
-          "min": "300",
-          "max": "400000",
-          "disponible": "1.17"
+          "comerciante": "AyLR",
+          "min": "58600",
+          "max": "59000",
+          "disponible": "99.75"
         },
         {
           "precio": 957.8,
@@ -79,21 +79,21 @@
           "comerciante": "Adritv_go",
           "min": "300",
           "max": "4000000",
-          "disponible": "0.95"
+          "disponible": "0.36"
         },
         {
           "precio": 958.0,
-          "comerciante": "P2P-c7671eiz",
+          "comerciante": "P2P-e177fenr",
+          "min": "960",
+          "max": "618246",
+          "disponible": "60.72"
+        },
+        {
+          "precio": 958.0,
+          "comerciante": "MilesMorales2",
           "min": "300",
-          "max": "4000000",
-          "disponible": "0.41"
-        },
-        {
-          "precio": 958.0,
-          "comerciante": "inverck",
-          "min": "95000",
-          "max": "10000000",
-          "disponible": "99.82"
+          "max": "100000",
+          "disponible": "6.34"
         }
       ]
     }
