@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-06T07:01:38+00:00",
-  "actualizado_ve": "2026-09-06T03:01:38-04:00",
+  "actualizado_utc": "2026-09-06T07:33:29+00:00",
+  "actualizado_ve": "2026-09-06T03:33:29-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 963.2424,
+    "referencia": 963.186,
     "venta": {
-      "promedio": 963.2424,
-      "minimo": 954.302,
+      "promedio": 963.186,
+      "minimo": 954.02,
       "maximo": 995.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -29,7 +29,7 @@
           "comerciante": "KarlosGallardo",
           "min": "949",
           "max": "29000",
-          "disponible": "5.13"
+          "disponible": "2.94"
         },
         {
           "precio": 955.31,
@@ -46,27 +46,20 @@
           "disponible": "9570.33"
         },
         {
-          "precio": 954.302,
-          "comerciante": "Freddie-Mercury",
-          "min": "100000",
-          "max": "257000",
-          "disponible": "114.73"
+          "precio": 954.02,
+          "comerciante": "PooStoreVe",
+          "min": "110000",
+          "max": "260000",
+          "disponible": "143.57"
         }
       ]
     },
     "compra": {
-      "promedio": 959.5758,
-      "minimo": 958.999,
+      "promedio": 959.772,
+      "minimo": 959.0,
       "maximo": 959.99,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 958.999,
-          "comerciante": "MFX_Exchange",
-          "min": "100000",
-          "max": "1150000",
-          "disponible": "421.76"
-        },
         {
           "precio": 959.0,
           "comerciante": "Inteligencia3",
@@ -80,6 +73,13 @@
           "min": "1000",
           "max": "81000",
           "disponible": "1.85"
+        },
+        {
+          "precio": 959.98,
+          "comerciante": "RacheMoney",
+          "min": "700000",
+          "max": "731130",
+          "disponible": "760.47"
         },
         {
           "precio": 959.99,
