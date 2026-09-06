@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-06T02:01:50+00:00",
-  "actualizado_ve": "2026-09-05T22:01:50-04:00",
+  "actualizado_utc": "2026-09-06T02:33:56+00:00",
+  "actualizado_ve": "2026-09-05T22:33:56-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 964.3,
+    "referencia": 964.4,
     "venta": {
-      "promedio": 964.3,
-      "minimo": 955.5,
+      "promedio": 964.4,
+      "minimo": 956.0,
       "maximo": 995.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -29,14 +29,14 @@
           "comerciante": "Trust-Broker",
           "min": "800000",
           "max": "36450000",
-          "disponible": "20000.00"
+          "disponible": "16764.10"
         },
         {
           "precio": 957.0,
           "comerciante": "Trust-Broker",
           "min": "1000000",
           "max": "36450000",
-          "disponible": "38955.07"
+          "disponible": "29135.13"
         },
         {
           "precio": 956.0,
@@ -46,57 +46,57 @@
           "disponible": "36000.00"
         },
         {
-          "precio": 955.5,
-          "comerciante": "Redmagic17",
-          "min": "2000000",
-          "max": "36450000",
-          "disponible": "30000.00"
+          "precio": 956.0,
+          "comerciante": "herisheng",
+          "min": "500000",
+          "max": "4000000",
+          "disponible": "9470.06"
         }
       ]
     },
     "compra": {
-      "promedio": 956.691,
-      "minimo": 955.0,
-      "maximo": 957.456,
+      "promedio": 957.76,
+      "minimo": 957.0,
+      "maximo": 958.0,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 955.0,
-          "comerciante": "User-1c736",
-          "min": "4999",
-          "max": "5000",
-          "disponible": "99.75"
-        },
-        {
-          "precio": 956.999,
-          "comerciante": "Zuly1760",
-          "min": "300",
-          "max": "300000",
-          "disponible": "0.45"
-        },
-        {
-          "precio": 957.0,
-          "comerciante": "AMERICA1492LLC",
-          "min": "107323",
-          "max": "36450000",
-          "disponible": "112.14"
-        },
         {
           "precio": 957.0,
           "comerciante": "User-e6b0d",
           "min": "300",
           "max": "400000",
-          "disponible": "2.73"
+          "disponible": "1.17"
         },
         {
-          "precio": 957.456,
-          "comerciante": "Jossynt-Fast",
-          "min": "500000",
-          "max": "36000000",
-          "disponible": "7986.02"
+          "precio": 957.8,
+          "comerciante": "MiguelSojo",
+          "min": "300",
+          "max": "95780",
+          "disponible": "0.43"
+        },
+        {
+          "precio": 958.0,
+          "comerciante": "Adritv_go",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "0.95"
+        },
+        {
+          "precio": 958.0,
+          "comerciante": "P2P-c7671eiz",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "0.41"
+        },
+        {
+          "precio": 958.0,
+          "comerciante": "inverck",
+          "min": "95000",
+          "max": "10000000",
+          "disponible": "99.82"
         }
       ]
     }
   },
-  "brecha_pct": 18.5
+  "brecha_pct": 18.52
 }
