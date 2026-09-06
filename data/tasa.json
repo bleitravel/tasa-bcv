@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-06T21:31:51+00:00",
-  "actualizado_ve": "2026-09-06T17:31:51-04:00",
+  "actualizado_utc": "2026-09-06T22:01:38+00:00",
+  "actualizado_ve": "2026-09-06T18:01:38-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 958.52,
+    "referencia": 958.7048,
     "venta": {
-      "promedio": 958.52,
-      "minimo": 958.0,
-      "maximo": 959.0,
+      "promedio": 958.7048,
+      "minimo": 958.019,
+      "maximo": 959.005,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 959.0,
-          "comerciante": "Redmagic17",
-          "min": "4000000",
+          "precio": 959.005,
+          "comerciante": "Trust-Broker",
+          "min": "1000000",
           "max": "36450000",
-          "disponible": "50000.00"
+          "disponible": "23269.53"
         },
         {
           "precio": 959.0,
-          "comerciante": "TOPlevelS",
+          "comerciante": "Redmagic17",
+          "min": "3000000",
+          "max": "36450000",
+          "disponible": "40900.06"
+        },
+        {
+          "precio": 959.0,
+          "comerciante": "FromVillage",
           "min": "5000000",
-          "max": "36000000",
-          "disponible": "43641.95"
+          "max": "36450000",
+          "disponible": "20000.00"
         },
         {
           "precio": 958.5,
-          "comerciante": "CarlosAldana_",
-          "min": "200000",
-          "max": "4000000",
-          "disponible": "1838.62"
-        },
-        {
-          "precio": 958.1,
-          "comerciante": "Mcaesth",
+          "comerciante": "Capitalisca",
           "min": "1000000",
           "max": "4000000",
-          "disponible": "1080.00"
+          "disponible": "3500.00"
         },
         {
-          "precio": 958.0,
-          "comerciante": "CoorpLogistic",
-          "min": "14000000",
-          "max": "20600000",
-          "disponible": "15050.00"
+          "precio": 958.019,
+          "comerciante": "Mcaesth",
+          "min": "500000",
+          "max": "4000000",
+          "disponible": "558.14"
         }
       ]
     },
     "compra": {
-      "promedio": 958.9998,
-      "minimo": 958.999,
+      "promedio": 958.9934,
+      "minimo": 958.977,
       "maximo": 959.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 958.999,
-          "comerciante": "noguera26",
-          "min": "10000",
-          "max": "95899",
-          "disponible": "25.42"
+          "precio": 958.977,
+          "comerciante": "PedroEspinoza",
+          "min": "95000",
+          "max": "95500",
+          "disponible": "99.75"
+        },
+        {
+          "precio": 958.99,
+          "comerciante": "BreMerLo",
+          "min": "90000",
+          "max": "145000",
+          "disponible": "149.62"
         },
         {
           "precio": 959.0,
           "comerciante": "Mejor_",
           "min": "7000",
           "max": "8000",
+          "disponible": "83.32"
+        },
+        {
+          "precio": 959.0,
+          "comerciante": "P2P-9aa857z9",
+          "min": "95100",
+          "max": "95500",
           "disponible": "99.75"
         },
         {
           "precio": 959.0,
-          "comerciante": "Juanmss",
-          "min": "16000",
-          "max": "95950",
-          "disponible": "99.75"
-        },
-        {
-          "precio": 959.0,
-          "comerciante": "clealex",
+          "comerciante": "escalona20",
           "min": "300",
-          "max": "140780",
-          "disponible": "24.03"
-        },
-        {
-          "precio": 959.0,
-          "comerciante": "Balmorevzla",
-          "min": "30000",
-          "max": "85400",
-          "disponible": "109.72"
+          "max": "60000",
+          "disponible": "9.06"
         }
       ]
     }
   },
-  "brecha_pct": 17.79
+  "brecha_pct": 17.82
 }
