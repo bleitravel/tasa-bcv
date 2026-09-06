@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-06T06:37:44+00:00",
-  "actualizado_ve": "2026-09-06T02:37:44-04:00",
+  "actualizado_utc": "2026-09-06T07:01:38+00:00",
+  "actualizado_ve": "2026-09-06T03:01:38-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 963.242,
+    "referencia": 963.2424,
     "venta": {
-      "promedio": 963.242,
-      "minimo": 954.3,
+      "promedio": 963.2424,
+      "minimo": 954.302,
       "maximo": 995.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -46,11 +46,11 @@
           "disponible": "9570.33"
         },
         {
-          "precio": 954.3,
-          "comerciante": "DogsonTrade2405",
+          "precio": 954.302,
+          "comerciante": "Freddie-Mercury",
           "min": "100000",
-          "max": "1000000",
-          "disponible": "2930.00"
+          "max": "257000",
+          "disponible": "114.73"
         }
       ]
     },
@@ -69,10 +69,10 @@
         },
         {
           "precio": 959.0,
-          "comerciante": "Carl0senrique",
-          "min": "50000",
-          "max": "36450000",
-          "disponible": "418.72"
+          "comerciante": "Inteligencia3",
+          "min": "95660",
+          "max": "95900",
+          "disponible": "99.75"
         },
         {
           "precio": 959.9,
