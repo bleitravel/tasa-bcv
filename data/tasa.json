@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-06T08:34:58+00:00",
-  "actualizado_ve": "2026-09-06T04:34:58-04:00",
+  "actualizado_utc": "2026-09-06T09:01:50+00:00",
+  "actualizado_ve": "2026-09-06T05:01:50-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -55,11 +55,18 @@
       ]
     },
     "compra": {
-      "promedio": 959.7738,
-      "minimo": 959.0,
+      "promedio": 958.7778,
+      "minimo": 955.0,
       "maximo": 959.999,
       "anuncios_usados": 5,
       "anuncios": [
+        {
+          "precio": 955.0,
+          "comerciante": "Angeletex",
+          "min": "3000",
+          "max": "60000",
+          "disponible": "99.75"
+        },
         {
           "precio": 959.0,
           "comerciante": "Inteligencia3",
@@ -73,13 +80,6 @@
           "min": "1000",
           "max": "81000",
           "disponible": "1.85"
-        },
-        {
-          "precio": 959.98,
-          "comerciante": "RacheMoney",
-          "min": "700000",
-          "max": "776623",
-          "disponible": "807.38"
         },
         {
           "precio": 959.99,
