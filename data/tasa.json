@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-06T11:01:45+00:00",
-  "actualizado_ve": "2026-09-06T07:01:45-04:00",
+  "actualizado_utc": "2026-09-06T11:32:40+00:00",
+  "actualizado_ve": "2026-09-06T07:32:40-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 962.586,
+    "referencia": 963.2224,
     "venta": {
-      "promedio": 962.586,
-      "minimo": 954.0,
+      "promedio": 963.2224,
+      "minimo": 954.602,
       "maximo": 995.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -25,6 +25,13 @@
           "disponible": "100.00"
         },
         {
+          "precio": 956.5,
+          "comerciante": "JMCrip26",
+          "min": "600000",
+          "max": "15675000",
+          "disponible": "14135.40"
+        },
+        {
           "precio": 955.31,
           "comerciante": "AndresCh99",
           "min": "450000",
@@ -32,71 +39,64 @@
           "disponible": "16950.60"
         },
         {
-          "precio": 954.6,
-          "comerciante": "calorina sankey",
-          "min": "1500000",
-          "max": "4000000",
-          "disponible": "9570.33"
+          "precio": 954.7,
+          "comerciante": "JLACOIN",
+          "min": "300000",
+          "max": "4800000",
+          "disponible": "4040.06"
         },
         {
-          "precio": 954.02,
-          "comerciante": "PooStoreVe",
-          "min": "110000",
-          "max": "260000",
-          "disponible": "143.57"
-        },
-        {
-          "precio": 954.0,
-          "comerciante": "CryptoVersos",
-          "min": "600000",
-          "max": "9000000",
-          "disponible": "23480.07"
+          "precio": 954.602,
+          "comerciante": "roaJf_p2p",
+          "min": "100000",
+          "max": "7700000",
+          "disponible": "966.48"
         }
       ]
     },
     "compra": {
-      "promedio": 959.5984,
-      "minimo": 959.594,
-      "maximo": 959.6,
+      "promedio": 958.588,
+      "minimo": 958.0,
+      "maximo": 959.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 959.594,
-          "comerciante": "AUTOPAY-P2P",
-          "min": "200000",
-          "max": "1200000",
-          "disponible": "454.91"
+          "precio": 958.0,
+          "comerciante": "Ander Albeiro ",
+          "min": "4500",
+          "max": "20000",
+          "disponible": "99.75"
         },
         {
-          "precio": 959.599,
-          "comerciante": "ELAF__",
-          "min": "4000000",
-          "max": "10000000",
-          "disponible": "5989.51"
+          "precio": 958.0,
+          "comerciante": "User-d2cd3",
+          "min": "20000",
+          "max": "4000000",
+          "disponible": "299.25"
         },
         {
-          "precio": 959.599,
-          "comerciante": "WaldoGH",
-          "min": "4000000",
-          "max": "36450000",
-          "disponible": "11565.36"
+          "precio": 958.95,
+          "comerciante": "正直高尚的人",
+          "min": "90000",
+          "max": "4000000",
+          "disponible": "201.49"
         },
         {
-          "precio": 959.6,
-          "comerciante": "zoecambios_21",
-          "min": "1500000",
-          "max": "36450000",
-          "disponible": "21264.92"
+          "precio": 958.99,
+          "comerciante": "IATECH92",
+          "min": "2000000",
+          "max": "32000000",
+          "disponible": "7000.00"
         },
         {
-          "precio": 959.6,
-          "comerciante": "CHAPMANGOLD_TRADING",
-          "min": "1500000",
-          "max": "36000000",
-          "disponible": "27835.20"
+          "precio": 959.0,
+          "comerciante": "Soy-Tu-Trader",
+          "min": "1000000",
+          "max": "4000000",
+          "disponible": "1807.26"
         }
       ]
     }
   },
-  "brecha_pct": 18.29
+  "brecha_pct": 18.37
 }
