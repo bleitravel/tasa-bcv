@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-06T13:01:47+00:00",
-  "actualizado_ve": "2026-09-06T09:01:47-04:00",
+  "actualizado_utc": "2026-09-06T13:32:37+00:00",
+  "actualizado_ve": "2026-09-06T09:32:37-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 964.3,
+    "referencia": 963.74,
     "venta": {
-      "promedio": 964.3,
-      "minimo": 956.0,
+      "promedio": 963.74,
+      "minimo": 955.2,
       "maximo": 995.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -25,78 +25,78 @@
           "disponible": "100.00"
         },
         {
-          "precio": 958.0,
-          "comerciante": "ConvertCash",
-          "min": "200000",
-          "max": "400000",
-          "disponible": "617.78"
+          "precio": 957.0,
+          "comerciante": "Gatsby_24",
+          "min": "8000000",
+          "max": "36450000",
+          "disponible": "50000.00"
         },
         {
-          "precio": 956.5,
+          "precio": 956.0,
           "comerciante": "Redmagic17",
           "min": "5000000",
           "max": "36450000",
-          "disponible": "31015.12"
+          "disponible": "30000.00"
         },
         {
-          "precio": 956.0,
+          "precio": 955.5,
+          "comerciante": "Fexyz",
+          "min": "3000000",
+          "max": "36000000",
+          "disponible": "15000.00"
+        },
+        {
+          "precio": 955.2,
           "comerciante": "Cachy13Usdt",
-          "min": "4000000",
+          "min": "2000000",
           "max": "36450000",
           "disponible": "31815.90"
-        },
-        {
-          "precio": 956.0,
-          "comerciante": "RIVERMONEY",
-          "min": "24988000",
-          "max": "24989000",
-          "disponible": "27000.00"
         }
       ]
     },
     "compra": {
-      "promedio": 957.6756,
-      "minimo": 957.5,
-      "maximo": 957.799,
+      "promedio": 956.7198,
+      "minimo": 956.0,
+      "maximo": 957.399,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 957.5,
-          "comerciante": "GGS1607",
-          "min": "286250",
-          "max": "287250",
-          "disponible": "299.25"
+          "precio": 956.0,
+          "comerciante": "Labch",
+          "min": "96000",
+          "max": "764800",
+          "disponible": "292.29"
         },
         {
-          "precio": 957.5,
-          "comerciante": "StarBusiness2",
-          "min": "1000000",
-          "max": "10000000",
-          "disponible": "1393.36"
-        },
-        {
-          "precio": 957.789,
-          "comerciante": "Tato0403",
-          "min": "2000000",
-          "max": "20000000",
-          "disponible": "5989.51"
-        },
-        {
-          "precio": 957.79,
-          "comerciante": "Cambios_fast54",
-          "min": "5000000",
+          "precio": 956.0,
+          "comerciante": "AMERICA1492LLC",
+          "min": "5000",
           "max": "36450000",
-          "disponible": "16978.77"
+          "disponible": "142.08"
         },
         {
-          "precio": 957.799,
-          "comerciante": "Gjsan",
+          "precio": 956.9,
+          "comerciante": "Pesce_Exchange",
+          "min": "45500",
+          "max": "45501",
+          "disponible": "99.82"
+        },
+        {
+          "precio": 957.3,
+          "comerciante": "JrCotiz",
+          "min": "1700000",
+          "max": "1900000",
+          "disponible": "1807.78"
+        },
+        {
+          "precio": 957.399,
+          "comerciante": "Richgato_Reload",
           "min": "3000000",
-          "max": "36450000",
-          "disponible": "9987.51"
+          "max": "25000000",
+          "disponible": "8124.83"
         }
       ]
     }
   },
-  "brecha_pct": 18.5
+  "brecha_pct": 18.43
 }
