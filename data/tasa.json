@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-06T15:01:56+00:00",
-  "actualizado_ve": "2026-09-06T11:01:56-04:00",
+  "actualizado_utc": "2026-09-06T15:33:10+00:00",
+  "actualizado_ve": "2026-09-06T11:33:10-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,83 +10,62 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 958.1016,
+    "referencia": 958.8102,
     "venta": {
-      "promedio": 958.1016,
-      "minimo": 957.65,
-      "maximo": 958.708,
+      "promedio": 958.8102,
+      "minimo": 958.65,
+      "maximo": 959.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 958.708,
-          "comerciante": "TOPlevelS",
-          "min": "5000000",
-          "max": "36000000",
-          "disponible": "33770.17"
-        },
-        {
-          "precio": 958.7,
-          "comerciante": "Rapidflorio84",
-          "min": "5000000",
-          "max": "36000000",
+          "precio": 959.0,
+          "comerciante": "Gatsby_24",
+          "min": "8000000",
+          "max": "36450000",
           "disponible": "50000.00"
         },
         {
-          "precio": 957.75,
-          "comerciante": "Comercializadora_MAC",
-          "min": "1500000",
+          "precio": 959.0,
+          "comerciante": "Godisgift",
+          "min": "2000000",
           "max": "36450000",
-          "disponible": "2000.06"
+          "disponible": "15336.14"
         },
         {
-          "precio": 957.7,
-          "comerciante": "漢-Kapo",
+          "precio": 958.701,
+          "comerciante": "MERCADO ESTRATEGICO",
           "min": "1000000",
-          "max": "36000000",
-          "disponible": "33746.18"
+          "max": "14000000",
+          "disponible": "12100.00"
         },
         {
-          "precio": 957.65,
-          "comerciante": "加密操作",
-          "min": "1500000",
-          "max": "36000000",
-          "disponible": "18500.00"
+          "precio": 958.7,
+          "comerciante": "CRIPTO-2026",
+          "min": "3000000",
+          "max": "36450000",
+          "disponible": "17602.00"
+        },
+        {
+          "precio": 958.65,
+          "comerciante": "Kingjvl",
+          "min": "2000000",
+          "max": "36450000",
+          "disponible": "10650.12"
         }
       ]
     },
     "compra": {
-      "promedio": 957.6856,
-      "minimo": 957.23,
-      "maximo": 958.0,
+      "promedio": 958.5398,
+      "minimo": 957.7,
+      "maximo": 959.0,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 957.23,
-          "comerciante": "Mayzon-trader-P2P",
-          "min": "10000",
-          "max": "243000",
-          "disponible": "99.75"
-        },
-        {
-          "precio": 957.499,
-          "comerciante": "Noreen Piskura f3ie",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "6.54"
-        },
         {
           "precio": 957.7,
           "comerciante": "GrupoEVONUT",
           "min": "300",
           "max": "2000",
-          "disponible": "85.13"
-        },
-        {
-          "precio": 957.999,
-          "comerciante": "Mega-Cambios",
-          "min": "20000",
-          "max": "60000",
-          "disponible": "396.32"
+          "disponible": "71.97"
         },
         {
           "precio": 958.0,
@@ -94,9 +73,30 @@
           "min": "300",
           "max": "148235",
           "disponible": "0.58"
+        },
+        {
+          "precio": 958.999,
+          "comerciante": "Munr4X",
+          "min": "9000",
+          "max": "80000",
+          "disponible": "109.55"
+        },
+        {
+          "precio": 959.0,
+          "comerciante": "P2P-d74acewu",
+          "min": "1000",
+          "max": "339000",
+          "disponible": "1.25"
+        },
+        {
+          "precio": 959.0,
+          "comerciante": "Elea2",
+          "min": "300",
+          "max": "100000",
+          "disponible": "0.50"
         }
       ]
     }
   },
-  "brecha_pct": 17.74
+  "brecha_pct": 17.83
 }
