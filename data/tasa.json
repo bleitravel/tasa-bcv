@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-06T03:35:04+00:00",
-  "actualizado_ve": "2026-09-05T23:35:04-04:00",
+  "actualizado_utc": "2026-09-06T04:01:52+00:00",
+  "actualizado_ve": "2026-09-06T00:01:52-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 965.0202,
+    "referencia": 964.8,
     "venta": {
-      "promedio": 965.0202,
-      "minimo": 957.0,
+      "promedio": 964.8,
+      "minimo": 956.0,
       "maximo": 995.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -25,13 +25,6 @@
           "disponible": "100.00"
         },
         {
-          "precio": 958.001,
-          "comerciante": "_Cyber_Glup_Matrix_-",
-          "min": "43999",
-          "max": "44000",
-          "disponible": "100.00"
-        },
-        {
           "precio": 958.0,
           "comerciante": "Trust-Broker",
           "min": "800000",
@@ -39,54 +32,47 @@
           "disponible": "14597.72"
         },
         {
-          "precio": 957.1,
-          "comerciante": "-_GRAN_PALOMON_-_",
-          "min": "50000",
-          "max": "1400000",
-          "disponible": "73.62"
+          "precio": 958.0,
+          "comerciante": "Miguel_1604",
+          "min": "60000",
+          "max": "387000",
+          "disponible": "237.43"
         },
         {
           "precio": 957.0,
           "comerciante": "KarlosGallardo",
           "min": "949",
           "max": "29000",
-          "disponible": "56.55"
+          "disponible": "2.31"
+        },
+        {
+          "precio": 956.0,
+          "comerciante": "herisheng",
+          "min": "500000",
+          "max": "4000000",
+          "disponible": "7546.84"
         }
       ]
     },
     "compra": {
-      "promedio": 958.0794,
-      "minimo": 957.0,
-      "maximo": 959.0,
+      "promedio": 959.1376,
+      "minimo": 958.499,
+      "maximo": 959.6,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 957.0,
-          "comerciante": "Javierirw",
-          "min": "50000",
-          "max": "500000",
-          "disponible": "120.34"
-        },
-        {
-          "precio": 957.4,
-          "comerciante": "CAMBIOS-SERVICIOS-ED",
-          "min": "98000",
-          "max": "10000000",
-          "disponible": "103.18"
-        },
-        {
-          "precio": 958.498,
-          "comerciante": "electrictrades",
-          "min": "50000",
-          "max": "200000",
-          "disponible": "99.75"
-        },
         {
           "precio": 958.499,
           "comerciante": "DGOFASTT",
           "min": "1000000",
           "max": "36450000",
-          "disponible": "2856.35"
+          "disponible": "1291.42"
+        },
+        {
+          "precio": 958.999,
+          "comerciante": "DiosesbuenoDiosteama",
+          "min": "200000",
+          "max": "10000000",
+          "disponible": "300.39"
         },
         {
           "precio": 959.0,
@@ -94,9 +80,23 @@
           "min": "100000",
           "max": "264684",
           "disponible": "275.31"
+        },
+        {
+          "precio": 959.59,
+          "comerciante": "Atraderspkj",
+          "min": "6000000",
+          "max": "17000000",
+          "disponible": "12126.03"
+        },
+        {
+          "precio": 959.6,
+          "comerciante": "CHAPMANGOLD_TRADING",
+          "min": "3000000",
+          "max": "36000000",
+          "disponible": "31161.04"
         }
       ]
     }
   },
-  "brecha_pct": 18.59
+  "brecha_pct": 18.56
 }
