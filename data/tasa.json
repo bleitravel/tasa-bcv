@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-06T20:01:57+00:00",
-  "actualizado_ve": "2026-09-06T16:01:57-04:00",
+  "actualizado_utc": "2026-09-06T20:34:04+00:00",
+  "actualizado_ve": "2026-09-06T16:34:04-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,40 +10,26 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 958.581,
+    "referencia": 958.3,
     "venta": {
-      "promedio": 958.581,
+      "promedio": 958.3,
       "minimo": 958.0,
-      "maximo": 959.005,
+      "maximo": 959.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 959.005,
-          "comerciante": "Trust-Broker",
-          "min": "1000000",
-          "max": "36450000",
-          "disponible": "11542.98"
-        },
-        {
           "precio": 959.0,
-          "comerciante": "KAIROS333",
-          "min": "1000000",
+          "comerciante": "Redmagic17",
+          "min": "4000000",
           "max": "36450000",
-          "disponible": "6266.31"
+          "disponible": "44762.99"
         },
         {
-          "precio": 958.6,
-          "comerciante": "JS_Valentine",
-          "min": "700000",
-          "max": "9188000",
-          "disponible": "8959.92"
-        },
-        {
-          "precio": 958.3,
-          "comerciante": "caguy",
+          "precio": 958.5,
+          "comerciante": "InfinityMoney777",
           "min": "500000",
-          "max": "36450000",
-          "disponible": "1583.31"
+          "max": "36000000",
+          "disponible": "16952.85"
         },
         {
           "precio": 958.0,
@@ -51,52 +37,66 @@
           "min": "14000000",
           "max": "20600000",
           "disponible": "15050.00"
+        },
+        {
+          "precio": 958.0,
+          "comerciante": "BlackVaultt",
+          "min": "200000",
+          "max": "4000000",
+          "disponible": "4174.49"
+        },
+        {
+          "precio": 958.0,
+          "comerciante": "贝HarveySpecter贝",
+          "min": "2000000",
+          "max": "36000000",
+          "disponible": "37110.48"
         }
       ]
     },
     "compra": {
-      "promedio": 958.0,
+      "promedio": 958.36,
       "minimo": 958.0,
-      "maximo": 958.0,
+      "maximo": 958.5,
       "anuncios_usados": 5,
       "anuncios": [
         {
           "precio": 958.0,
-          "comerciante": "Joseal1",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "1.99"
+          "comerciante": "ElMuSa30",
+          "min": "100000",
+          "max": "36450000",
+          "disponible": "2012.84"
         },
         {
-          "precio": 958.0,
-          "comerciante": "andry0212",
-          "min": "48093",
-          "max": "48094",
-          "disponible": "99.75"
+          "precio": 958.4,
+          "comerciante": "Debroah Leming jCrf carre2525",
+          "min": "28770",
+          "max": "28771",
+          "disponible": "70.74"
         },
         {
-          "precio": 958.0,
-          "comerciante": "Inter-Pagos",
-          "min": "200000",
-          "max": "1000000",
-          "disponible": "313.15"
+          "precio": 958.4,
+          "comerciante": "User-bf4b7ddo",
+          "min": "3000",
+          "max": "173000",
+          "disponible": "8.66"
         },
         {
-          "precio": 958.0,
-          "comerciante": "mfe963",
+          "precio": 958.5,
+          "comerciante": "ThoR-Cambios",
           "min": "10000",
-          "max": "4000000",
-          "disponible": "18.16"
+          "max": "400000",
+          "disponible": "78.89"
         },
         {
-          "precio": 958.0,
-          "comerciante": "AEPG2106",
-          "min": "95500",
-          "max": "4000000",
-          "disponible": "99.75"
+          "precio": 958.5,
+          "comerciante": "Deswicripto",
+          "min": "141000",
+          "max": "142000",
+          "disponible": "149.43"
         }
       ]
     }
   },
-  "brecha_pct": 17.8
+  "brecha_pct": 17.77
 }
