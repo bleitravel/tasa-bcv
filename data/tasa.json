@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-06T22:32:10+00:00",
-  "actualizado_ve": "2026-09-06T18:32:10-04:00",
+  "actualizado_utc": "2026-09-06T23:01:30+00:00",
+  "actualizado_ve": "2026-09-06T19:01:30-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,26 +10,33 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 958.621,
+    "referencia": 958.88,
     "venta": {
-      "promedio": 958.621,
-      "minimo": 958.1,
-      "maximo": 959.005,
+      "promedio": 958.88,
+      "minimo": 958.0,
+      "maximo": 960.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 959.005,
+          "precio": 960.0,
           "comerciante": "Trust-Broker",
           "min": "1000000",
           "max": "36450000",
-          "disponible": "16687.16"
+          "disponible": "30000.00"
         },
         {
           "precio": 959.0,
           "comerciante": "Redmagic17",
           "min": "3000000",
           "max": "36450000",
-          "disponible": "40900.06"
+          "disponible": "34570.18"
+        },
+        {
+          "precio": 958.9,
+          "comerciante": "Anselmi",
+          "min": "200000",
+          "max": "1994000",
+          "disponible": "1016.50"
         },
         {
           "precio": 958.5,
@@ -39,64 +46,57 @@
           "disponible": "1720.06"
         },
         {
-          "precio": 958.5,
-          "comerciante": "Cryptomed7",
-          "min": "26000",
-          "max": "26727",
-          "disponible": "100.00"
-        },
-        {
-          "precio": 958.1,
-          "comerciante": "SeguroVeloz",
-          "min": "1000000",
-          "max": "8500000",
-          "disponible": "6763.88"
+          "precio": 958.0,
+          "comerciante": "CoorpLogistic",
+          "min": "14000000",
+          "max": "20600000",
+          "disponible": "15050.00"
         }
       ]
     },
     "compra": {
-      "promedio": 958.96,
-      "minimo": 958.8,
+      "promedio": 958.6,
+      "minimo": 957.0,
       "maximo": 959.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 958.8,
-          "comerciante": "KRLOS410",
-          "min": "50000",
+          "precio": 957.0,
+          "comerciante": "OkanaDila2301",
+          "min": "5000",
+          "max": "40000",
+          "disponible": "57.96"
+        },
+        {
+          "precio": 959.0,
+          "comerciante": "V1ctor_07",
+          "min": "300",
           "max": "4000000",
-          "disponible": "99.76"
+          "disponible": "4.25"
         },
         {
           "precio": 959.0,
-          "comerciante": "Mejor_",
-          "min": "7000",
-          "max": "8000",
-          "disponible": "67.17"
+          "comerciante": "P2P-9aa857z9",
+          "min": "142000",
+          "max": "143000",
+          "disponible": "149.62"
         },
         {
           "precio": 959.0,
-          "comerciante": "User-4963f",
-          "min": "19000",
+          "comerciante": "josegggg",
+          "min": "9000",
           "max": "4000000",
-          "disponible": "21.03"
+          "disponible": "42.52"
         },
         {
           "precio": 959.0,
-          "comerciante": "DuarteFastCash",
-          "min": "10000",
-          "max": "20000",
-          "disponible": "89.33"
-        },
-        {
-          "precio": 959.0,
-          "comerciante": "José Gabrieljc",
-          "min": "20000",
-          "max": "95900",
-          "disponible": "53.87"
+          "comerciante": "sagon33",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "54.19"
         }
       ]
     }
   },
-  "brecha_pct": 17.8
+  "brecha_pct": 17.84
 }
