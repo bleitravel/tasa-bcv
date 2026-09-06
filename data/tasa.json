@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-06T19:31:28+00:00",
-  "actualizado_ve": "2026-09-06T15:31:28-04:00",
+  "actualizado_utc": "2026-09-06T20:01:57+00:00",
+  "actualizado_ve": "2026-09-06T16:01:57-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 958.391,
+    "referencia": 958.581,
     "venta": {
-      "promedio": 958.391,
-      "minimo": 958.1,
+      "promedio": 958.581,
+      "minimo": 958.0,
       "maximo": 959.005,
       "anuncios_usados": 5,
       "anuncios": [
@@ -22,81 +22,81 @@
           "comerciante": "Trust-Broker",
           "min": "1000000",
           "max": "36450000",
-          "disponible": "17165.14"
+          "disponible": "11542.98"
         },
         {
-          "precio": 958.5,
-          "comerciante": "TPhillips",
-          "min": "3000000",
-          "max": "36450000",
-          "disponible": "37350.24"
-        },
-        {
-          "precio": 958.2,
-          "comerciante": "ミReinaPepiadaCoinミ",
-          "min": "800000",
-          "max": "30000000",
-          "disponible": "9834.02"
-        },
-        {
-          "precio": 958.15,
-          "comerciante": "securitylc",
-          "min": "1500000",
-          "max": "36450000",
-          "disponible": "15820.70"
-        },
-        {
-          "precio": 958.1,
-          "comerciante": "caguy",
+          "precio": 959.0,
+          "comerciante": "KAIROS333",
           "min": "1000000",
           "max": "36450000",
-          "disponible": "2655.00"
+          "disponible": "6266.31"
+        },
+        {
+          "precio": 958.6,
+          "comerciante": "JS_Valentine",
+          "min": "700000",
+          "max": "9188000",
+          "disponible": "8959.92"
+        },
+        {
+          "precio": 958.3,
+          "comerciante": "caguy",
+          "min": "500000",
+          "max": "36450000",
+          "disponible": "1583.31"
+        },
+        {
+          "precio": 958.0,
+          "comerciante": "CoorpLogistic",
+          "min": "14000000",
+          "max": "20600000",
+          "disponible": "15050.00"
         }
       ]
     },
     "compra": {
-      "promedio": 957.2138,
-      "minimo": 955.0,
-      "maximo": 958.579,
+      "promedio": 958.0,
+      "minimo": 958.0,
+      "maximo": 958.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 955.0,
-          "comerciante": "ElMuSa30",
-          "min": "100000",
-          "max": "36450000",
-          "disponible": "3269.37"
+          "precio": 958.0,
+          "comerciante": "Joseal1",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "1.99"
         },
         {
-          "precio": 956.0,
-          "comerciante": "jt rider",
-          "min": "100000",
-          "max": "500000",
-          "disponible": "119.70"
-        },
-        {
-          "precio": 957.99,
-          "comerciante": "Juznyd",
-          "min": "60000",
-          "max": "60001",
+          "precio": 958.0,
+          "comerciante": "andry0212",
+          "min": "48093",
+          "max": "48094",
           "disponible": "99.75"
         },
         {
-          "precio": 958.5,
-          "comerciante": "trader-jade",
-          "min": "98000",
-          "max": "100000",
-          "disponible": "104.05"
+          "precio": 958.0,
+          "comerciante": "Inter-Pagos",
+          "min": "200000",
+          "max": "1000000",
+          "disponible": "313.15"
         },
         {
-          "precio": 958.579,
-          "comerciante": "P2P-4390feak",
-          "min": "12000",
-          "max": "30000",
-          "disponible": "165.18"
+          "precio": 958.0,
+          "comerciante": "mfe963",
+          "min": "10000",
+          "max": "4000000",
+          "disponible": "18.16"
+        },
+        {
+          "precio": 958.0,
+          "comerciante": "AEPG2106",
+          "min": "95500",
+          "max": "4000000",
+          "disponible": "99.75"
         }
       ]
     }
   },
-  "brecha_pct": 17.78
+  "brecha_pct": 17.8
 }
