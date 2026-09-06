@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-06T13:32:37+00:00",
-  "actualizado_ve": "2026-09-06T09:32:37-04:00",
+  "actualizado_utc": "2026-09-06T14:01:47+00:00",
+  "actualizado_ve": "2026-09-06T10:01:47-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 963.74,
+    "referencia": 963.5016,
     "venta": {
-      "promedio": 963.74,
-      "minimo": 955.2,
+      "promedio": 963.5016,
+      "minimo": 955.008,
       "maximo": 995.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -25,13 +25,6 @@
           "disponible": "100.00"
         },
         {
-          "precio": 957.0,
-          "comerciante": "Gatsby_24",
-          "min": "8000000",
-          "max": "36450000",
-          "disponible": "50000.00"
-        },
-        {
           "precio": 956.0,
           "comerciante": "Redmagic17",
           "min": "5000000",
@@ -39,64 +32,71 @@
           "disponible": "30000.00"
         },
         {
-          "precio": 955.5,
-          "comerciante": "Fexyz",
-          "min": "3000000",
-          "max": "36000000",
-          "disponible": "15000.00"
+          "precio": 956.0,
+          "comerciante": "FVGlobal",
+          "min": "485000",
+          "max": "4000000",
+          "disponible": "1305.06"
         },
         {
-          "precio": 955.2,
-          "comerciante": "Cachy13Usdt",
-          "min": "2000000",
+          "precio": 955.5,
+          "comerciante": "Justcrip18",
+          "min": "900000",
+          "max": "6776597",
+          "disponible": "1894.53"
+        },
+        {
+          "precio": 955.008,
+          "comerciante": "WillyWonka-",
+          "min": "500000",
           "max": "36450000",
-          "disponible": "31815.90"
+          "disponible": "4711.74"
         }
       ]
     },
     "compra": {
-      "promedio": 956.7198,
-      "minimo": 956.0,
-      "maximo": 957.399,
+      "promedio": 957.06,
+      "minimo": 957.0,
+      "maximo": 957.3,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 956.0,
-          "comerciante": "Labch",
-          "min": "96000",
-          "max": "764800",
-          "disponible": "292.29"
+          "precio": 957.0,
+          "comerciante": "CambiosUniverS",
+          "min": "2000000",
+          "max": "2700000",
+          "disponible": "2502.36"
         },
         {
-          "precio": 956.0,
-          "comerciante": "AMERICA1492LLC",
-          "min": "5000",
-          "max": "36450000",
-          "disponible": "142.08"
+          "precio": 957.0,
+          "comerciante": "IGlobalHouse",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "147.69"
         },
         {
-          "precio": 956.9,
-          "comerciante": "Pesce_Exchange",
-          "min": "45500",
-          "max": "45501",
-          "disponible": "99.82"
+          "precio": 957.0,
+          "comerciante": "P_drm24030806",
+          "min": "300",
+          "max": "1400000",
+          "disponible": "99.75"
+        },
+        {
+          "precio": 957.0,
+          "comerciante": "Alkoned",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "119.70"
         },
         {
           "precio": 957.3,
-          "comerciante": "JrCotiz",
-          "min": "1700000",
-          "max": "1900000",
-          "disponible": "1807.78"
-        },
-        {
-          "precio": 957.399,
-          "comerciante": "Richgato_Reload",
-          "min": "3000000",
-          "max": "25000000",
-          "disponible": "8124.83"
+          "comerciante": "cp2026",
+          "min": "80000",
+          "max": "4000000",
+          "disponible": "232.27"
         }
       ]
     }
   },
-  "brecha_pct": 18.43
+  "brecha_pct": 18.4
 }
