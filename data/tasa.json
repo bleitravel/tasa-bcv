@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-06T12:01:46+00:00",
-  "actualizado_ve": "2026-09-06T08:01:46-04:00",
+  "actualizado_utc": "2026-09-06T12:37:49+00:00",
+  "actualizado_ve": "2026-09-06T08:37:49-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 963.0198,
+    "referencia": 963.302,
     "venta": {
-      "promedio": 963.0198,
-      "minimo": 954.7,
+      "promedio": 963.302,
+      "minimo": 955.0,
       "maximo": 995.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -25,78 +25,78 @@
           "disponible": "100.00"
         },
         {
+          "precio": 956.0,
+          "comerciante": "Rich_P2P",
+          "min": "500000",
+          "max": "4000000",
+          "disponible": "2224.69"
+        },
+        {
           "precio": 955.31,
           "comerciante": "AndresCh99",
           "min": "450000",
           "max": "4000000",
-          "disponible": "16950.60"
+          "disponible": "16175.99"
         },
         {
-          "precio": 955.3,
-          "comerciante": "P2P-f7729etw",
-          "min": "4800",
-          "max": "5000",
-          "disponible": "100.00"
-        },
-        {
-          "precio": 954.789,
-          "comerciante": "Trabso",
-          "min": "150000",
-          "max": "958800",
-          "disponible": "302.62"
-        },
-        {
-          "precio": 954.7,
-          "comerciante": "edduar24",
-          "min": "200000",
+          "precio": 955.2,
+          "comerciante": "wain",
+          "min": "250000",
           "max": "4000000",
-          "disponible": "506.90"
+          "disponible": "5000.00"
+        },
+        {
+          "precio": 955.0,
+          "comerciante": "RIVERMONEY",
+          "min": "24988000",
+          "max": "24989000",
+          "disponible": "27000.00"
         }
       ]
     },
     "compra": {
-      "promedio": 959.7058,
-      "minimo": 958.95,
-      "maximo": 959.999,
+      "promedio": 957.958,
+      "minimo": 957.9,
+      "maximo": 958.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 958.95,
-          "comerciante": "kelly",
-          "min": "30000",
-          "max": "40000",
-          "disponible": "99.75"
+          "precio": 957.9,
+          "comerciante": "Herstellerin",
+          "min": "2000000",
+          "max": "14000000",
+          "disponible": "7482.47"
         },
         {
-          "precio": 959.79,
-          "comerciante": "TraderImperial",
+          "precio": 957.9,
+          "comerciante": "AMERICA1492LLC",
+          "min": "116000",
+          "max": "36450000",
+          "disponible": "122.12"
+        },
+        {
+          "precio": 957.99,
+          "comerciante": "BOLIVARES_BS",
           "min": "3000000",
           "max": "36450000",
-          "disponible": "3338.64"
+          "disponible": "14981.27"
         },
         {
-          "precio": 959.8,
-          "comerciante": "CHAPMANGOLD_TRADING",
-          "min": "1500000",
-          "max": "36000000",
-          "disponible": "21580.92"
+          "precio": 958.0,
+          "comerciante": "StartBusiness",
+          "min": "2000000",
+          "max": "25000000",
+          "disponible": "12983.77"
         },
         {
-          "precio": 959.99,
-          "comerciante": "Waku-Trade",
-          "min": "20000",
-          "max": "103401",
-          "disponible": "60.62"
-        },
-        {
-          "precio": 959.999,
-          "comerciante": "-Ledger-",
-          "min": "36450000",
-          "max": "300000000",
-          "disponible": "100000.00"
+          "precio": 958.0,
+          "comerciante": "卡哈塞克尼奧",
+          "min": "3000000",
+          "max": "11000000",
+          "disponible": "6383.19"
         }
       ]
     }
   },
-  "brecha_pct": 18.35
+  "brecha_pct": 18.38
 }
