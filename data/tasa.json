@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-06T01:33:05+00:00",
-  "actualizado_ve": "2026-09-05T21:33:05-04:00",
+  "actualizado_utc": "2026-09-06T02:01:50+00:00",
+  "actualizado_ve": "2026-09-05T22:01:50-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,9 +10,9 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 963.7112,
+    "referencia": 964.3,
     "venta": {
-      "promedio": 963.7112,
+      "promedio": 964.3,
       "minimo": 955.5,
       "maximo": 995.0,
       "anuncios_usados": 5,
@@ -25,78 +25,78 @@
           "disponible": "100.00"
         },
         {
-          "precio": 957.005,
+          "precio": 958.0,
           "comerciante": "Trust-Broker",
           "min": "800000",
           "max": "36450000",
-          "disponible": "18730.93"
+          "disponible": "20000.00"
         },
         {
-          "precio": 955.55,
-          "comerciante": "Qwer77",
-          "min": "450000",
-          "max": "30000000",
-          "disponible": "11625.59"
-        },
-        {
-          "precio": 955.501,
-          "comerciante": "PAGOSYAAA",
-          "min": "300000",
-          "max": "9000000",
-          "disponible": "2901.91"
-        },
-        {
-          "precio": 955.5,
+          "precio": 957.0,
           "comerciante": "Trust-Broker",
           "min": "1000000",
           "max": "36450000",
-          "disponible": "36858.67"
+          "disponible": "38955.07"
+        },
+        {
+          "precio": 956.0,
+          "comerciante": "Cachy13Usdt",
+          "min": "4000000",
+          "max": "36450000",
+          "disponible": "36000.00"
+        },
+        {
+          "precio": 955.5,
+          "comerciante": "Redmagic17",
+          "min": "2000000",
+          "max": "36450000",
+          "disponible": "30000.00"
         }
       ]
     },
     "compra": {
-      "promedio": 956.44,
-      "minimo": 956.0,
-      "maximo": 956.9,
+      "promedio": 956.691,
+      "minimo": 955.0,
+      "maximo": 957.456,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 956.0,
-          "comerciante": "Yhonnatan07",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "1.10"
-        },
-        {
-          "precio": 956.0,
-          "comerciante": "ADRIAN1011Z",
-          "min": "500",
-          "max": "85000",
-          "disponible": "2.31"
-        },
-        {
-          "precio": 956.5,
-          "comerciante": "Inversiones-usdt",
-          "min": "91000",
-          "max": "91100",
+          "precio": 955.0,
+          "comerciante": "User-1c736",
+          "min": "4999",
+          "max": "5000",
           "disponible": "99.75"
         },
         {
-          "precio": 956.8,
-          "comerciante": "Camaguanusdt",
+          "precio": 956.999,
+          "comerciante": "Zuly1760",
           "min": "300",
-          "max": "4000000",
-          "disponible": "72.73"
+          "max": "300000",
+          "disponible": "0.45"
         },
         {
-          "precio": 956.9,
-          "comerciante": "paolo7874",
-          "min": "180000",
+          "precio": 957.0,
+          "comerciante": "AMERICA1492LLC",
+          "min": "107323",
+          "max": "36450000",
+          "disponible": "112.14"
+        },
+        {
+          "precio": 957.0,
+          "comerciante": "User-e6b0d",
+          "min": "300",
           "max": "400000",
-          "disponible": "189.52"
+          "disponible": "2.73"
+        },
+        {
+          "precio": 957.456,
+          "comerciante": "Jossynt-Fast",
+          "min": "500000",
+          "max": "36000000",
+          "disponible": "7986.02"
         }
       ]
     }
   },
-  "brecha_pct": 18.43
+  "brecha_pct": 18.5
 }
