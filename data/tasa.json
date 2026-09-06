@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-06T00:43:52+00:00",
-  "actualizado_ve": "2026-09-05T20:43:52-04:00",
+  "actualizado_utc": "2026-09-06T01:01:51+00:00",
+  "actualizado_ve": "2026-09-05T21:01:51-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 963.4226,
+    "referencia": 963.3606,
     "venta": {
-      "promedio": 963.4226,
-      "minimo": 955.0,
+      "promedio": 963.3606,
+      "minimo": 954.69,
       "maximo": 995.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -29,71 +29,71 @@
           "comerciante": "Trust-Broker",
           "min": "800000",
           "max": "36450000",
-          "disponible": "21066.81"
+          "disponible": "19566.87"
         },
         {
           "precio": 955.103,
           "comerciante": "GROUPTECH",
           "min": "400000",
           "max": "3000000",
-          "disponible": "7828.19"
+          "disponible": "5990.65"
         },
         {
           "precio": 955.005,
           "comerciante": "Trust-Broker",
           "min": "1000000",
           "max": "36450000",
-          "disponible": "38952.89"
+          "disponible": "37905.78"
         },
         {
-          "precio": 955.0,
-          "comerciante": "-MEDUSA-",
-          "min": "190000",
-          "max": "36000000",
-          "disponible": "273.00"
+          "precio": 954.69,
+          "comerciante": "DorBin",
+          "min": "935000",
+          "max": "4000000",
+          "disponible": "2848.23"
         }
       ]
     },
     "compra": {
-      "promedio": 955.366,
-      "minimo": 955.0,
-      "maximo": 955.75,
+      "promedio": 955.1698,
+      "minimo": 954.999,
+      "maximo": 955.85,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 955.0,
-          "comerciante": "eugebora",
-          "min": "48000",
-          "max": "50000",
-          "disponible": "100.74"
+          "precio": 954.999,
+          "comerciante": "VelociCambiosMx",
+          "min": "87382",
+          "max": "87383",
+          "disponible": "108.85"
         },
         {
           "precio": 955.0,
           "comerciante": "User-ff060",
           "min": "95500",
           "max": "4000000",
-          "disponible": "558.60"
+          "disponible": "192.75"
         },
         {
-          "precio": 955.39,
-          "comerciante": "TraderImperial",
-          "min": "3000000",
-          "max": "36450000",
-          "disponible": "6114.28"
+          "precio": 955.0,
+          "comerciante": "Feragros_CN",
+          "min": "10000",
+          "max": "330000",
+          "disponible": "65.87"
         },
         {
-          "precio": 955.69,
-          "comerciante": "ChuloFastPay",
-          "min": "4000000",
-          "max": "15000000",
-          "disponible": "7409.66"
+          "precio": 955.0,
+          "comerciante": "Cripto-ven",
+          "min": "300000",
+          "max": "1000000",
+          "disponible": "360.37"
         },
         {
-          "precio": 955.75,
-          "comerciante": "Yaneht_Elite_Gold",
-          "min": "1000000",
-          "max": "5400000",
-          "disponible": "3127.15"
+          "precio": 955.85,
+          "comerciante": "正直高尚的人",
+          "min": "90000",
+          "max": "4000000",
+          "disponible": "199.50"
         }
       ]
     }
