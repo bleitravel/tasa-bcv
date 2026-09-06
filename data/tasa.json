@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-06T05:01:37+00:00",
-  "actualizado_ve": "2026-09-06T01:01:37-04:00",
+  "actualizado_utc": "2026-09-06T05:33:11+00:00",
+  "actualizado_ve": "2026-09-06T01:33:11-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 964.262,
+    "referencia": 963.382,
     "venta": {
-      "promedio": 964.262,
-      "minimo": 955.31,
+      "promedio": 963.382,
+      "minimo": 954.6,
       "maximo": 995.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -25,25 +25,11 @@
           "disponible": "100.00"
         },
         {
-          "precio": 958.0,
-          "comerciante": "Trust-Broker",
-          "min": "800000",
-          "max": "36450000",
-          "disponible": "13597.78"
-        },
-        {
           "precio": 957.0,
           "comerciante": "KarlosGallardo",
           "min": "949",
           "max": "29000",
-          "disponible": "5.13"
-        },
-        {
-          "precio": 956.0,
-          "comerciante": "LANCACHO",
-          "min": "100000",
-          "max": "4000000",
-          "disponible": "9540.12"
+          "disponible": "3.05"
         },
         {
           "precio": 955.31,
@@ -51,52 +37,66 @@
           "min": "450000",
           "max": "4000000",
           "disponible": "16950.60"
+        },
+        {
+          "precio": 955.0,
+          "comerciante": "Miguel_1604",
+          "min": "60000",
+          "max": "227000",
+          "disponible": "148.43"
+        },
+        {
+          "precio": 954.6,
+          "comerciante": "calorina sankey",
+          "min": "1500000",
+          "max": "4000000",
+          "disponible": "9570.33"
         }
       ]
     },
     "compra": {
-      "promedio": 958.2698,
-      "minimo": 956.999,
-      "maximo": 959.0,
+      "promedio": 959.5478,
+      "minimo": 958.999,
+      "maximo": 959.99,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 956.999,
-          "comerciante": "fransisbel2026",
-          "min": "89000",
-          "max": "90000",
-          "disponible": "99.75"
-        },
-        {
-          "precio": 958.0,
-          "comerciante": "nesty2040",
-          "min": "33000",
-          "max": "177200",
-          "disponible": "126.44"
-        },
-        {
-          "precio": 958.4,
-          "comerciante": "CAMBIOS-SERVICIOS-ED",
-          "min": "102000",
-          "max": "10000000",
-          "disponible": "106.88"
-        },
-        {
-          "precio": 958.95,
-          "comerciante": "IVN-Oswaldiano",
-          "min": "20000",
-          "max": "4000000",
-          "disponible": "309.50"
+          "precio": 958.999,
+          "comerciante": "MFX_Exchange",
+          "min": "100000",
+          "max": "1150000",
+          "disponible": "571.91"
         },
         {
           "precio": 959.0,
-          "comerciante": "RJDtrades",
-          "min": "100000",
-          "max": "393795",
-          "disponible": "259.75"
+          "comerciante": "Inteligencia3",
+          "min": "95660",
+          "max": "95900",
+          "disponible": "99.75"
+        },
+        {
+          "precio": 959.85,
+          "comerciante": "x88rising",
+          "min": "2000000",
+          "max": "36450000",
+          "disponible": "6094.39"
+        },
+        {
+          "precio": 959.9,
+          "comerciante": "Danielajcg",
+          "min": "1000",
+          "max": "81000",
+          "disponible": "1.85"
+        },
+        {
+          "precio": 959.99,
+          "comerciante": "Justcrip18",
+          "min": "2000000",
+          "max": "36450000",
+          "disponible": "18600.59"
         }
       ]
     }
   },
-  "brecha_pct": 18.5
+  "brecha_pct": 18.39
 }
