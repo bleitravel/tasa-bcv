@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-06T09:34:08+00:00",
-  "actualizado_ve": "2026-09-06T05:34:08-04:00",
+  "actualizado_utc": "2026-09-06T10:01:49+00:00",
+  "actualizado_ve": "2026-09-06T06:01:49-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 962.5862,
+    "referencia": 963.786,
     "venta": {
-      "promedio": 962.5862,
-      "minimo": 954.001,
+      "promedio": 963.786,
+      "minimo": 954.02,
       "maximo": 995.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -23,6 +23,13 @@
           "min": "10000",
           "max": "20000",
           "disponible": "100.00"
+        },
+        {
+          "precio": 960.0,
+          "comerciante": "Godisgift",
+          "min": "2000000",
+          "max": "36450000",
+          "disponible": "19427.09"
         },
         {
           "precio": 955.31,
@@ -44,20 +51,13 @@
           "min": "110000",
           "max": "260000",
           "disponible": "143.57"
-        },
-        {
-          "precio": 954.001,
-          "comerciante": "HenryCryptob",
-          "min": "120000",
-          "max": "120001",
-          "disponible": "5779.50"
         }
       ]
     },
     "compra": {
-      "promedio": 959.7578,
+      "promedio": 959.3804,
       "minimo": 959.0,
-      "maximo": 959.999,
+      "maximo": 959.674,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "99.75"
         },
         {
-          "precio": 959.9,
-          "comerciante": "Danielajcg",
-          "min": "1000",
-          "max": "81000",
-          "disponible": "1.85"
+          "precio": 959.0,
+          "comerciante": "Servicios-Criptos-27",
+          "min": "500000",
+          "max": "14000000",
+          "disponible": "4791.61"
         },
         {
-          "precio": 959.9,
-          "comerciante": "JD_solucion_",
-          "min": "300000",
-          "max": "1500000",
-          "disponible": "1432.46"
+          "precio": 959.564,
+          "comerciante": "AUTOPAY-P2P",
+          "min": "50000",
+          "max": "1200000",
+          "disponible": "1497.37"
         },
         {
-          "precio": 959.99,
-          "comerciante": "Justcrip18",
-          "min": "2000000",
+          "precio": 959.664,
+          "comerciante": "Lesvalls_Cripto",
+          "min": "400000",
+          "max": "1000000",
+          "disponible": "5057.14"
+        },
+        {
+          "precio": 959.674,
+          "comerciante": "EA_FastPay",
+          "min": "400000",
           "max": "36450000",
-          "disponible": "18600.59"
-        },
-        {
-          "precio": 959.999,
-          "comerciante": "-Ledger-",
-          "min": "36450000",
-          "max": "300000000",
-          "disponible": "100000.00"
+          "disponible": "438.14"
         }
       ]
     }
   },
-  "brecha_pct": 18.29
+  "brecha_pct": 18.44
 }
