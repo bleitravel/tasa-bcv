@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-06T06:01:55+00:00",
-  "actualizado_ve": "2026-09-06T02:01:55-04:00",
+  "actualizado_utc": "2026-09-06T06:37:44+00:00",
+  "actualizado_ve": "2026-09-06T02:37:44-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 962.942,
+    "referencia": 963.242,
     "venta": {
-      "promedio": 962.942,
-      "minimo": 954.6,
+      "promedio": 963.242,
+      "minimo": 954.3,
       "maximo": 995.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -25,6 +25,13 @@
           "disponible": "100.00"
         },
         {
+          "precio": 957.0,
+          "comerciante": "KarlosGallardo",
+          "min": "949",
+          "max": "29000",
+          "disponible": "5.13"
+        },
+        {
           "precio": 955.31,
           "comerciante": "AndresCh99",
           "min": "450000",
@@ -32,30 +39,23 @@
           "disponible": "16950.60"
         },
         {
-          "precio": 955.0,
-          "comerciante": "Miguel_1604",
-          "min": "60000",
-          "max": "227000",
-          "disponible": "148.43"
-        },
-        {
-          "precio": 954.8,
-          "comerciante": "Rolando2626",
-          "min": "50000",
-          "max": "4000000",
-          "disponible": "105.00"
-        },
-        {
           "precio": 954.6,
           "comerciante": "calorina sankey",
           "min": "1500000",
           "max": "4000000",
           "disponible": "9570.33"
+        },
+        {
+          "precio": 954.3,
+          "comerciante": "DogsonTrade2405",
+          "min": "100000",
+          "max": "1000000",
+          "disponible": "2930.00"
         }
       ]
     },
     "compra": {
-      "promedio": 959.3778,
+      "promedio": 959.5758,
       "minimo": 958.999,
       "maximo": 959.99,
       "anuncios_usados": 5,
@@ -65,21 +65,14 @@
           "comerciante": "MFX_Exchange",
           "min": "100000",
           "max": "1150000",
-          "disponible": "571.91"
+          "disponible": "421.76"
         },
         {
           "precio": 959.0,
-          "comerciante": "RJDtrades",
-          "min": "100000",
-          "max": "393795",
-          "disponible": "134.62"
-        },
-        {
-          "precio": 959.0,
-          "comerciante": "Inteligencia3",
-          "min": "95660",
-          "max": "95900",
-          "disponible": "99.75"
+          "comerciante": "Carl0senrique",
+          "min": "50000",
+          "max": "36450000",
+          "disponible": "418.72"
         },
         {
           "precio": 959.9,
@@ -94,9 +87,16 @@
           "min": "2000000",
           "max": "36450000",
           "disponible": "18600.59"
+        },
+        {
+          "precio": 959.99,
+          "comerciante": "Wil2589",
+          "min": "2000000",
+          "max": "28000000",
+          "disponible": "18556.38"
         }
       ]
     }
   },
-  "brecha_pct": 18.34
+  "brecha_pct": 18.37
 }
