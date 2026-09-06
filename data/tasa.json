@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-05T23:31:34+00:00",
-  "actualizado_ve": "2026-09-05T19:31:34-04:00",
+  "actualizado_utc": "2026-09-06T00:02:44+00:00",
+  "actualizado_ve": "2026-09-05T20:02:44-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 965.041,
+    "referencia": 964.0526,
     "venta": {
-      "promedio": 965.041,
-      "minimo": 956.2,
+      "promedio": 964.0526,
+      "minimo": 955.005,
       "maximo": 995.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -25,78 +25,78 @@
           "disponible": "100.00"
         },
         {
-          "precio": 959.0,
-          "comerciante": "cripto_arte",
-          "min": "70000",
-          "max": "95800",
-          "disponible": "100.00"
+          "precio": 958.15,
+          "comerciante": "P2P_Business_Fer",
+          "min": "1000000",
+          "max": "4000000",
+          "disponible": "4478.17"
         },
         {
-          "precio": 958.005,
+          "precio": 957.005,
           "comerciante": "Trust-Broker",
           "min": "800000",
           "max": "36450000",
-          "disponible": "26984.31"
+          "disponible": "26149.25"
         },
         {
-          "precio": 957.0,
-          "comerciante": "Jin-Woo-Sung",
-          "min": "5000000",
+          "precio": 955.103,
+          "comerciante": "GROUPTECH",
+          "min": "400000",
+          "max": "3000000",
+          "disponible": "13933.92"
+        },
+        {
+          "precio": 955.005,
+          "comerciante": "Trust-Broker",
+          "min": "1000000",
           "max": "36450000",
-          "disponible": "80000.00"
-        },
-        {
-          "precio": 956.2,
-          "comerciante": "CambioConfiable1",
-          "min": "300000",
-          "max": "4000000",
-          "disponible": "4713.95"
+          "disponible": "40000.00"
         }
       ]
     },
     "compra": {
-      "promedio": 954.8,
-      "minimo": 950.0,
+      "promedio": 955.1796,
+      "minimo": 952.0,
       "maximo": 956.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 950.0,
-          "comerciante": "New1978",
-          "min": "90000",
-          "max": "4000000",
-          "disponible": "99.13"
+          "precio": 952.0,
+          "comerciante": "Villanuevamartin",
+          "min": "15000",
+          "max": "19000",
+          "disponible": "80.00"
+        },
+        {
+          "precio": 955.9,
+          "comerciante": "JURGEN_TRADER",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "15365.66"
+        },
+        {
+          "precio": 955.999,
+          "comerciante": "ordenesFlash",
+          "min": "7000000",
+          "max": "12223814",
+          "disponible": "12725.49"
+        },
+        {
+          "precio": 955.999,
+          "comerciante": "CAMBIORAPID0S",
+          "min": "5000000",
+          "max": "36000000",
+          "disponible": "39950.06"
         },
         {
           "precio": 956.0,
           "comerciante": "Mag96",
           "min": "1500",
           "max": "55000",
-          "disponible": "99.75"
-        },
-        {
-          "precio": 956.0,
-          "comerciante": "TURISTA",
-          "min": "47000",
-          "max": "47001",
-          "disponible": "50.59"
-        },
-        {
-          "precio": 956.0,
-          "comerciante": "Innoka",
-          "min": "70900",
-          "max": "70901",
-          "disponible": "99.75"
-        },
-        {
-          "precio": 956.0,
-          "comerciante": "RdFVRA",
-          "min": "19180",
-          "max": "4000000",
-          "disponible": "94.90"
+          "disponible": "3.96"
         }
       ]
     }
   },
-  "brecha_pct": 18.59
+  "brecha_pct": 18.47
 }
