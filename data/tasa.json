@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-07T19:33:29+00:00",
-  "actualizado_ve": "2026-09-07T15:33:29-04:00",
+  "actualizado_utc": "2026-09-07T20:01:54+00:00",
+  "actualizado_ve": "2026-09-07T16:01:54-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 969.64,
+    "referencia": 967.92,
     "venta": {
-      "promedio": 969.64,
-      "minimo": 967.1,
+      "promedio": 967.92,
+      "minimo": 965.8,
       "maximo": 972.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -22,81 +22,81 @@
           "comerciante": "Blank_Mind",
           "min": "1500000",
           "max": "36450000",
-          "disponible": "59118.40"
-        },
-        {
-          "precio": 970.1,
-          "comerciante": "joestar_p2p",
-          "min": "3880",
-          "max": "4850",
-          "disponible": "90.14"
-        },
-        {
-          "precio": 970.0,
-          "comerciante": "LordCambios",
-          "min": "900000",
-          "max": "30000060",
-          "disponible": "14054.30"
+          "disponible": "40861.96"
         },
         {
           "precio": 969.0,
-          "comerciante": "Blank_Mind",
-          "min": "3000000",
-          "max": "36450000",
-          "disponible": "32453.65"
+          "comerciante": "LordCambios",
+          "min": "900000",
+          "max": "12141000",
+          "disponible": "8449.27"
         },
         {
-          "precio": 967.1,
+          "precio": 967.0,
           "comerciante": "-Isalam-",
           "min": "1000000",
           "max": "36450000",
-          "disponible": "69874.39"
+          "disponible": "74906.92"
+        },
+        {
+          "precio": 965.8,
+          "comerciante": "DANNIICRIPTO",
+          "min": "660000",
+          "max": "4000000",
+          "disponible": "22060.00"
+        },
+        {
+          "precio": 965.8,
+          "comerciante": "Juanz17",
+          "min": "800000",
+          "max": "9000000",
+          "disponible": "10000.00"
         }
       ]
     },
     "compra": {
-      "promedio": 964.5774,
+      "promedio": 964.02,
       "minimo": 964.0,
-      "maximo": 964.997,
+      "maximo": 964.1,
       "anuncios_usados": 5,
       "anuncios": [
         {
           "precio": 964.0,
-          "comerciante": "Tripleese03",
-          "min": "96300",
+          "comerciante": "Angel629",
+          "min": "500",
           "max": "96400",
-          "disponible": "100.74"
+          "disponible": "1.11"
         },
         {
           "precio": 964.0,
-          "comerciante": "Susann Columbo h3Ge",
-          "min": "100000",
-          "max": "500000",
-          "disponible": "148.62"
+          "comerciante": "Vanejinete88",
+          "min": "20000",
+          "max": "4000000",
+          "disponible": "68.63"
         },
         {
-          "precio": 964.9,
-          "comerciante": "AGROAAA",
-          "min": "28999",
-          "max": "29000",
+          "precio": 964.0,
+          "comerciante": "José Gabrieljc",
+          "min": "10000",
+          "max": "96700",
+          "disponible": "47.90"
+        },
+        {
+          "precio": 964.0,
+          "comerciante": "Raicen43",
+          "min": "20000",
+          "max": "4000000",
           "disponible": "99.75"
         },
         {
-          "precio": 964.99,
-          "comerciante": "VelociCambiosMx",
-          "min": "51200",
-          "max": "51201",
-          "disponible": "101.80"
-        },
-        {
-          "precio": 964.997,
-          "comerciante": "Te_lo_cambiovzla",
+          "precio": 964.1,
+          "comerciante": "Miranda N",
           "min": "300",
-          "max": "20000",
-          "disponible": "99.75"
+          "max": "97789",
+          "disponible": "83.09"
         }
       ]
     }
   },
-  "brecha_pct": 19.16
+  "brecha_pct": 18.95
 }
