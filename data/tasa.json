@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-07T08:02:24+00:00",
-  "actualizado_ve": "2026-09-07T04:02:24-04:00",
+  "actualizado_utc": "2026-09-07T08:37:32+00:00",
+  "actualizado_ve": "2026-09-07T04:37:32-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,19 +10,19 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 958.98,
+    "referencia": 959.0076,
     "venta": {
-      "promedio": 958.98,
-      "minimo": 958.5,
+      "promedio": 959.0076,
+      "minimo": 958.638,
       "maximo": 959.5,
       "anuncios_usados": 5,
       "anuncios": [
         {
           "precio": 959.5,
-          "comerciante": "Miguelo19",
+          "comerciante": "Octalbullet",
           "min": "100000",
-          "max": "4000000",
-          "disponible": "7131.46"
+          "max": "6300000",
+          "disponible": "339.00"
         },
         {
           "precio": 959.0,
@@ -46,27 +46,20 @@
           "disponible": "1173.06"
         },
         {
-          "precio": 958.5,
-          "comerciante": "Capitalisca",
-          "min": "1000000",
-          "max": "4000000",
-          "disponible": "1720.06"
+          "precio": 958.638,
+          "comerciante": "SureXchanges",
+          "min": "50000",
+          "max": "36450000",
+          "disponible": "7000.00"
         }
       ]
     },
     "compra": {
-      "promedio": 964.9486,
-      "minimo": 964.0,
-      "maximo": 965.499,
+      "promedio": 965.4842,
+      "minimo": 965.0,
+      "maximo": 966.0,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 964.0,
-          "comerciante": "Alivergara7",
-          "min": "40000",
-          "max": "96500",
-          "disponible": "99.75"
-        },
         {
           "precio": 965.0,
           "comerciante": "kront",
@@ -75,18 +68,11 @@
           "disponible": "617.87"
         },
         {
-          "precio": 965.12,
-          "comerciante": "Jarchstore",
-          "min": "1000",
-          "max": "361900",
-          "disponible": "299.43"
-        },
-        {
-          "precio": 965.124,
+          "precio": 965.423,
           "comerciante": "WEJC26",
           "min": "3000",
           "max": "400000",
-          "disponible": "69.72"
+          "disponible": "120.67"
         },
         {
           "precio": 965.499,
@@ -94,6 +80,20 @@
           "min": "10000000",
           "max": "36450000",
           "disponible": "45000.00"
+        },
+        {
+          "precio": 965.499,
+          "comerciante": "LechugaExpress",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "5192.60"
+        },
+        {
+          "precio": 966.0,
+          "comerciante": "Soph1607",
+          "min": "300",
+          "max": "96600",
+          "disponible": "0.88"
         }
       ]
     }
