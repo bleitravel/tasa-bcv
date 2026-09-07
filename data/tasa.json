@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-07T18:02:04+00:00",
-  "actualizado_ve": "2026-09-07T14:02:04-04:00",
+  "actualizado_utc": "2026-09-07T18:38:09+00:00",
+  "actualizado_ve": "2026-09-07T14:38:09-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,26 +10,40 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 970.2,
+    "referencia": 974.29,
     "venta": {
-      "promedio": 970.2,
-      "minimo": 965.1,
-      "maximo": 979.8,
+      "promedio": 974.29,
+      "minimo": 967.1,
+      "maximo": 982.22,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 979.8,
-          "comerciante": "Excharge-Vnzla",
-          "min": "500000",
+          "precio": 982.22,
+          "comerciante": "User-3077a",
+          "min": "300000",
           "max": "4000000",
-          "disponible": "5200.54"
+          "disponible": "9000.00"
+        },
+        {
+          "precio": 980.15,
+          "comerciante": "User-fcbf8",
+          "min": "500000",
+          "max": "700000",
+          "disponible": "1460.61"
         },
         {
           "precio": 972.0,
           "comerciante": "Blank_Mind",
           "min": "1500000",
           "max": "36450000",
-          "disponible": "61522.48"
+          "disponible": "35066.86"
+        },
+        {
+          "precio": 969.98,
+          "comerciante": "NOGCambios",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "7.76"
         },
         {
           "precio": 967.1,
@@ -37,66 +51,52 @@
           "min": "1000000",
           "max": "1540000",
           "disponible": "3000.00"
-        },
-        {
-          "precio": 967.0,
-          "comerciante": "Umbrella2503",
-          "min": "870000",
-          "max": "4000000",
-          "disponible": "3682.41"
-        },
-        {
-          "precio": 965.1,
-          "comerciante": "Burdyn",
-          "min": "5000000",
-          "max": "36000000",
-          "disponible": "65000.12"
         }
       ]
     },
     "compra": {
-      "promedio": 964.9976,
-      "minimo": 964.0,
-      "maximo": 966.0,
+      "promedio": 964.759,
+      "minimo": 963.995,
+      "maximo": 965.8,
       "anuncios_usados": 5,
       "anuncios": [
         {
+          "precio": 963.995,
+          "comerciante": "CambiosAPS",
+          "min": "97000",
+          "max": "98200",
+          "disponible": "102.14"
+        },
+        {
           "precio": 964.0,
-          "comerciante": "kalamardo",
-          "min": "80000",
-          "max": "36450000",
-          "disponible": "255.14"
+          "comerciante": "Baruj_Hashem",
+          "min": "10000",
+          "max": "186900",
+          "disponible": "85.28"
         },
         {
-          "precio": 964.99,
-          "comerciante": "VelociCambiosMx",
-          "min": "51200",
-          "max": "51201",
-          "disponible": "104.97"
+          "precio": 965.0,
+          "comerciante": "Robert Zerpa",
+          "min": "300",
+          "max": "386000",
+          "disponible": "0.51"
         },
         {
-          "precio": 964.999,
-          "comerciante": "Globalbusinessmxsss",
-          "min": "312000",
-          "max": "312001",
-          "disponible": "323.39"
-        },
-        {
-          "precio": 964.999,
-          "comerciante": "CAMBIOGYM1721",
-          "min": "5000",
-          "max": "20000",
-          "disponible": "99.75"
-        },
-        {
-          "precio": 966.0,
-          "comerciante": "Much_Dolar",
-          "min": "350000",
+          "precio": 965.0,
+          "comerciante": "GM-P2P",
+          "min": "15000",
           "max": "400000",
-          "disponible": "379.05"
+          "disponible": "107.16"
+        },
+        {
+          "precio": 965.8,
+          "comerciante": "Nunzia1",
+          "min": "70000",
+          "max": "680000",
+          "disponible": "179.77"
         }
       ]
     }
   },
-  "brecha_pct": 19.23
+  "brecha_pct": 19.73
 }
