@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-07T16:01:56+00:00",
-  "actualizado_ve": "2026-09-07T12:01:56-04:00",
+  "actualizado_utc": "2026-09-07T16:35:37+00:00",
+  "actualizado_ve": "2026-09-07T12:35:37-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,62 +10,69 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 964.2,
+    "referencia": 968.206,
     "venta": {
-      "promedio": 964.2,
-      "minimo": 962.6,
-      "maximo": 970.0,
+      "promedio": 968.206,
+      "minimo": 966.5,
+      "maximo": 973.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 970.0,
+          "precio": 973.0,
           "comerciante": "Blank_Mind",
           "min": "2000000",
           "max": "36450000",
-          "disponible": "80000.00"
+          "disponible": "47275.70"
         },
         {
-          "precio": 963.0,
-          "comerciante": "Cross-26",
+          "precio": 968.0,
+          "comerciante": "JAG_CRIPTO",
+          "min": "1000000",
+          "max": "2400640",
+          "disponible": "1430.06"
+        },
+        {
+          "precio": 967.0,
+          "comerciante": "HectorB",
           "min": "15000000",
           "max": "36000000",
           "disponible": "80000.00"
         },
         {
-          "precio": 962.8,
+          "precio": 966.53,
           "comerciante": "PEJAGOBLA",
           "min": "10000000",
           "max": "36400000",
-          "disponible": "72010.00"
+          "disponible": "58037.74"
         },
         {
-          "precio": 962.6,
-          "comerciante": "HectorB",
-          "min": "5000000",
-          "max": "36000000",
-          "disponible": "60000.00"
-        },
-        {
-          "precio": 962.6,
-          "comerciante": "GAZA_CRIPTO",
-          "min": "7000000",
-          "max": "36450000",
-          "disponible": "60600.73"
+          "precio": 966.5,
+          "comerciante": "ArepaPower",
+          "min": "1000000",
+          "max": "4000000",
+          "disponible": "22808.74"
         }
       ]
     },
     "compra": {
-      "promedio": 963.0798,
-      "minimo": 963.0,
-      "maximo": 963.399,
+      "promedio": 962.7798,
+      "minimo": 961.0,
+      "maximo": 963.5,
       "anuncios_usados": 5,
       "anuncios": [
+        {
+          "precio": 961.0,
+          "comerciante": "P2P-b66951u8",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "0.75"
+        },
         {
           "precio": 963.0,
           "comerciante": "Broker Trader",
           "min": "18750",
           "max": "18751",
-          "disponible": "65.81"
+          "disponible": "46.35"
         },
         {
           "precio": 963.0,
@@ -75,28 +82,21 @@
           "disponible": "2.68"
         },
         {
-          "precio": 963.0,
-          "comerciante": "Angeletex",
-          "min": "3000",
-          "max": "600000",
-          "disponible": "15.91"
-        },
-        {
-          "precio": 963.0,
-          "comerciante": "EAMUNDODIGITAl",
-          "min": "95000",
-          "max": "4000000",
-          "disponible": "99.75"
-        },
-        {
           "precio": 963.399,
           "comerciante": "Zuly1760",
           "min": "300",
           "max": "300000",
           "disponible": "0.31"
+        },
+        {
+          "precio": 963.5,
+          "comerciante": "ADerekZo",
+          "min": "8000",
+          "max": "55000",
+          "disponible": "9.71"
         }
       ]
     }
   },
-  "brecha_pct": 18.49
+  "brecha_pct": 18.98
 }
