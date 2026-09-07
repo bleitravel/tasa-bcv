@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-07T06:02:02+00:00",
-  "actualizado_ve": "2026-09-07T02:02:02-04:00",
+  "actualizado_utc": "2026-09-07T06:42:32+00:00",
+  "actualizado_ve": "2026-09-07T02:42:32-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 959.8062,
+    "referencia": 959.7662,
     "venta": {
-      "promedio": 959.8062,
-      "minimo": 959.2,
+      "promedio": 959.7662,
+      "minimo": 959.0,
       "maximo": 960.32,
       "anuncios_usados": 5,
       "anuncios": [
@@ -26,10 +26,10 @@
         },
         {
           "precio": 960.0,
-          "comerciante": "Naldo247",
-          "min": "27000",
-          "max": "624000",
-          "disponible": "361.86"
+          "comerciante": "notoriusG4",
+          "min": "100000",
+          "max": "260000",
+          "disponible": "276.00"
         },
         {
           "precio": 959.801,
@@ -46,33 +46,26 @@
           "disponible": "100.00"
         },
         {
-          "precio": 959.2,
-          "comerciante": "CriptoCambiosVzla",
-          "min": "100000",
-          "max": "600000",
-          "disponible": "430.06"
+          "precio": 959.0,
+          "comerciante": "FromVillage",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "13988.33"
         }
       ]
     },
     "compra": {
-      "promedio": 964.8796,
-      "minimo": 964.0,
+      "promedio": 964.5394,
+      "minimo": 961.399,
       "maximo": 965.499,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 964.0,
-          "comerciante": "CambiosJDFV",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "1.45"
-        },
-        {
-          "precio": 964.4,
-          "comerciante": "NegritaCatanare",
-          "min": "10000",
-          "max": "96040",
-          "disponible": "99.75"
+          "precio": 961.399,
+          "comerciante": "Dr Trader",
+          "min": "422000",
+          "max": "426000",
+          "disponible": "499.00"
         },
         {
           "precio": 965.0,
@@ -80,6 +73,13 @@
           "min": "100000",
           "max": "20000008",
           "disponible": "10257.87"
+        },
+        {
+          "precio": 965.3,
+          "comerciante": "Royrdgz",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "11895.55"
         },
         {
           "precio": 965.499,
