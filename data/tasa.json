@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-07T15:01:52+00:00",
-  "actualizado_ve": "2026-09-07T11:01:52-04:00",
+  "actualizado_utc": "2026-09-07T15:35:41+00:00",
+  "actualizado_ve": "2026-09-07T11:35:41-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 963.74,
+    "referencia": 964.201,
     "venta": {
-      "promedio": 963.74,
-      "minimo": 963.3,
+      "promedio": 964.201,
+      "minimo": 963.55,
       "maximo": 965.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
           "precio": 965.0,
-          "comerciante": "Daniaarilo",
-          "min": "200000",
-          "max": "4000000",
-          "disponible": "1652.86"
-        },
-        {
-          "precio": 963.5,
-          "comerciante": "ArepaPower",
-          "min": "1500000",
-          "max": "4000000",
-          "disponible": "30000.00"
-        },
-        {
-          "precio": 963.5,
-          "comerciante": "jonax",
-          "min": "1000000",
-          "max": "14000000",
-          "disponible": "15000.00"
-        },
-        {
-          "precio": 963.4,
-          "comerciante": "2020EXCHANGEVIP",
-          "min": "5000000",
+          "comerciante": "Blank_Mind",
+          "min": "3000000",
           "max": "36450000",
-          "disponible": "27008.76"
+          "disponible": "4486.27"
         },
         {
-          "precio": 963.3,
-          "comerciante": "SExchange20",
-          "min": "10000000",
+          "precio": 965.0,
+          "comerciante": "breintrader",
+          "min": "18200",
+          "max": "18521",
+          "disponible": "102.00"
+        },
+        {
+          "precio": 963.8,
+          "comerciante": "Carlecitta",
+          "min": "20900",
+          "max": "20996",
+          "disponible": "100.00"
+        },
+        {
+          "precio": 963.655,
+          "comerciante": "VZLAMundialista",
+          "min": "8000000",
+          "max": "28173067",
+          "disponible": "15464.59"
+        },
+        {
+          "precio": 963.55,
+          "comerciante": "Brawcoins",
+          "min": "5000000",
           "max": "36450000",
           "disponible": "80000.00"
         }
       ]
     },
     "compra": {
-      "promedio": 962.5,
+      "promedio": 962.5998,
       "minimo": 962.0,
       "maximo": 963.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
           "precio": 962.0,
-          "comerciante": "Angel629",
-          "min": "500",
-          "max": "96200",
-          "disponible": "0.64"
+          "comerciante": "yosimarcabrita ",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "0.96"
         },
         {
           "precio": 962.0,
-          "comerciante": "YOSOYNINGUNO",
-          "min": "3000",
-          "max": "3001",
-          "disponible": "96.64"
-        },
-        {
-          "precio": 962.5,
-          "comerciante": "tucambioseguro",
-          "min": "100000",
+          "comerciante": "P2P-66a403zo",
+          "min": "300",
           "max": "4000000",
-          "disponible": "425.98"
+          "disponible": "1.00"
         },
         {
-          "precio": 963.0,
-          "comerciante": "Lucyy_P2P",
-          "min": "2500",
-          "max": "40000",
-          "disponible": "29.12"
+          "precio": 962.999,
+          "comerciante": "ElBossP2P",
+          "min": "300",
+          "max": "10000",
+          "disponible": "208.08"
         },
         {
           "precio": 963.0,
           "comerciante": "Broker Trader",
           "min": "18750",
           "max": "18751",
-          "disponible": "104.73"
+          "disponible": "85.27"
+        },
+        {
+          "precio": 963.0,
+          "comerciante": "Dayanajuarez28",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "2.68"
         }
       ]
     }
   },
-  "brecha_pct": 18.43
+  "brecha_pct": 18.49
 }
