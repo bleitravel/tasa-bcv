@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-07T07:36:51+00:00",
-  "actualizado_ve": "2026-09-07T03:36:51-04:00",
+  "actualizado_utc": "2026-09-07T08:02:24+00:00",
+  "actualizado_ve": "2026-09-07T04:02:24-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,19 +10,19 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 959.102,
+    "referencia": 958.98,
     "venta": {
-      "promedio": 959.102,
-      "minimo": 958.9,
-      "maximo": 959.71,
+      "promedio": 958.98,
+      "minimo": 958.5,
+      "maximo": 959.5,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 959.71,
-          "comerciante": "cathrret",
-          "min": "1000",
-          "max": "3488",
-          "disponible": "100.00"
+          "precio": 959.5,
+          "comerciante": "Miguelo19",
+          "min": "100000",
+          "max": "4000000",
+          "disponible": "7131.46"
         },
         {
           "precio": 959.0,
@@ -46,38 +46,24 @@
           "disponible": "1173.06"
         },
         {
-          "precio": 958.9,
-          "comerciante": "Global-Cambi0s",
-          "min": "60000",
-          "max": "75000",
-          "disponible": "100.00"
+          "precio": 958.5,
+          "comerciante": "Capitalisca",
+          "min": "1000000",
+          "max": "4000000",
+          "disponible": "1720.06"
         }
       ]
     },
     "compra": {
-      "promedio": 964.0074,
-      "minimo": 961.399,
-      "maximo": 965.238,
+      "promedio": 964.9486,
+      "minimo": 964.0,
+      "maximo": 965.499,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 961.399,
-          "comerciante": "Dr Trader",
-          "min": "422000",
-          "max": "426000",
-          "disponible": "499.00"
-        },
-        {
-          "precio": 963.4,
-          "comerciante": "CriptoManzana",
-          "min": "70000",
-          "max": "36450000",
-          "disponible": "99.80"
-        },
-        {
-          "precio": 965.0,
+          "precio": 964.0,
           "comerciante": "Alivergara7",
-          "min": "70000",
+          "min": "40000",
           "max": "96500",
           "disponible": "99.75"
         },
@@ -86,17 +72,31 @@
           "comerciante": "kront",
           "min": "50000",
           "max": "1050000",
-          "disponible": "671.03"
+          "disponible": "617.87"
         },
         {
-          "precio": 965.238,
+          "precio": 965.12,
+          "comerciante": "Jarchstore",
+          "min": "1000",
+          "max": "361900",
+          "disponible": "299.43"
+        },
+        {
+          "precio": 965.124,
           "comerciante": "WEJC26",
           "min": "3000",
           "max": "400000",
-          "disponible": "120.67"
+          "disponible": "69.72"
+        },
+        {
+          "precio": 965.499,
+          "comerciante": "zama2004",
+          "min": "10000000",
+          "max": "36450000",
+          "disponible": "45000.00"
         }
       ]
     }
   },
-  "brecha_pct": 17.86
+  "brecha_pct": 17.85
 }
