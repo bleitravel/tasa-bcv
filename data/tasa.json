@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-07T09:02:17+00:00",
-  "actualizado_ve": "2026-09-07T05:02:17-04:00",
+  "actualizado_utc": "2026-09-07T09:37:37+00:00",
+  "actualizado_ve": "2026-09-07T05:37:37-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 958.48,
+    "referencia": 958.984,
     "venta": {
-      "promedio": 958.48,
-      "minimo": 958.0,
+      "promedio": 958.984,
+      "minimo": 958.92,
       "maximo": 959.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -25,39 +25,39 @@
           "disponible": "13988.33"
         },
         {
-          "precio": 958.9,
-          "comerciante": "herisheng",
-          "min": "500000",
-          "max": "4000000",
-          "disponible": "1173.06"
+          "precio": 959.0,
+          "comerciante": "Mr Day Leo",
+          "min": "200000",
+          "max": "1000000",
+          "disponible": "2519.73"
         },
         {
-          "precio": 958.5,
-          "comerciante": "Capitalisca",
-          "min": "1000000",
-          "max": "4000000",
-          "disponible": "1720.06"
+          "precio": 959.0,
+          "comerciante": "Niur_R",
+          "min": "50000",
+          "max": "1000000",
+          "disponible": "1971.23"
         },
         {
-          "precio": 958.0,
-          "comerciante": "GRUPOAVILA",
-          "min": "500000",
-          "max": "20000000",
-          "disponible": "8048.23"
+          "precio": 959.0,
+          "comerciante": "ChrisPerez",
+          "min": "100000",
+          "max": "6418100",
+          "disponible": "6480.50"
         },
         {
-          "precio": 958.0,
-          "comerciante": "iCarlosEduardo_",
-          "min": "1000",
-          "max": "192079",
-          "disponible": "5.85"
+          "precio": 958.92,
+          "comerciante": "JD_solucion_",
+          "min": "70000",
+          "max": "443000",
+          "disponible": "462.00"
         }
       ]
     },
     "compra": {
-      "promedio": 965.4122,
+      "promedio": 965.1442,
       "minimo": 965.0,
-      "maximo": 965.9,
+      "maximo": 965.48,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "2894.93"
         },
         {
-          "precio": 965.163,
+          "precio": 965.0,
+          "comerciante": "Majito_1930",
+          "min": "5000",
+          "max": "50000",
+          "disponible": "86.45"
+        },
+        {
+          "precio": 965.0,
+          "comerciante": "pabloc1969",
+          "min": "30000",
+          "max": "4000000",
+          "disponible": "61.43"
+        },
+        {
+          "precio": 965.241,
           "comerciante": "WEJC26",
           "min": "3000",
           "max": "400000",
-          "disponible": "100.61"
+          "disponible": "68.15"
         },
         {
-          "precio": 965.499,
-          "comerciante": "zama2004",
-          "min": "10000000",
+          "precio": 965.48,
+          "comerciante": "AllTraders",
+          "min": "4000000",
           "max": "36450000",
-          "disponible": "45000.00"
-        },
-        {
-          "precio": 965.499,
-          "comerciante": "LechugaExpress",
-          "min": "5000000",
-          "max": "36450000",
-          "disponible": "5192.60"
-        },
-        {
-          "precio": 965.9,
-          "comerciante": "AENETEACHEOENEYE",
-          "min": "2000000",
-          "max": "8500000",
-          "disponible": "8994.90"
+          "disponible": "10714.15"
         }
       ]
     }
   },
-  "brecha_pct": 17.79
+  "brecha_pct": 17.85
 }
