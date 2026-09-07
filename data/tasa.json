@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-07T01:34:47+00:00",
-  "actualizado_ve": "2026-09-06T21:34:47-04:00",
+  "actualizado_utc": "2026-09-07T02:01:53+00:00",
+  "actualizado_ve": "2026-09-06T22:01:53-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,26 +10,26 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 960.24,
+    "referencia": 960.12,
     "venta": {
-      "promedio": 960.24,
-      "minimo": 959.1,
-      "maximo": 961.1,
+      "promedio": 960.12,
+      "minimo": 960.0,
+      "maximo": 960.5,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 961.1,
+          "precio": 960.5,
           "comerciante": "Jin-Woo-Sung",
           "min": "5000000",
           "max": "36450000",
           "disponible": "80000.00"
         },
         {
-          "precio": 961.0,
-          "comerciante": "Trust-Broker",
-          "min": "1000000",
-          "max": "36450000",
-          "disponible": "2744.31"
+          "precio": 960.1,
+          "comerciante": "pingpong baq",
+          "min": "500000",
+          "max": "995000",
+          "disponible": "2600.12"
         },
         {
           "precio": 960.0,
@@ -46,57 +46,57 @@
           "disponible": "30000.00"
         },
         {
-          "precio": 959.1,
-          "comerciante": "-HashiramaSenju",
-          "min": "400000",
-          "max": "20000000",
-          "disponible": "3445.86"
+          "precio": 960.0,
+          "comerciante": "TuPesadilla008",
+          "min": "1820000",
+          "max": "36450000",
+          "disponible": "1895.84"
         }
       ]
     },
     "compra": {
-      "promedio": 961.898,
-      "minimo": 961.0,
-      "maximo": 962.6,
+      "promedio": 962.736,
+      "minimo": 962.2,
+      "maximo": 963.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 961.0,
-          "comerciante": "P2P-a9491eeb",
-          "min": "20000",
-          "max": "134712",
-          "disponible": "139.83"
-        },
-        {
-          "precio": 961.89,
-          "comerciante": "MAUROPICOTO",
-          "min": "48000",
-          "max": "51000",
+          "precio": 962.2,
+          "comerciante": "Davidmarquez",
+          "min": "5000",
+          "max": "40000",
           "disponible": "99.75"
         },
         {
-          "precio": 962.0,
-          "comerciante": "-Ledger-",
-          "min": "15000000",
-          "max": "36450000",
-          "disponible": "54157.35"
+          "precio": 962.5,
+          "comerciante": "Ramygh99",
+          "min": "2000000",
+          "max": "10000000",
+          "disponible": "6233.77"
         },
         {
-          "precio": 962.0,
-          "comerciante": "Gospel Exchange",
-          "min": "9620",
-          "max": "4000000",
-          "disponible": "23.89"
+          "precio": 962.98,
+          "comerciante": "CryptoFlashFX",
+          "min": "96298",
+          "max": "288894",
+          "disponible": "299.25"
         },
         {
-          "precio": 962.6,
-          "comerciante": "SpaceX_Trader",
-          "min": "3300000",
-          "max": "36000000",
-          "disponible": "7889.38"
+          "precio": 963.0,
+          "comerciante": "Estefaniabc",
+          "min": "10000",
+          "max": "500760",
+          "disponible": "12.74"
+        },
+        {
+          "precio": 963.0,
+          "comerciante": "tavo_0126",
+          "min": "300",
+          "max": "2000",
+          "disponible": "98.61"
         }
       ]
     }
   },
-  "brecha_pct": 18.0
+  "brecha_pct": 17.99
 }
