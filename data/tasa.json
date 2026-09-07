@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-07T02:35:11+00:00",
-  "actualizado_ve": "2026-09-06T22:35:11-04:00",
+  "actualizado_utc": "2026-09-07T03:01:57+00:00",
+  "actualizado_ve": "2026-09-06T23:01:57-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 960.62,
+    "referencia": 961.6102,
     "venta": {
-      "promedio": 960.62,
-      "minimo": 960.1,
-      "maximo": 962.0,
-      "anuncios_usados": 5,
-      "anuncios": [
-        {
-          "precio": 962.0,
-          "comerciante": "Valenciavzla",
-          "min": "1000000",
-          "max": "4000000",
-          "disponible": "6900.06"
-        },
-        {
-          "precio": 960.5,
-          "comerciante": "Jin-Woo-Sung",
-          "min": "5000000",
-          "max": "36450000",
-          "disponible": "80000.00"
-        },
-        {
-          "precio": 960.3,
-          "comerciante": "LeymusCoin",
-          "min": "600000",
-          "max": "15000000",
-          "disponible": "15080.00"
-        },
-        {
-          "precio": 960.2,
-          "comerciante": "User-a53f7",
-          "min": "195000",
-          "max": "500000",
-          "disponible": "1000.00"
-        },
-        {
-          "precio": 960.1,
-          "comerciante": "pingpong baq",
-          "min": "500000",
-          "max": "995000",
-          "disponible": "2000.18"
-        }
-      ]
-    },
-    "compra": {
-      "promedio": 962.8594,
-      "minimo": 962.5,
-      "maximo": 963.0,
+      "promedio": 961.6102,
+      "minimo": 961.001,
+      "maximo": 962.5,
       "anuncios_usados": 5,
       "anuncios": [
         {
           "precio": 962.5,
-          "comerciante": "Ramygh99",
-          "min": "2000000",
-          "max": "10000000",
-          "disponible": "3176.32"
+          "comerciante": "tranfiero-inmediato",
+          "min": "481000",
+          "max": "962500",
+          "disponible": "1000.00"
         },
         {
-          "precio": 962.8,
-          "comerciante": "Servicios-Criptos-27",
-          "min": "2000000",
-          "max": "14000000",
-          "disponible": "2695.28"
+          "precio": 962.0,
+          "comerciante": "Jin-Woo-Sung",
+          "min": "4500000",
+          "max": "36450000",
+          "disponible": "80000.00"
         },
         {
-          "precio": 962.998,
-          "comerciante": "Primeramente Dios ",
-          "min": "80000",
+          "precio": 961.5,
+          "comerciante": "Valenciavzla",
+          "min": "1000000",
           "max": "4000000",
-          "disponible": "363.77"
+          "disponible": "2920.85"
         },
         {
-          "precio": 962.999,
-          "comerciante": "CAMBIOS-CRYPTOS",
-          "min": "1400000",
-          "max": "10000000",
-          "disponible": "1488.05"
+          "precio": 961.05,
+          "comerciante": "AJ-Cambios",
+          "min": "500000",
+          "max": "12593585",
+          "disponible": "5696.52"
+        },
+        {
+          "precio": 961.001,
+          "comerciante": "Capital_Carreno",
+          "min": "400000",
+          "max": "36000000",
+          "disponible": "2804.54"
+        }
+      ]
+    },
+    "compra": {
+      "promedio": 963.4192,
+      "minimo": 963.0,
+      "maximo": 964.0,
+      "anuncios_usados": 5,
+      "anuncios": [
+        {
+          "precio": 963.0,
+          "comerciante": "jmmorillo",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "0.67"
         },
         {
           "precio": 963.0,
-          "comerciante": "sanchez237",
-          "min": "3930000",
-          "max": "8000000",
-          "disponible": "4091.81"
+          "comerciante": "User-9a9ce",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "66.53"
+        },
+        {
+          "precio": 963.099,
+          "comerciante": "juanmv91",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "1.10"
+        },
+        {
+          "precio": 963.997,
+          "comerciante": "Bombita69",
+          "min": "300",
+          "max": "275405",
+          "disponible": "1.18"
+        },
+        {
+          "precio": 964.0,
+          "comerciante": "CambiosJDFV",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "3.00"
         }
       ]
     }
   },
-  "brecha_pct": 18.05
+  "brecha_pct": 18.17
 }
