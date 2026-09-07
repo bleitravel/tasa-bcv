@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-07T12:02:12+00:00",
-  "actualizado_ve": "2026-09-07T08:02:12-04:00",
+  "actualizado_utc": "2026-09-07T12:41:00+00:00",
+  "actualizado_ve": "2026-09-07T08:41:00-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 963.14,
+    "referencia": 961.5,
     "venta": {
-      "promedio": 963.14,
-      "minimo": 961.4,
-      "maximo": 968.8,
+      "promedio": 961.5,
+      "minimo": 961.0,
+      "maximo": 962.5,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 968.8,
-          "comerciante": "Excharge-Vnzla",
-          "min": "300000",
-          "max": "4000000",
-          "disponible": "660.69"
-        },
-        {
-          "precio": 962.0,
+          "precio": 962.5,
           "comerciante": "Jin-Woo-Sung",
           "min": "5000000",
           "max": "36450000",
-          "disponible": "80000.00"
+          "disponible": "69505.74"
         },
         {
           "precio": 962.0,
-          "comerciante": "To0809",
-          "min": "4000000",
-          "max": "14430000",
-          "disponible": "15000.00"
-        },
-        {
-          "precio": 961.5,
           "comerciante": "TPhillips",
           "min": "3000000",
           "max": "36450000",
-          "disponible": "72178.90"
+          "disponible": "69481.50"
         },
         {
-          "precio": 961.4,
-          "comerciante": "贝HarveySpecter贝",
-          "min": "1000000",
-          "max": "36000000",
-          "disponible": "23959.86"
+          "precio": 961.0,
+          "comerciante": "P2P-56af70h9",
+          "min": "500000",
+          "max": "4000000",
+          "disponible": "2000.00"
+        },
+        {
+          "precio": 961.0,
+          "comerciante": "ObeliscoFinance",
+          "min": "1500000",
+          "max": "9000000",
+          "disponible": "13226.61"
+        },
+        {
+          "precio": 961.0,
+          "comerciante": "Manusilva94",
+          "min": "105000",
+          "max": "105710",
+          "disponible": "110.00"
         }
       ]
     },
     "compra": {
-      "promedio": 961.356,
-      "minimo": 961.0,
-      "maximo": 961.98,
+      "promedio": 961.106,
+      "minimo": 960.0,
+      "maximo": 962.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 961.0,
-          "comerciante": "MacGrego",
-          "min": "9000",
-          "max": "4000000",
-          "disponible": "21.26"
+          "precio": 960.0,
+          "comerciante": "User-0e07a",
+          "min": "5000",
+          "max": "10000",
+          "disponible": "79.29"
+        },
+        {
+          "precio": 960.53,
+          "comerciante": "Mayzon-trader-P2P",
+          "min": "10000",
+          "max": "497000",
+          "disponible": "171.97"
         },
         {
           "precio": 961.0,
           "comerciante": "cambiosramses",
           "min": "300",
           "max": "4000000",
-          "disponible": "99.75"
+          "disponible": "0.78"
         },
         {
-          "precio": 961.0,
-          "comerciante": "cambia_ya21",
-          "min": "10000",
-          "max": "11000",
-          "disponible": "99.75"
+          "precio": 962.0,
+          "comerciante": "andry0212",
+          "min": "410000",
+          "max": "410001",
+          "disponible": "426.93"
         },
         {
-          "precio": 961.8,
-          "comerciante": "DanielVra",
-          "min": "10000",
-          "max": "900000",
-          "disponible": "124.93"
-        },
-        {
-          "precio": 961.98,
-          "comerciante": "Phill_Aventura",
-          "min": "50000",
-          "max": "600000",
-          "disponible": "54.57"
+          "precio": 962.0,
+          "comerciante": "Marysolsol",
+          "min": "100000",
+          "max": "110000",
+          "disponible": "107.73"
         }
       ]
     }
   },
-  "brecha_pct": 18.36
+  "brecha_pct": 18.16
 }
