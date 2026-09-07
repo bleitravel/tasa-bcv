@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-07T08:37:32+00:00",
-  "actualizado_ve": "2026-09-07T04:37:32-04:00",
+  "actualizado_utc": "2026-09-07T09:02:17+00:00",
+  "actualizado_ve": "2026-09-07T05:02:17-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,33 +10,19 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 959.0076,
+    "referencia": 958.48,
     "venta": {
-      "promedio": 959.0076,
-      "minimo": 958.638,
-      "maximo": 959.5,
+      "promedio": 958.48,
+      "minimo": 958.0,
+      "maximo": 959.0,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 959.5,
-          "comerciante": "Octalbullet",
-          "min": "100000",
-          "max": "6300000",
-          "disponible": "339.00"
-        },
         {
           "precio": 959.0,
           "comerciante": "FromVillage",
           "min": "5000000",
           "max": "36450000",
           "disponible": "13988.33"
-        },
-        {
-          "precio": 959.0,
-          "comerciante": "P2P-69e433ag",
-          "min": "160000",
-          "max": "358000",
-          "disponible": "370.00"
         },
         {
           "precio": 958.9,
@@ -46,33 +32,47 @@
           "disponible": "1173.06"
         },
         {
-          "precio": 958.638,
-          "comerciante": "SureXchanges",
-          "min": "50000",
-          "max": "36450000",
-          "disponible": "7000.00"
+          "precio": 958.5,
+          "comerciante": "Capitalisca",
+          "min": "1000000",
+          "max": "4000000",
+          "disponible": "1720.06"
+        },
+        {
+          "precio": 958.0,
+          "comerciante": "GRUPOAVILA",
+          "min": "500000",
+          "max": "20000000",
+          "disponible": "8048.23"
+        },
+        {
+          "precio": 958.0,
+          "comerciante": "iCarlosEduardo_",
+          "min": "1000",
+          "max": "192079",
+          "disponible": "5.85"
         }
       ]
     },
     "compra": {
-      "promedio": 965.4842,
+      "promedio": 965.4122,
       "minimo": 965.0,
-      "maximo": 966.0,
+      "maximo": 965.9,
       "anuncios_usados": 5,
       "anuncios": [
         {
           "precio": 965.0,
-          "comerciante": "kront",
-          "min": "50000",
-          "max": "1050000",
-          "disponible": "617.87"
+          "comerciante": "Servicios-Criptos-27",
+          "min": "1000000",
+          "max": "14000000",
+          "disponible": "2894.93"
         },
         {
-          "precio": 965.423,
+          "precio": 965.163,
           "comerciante": "WEJC26",
           "min": "3000",
           "max": "400000",
-          "disponible": "120.67"
+          "disponible": "100.61"
         },
         {
           "precio": 965.499,
@@ -89,14 +89,14 @@
           "disponible": "5192.60"
         },
         {
-          "precio": 966.0,
-          "comerciante": "Soph1607",
-          "min": "300",
-          "max": "96600",
-          "disponible": "0.88"
+          "precio": 965.9,
+          "comerciante": "AENETEACHEOENEYE",
+          "min": "2000000",
+          "max": "8500000",
+          "disponible": "8994.90"
         }
       ]
     }
   },
-  "brecha_pct": 17.85
+  "brecha_pct": 17.79
 }
