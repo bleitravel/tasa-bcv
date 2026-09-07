@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-07T11:01:53+00:00",
-  "actualizado_ve": "2026-09-07T07:01:53-04:00",
+  "actualizado_utc": "2026-09-07T11:36:12+00:00",
+  "actualizado_ve": "2026-09-07T07:36:12-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 960.28,
+    "referencia": 961.48,
     "venta": {
-      "promedio": 960.28,
-      "minimo": 960.0,
-      "maximo": 961.0,
+      "promedio": 961.48,
+      "minimo": 961.0,
+      "maximo": 962.0,
       "anuncios_usados": 5,
       "anuncios": [
+        {
+          "precio": 962.0,
+          "comerciante": "Jin-Woo-Sung",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "80000.00"
+        },
+        {
+          "precio": 961.5,
+          "comerciante": "TPhillips",
+          "min": "3000000",
+          "max": "36450000",
+          "disponible": "76879.88"
+        },
+        {
+          "precio": 961.5,
+          "comerciante": "User-95450",
+          "min": "2000000",
+          "max": "25000000",
+          "disponible": "6700.00"
+        },
+        {
+          "precio": 961.4,
+          "comerciante": "贝HarveySpecter贝",
+          "min": "1000000",
+          "max": "36000000",
+          "disponible": "25000.00"
+        },
         {
           "precio": 961.0,
           "comerciante": "refriservicios",
           "min": "900000",
           "max": "4000000",
-          "disponible": "3755.60"
-        },
-        {
-          "precio": 960.2,
-          "comerciante": "User-efde7",
-          "min": "1000000",
-          "max": "4000000",
-          "disponible": "15000.00"
-        },
-        {
-          "precio": 960.2,
-          "comerciante": "mono",
-          "min": "500000",
-          "max": "4000000",
-          "disponible": "13990.06"
-        },
-        {
-          "precio": 960.0,
-          "comerciante": "IMPERIo2021",
-          "min": "150000",
-          "max": "1300000",
-          "disponible": "286.82"
-        },
-        {
-          "precio": 960.0,
-          "comerciante": "CryptoVelozz",
-          "min": "500000",
-          "max": "3000000",
-          "disponible": "3128.00"
+          "disponible": "2048.01"
         }
       ]
     },
     "compra": {
-      "promedio": 962.677,
-      "minimo": 961.787,
-      "maximo": 963.0,
+      "promedio": 962.8078,
+      "minimo": 962.5,
+      "maximo": 962.999,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 961.787,
-          "comerciante": "Yanmaryp2p",
-          "min": "50001",
-          "max": "3000000",
-          "disponible": "144.16"
+          "precio": 962.5,
+          "comerciante": "KAGR2026",
+          "min": "300",
+          "max": "4500",
+          "disponible": "99.75"
         },
         {
-          "precio": 962.799,
-          "comerciante": "WilhelmPay",
-          "min": "50000",
-          "max": "602788",
-          "disponible": "521.16"
+          "precio": 962.75,
+          "comerciante": "MRTUNIG",
+          "min": "20000",
+          "max": "154000",
+          "disponible": "138.83"
         },
         {
-          "precio": 962.799,
-          "comerciante": "User-328d1",
-          "min": "300000",
-          "max": "4000000",
-          "disponible": "399.00"
+          "precio": 962.89,
+          "comerciante": "Fenix66",
+          "min": "20000",
+          "max": "40000",
+          "disponible": "99.75"
         },
         {
-          "precio": 963.0,
-          "comerciante": "JadrhVzla",
-          "min": "9620",
-          "max": "408850",
-          "disponible": "12.03"
+          "precio": 962.9,
+          "comerciante": "P2P-68aa26sb",
+          "min": "48145",
+          "max": "240725",
+          "disponible": "249.37"
         },
         {
-          "precio": 963.0,
-          "comerciante": "MichiSv",
-          "min": "30000",
-          "max": "168755",
-          "disponible": "128.10"
+          "precio": 962.999,
+          "comerciante": "Roriana06",
+          "min": "20000",
+          "max": "100000",
+          "disponible": "69.73"
         }
       ]
     }
   },
-  "brecha_pct": 18.01
+  "brecha_pct": 18.16
 }
