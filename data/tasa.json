@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-07T19:01:21+00:00",
-  "actualizado_ve": "2026-09-07T15:01:21-04:00",
+  "actualizado_utc": "2026-09-07T19:33:29+00:00",
+  "actualizado_ve": "2026-09-07T15:33:29-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 972.044,
+    "referencia": 969.64,
     "venta": {
-      "promedio": 972.044,
-      "minimo": 967.0,
-      "maximo": 982.22,
+      "promedio": 969.64,
+      "minimo": 967.1,
+      "maximo": 972.0,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 982.22,
-          "comerciante": "User-3077a",
-          "min": "300000",
-          "max": "4000000",
-          "disponible": "583.68"
-        },
         {
           "precio": 972.0,
           "comerciante": "Blank_Mind",
           "min": "1500000",
           "max": "36450000",
-          "disponible": "80000.00"
+          "disponible": "59118.40"
+        },
+        {
+          "precio": 970.1,
+          "comerciante": "joestar_p2p",
+          "min": "3880",
+          "max": "4850",
+          "disponible": "90.14"
         },
         {
           "precio": 970.0,
           "comerciante": "LordCambios",
           "min": "900000",
           "max": "30000060",
-          "disponible": "24239.25"
+          "disponible": "14054.30"
         },
         {
           "precio": 969.0,
           "comerciante": "Blank_Mind",
           "min": "3000000",
           "max": "36450000",
-          "disponible": "66910.91"
+          "disponible": "32453.65"
         },
         {
-          "precio": 967.0,
-          "comerciante": "安全与信任",
+          "precio": 967.1,
+          "comerciante": "-Isalam-",
           "min": "1000000",
-          "max": "36000000",
-          "disponible": "18965.88"
+          "max": "36450000",
+          "disponible": "69874.39"
         }
       ]
     },
     "compra": {
-      "promedio": 963.7998,
-      "minimo": 963.0,
-      "maximo": 964.999,
+      "promedio": 964.5774,
+      "minimo": 964.0,
+      "maximo": 964.997,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 963.0,
-          "comerciante": "CambiosFacilAG",
-          "min": "9800",
-          "max": "300000",
-          "disponible": "127.88"
-        },
-        {
-          "precio": 963.1,
-          "comerciante": "CriptoCatsuwu",
-          "min": "5000",
-          "max": "30000",
-          "disponible": "99.75"
-        },
-        {
-          "precio": 963.9,
-          "comerciante": "lcnba81",
-          "min": "95500",
-          "max": "96590",
-          "disponible": "99.75"
+          "precio": 964.0,
+          "comerciante": "Tripleese03",
+          "min": "96300",
+          "max": "96400",
+          "disponible": "100.74"
         },
         {
           "precio": 964.0,
-          "comerciante": "kalamardo",
-          "min": "80000",
-          "max": "36450000",
-          "disponible": "505.19"
+          "comerciante": "Susann Columbo h3Ge",
+          "min": "100000",
+          "max": "500000",
+          "disponible": "148.62"
         },
         {
-          "precio": 964.999,
-          "comerciante": "gabo0105",
-          "min": "500",
-          "max": "4000000",
-          "disponible": "28.48"
+          "precio": 964.9,
+          "comerciante": "AGROAAA",
+          "min": "28999",
+          "max": "29000",
+          "disponible": "99.75"
+        },
+        {
+          "precio": 964.99,
+          "comerciante": "VelociCambiosMx",
+          "min": "51200",
+          "max": "51201",
+          "disponible": "101.80"
+        },
+        {
+          "precio": 964.997,
+          "comerciante": "Te_lo_cambiovzla",
+          "min": "300",
+          "max": "20000",
+          "disponible": "99.75"
         }
       ]
     }
   },
-  "brecha_pct": 19.45
+  "brecha_pct": 19.16
 }
