@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-07T14:01:58+00:00",
-  "actualizado_ve": "2026-09-07T10:01:58-04:00",
+  "actualizado_utc": "2026-09-07T14:36:10+00:00",
+  "actualizado_ve": "2026-09-07T10:36:10-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 964.1024,
+    "referencia": 962.24,
     "venta": {
-      "promedio": 964.1024,
-      "minimo": 963.6,
-      "maximo": 965.1,
+      "promedio": 962.24,
+      "minimo": 962.0,
+      "maximo": 963.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 965.1,
-          "comerciante": "Yaneht_Elite_Gold",
-          "min": "8000",
-          "max": "98600",
-          "disponible": "100.00"
+          "precio": 963.0,
+          "comerciante": "Money77ves",
+          "min": "296199",
+          "max": "36450000",
+          "disponible": "307.58"
         },
         {
-          "precio": 964.0,
-          "comerciante": "app2112",
-          "min": "4000000",
-          "max": "30000000",
-          "disponible": "70000.00"
+          "precio": 962.2,
+          "comerciante": "BudLigth",
+          "min": "700001",
+          "max": "10000000",
+          "disponible": "6789.73"
         },
         {
-          "precio": 963.91,
-          "comerciante": "Vip_Super_p2p",
-          "min": "3000000",
-          "max": "7500000",
-          "disponible": "3887.68"
+          "precio": 962.0,
+          "comerciante": "LordCambios",
+          "min": "2000000",
+          "max": "17250000",
+          "disponible": "12757.26"
         },
         {
-          "precio": 963.902,
-          "comerciante": "tradiven",
-          "min": "1200000",
-          "max": "4000000",
-          "disponible": "13136.90"
+          "precio": 962.0,
+          "comerciante": "Brawcoins",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "44350.94"
         },
         {
-          "precio": 963.6,
-          "comerciante": "Exchange24k",
-          "min": "1000000",
-          "max": "1901000",
-          "disponible": "2000.00"
+          "precio": 962.0,
+          "comerciante": "BreikoSeguro",
+          "min": "1500000",
+          "max": "10000000",
+          "disponible": "1918.83"
         }
       ]
     },
     "compra": {
-      "promedio": 961.014,
-      "minimo": 960.0,
-      "maximo": 961.999,
+      "promedio": 962.04,
+      "minimo": 961.7,
+      "maximo": 962.5,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 960.0,
-          "comerciante": "Jhair lopez",
+          "precio": 961.7,
+          "comerciante": "Alex 12000",
+          "min": "192774",
+          "max": "192777",
+          "disponible": "206.48"
+        },
+        {
+          "precio": 962.0,
+          "comerciante": "YOSOYNINGUNO",
           "min": "3000",
-          "max": "200000",
-          "disponible": "22.96"
+          "max": "3001",
+          "disponible": "99.75"
         },
         {
-          "precio": 960.271,
-          "comerciante": "levyx",
-          "min": "2000",
-          "max": "840000",
-          "disponible": "8.69"
+          "precio": 962.0,
+          "comerciante": "Leidymgamez",
+          "min": "15000",
+          "max": "192000",
+          "disponible": "249.37"
         },
         {
-          "precio": 961.0,
-          "comerciante": "cambiosramses",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "0.41"
+          "precio": 962.0,
+          "comerciante": "MoneyGo2",
+          "min": "9620",
+          "max": "96200",
+          "disponible": "76.89"
         },
         {
-          "precio": 961.8,
-          "comerciante": "Santy_2511",
-          "min": "6000",
-          "max": "20000",
-          "disponible": "399.00"
-        },
-        {
-          "precio": 961.999,
-          "comerciante": "Broker Trader",
-          "min": "18750",
-          "max": "18751",
-          "disponible": "104.73"
+          "precio": 962.5,
+          "comerciante": "JAPS_007",
+          "min": "5000",
+          "max": "96300",
+          "disponible": "89.37"
         }
       ]
     }
   },
-  "brecha_pct": 18.48
+  "brecha_pct": 18.25
 }
