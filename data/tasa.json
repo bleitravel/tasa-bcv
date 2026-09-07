@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-07T01:02:26+00:00",
-  "actualizado_ve": "2026-09-06T21:02:26-04:00",
+  "actualizado_utc": "2026-09-07T01:34:47+00:00",
+  "actualizado_ve": "2026-09-06T21:34:47-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 960.2208,
+    "referencia": 960.24,
     "venta": {
-      "promedio": 960.2208,
-      "minimo": 959.5,
+      "promedio": 960.24,
+      "minimo": 959.1,
       "maximo": 961.1,
       "anuncios_usados": 5,
       "anuncios": [
@@ -29,7 +29,7 @@
           "comerciante": "Trust-Broker",
           "min": "1000000",
           "max": "36450000",
-          "disponible": "11794.65"
+          "disponible": "2744.31"
         },
         {
           "precio": 960.0,
@@ -39,61 +39,61 @@
           "disponible": "2187.61"
         },
         {
-          "precio": 959.504,
-          "comerciante": "TOPlevelS",
-          "min": "7000000",
-          "max": "36000000",
-          "disponible": "80000.00"
+          "precio": 960.0,
+          "comerciante": "Redmagic17",
+          "min": "3000000",
+          "max": "36450000",
+          "disponible": "30000.00"
         },
         {
-          "precio": 959.5,
-          "comerciante": "Ateneaaa",
-          "min": "1449900",
-          "max": "1450000",
-          "disponible": "1511.20"
+          "precio": 959.1,
+          "comerciante": "-HashiramaSenju",
+          "min": "400000",
+          "max": "20000000",
+          "disponible": "3445.86"
         }
       ]
     },
     "compra": {
-      "promedio": 959.7576,
-      "minimo": 959.0,
-      "maximo": 959.999,
+      "promedio": 961.898,
+      "minimo": 961.0,
+      "maximo": 962.6,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 959.0,
-          "comerciante": "User-60a4d",
-          "min": "50000",
-          "max": "55000",
+          "precio": 961.0,
+          "comerciante": "P2P-a9491eeb",
+          "min": "20000",
+          "max": "134712",
+          "disponible": "139.83"
+        },
+        {
+          "precio": 961.89,
+          "comerciante": "MAUROPICOTO",
+          "min": "48000",
+          "max": "51000",
           "disponible": "99.75"
         },
         {
-          "precio": 959.899,
-          "comerciante": "MMCAMBIOS2020",
-          "min": "300",
+          "precio": 962.0,
+          "comerciante": "-Ledger-",
+          "min": "15000000",
+          "max": "36450000",
+          "disponible": "54157.35"
+        },
+        {
+          "precio": 962.0,
+          "comerciante": "Gospel Exchange",
+          "min": "9620",
           "max": "4000000",
-          "disponible": "0.43"
+          "disponible": "23.89"
         },
         {
-          "precio": 959.9,
-          "comerciante": "Danielajcg",
-          "min": "1000",
-          "max": "81000",
-          "disponible": "1.86"
-        },
-        {
-          "precio": 959.99,
-          "comerciante": "BhrenllyFlores",
-          "min": "300",
-          "max": "247000",
-          "disponible": "0.31"
-        },
-        {
-          "precio": 959.999,
-          "comerciante": "jaro23",
-          "min": "3000000",
+          "precio": 962.6,
+          "comerciante": "SpaceX_Trader",
+          "min": "3300000",
           "max": "36000000",
-          "disponible": "23078.49"
+          "disponible": "7889.38"
         }
       ]
     }
