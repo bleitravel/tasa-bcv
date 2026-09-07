@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-07T21:34:47+00:00",
-  "actualizado_ve": "2026-09-07T17:34:47-04:00",
+  "actualizado_utc": "2026-09-07T22:01:47+00:00",
+  "actualizado_ve": "2026-09-07T18:01:47-04:00",
   "bcv": {
     "usd": 814.6908,
     "eur": 947.29802151,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 971.76,
+    "referencia": 970.3,
     "venta": {
-      "promedio": 971.76,
-      "minimo": 969.0,
-      "maximo": 975.8,
+      "promedio": 970.3,
+      "minimo": 968.5,
+      "maximo": 973.0,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 975.8,
-          "comerciante": "Excharge-Vnzla",
-          "min": "650000",
-          "max": "660000",
-          "disponible": "674.00"
-        },
         {
           "precio": 973.0,
           "comerciante": "AndresRoa03",
           "min": "100000",
           "max": "4000000",
-          "disponible": "8317.98"
+          "disponible": "4688.28"
         },
         {
           "precio": 972.0,
           "comerciante": "Blank_Mind",
-          "min": "1500000",
+          "min": "1000000",
           "max": "36450000",
-          "disponible": "76756.86"
+          "disponible": "30551.39"
         },
         {
           "precio": 969.0,
           "comerciante": "LordCambios",
           "min": "900000",
           "max": "12141000",
-          "disponible": "3381.37"
+          "disponible": "2351.43"
         },
         {
           "precio": 969.0,
           "comerciante": "SasukeTrader",
           "min": "2000000",
           "max": "36450000",
-          "disponible": "40295.31"
+          "disponible": "28484.23"
+        },
+        {
+          "precio": 968.5,
+          "comerciante": "friday18",
+          "min": "3000000",
+          "max": "29916267",
+          "disponible": "5790.00"
         }
       ]
     },
     "compra": {
-      "promedio": 967.4398,
-      "minimo": 966.199,
-      "maximo": 968.0,
+      "promedio": 967.1584,
+      "minimo": 965.0,
+      "maximo": 968.992,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 966.199,
-          "comerciante": "edir555",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "1.32"
-        },
-        {
-          "precio": 967.0,
-          "comerciante": "Mslr",
-          "min": "966",
-          "max": "100000",
-          "disponible": "1.83"
-        },
-        {
-          "precio": 968.0,
-          "comerciante": "EscalonaCripto",
-          "min": "186000",
-          "max": "187000",
-          "disponible": "193.51"
-        },
-        {
-          "precio": 968.0,
-          "comerciante": "CambiosCyE",
-          "min": "20000",
-          "max": "97000",
-          "disponible": "71.03"
-        },
-        {
-          "precio": 968.0,
-          "comerciante": "CaroraExchange",
+          "precio": 965.0,
+          "comerciante": "Alyaac",
           "min": "100000",
-          "max": "500000",
-          "disponible": "126.89"
+          "max": "965000",
+          "disponible": "999.99"
+        },
+        {
+          "precio": 966.9,
+          "comerciante": "Baumer8a",
+          "min": "300",
+          "max": "1450",
+          "disponible": "98.26"
+        },
+        {
+          "precio": 966.9,
+          "comerciante": "JohaTeran",
+          "min": "19999",
+          "max": "20000",
+          "disponible": "99.75"
+        },
+        {
+          "precio": 968.0,
+          "comerciante": "Luis_venecambio",
+          "min": "85000",
+          "max": "600000",
+          "disponible": "299.25"
+        },
+        {
+          "precio": 968.992,
+          "comerciante": "PAGOSUPERAPIDO",
+          "min": "300",
+          "max": "3999999",
+          "disponible": "214.10"
         }
       ]
     }
   },
-  "brecha_pct": 19.28
+  "brecha_pct": 19.1
 }
