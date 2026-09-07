@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-07T13:36:52+00:00",
-  "actualizado_ve": "2026-09-07T09:36:52-04:00",
+  "actualizado_utc": "2026-09-07T14:01:58+00:00",
+  "actualizado_ve": "2026-09-07T10:01:58-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,69 +10,69 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 961.5816,
+    "referencia": 964.1024,
     "venta": {
-      "promedio": 961.5816,
-      "minimo": 961.0,
-      "maximo": 962.0,
+      "promedio": 964.1024,
+      "minimo": 963.6,
+      "maximo": 965.1,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 962.0,
-          "comerciante": "CriptoseguroAyM",
-          "min": "800000",
-          "max": "21084100",
-          "disponible": "21085.34"
+          "precio": 965.1,
+          "comerciante": "Yaneht_Elite_Gold",
+          "min": "8000",
+          "max": "98600",
+          "disponible": "100.00"
         },
         {
-          "precio": 962.0,
-          "comerciante": "TPhillips",
-          "min": "5000000",
-          "max": "36450000",
-          "disponible": "34853.30"
+          "precio": 964.0,
+          "comerciante": "app2112",
+          "min": "4000000",
+          "max": "30000000",
+          "disponible": "70000.00"
         },
         {
-          "precio": 961.902,
+          "precio": 963.91,
+          "comerciante": "Vip_Super_p2p",
+          "min": "3000000",
+          "max": "7500000",
+          "disponible": "3887.68"
+        },
+        {
+          "precio": 963.902,
           "comerciante": "tradiven",
           "min": "1200000",
           "max": "4000000",
-          "disponible": "14727.59"
+          "disponible": "13136.90"
         },
         {
-          "precio": 961.006,
-          "comerciante": "ELTIBURON-DEL-CRYPTO",
+          "precio": 963.6,
+          "comerciante": "Exchange24k",
           "min": "1000000",
-          "max": "4000000",
-          "disponible": "10900.06"
-        },
-        {
-          "precio": 961.0,
-          "comerciante": "Escocrida",
-          "min": "2000000",
-          "max": "5054000",
-          "disponible": "5275.00"
+          "max": "1901000",
+          "disponible": "2000.00"
         }
       ]
     },
     "compra": {
-      "promedio": 960.878,
-      "minimo": 959.99,
-      "maximo": 961.5,
+      "promedio": 961.014,
+      "minimo": 960.0,
+      "maximo": 961.999,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 959.99,
-          "comerciante": "Grupo_Nex1011",
-          "min": "2000",
-          "max": "500000",
-          "disponible": "58.02"
+          "precio": 960.0,
+          "comerciante": "Jhair lopez",
+          "min": "3000",
+          "max": "200000",
+          "disponible": "22.96"
         },
         {
-          "precio": 960.9,
-          "comerciante": "User-89788",
-          "min": "1000",
-          "max": "100000",
-          "disponible": "29.18"
+          "precio": 960.271,
+          "comerciante": "levyx",
+          "min": "2000",
+          "max": "840000",
+          "disponible": "8.69"
         },
         {
           "precio": 961.0,
@@ -82,21 +82,21 @@
           "disponible": "0.41"
         },
         {
-          "precio": 961.0,
-          "comerciante": "Saul miranda",
-          "min": "280000",
-          "max": "288000",
-          "disponible": "292.70"
+          "precio": 961.8,
+          "comerciante": "Santy_2511",
+          "min": "6000",
+          "max": "20000",
+          "disponible": "399.00"
         },
         {
-          "precio": 961.5,
-          "comerciante": "JuanCripto2289",
-          "min": "3000",
-          "max": "240375",
-          "disponible": "15.29"
+          "precio": 961.999,
+          "comerciante": "Broker Trader",
+          "min": "18750",
+          "max": "18751",
+          "disponible": "104.73"
         }
       ]
     }
   },
-  "brecha_pct": 18.17
+  "brecha_pct": 18.48
 }
