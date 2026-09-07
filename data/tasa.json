@@ -1,102 +1,102 @@
 {
-  "actualizado_utc": "2026-09-07T21:01:45+00:00",
-  "actualizado_ve": "2026-09-07T17:01:45-04:00",
+  "actualizado_utc": "2026-09-07T21:34:47+00:00",
+  "actualizado_ve": "2026-09-07T17:34:47-04:00",
   "bcv": {
-    "usd": 813.7361,
-    "eur": 945.65085917,
-    "fecha_valor": "2026-09-07T00:00:00-04:00"
+    "usd": 814.6908,
+    "eur": 947.29802151,
+    "fecha_valor": "2026-09-08T00:00:00-04:00"
   },
   "binance_p2p": {
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 970.7,
+    "referencia": 971.76,
     "venta": {
-      "promedio": 970.7,
+      "promedio": 971.76,
       "minimo": 969.0,
-      "maximo": 973.0,
+      "maximo": 975.8,
       "anuncios_usados": 5,
       "anuncios": [
+        {
+          "precio": 975.8,
+          "comerciante": "Excharge-Vnzla",
+          "min": "650000",
+          "max": "660000",
+          "disponible": "674.00"
+        },
         {
           "precio": 973.0,
           "comerciante": "AndresRoa03",
           "min": "100000",
           "max": "4000000",
-          "disponible": "9486.13"
+          "disponible": "8317.98"
         },
         {
           "precio": 972.0,
           "comerciante": "Blank_Mind",
           "min": "1500000",
           "max": "36450000",
-          "disponible": "27196.59"
-        },
-        {
-          "precio": 970.0,
-          "comerciante": "Anderpen",
-          "min": "3000000",
-          "max": "3200000",
-          "disponible": "3300.00"
-        },
-        {
-          "precio": 969.5,
-          "comerciante": "安全与信任",
-          "min": "37000000",
-          "max": "500000000",
-          "disponible": "150000.00"
+          "disponible": "76756.86"
         },
         {
           "precio": 969.0,
           "comerciante": "LordCambios",
           "min": "900000",
           "max": "12141000",
-          "disponible": "4321.31"
+          "disponible": "3381.37"
+        },
+        {
+          "precio": 969.0,
+          "comerciante": "SasukeTrader",
+          "min": "2000000",
+          "max": "36450000",
+          "disponible": "40295.31"
         }
       ]
     },
     "compra": {
-      "promedio": 965.8,
-      "minimo": 965.0,
-      "maximo": 966.0,
+      "promedio": 967.4398,
+      "minimo": 966.199,
+      "maximo": 968.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 965.0,
-          "comerciante": "JesusCriptoVzla",
+          "precio": 966.199,
+          "comerciante": "edir555",
           "min": "300",
           "max": "4000000",
-          "disponible": "0.40"
+          "disponible": "1.32"
         },
         {
-          "precio": 966.0,
-          "comerciante": "ADRIAN1011Z",
-          "min": "500",
-          "max": "85000",
-          "disponible": "0.62"
-        },
-        {
-          "precio": 966.0,
-          "comerciante": "InversionesFor",
-          "min": "94300",
-          "max": "95000",
-          "disponible": "101.74"
-        },
-        {
-          "precio": 966.0,
-          "comerciante": "Yogil",
-          "min": "50000",
-          "max": "4000000",
-          "disponible": "105.54"
-        },
-        {
-          "precio": 966.0,
-          "comerciante": "User-1819d9at",
-          "min": "10000",
+          "precio": 967.0,
+          "comerciante": "Mslr",
+          "min": "966",
           "max": "100000",
-          "disponible": "349.12"
+          "disponible": "1.83"
+        },
+        {
+          "precio": 968.0,
+          "comerciante": "EscalonaCripto",
+          "min": "186000",
+          "max": "187000",
+          "disponible": "193.51"
+        },
+        {
+          "precio": 968.0,
+          "comerciante": "CambiosCyE",
+          "min": "20000",
+          "max": "97000",
+          "disponible": "71.03"
+        },
+        {
+          "precio": 968.0,
+          "comerciante": "CaroraExchange",
+          "min": "100000",
+          "max": "500000",
+          "disponible": "126.89"
         }
       ]
     }
   },
-  "brecha_pct": 19.29
+  "brecha_pct": 19.28
 }
