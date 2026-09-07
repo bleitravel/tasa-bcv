@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-07T04:02:23+00:00",
-  "actualizado_ve": "2026-09-07T00:02:23-04:00",
+  "actualizado_utc": "2026-09-07T04:36:52+00:00",
+  "actualizado_ve": "2026-09-07T00:36:52-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,19 +10,19 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 961.48,
+    "referencia": 961.3618,
     "venta": {
-      "promedio": 961.48,
+      "promedio": 961.3618,
       "minimo": 961.0,
-      "maximo": 963.0,
+      "maximo": 962.5,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 963.0,
-          "comerciante": "refriservicios",
-          "min": "500000",
+          "precio": 962.5,
+          "comerciante": "User-efde7",
+          "min": "1000000",
           "max": "4000000",
-          "disponible": "4424.72"
+          "disponible": "30000.00"
         },
         {
           "precio": 961.2,
@@ -32,54 +32,54 @@
           "disponible": "28467.77"
         },
         {
-          "precio": 961.2,
-          "comerciante": "User-efde7",
-          "min": "500000",
-          "max": "4000000",
-          "disponible": "30000.00"
-        },
-        {
-          "precio": 961.0,
-          "comerciante": "Colmenares Lee",
-          "min": "200000",
-          "max": "1300000",
-          "disponible": "573.43"
-        },
-        {
-          "precio": 961.0,
-          "comerciante": "User-5eda2",
+          "precio": 961.1,
+          "comerciante": "LPexchange",
           "min": "100000",
-          "max": "1632000",
-          "disponible": "1670.51"
+          "max": "5000000",
+          "disponible": "2572.80"
+        },
+        {
+          "precio": 961.009,
+          "comerciante": "Marquez25",
+          "min": "120000",
+          "max": "1500000",
+          "disponible": "2120.15"
+        },
+        {
+          "precio": 961.0,
+          "comerciante": "TraderToday",
+          "min": "100000",
+          "max": "4000000",
+          "disponible": "191.18"
         }
       ]
     },
     "compra": {
-      "promedio": 962.4798,
-      "minimo": 960.0,
-      "maximo": 964.0,
+      "promedio": 963.8174,
+      "minimo": 963.0,
+      "maximo": 964.998,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 960.0,
-          "comerciante": "GGGBTC",
-          "min": "44000",
-          "max": "4000000",
-          "disponible": "99.75"
-        },
-        {
-          "precio": 961.399,
-          "comerciante": "Dr Trader",
-          "min": "422000",
-          "max": "426000",
-          "disponible": "499.00"
-        },
-        {
           "precio": 963.0,
-          "comerciante": "JAPS_007",
-          "min": "5000",
-          "max": "96400",
-          "disponible": "99.75"
+          "comerciante": "Buttonario",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "8.40"
+        },
+        {
+          "precio": 963.099,
+          "comerciante": "juanmv91",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "1.10"
+        },
+        {
+          "precio": 963.99,
+          "comerciante": "User-90185",
+          "min": "10000",
+          "max": "100795",
+          "disponible": "104.29"
         },
         {
           "precio": 964.0,
@@ -89,14 +89,14 @@
           "disponible": "1.45"
         },
         {
-          "precio": 964.0,
-          "comerciante": "Stivaldo",
+          "precio": 964.998,
+          "comerciante": "AliTorresss",
           "min": "300",
-          "max": "4000000",
-          "disponible": "0.86"
+          "max": "400000",
+          "disponible": "0.62"
         }
       ]
     }
   },
-  "brecha_pct": 18.16
+  "brecha_pct": 18.14
 }
