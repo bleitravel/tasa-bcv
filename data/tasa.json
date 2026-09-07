@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-07T10:35:27+00:00",
-  "actualizado_ve": "2026-09-07T06:35:27-04:00",
+  "actualizado_utc": "2026-09-07T11:01:53+00:00",
+  "actualizado_ve": "2026-09-07T07:01:53-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 959.66,
+    "referencia": 960.28,
     "venta": {
-      "promedio": 959.66,
-      "minimo": 958.9,
-      "maximo": 960.2,
+      "promedio": 960.28,
+      "minimo": 960.0,
+      "maximo": 961.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 960.2,
-          "comerciante": "mono",
-          "min": "500000",
+          "precio": 961.0,
+          "comerciante": "refriservicios",
+          "min": "900000",
           "max": "4000000",
-          "disponible": "28467.77"
+          "disponible": "3755.60"
         },
         {
           "precio": 960.2,
           "comerciante": "User-efde7",
           "min": "1000000",
           "max": "4000000",
-          "disponible": "30000.00"
+          "disponible": "15000.00"
+        },
+        {
+          "precio": 960.2,
+          "comerciante": "mono",
+          "min": "500000",
+          "max": "4000000",
+          "disponible": "13990.06"
         },
         {
           "precio": 960.0,
           "comerciante": "IMPERIo2021",
           "min": "150000",
           "max": "1300000",
-          "disponible": "722.23"
+          "disponible": "286.82"
         },
         {
-          "precio": 959.0,
-          "comerciante": "FromVillage",
-          "min": "5000000",
-          "max": "36450000",
-          "disponible": "13988.33"
-        },
-        {
-          "precio": 958.9,
-          "comerciante": "herisheng",
+          "precio": 960.0,
+          "comerciante": "CryptoVelozz",
           "min": "500000",
-          "max": "4000000",
-          "disponible": "1173.06"
+          "max": "3000000",
+          "disponible": "3128.00"
         }
       ]
     },
     "compra": {
-      "promedio": 963.4032,
-      "minimo": 961.98,
-      "maximo": 964.0,
+      "promedio": 962.677,
+      "minimo": 961.787,
+      "maximo": 963.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 961.98,
-          "comerciante": "TopoDigital",
-          "min": "80000",
-          "max": "1000000",
-          "disponible": "199.17"
+          "precio": 961.787,
+          "comerciante": "Yanmaryp2p",
+          "min": "50001",
+          "max": "3000000",
+          "disponible": "144.16"
         },
         {
-          "precio": 963.036,
-          "comerciante": "Latesha Digaetano mmMD",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "14.60"
-        },
-        {
-          "precio": 964.0,
-          "comerciante": "EDGAR_ReMeSaS",
-          "min": "150000",
-          "max": "200000",
-          "disponible": "160.19"
-        },
-        {
-          "precio": 964.0,
-          "comerciante": "ElBurro12",
-          "min": "15000",
-          "max": "757000",
-          "disponible": "716.93"
-        },
-        {
-          "precio": 964.0,
-          "comerciante": "Deivis",
+          "precio": 962.799,
+          "comerciante": "WilhelmPay",
           "min": "50000",
-          "max": "1635620",
-          "disponible": "1324.36"
+          "max": "602788",
+          "disponible": "521.16"
+        },
+        {
+          "precio": 962.799,
+          "comerciante": "User-328d1",
+          "min": "300000",
+          "max": "4000000",
+          "disponible": "399.00"
+        },
+        {
+          "precio": 963.0,
+          "comerciante": "JadrhVzla",
+          "min": "9620",
+          "max": "408850",
+          "disponible": "12.03"
+        },
+        {
+          "precio": 963.0,
+          "comerciante": "MichiSv",
+          "min": "30000",
+          "max": "168755",
+          "disponible": "128.10"
         }
       ]
     }
   },
-  "brecha_pct": 17.93
+  "brecha_pct": 18.01
 }
