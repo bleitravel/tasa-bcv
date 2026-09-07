@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-06T23:32:16+00:00",
-  "actualizado_ve": "2026-09-06T19:32:16-04:00",
+  "actualizado_utc": "2026-09-07T00:02:32+00:00",
+  "actualizado_ve": "2026-09-06T20:02:32-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 958.7,
+    "referencia": 959.078,
     "venta": {
-      "promedio": 958.7,
-      "minimo": 958.0,
+      "promedio": 959.078,
+      "minimo": 958.7,
       "maximo": 960.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -22,7 +22,7 @@
           "comerciante": "Trust-Broker",
           "min": "1000000",
           "max": "36450000",
-          "disponible": "25656.81"
+          "disponible": "17945.15"
         },
         {
           "precio": 959.0,
@@ -32,32 +32,32 @@
           "disponible": "27870.30"
         },
         {
-          "precio": 958.5,
-          "comerciante": "Capitalisca",
-          "min": "1000000",
-          "max": "4000000",
-          "disponible": "1720.06"
-        },
-        {
-          "precio": 958.0,
-          "comerciante": "CoorpLogistic",
-          "min": "14000000",
-          "max": "20600000",
-          "disponible": "15050.00"
-        },
-        {
-          "precio": 958.0,
+          "precio": 958.99,
           "comerciante": "贝HarveySpecter贝",
           "min": "1000000",
           "max": "36000000",
-          "disponible": "36434.30"
+          "disponible": "31374.32"
+        },
+        {
+          "precio": 958.7,
+          "comerciante": "Brawcoins",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "60000.06"
+        },
+        {
+          "precio": 958.7,
+          "comerciante": "Blank_Mind",
+          "min": "4000000",
+          "max": "36450000",
+          "disponible": "7423.35"
         }
       ]
     },
     "compra": {
-      "promedio": 959.5352,
+      "promedio": 959.6998,
       "minimo": 959.0,
-      "maximo": 959.876,
+      "maximo": 959.9,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -65,38 +65,38 @@
           "comerciante": "Jhair lopez",
           "min": "3000",
           "max": "200000",
-          "disponible": "456.00"
-        },
-        {
-          "precio": 959.5,
-          "comerciante": "stardark",
-          "min": "9680",
-          "max": "96800",
-          "disponible": "12.85"
-        },
-        {
-          "precio": 959.5,
-          "comerciante": "KRLOS410",
-          "min": "50000",
-          "max": "4000000",
-          "disponible": "108.18"
+          "disponible": "20.95"
         },
         {
           "precio": 959.8,
-          "comerciante": "RemesasK",
+          "comerciante": "CryptoEthx",
           "min": "10000",
-          "max": "95980",
-          "disponible": "13.10"
+          "max": "100000",
+          "disponible": "99.97"
         },
         {
-          "precio": 959.876,
-          "comerciante": "jesusjimenez513",
-          "min": "3000",
-          "max": "100000",
-          "disponible": "6.32"
+          "precio": 959.899,
+          "comerciante": "MMCAMBIOS2020",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "0.43"
+        },
+        {
+          "precio": 959.9,
+          "comerciante": "Danielajcg",
+          "min": "1000",
+          "max": "81000",
+          "disponible": "8.82"
+        },
+        {
+          "precio": 959.9,
+          "comerciante": "G3ronym0us",
+          "min": "20000",
+          "max": "4000000",
+          "disponible": "102.49"
         }
       ]
     }
   },
-  "brecha_pct": 17.81
+  "brecha_pct": 17.86
 }
