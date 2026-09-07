@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-07T07:04:14+00:00",
-  "actualizado_ve": "2026-09-07T03:04:14-04:00",
+  "actualizado_utc": "2026-09-07T07:36:51+00:00",
+  "actualizado_ve": "2026-09-07T03:36:51-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,33 +10,19 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 959.3222,
+    "referencia": 959.102,
     "venta": {
-      "promedio": 959.3222,
-      "minimo": 959.0,
-      "maximo": 959.801,
+      "promedio": 959.102,
+      "minimo": 958.9,
+      "maximo": 959.71,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 959.801,
-          "comerciante": "Gustt-",
-          "min": "100000",
-          "max": "1339000",
-          "disponible": "438.57"
-        },
         {
           "precio": 959.71,
           "comerciante": "cathrret",
           "min": "1000",
           "max": "3488",
           "disponible": "100.00"
-        },
-        {
-          "precio": 959.1,
-          "comerciante": "Miguelo19",
-          "min": "100000",
-          "max": "4000000",
-          "disponible": "7277.58"
         },
         {
           "precio": 959.0,
@@ -51,13 +37,27 @@
           "min": "160000",
           "max": "358000",
           "disponible": "370.00"
+        },
+        {
+          "precio": 958.9,
+          "comerciante": "herisheng",
+          "min": "500000",
+          "max": "4000000",
+          "disponible": "1173.06"
+        },
+        {
+          "precio": 958.9,
+          "comerciante": "Global-Cambi0s",
+          "min": "60000",
+          "max": "75000",
+          "disponible": "100.00"
         }
       ]
     },
     "compra": {
-      "promedio": 964.859,
+      "promedio": 964.0074,
       "minimo": 961.399,
-      "maximo": 965.998,
+      "maximo": 965.238,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "499.00"
         },
         {
-          "precio": 965.499,
-          "comerciante": "zama2004",
-          "min": "10000000",
+          "precio": 963.4,
+          "comerciante": "CriptoManzana",
+          "min": "70000",
           "max": "36450000",
-          "disponible": "45000.00"
+          "disponible": "99.80"
         },
         {
-          "precio": 965.499,
-          "comerciante": "LechugaExpress",
-          "min": "5000000",
-          "max": "36450000",
-          "disponible": "5192.60"
+          "precio": 965.0,
+          "comerciante": "Alivergara7",
+          "min": "70000",
+          "max": "96500",
+          "disponible": "99.75"
         },
         {
-          "precio": 965.9,
-          "comerciante": "AENETEACHEOENEYE",
-          "min": "2000000",
-          "max": "8500000",
-          "disponible": "8994.90"
+          "precio": 965.0,
+          "comerciante": "kront",
+          "min": "50000",
+          "max": "1050000",
+          "disponible": "671.03"
         },
         {
-          "precio": 965.998,
-          "comerciante": "SpaceX_Trader",
-          "min": "1000000",
-          "max": "36000000",
-          "disponible": "7105.53"
+          "precio": 965.238,
+          "comerciante": "WEJC26",
+          "min": "3000",
+          "max": "400000",
+          "disponible": "120.67"
         }
       ]
     }
   },
-  "brecha_pct": 17.89
+  "brecha_pct": 17.86
 }
