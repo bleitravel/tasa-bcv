@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-07T20:35:07+00:00",
-  "actualizado_ve": "2026-09-07T16:35:07-04:00",
+  "actualizado_utc": "2026-09-07T21:01:45+00:00",
+  "actualizado_ve": "2026-09-07T17:01:45-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,26 +10,40 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 971.0,
+    "referencia": 970.7,
     "venta": {
-      "promedio": 971.0,
-      "minimo": 967.7,
-      "maximo": 977.8,
+      "promedio": 970.7,
+      "minimo": 969.0,
+      "maximo": 973.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 977.8,
-          "comerciante": "Excharge-Vnzla",
-          "min": "1000000",
+          "precio": 973.0,
+          "comerciante": "AndresRoa03",
+          "min": "100000",
           "max": "4000000",
-          "disponible": "2136.33"
+          "disponible": "9486.13"
         },
         {
           "precio": 972.0,
           "comerciante": "Blank_Mind",
           "min": "1500000",
           "max": "36450000",
-          "disponible": "30585.47"
+          "disponible": "27196.59"
+        },
+        {
+          "precio": 970.0,
+          "comerciante": "Anderpen",
+          "min": "3000000",
+          "max": "3200000",
+          "disponible": "3300.00"
+        },
+        {
+          "precio": 969.5,
+          "comerciante": "安全与信任",
+          "min": "37000000",
+          "max": "500000000",
+          "disponible": "150000.00"
         },
         {
           "precio": 969.0,
@@ -37,36 +51,15 @@
           "min": "900000",
           "max": "12141000",
           "disponible": "4321.31"
-        },
-        {
-          "precio": 968.5,
-          "comerciante": "安全与信任",
-          "min": "37000000",
-          "max": "500000000",
-          "disponible": "150000.00"
-        },
-        {
-          "precio": 967.7,
-          "comerciante": "Cachy13Usdt",
-          "min": "3000000",
-          "max": "36450000",
-          "disponible": "41899.87"
         }
       ]
     },
     "compra": {
-      "promedio": 964.8,
-      "minimo": 964.0,
-      "maximo": 965.0,
+      "promedio": 965.8,
+      "minimo": 965.0,
+      "maximo": 966.0,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 964.0,
-          "comerciante": "Globalbusinessmxsss",
-          "min": "52000",
-          "max": "52001",
-          "disponible": "99.75"
-        },
         {
           "precio": 965.0,
           "comerciante": "JesusCriptoVzla",
@@ -75,28 +68,35 @@
           "disponible": "0.40"
         },
         {
-          "precio": 965.0,
-          "comerciante": "cambio3",
-          "min": "300",
+          "precio": 966.0,
+          "comerciante": "ADRIAN1011Z",
+          "min": "500",
+          "max": "85000",
+          "disponible": "0.62"
+        },
+        {
+          "precio": 966.0,
+          "comerciante": "InversionesFor",
+          "min": "94300",
+          "max": "95000",
+          "disponible": "101.74"
+        },
+        {
+          "precio": 966.0,
+          "comerciante": "Yogil",
+          "min": "50000",
           "max": "4000000",
-          "disponible": "2.05"
+          "disponible": "105.54"
         },
         {
-          "precio": 965.0,
-          "comerciante": "Secomtec01",
-          "min": "320",
-          "max": "30000",
-          "disponible": "40.61"
-        },
-        {
-          "precio": 965.0,
-          "comerciante": "CLC_trader",
+          "precio": 966.0,
+          "comerciante": "User-1819d9at",
           "min": "10000",
-          "max": "4000000",
-          "disponible": "109.72"
+          "max": "100000",
+          "disponible": "349.12"
         }
       ]
     }
   },
-  "brecha_pct": 19.33
+  "brecha_pct": 19.29
 }
