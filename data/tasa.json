@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-07T03:36:57+00:00",
-  "actualizado_ve": "2026-09-06T23:36:57-04:00",
+  "actualizado_utc": "2026-09-07T04:02:23+00:00",
+  "actualizado_ve": "2026-09-07T00:02:23-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 961.7462,
+    "referencia": 961.48,
     "venta": {
-      "promedio": 961.7462,
-      "minimo": 961.321,
-      "maximo": 962.5,
-      "anuncios_usados": 5,
-      "anuncios": [
-        {
-          "precio": 962.5,
-          "comerciante": "tranfiero-inmediato",
-          "min": "481000",
-          "max": "962500",
-          "disponible": "1000.00"
-        },
-        {
-          "precio": 962.0,
-          "comerciante": "Jin-Woo-Sung",
-          "min": "4000000",
-          "max": "36450000",
-          "disponible": "80000.00"
-        },
-        {
-          "precio": 961.5,
-          "comerciante": "ANBZ_ALCHAFAI",
-          "min": "50000",
-          "max": "1334000",
-          "disponible": "232.64"
-        },
-        {
-          "precio": 961.41,
-          "comerciante": "Marquez25",
-          "min": "120000",
-          "max": "1500000",
-          "disponible": "3816.61"
-        },
-        {
-          "precio": 961.321,
-          "comerciante": "LelysMed",
-          "min": "300000",
-          "max": "36450000",
-          "disponible": "2114.41"
-        }
-      ]
-    },
-    "compra": {
-      "promedio": 963.6198,
-      "minimo": 963.0,
-      "maximo": 964.0,
+      "promedio": 961.48,
+      "minimo": 961.0,
+      "maximo": 963.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
           "precio": 963.0,
-          "comerciante": "User-58876",
-          "min": "10000",
-          "max": "20000",
+          "comerciante": "refriservicios",
+          "min": "500000",
+          "max": "4000000",
+          "disponible": "4424.72"
+        },
+        {
+          "precio": 961.2,
+          "comerciante": "mono",
+          "min": "500000",
+          "max": "4000000",
+          "disponible": "28467.77"
+        },
+        {
+          "precio": 961.2,
+          "comerciante": "User-efde7",
+          "min": "500000",
+          "max": "4000000",
+          "disponible": "30000.00"
+        },
+        {
+          "precio": 961.0,
+          "comerciante": "Colmenares Lee",
+          "min": "200000",
+          "max": "1300000",
+          "disponible": "573.43"
+        },
+        {
+          "precio": 961.0,
+          "comerciante": "User-5eda2",
+          "min": "100000",
+          "max": "1632000",
+          "disponible": "1670.51"
+        }
+      ]
+    },
+    "compra": {
+      "promedio": 962.4798,
+      "minimo": 960.0,
+      "maximo": 964.0,
+      "anuncios_usados": 5,
+      "anuncios": [
+        {
+          "precio": 960.0,
+          "comerciante": "GGGBTC",
+          "min": "44000",
+          "max": "4000000",
           "disponible": "99.75"
         },
         {
-          "precio": 963.099,
-          "comerciante": "juanmv91",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "1.10"
+          "precio": 961.399,
+          "comerciante": "Dr Trader",
+          "min": "422000",
+          "max": "426000",
+          "disponible": "499.00"
+        },
+        {
+          "precio": 963.0,
+          "comerciante": "JAPS_007",
+          "min": "5000",
+          "max": "96400",
+          "disponible": "99.75"
         },
         {
           "precio": 964.0,
           "comerciante": "CambiosJDFV",
           "min": "300",
           "max": "4000000",
-          "disponible": "1.55"
+          "disponible": "1.45"
         },
         {
           "precio": 964.0,
           "comerciante": "Stivaldo",
           "min": "300",
           "max": "4000000",
-          "disponible": "2.43"
-        },
-        {
-          "precio": 964.0,
-          "comerciante": "JAPS_007",
-          "min": "5000",
-          "max": "96400",
-          "disponible": "99.75"
+          "disponible": "0.86"
         }
       ]
     }
   },
-  "brecha_pct": 18.19
+  "brecha_pct": 18.16
 }
