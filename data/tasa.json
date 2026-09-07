@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-07T09:37:37+00:00",
-  "actualizado_ve": "2026-09-07T05:37:37-04:00",
+  "actualizado_utc": "2026-09-07T10:01:38+00:00",
+  "actualizado_ve": "2026-09-07T06:01:38-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,56 +10,63 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 958.984,
+    "referencia": 959.756,
     "venta": {
-      "promedio": 958.984,
-      "minimo": 958.92,
-      "maximo": 959.0,
+      "promedio": 959.756,
+      "minimo": 959.5,
+      "maximo": 960.2,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 959.0,
-          "comerciante": "FromVillage",
-          "min": "5000000",
-          "max": "36450000",
-          "disponible": "13988.33"
+          "precio": 960.2,
+          "comerciante": "mono",
+          "min": "500000",
+          "max": "4000000",
+          "disponible": "28467.77"
         },
         {
-          "precio": 959.0,
-          "comerciante": "Mr Day Leo",
-          "min": "200000",
-          "max": "1000000",
-          "disponible": "2519.73"
+          "precio": 959.71,
+          "comerciante": "BOLIVARES_BS",
+          "min": "40000",
+          "max": "14000000",
+          "disponible": "298.31"
         },
         {
-          "precio": 959.0,
+          "precio": 959.7,
+          "comerciante": "Yesi_Titular",
+          "min": "40000",
+          "max": "1239026",
+          "disponible": "1192.20"
+        },
+        {
+          "precio": 959.67,
+          "comerciante": "agunvar1",
+          "min": "61000",
+          "max": "1090000",
+          "disponible": "980.46"
+        },
+        {
+          "precio": 959.5,
           "comerciante": "Niur_R",
           "min": "50000",
           "max": "1000000",
-          "disponible": "1971.23"
-        },
-        {
-          "precio": 959.0,
-          "comerciante": "ChrisPerez",
-          "min": "100000",
-          "max": "6418100",
-          "disponible": "6480.50"
-        },
-        {
-          "precio": 958.92,
-          "comerciante": "JD_solucion_",
-          "min": "70000",
-          "max": "443000",
-          "disponible": "462.00"
+          "disponible": "575.70"
         }
       ]
     },
     "compra": {
-      "promedio": 965.1442,
-      "minimo": 965.0,
-      "maximo": 965.48,
+      "promedio": 964.8086,
+      "minimo": 964.043,
+      "maximo": 965.0,
       "anuncios_usados": 5,
       "anuncios": [
+        {
+          "precio": 964.043,
+          "comerciante": "Latesha Digaetano mmMD",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "129.67"
+        },
         {
           "precio": 965.0,
           "comerciante": "Servicios-Criptos-27",
@@ -72,31 +79,24 @@
           "comerciante": "Majito_1930",
           "min": "5000",
           "max": "50000",
-          "disponible": "86.45"
+          "disponible": "6.89"
         },
         {
           "precio": 965.0,
-          "comerciante": "pabloc1969",
-          "min": "30000",
-          "max": "4000000",
-          "disponible": "61.43"
+          "comerciante": "Tesica14",
+          "min": "10000",
+          "max": "30000",
+          "disponible": "89.87"
         },
         {
-          "precio": 965.241,
-          "comerciante": "WEJC26",
-          "min": "3000",
-          "max": "400000",
-          "disponible": "68.15"
-        },
-        {
-          "precio": 965.48,
-          "comerciante": "AllTraders",
-          "min": "4000000",
-          "max": "36450000",
-          "disponible": "10714.15"
+          "precio": 965.0,
+          "comerciante": "SamCanoTravel",
+          "min": "55000",
+          "max": "73000",
+          "disponible": "99.75"
         }
       ]
     }
   },
-  "brecha_pct": 17.85
+  "brecha_pct": 17.94
 }
