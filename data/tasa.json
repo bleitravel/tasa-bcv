@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-07T05:35:32+00:00",
-  "actualizado_ve": "2026-09-07T01:35:32-04:00",
+  "actualizado_utc": "2026-09-07T06:02:02+00:00",
+  "actualizado_ve": "2026-09-07T02:02:02-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 960.006,
+    "referencia": 959.8062,
     "venta": {
-      "promedio": 960.006,
-      "minimo": 959.71,
+      "promedio": 959.8062,
+      "minimo": 959.2,
       "maximo": 960.32,
       "anuncios_usados": 5,
       "anuncios": [
@@ -22,28 +22,21 @@
           "comerciante": "Miguelo19",
           "min": "100000",
           "max": "4000000",
-          "disponible": "8760.06"
+          "disponible": "7518.89"
         },
         {
           "precio": 960.0,
           "comerciante": "Naldo247",
           "min": "27000",
           "max": "624000",
-          "disponible": "375.98"
+          "disponible": "361.86"
         },
         {
-          "precio": 960.0,
-          "comerciante": "Rainertr1",
-          "min": "28000",
-          "max": "28800",
-          "disponible": "100.00"
-        },
-        {
-          "precio": 960.0,
-          "comerciante": "Lucen_Lv71",
-          "min": "30000",
-          "max": "900000",
-          "disponible": "37.71"
+          "precio": 959.801,
+          "comerciante": "Gustt-",
+          "min": "100000",
+          "max": "1339000",
+          "disponible": "438.57"
         },
         {
           "precio": 959.71,
@@ -51,22 +44,22 @@
           "min": "1000",
           "max": "3488",
           "disponible": "100.00"
+        },
+        {
+          "precio": 959.2,
+          "comerciante": "CriptoCambiosVzla",
+          "min": "100000",
+          "max": "600000",
+          "disponible": "430.06"
         }
       ]
     },
     "compra": {
-      "promedio": 963.6798,
-      "minimo": 961.399,
-      "maximo": 965.0,
+      "promedio": 964.8796,
+      "minimo": 964.0,
+      "maximo": 965.499,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 961.399,
-          "comerciante": "Dr Trader",
-          "min": "422000",
-          "max": "426000",
-          "disponible": "499.00"
-        },
         {
           "precio": 964.0,
           "comerciante": "CambiosJDFV",
@@ -75,28 +68,35 @@
           "disponible": "1.45"
         },
         {
-          "precio": 964.0,
-          "comerciante": "igna2rod",
-          "min": "2000",
-          "max": "20000",
-          "disponible": "54.41"
-        },
-        {
-          "precio": 964.0,
-          "comerciante": "P2P-a9491eeb",
-          "min": "20000",
-          "max": "96734",
-          "disponible": "100.40"
+          "precio": 964.4,
+          "comerciante": "NegritaCatanare",
+          "min": "10000",
+          "max": "96040",
+          "disponible": "99.75"
         },
         {
           "precio": 965.0,
           "comerciante": "CryptoVersos",
           "min": "100000",
           "max": "20000008",
-          "disponible": "10107.62"
+          "disponible": "10257.87"
+        },
+        {
+          "precio": 965.499,
+          "comerciante": "zama2004",
+          "min": "10000000",
+          "max": "36450000",
+          "disponible": "45000.00"
+        },
+        {
+          "precio": 965.499,
+          "comerciante": "LechugaExpress",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "5192.60"
         }
       ]
     }
   },
-  "brecha_pct": 17.98
+  "brecha_pct": 17.95
 }
