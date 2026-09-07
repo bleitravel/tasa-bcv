@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-07T22:01:47+00:00",
-  "actualizado_ve": "2026-09-07T18:01:47-04:00",
+  "actualizado_utc": "2026-09-07T22:33:32+00:00",
+  "actualizado_ve": "2026-09-07T18:33:32-04:00",
   "bcv": {
     "usd": 814.6908,
     "eur": 947.29802151,
@@ -10,54 +10,54 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 970.3,
+    "referencia": 971.22,
     "venta": {
-      "promedio": 970.3,
-      "minimo": 968.5,
-      "maximo": 973.0,
+      "promedio": 971.22,
+      "minimo": 968.0,
+      "maximo": 978.8,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 973.0,
-          "comerciante": "AndresRoa03",
-          "min": "100000",
-          "max": "4000000",
-          "disponible": "4688.28"
+          "precio": 978.8,
+          "comerciante": "Excharge-Vnzla",
+          "min": "550000",
+          "max": "560000",
+          "disponible": "572.00"
         },
         {
           "precio": 972.0,
           "comerciante": "Blank_Mind",
-          "min": "1000000",
+          "min": "1500000",
           "max": "36450000",
-          "disponible": "30551.39"
+          "disponible": "60099.02"
         },
         {
-          "precio": 969.0,
-          "comerciante": "LordCambios",
-          "min": "900000",
-          "max": "12141000",
-          "disponible": "2351.43"
-        },
-        {
-          "precio": 969.0,
-          "comerciante": "SasukeTrader",
-          "min": "2000000",
-          "max": "36450000",
-          "disponible": "28484.23"
+          "precio": 968.8,
+          "comerciante": "Ateneaaa",
+          "min": "5887000",
+          "max": "5887316",
+          "disponible": "6076.91"
         },
         {
           "precio": 968.5,
-          "comerciante": "friday18",
-          "min": "3000000",
-          "max": "29916267",
-          "disponible": "5790.00"
+          "comerciante": "Money77ves",
+          "min": "10000000",
+          "max": "36450000",
+          "disponible": "67425.38"
+        },
+        {
+          "precio": 968.0,
+          "comerciante": "MARACAIBOBTC",
+          "min": "1200000",
+          "max": "36450000",
+          "disponible": "1723.67"
         }
       ]
     },
     "compra": {
-      "promedio": 967.1584,
+      "promedio": 966.94,
       "minimo": 965.0,
-      "maximo": 968.992,
+      "maximo": 968.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -65,38 +65,38 @@
           "comerciante": "Alyaac",
           "min": "100000",
           "max": "965000",
-          "disponible": "999.99"
+          "disponible": "109.78"
         },
         {
-          "precio": 966.9,
-          "comerciante": "Baumer8a",
-          "min": "300",
-          "max": "1450",
-          "disponible": "98.26"
-        },
-        {
-          "precio": 966.9,
-          "comerciante": "JohaTeran",
-          "min": "19999",
-          "max": "20000",
-          "disponible": "99.75"
+          "precio": 965.7,
+          "comerciante": "Yesicara",
+          "min": "180000",
+          "max": "181000",
+          "disponible": "187.64"
         },
         {
           "precio": 968.0,
-          "comerciante": "Luis_venecambio",
-          "min": "85000",
-          "max": "600000",
-          "disponible": "299.25"
+          "comerciante": "_DemoCambios_",
+          "min": "435239",
+          "max": "435240",
+          "disponible": "498.75"
         },
         {
-          "precio": 968.992,
-          "comerciante": "PAGOSUPERAPIDO",
+          "precio": 968.0,
+          "comerciante": "IGlobalHouse",
           "min": "300",
-          "max": "3999999",
-          "disponible": "214.10"
+          "max": "4000000",
+          "disponible": "6.76"
+        },
+        {
+          "precio": 968.0,
+          "comerciante": "Diabarrios06",
+          "min": "10000",
+          "max": "4000000",
+          "disponible": "149.87"
         }
       ]
     }
   },
-  "brecha_pct": 19.1
+  "brecha_pct": 19.21
 }
