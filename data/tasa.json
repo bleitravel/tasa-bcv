@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-07T00:43:57+00:00",
-  "actualizado_ve": "2026-09-06T20:43:57-04:00",
+  "actualizado_utc": "2026-09-07T01:02:26+00:00",
+  "actualizado_ve": "2026-09-06T21:02:26-04:00",
   "bcv": {
     "usd": 813.7361,
     "eur": 945.65085917,
@@ -10,26 +10,26 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 959.7202,
+    "referencia": 960.2208,
     "venta": {
-      "promedio": 959.7202,
-      "minimo": 959.001,
-      "maximo": 960.5,
+      "promedio": 960.2208,
+      "minimo": 959.5,
+      "maximo": 961.1,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 960.5,
+          "precio": 961.1,
           "comerciante": "Jin-Woo-Sung",
-          "min": "7000000",
+          "min": "5000000",
           "max": "36450000",
           "disponible": "80000.00"
         },
         {
-          "precio": 960.0,
+          "precio": 961.0,
           "comerciante": "Trust-Broker",
           "min": "1000000",
           "max": "36450000",
-          "disponible": "13862.22"
+          "disponible": "11794.65"
         },
         {
           "precio": 960.0,
@@ -39,32 +39,32 @@
           "disponible": "2187.61"
         },
         {
-          "precio": 959.1,
-          "comerciante": "MyceliumEx",
-          "min": "200000",
-          "max": "1000000",
-          "disponible": "4000.00"
-        },
-        {
-          "precio": 959.001,
+          "precio": 959.504,
           "comerciante": "TOPlevelS",
-          "min": "10000000",
+          "min": "7000000",
           "max": "36000000",
           "disponible": "80000.00"
+        },
+        {
+          "precio": 959.5,
+          "comerciante": "Ateneaaa",
+          "min": "1449900",
+          "max": "1450000",
+          "disponible": "1511.20"
         }
       ]
     },
     "compra": {
-      "promedio": 959.9156,
-      "minimo": 959.79,
+      "promedio": 959.7576,
+      "minimo": 959.0,
       "maximo": 959.999,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 959.79,
-          "comerciante": "Yolis21",
-          "min": "9900",
-          "max": "30000",
+          "precio": 959.0,
+          "comerciante": "User-60a4d",
+          "min": "50000",
+          "max": "55000",
           "disponible": "99.75"
         },
         {
@@ -79,7 +79,7 @@
           "comerciante": "Danielajcg",
           "min": "1000",
           "max": "81000",
-          "disponible": "4.14"
+          "disponible": "1.86"
         },
         {
           "precio": 959.99,
@@ -98,5 +98,5 @@
       ]
     }
   },
-  "brecha_pct": 17.94
+  "brecha_pct": 18.0
 }
