@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-08T05:01:41+00:00",
-  "actualizado_ve": "2026-09-08T01:01:41-04:00",
+  "actualizado_utc": "2026-09-08T05:36:10+00:00",
+  "actualizado_ve": "2026-09-08T01:36:10-04:00",
   "bcv": {
     "usd": 814.6908,
     "eur": 947.29802151,
@@ -10,19 +10,19 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 972.4006,
+    "referencia": 972.845,
     "venta": {
-      "promedio": 972.4006,
-      "minimo": 967.7,
-      "maximo": 987.22,
+      "promedio": 972.845,
+      "minimo": 968.0,
+      "maximo": 990.22,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 987.22,
+          "precio": 990.22,
           "comerciante": "User-3077a",
           "min": "200000",
           "max": "4000000",
-          "disponible": "7758.17"
+          "disponible": "3921.22"
         },
         {
           "precio": 970.0,
@@ -32,61 +32,40 @@
           "disponible": "2886.60"
         },
         {
-          "precio": 968.58,
-          "comerciante": "User-ElRey",
-          "min": "99000",
-          "max": "1047000",
-          "disponible": "4506.45"
+          "precio": 968.005,
+          "comerciante": "Inversor_RAA_Oficial",
+          "min": "2000",
+          "max": "40000",
+          "disponible": "155.87"
         },
         {
-          "precio": 968.503,
-          "comerciante": "THE_BOSS_962",
-          "min": "300000",
-          "max": "36420000",
-          "disponible": "9773.19"
+          "precio": 968.0,
+          "comerciante": "Hawkforch",
+          "min": "100000",
+          "max": "4000000",
+          "disponible": "410.00"
         },
         {
-          "precio": 967.7,
-          "comerciante": "YAMISENSEI",
-          "min": "1000000",
-          "max": "36450000",
-          "disponible": "2500.00"
+          "precio": 968.0,
+          "comerciante": "elianderm792",
+          "min": "50000",
+          "max": "4000000",
+          "disponible": "4116.39"
         }
       ]
     },
     "compra": {
-      "promedio": 971.6196,
-      "minimo": 970.62,
-      "maximo": 972.0,
+      "promedio": 972.16,
+      "minimo": 971.0,
+      "maximo": 972.8,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 970.62,
-          "comerciante": "CryptoJason",
+          "precio": 971.0,
+          "comerciante": "YirbeannysSP",
           "min": "300",
           "max": "4000000",
-          "disponible": "859.86"
-        },
-        {
-          "precio": 971.499,
-          "comerciante": "Roki",
-          "min": "300",
-          "max": "140900",
-          "disponible": "2.02"
-        },
-        {
-          "precio": 971.98,
-          "comerciante": "Securityy",
-          "min": "500000",
-          "max": "1000000",
-          "disponible": "2127.08"
-        },
-        {
-          "precio": 971.999,
-          "comerciante": "Marquez25",
-          "min": "100000",
-          "max": "2500000",
-          "disponible": "6315.49"
+          "disponible": "85.48"
         },
         {
           "precio": 972.0,
@@ -94,9 +73,30 @@
           "min": "972000",
           "max": "2916000",
           "disponible": "2992.51"
+        },
+        {
+          "precio": 972.5,
+          "comerciante": "Vtp2p",
+          "min": "300",
+          "max": "98748",
+          "disponible": "7.14"
+        },
+        {
+          "precio": 972.5,
+          "comerciante": "ThoR-Cambios",
+          "min": "10000",
+          "max": "400000",
+          "disponible": "99.75"
+        },
+        {
+          "precio": 972.8,
+          "comerciante": "-TSxRV-",
+          "min": "36450000",
+          "max": "500000000",
+          "disponible": "188066.52"
         }
       ]
     }
   },
-  "brecha_pct": 19.36
+  "brecha_pct": 19.41
 }
