@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-08T07:36:16+00:00",
-  "actualizado_ve": "2026-09-08T03:36:16-04:00",
+  "actualizado_utc": "2026-09-08T08:01:56+00:00",
+  "actualizado_ve": "2026-09-08T04:01:56-04:00",
   "bcv": {
     "usd": 814.6908,
     "eur": 947.29802151,
@@ -22,7 +22,7 @@
           "comerciante": "User-3077a",
           "min": "200000",
           "max": "1000000",
-          "disponible": "2198.69"
+          "disponible": "2403.63"
         },
         {
           "precio": 967.5,
@@ -93,7 +93,7 @@
           "comerciante": "kront",
           "min": "10000",
           "max": "40000",
-          "disponible": "66.72"
+          "disponible": "64.84"
         }
       ]
     }
