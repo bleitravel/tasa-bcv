@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-08T04:36:53+00:00",
-  "actualizado_ve": "2026-09-08T00:36:53-04:00",
+  "actualizado_utc": "2026-09-08T05:01:41+00:00",
+  "actualizado_ve": "2026-09-08T01:01:41-04:00",
   "bcv": {
     "usd": 814.6908,
     "eur": 947.29802151,
@@ -10,76 +10,83 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 971.41,
+    "referencia": 972.4006,
     "venta": {
-      "promedio": 971.41,
-      "minimo": 967.6,
-      "maximo": 985.22,
+      "promedio": 972.4006,
+      "minimo": 967.7,
+      "maximo": 987.22,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 985.22,
+          "precio": 987.22,
           "comerciante": "User-3077a",
           "min": "200000",
           "max": "4000000",
-          "disponible": "8292.06"
+          "disponible": "7758.17"
+        },
+        {
+          "precio": 970.0,
+          "comerciante": "Godisgift",
+          "min": "2800000",
+          "max": "36450000",
+          "disponible": "2886.60"
         },
         {
           "precio": 968.58,
           "comerciante": "User-ElRey",
           "min": "99000",
           "max": "1047000",
-          "disponible": "6625.78"
+          "disponible": "4506.45"
         },
         {
-          "precio": 968.0,
-          "comerciante": "Godisgift",
-          "min": "2800000",
+          "precio": 968.503,
+          "comerciante": "THE_BOSS_962",
+          "min": "300000",
+          "max": "36420000",
+          "disponible": "9773.19"
+        },
+        {
+          "precio": 967.7,
+          "comerciante": "YAMISENSEI",
+          "min": "1000000",
           "max": "36450000",
-          "disponible": "2892.57"
-        },
-        {
-          "precio": 967.65,
-          "comerciante": "THEBOSSTRADER",
-          "min": "700000",
-          "max": "22852587",
-          "disponible": "8557.94"
-        },
-        {
-          "precio": 967.6,
-          "comerciante": "Coin_usdt",
-          "min": "500000",
-          "max": "36000000",
-          "disponible": "1140.00"
+          "disponible": "2500.00"
         }
       ]
     },
     "compra": {
-      "promedio": 971.8576,
-      "minimo": 971.499,
+      "promedio": 971.6196,
+      "minimo": 970.62,
       "maximo": 972.0,
       "anuncios_usados": 5,
       "anuncios": [
+        {
+          "precio": 970.62,
+          "comerciante": "CryptoJason",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "859.86"
+        },
         {
           "precio": 971.499,
           "comerciante": "Roki",
           "min": "300",
           "max": "140900",
-          "disponible": "18.73"
+          "disponible": "2.02"
         },
         {
-          "precio": 971.8,
+          "precio": 971.98,
           "comerciante": "Securityy",
           "min": "500000",
           "max": "1000000",
-          "disponible": "1082.14"
+          "disponible": "2127.08"
         },
         {
-          "precio": 971.989,
-          "comerciante": "hc-investings",
-          "min": "300000",
-          "max": "6000000",
-          "disponible": "2394.95"
+          "precio": 971.999,
+          "comerciante": "Marquez25",
+          "min": "100000",
+          "max": "2500000",
+          "disponible": "6315.49"
         },
         {
           "precio": 972.0,
@@ -87,16 +94,9 @@
           "min": "972000",
           "max": "2916000",
           "disponible": "2992.51"
-        },
-        {
-          "precio": 972.0,
-          "comerciante": "LeonangelR",
-          "min": "300000",
-          "max": "1115369",
-          "disponible": "1144.31"
         }
       ]
     }
   },
-  "brecha_pct": 19.24
+  "brecha_pct": 19.36
 }
