@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-08T06:40:09+00:00",
-  "actualizado_ve": "2026-09-08T02:40:09-04:00",
+  "actualizado_utc": "2026-09-08T07:03:38+00:00",
+  "actualizado_ve": "2026-09-08T03:03:38-04:00",
   "bcv": {
     "usd": 814.6908,
     "eur": 947.29802151,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 971.9258,
+    "referencia": 972.4678,
     "venta": {
-      "promedio": 971.9258,
-      "minimo": 967.1,
+      "promedio": 972.4678,
+      "minimo": 967.309,
       "maximo": 990.22,
       "anuncios_usados": 5,
       "anuncios": [
@@ -22,7 +22,14 @@
           "comerciante": "User-3077a",
           "min": "200000",
           "max": "1000000",
-          "disponible": "2403.63"
+          "disponible": "2198.69"
+        },
+        {
+          "precio": 970.0,
+          "comerciante": "SGeralXchange",
+          "min": "5000",
+          "max": "850000",
+          "disponible": "184.54"
         },
         {
           "precio": 967.5,
@@ -32,32 +39,25 @@
           "disponible": "43500.00"
         },
         {
-          "precio": 967.5,
-          "comerciante": "CazadorDeBallenas",
-          "min": "600000",
-          "max": "36000000",
-          "disponible": "27650.00"
+          "precio": 967.31,
+          "comerciante": "Atraderspkj",
+          "min": "200000",
+          "max": "13000000",
+          "disponible": "13400.00"
         },
         {
           "precio": 967.309,
           "comerciante": "MolinaJP_",
           "min": "100000",
           "max": "5000000",
-          "disponible": "36417.82"
-        },
-        {
-          "precio": 967.1,
-          "comerciante": "Nello_AssetMananger",
-          "min": "20000",
-          "max": "108315",
-          "disponible": "37.15"
+          "disponible": "36118.42"
         }
       ]
     },
     "compra": {
-      "promedio": 972.2796,
+      "promedio": 972.3796,
       "minimo": 971.0,
-      "maximo": 972.998,
+      "maximo": 973.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -65,7 +65,7 @@
           "comerciante": "djcesartp",
           "min": "3000",
           "max": "4000000",
-          "disponible": "159.60"
+          "disponible": "72.62"
         },
         {
           "precio": 972.0,
@@ -73,13 +73,6 @@
           "min": "972000",
           "max": "2916000",
           "disponible": "2992.51"
-        },
-        {
-          "precio": 972.5,
-          "comerciante": "Vtp2p",
-          "min": "300",
-          "max": "98748",
-          "disponible": "7.14"
         },
         {
           "precio": 972.9,
@@ -94,9 +87,16 @@
           "min": "36450000",
           "max": "500000000",
           "disponible": "68375.32"
+        },
+        {
+          "precio": 973.0,
+          "comerciante": "ycambio13",
+          "min": "900000",
+          "max": "1700000",
+          "disponible": "1552.85"
         }
       ]
     }
   },
-  "brecha_pct": 19.3
+  "brecha_pct": 19.37
 }
