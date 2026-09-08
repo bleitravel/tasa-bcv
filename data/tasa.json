@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-08T12:02:42+00:00",
-  "actualizado_ve": "2026-09-08T08:02:42-04:00",
+  "actualizado_utc": "2026-09-08T12:41:23+00:00",
+  "actualizado_ve": "2026-09-08T08:41:23-04:00",
   "bcv": {
     "usd": 814.6908,
     "eur": 947.29802151,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 968.7002,
+    "referencia": 964.66,
     "venta": {
-      "promedio": 968.7002,
-      "minimo": 967.5,
-      "maximo": 972.0,
+      "promedio": 964.66,
+      "minimo": 963.3,
+      "maximo": 967.5,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 972.0,
-          "comerciante": "Blank_Mind",
-          "min": "1000000",
-          "max": "36450000",
-          "disponible": "34320.93"
-        },
-        {
-          "precio": 968.001,
-          "comerciante": "CryptoVersos",
-          "min": "500000",
-          "max": "16000000",
-          "disponible": "19966.46"
-        },
-        {
-          "precio": 968.0,
-          "comerciante": "Vicky201403",
-          "min": "500000",
-          "max": "36450000",
-          "disponible": "3836.59"
-        },
-        {
-          "precio": 968.0,
-          "comerciante": "User-4d8f2d4u",
-          "min": "600000",
-          "max": "2924960",
-          "disponible": "3021.68"
-        },
         {
           "precio": 967.5,
           "comerciante": "Money77ves",
           "min": "10000000",
           "max": "36450000",
           "disponible": "19606.91"
+        },
+        {
+          "precio": 965.0,
+          "comerciante": "Blank_Mind",
+          "min": "1000000",
+          "max": "36450000",
+          "disponible": "9028.88"
+        },
+        {
+          "precio": 963.8,
+          "comerciante": "CambiosME_",
+          "min": "1000000",
+          "max": "4000000",
+          "disponible": "15372.64"
+        },
+        {
+          "precio": 963.7,
+          "comerciante": "RapidPago94",
+          "min": "1000000",
+          "max": "4000000",
+          "disponible": "26634.28"
+        },
+        {
+          "precio": 963.3,
+          "comerciante": "Charstar18",
+          "min": "500000",
+          "max": "4000000",
+          "disponible": "29117.62"
         }
       ]
     },
     "compra": {
-      "promedio": 968.3748,
-      "minimo": 967.374,
-      "maximo": 969.0,
+      "promedio": 965.0,
+      "minimo": 965.0,
+      "maximo": 965.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 967.374,
-          "comerciante": "Kamel_Valencia",
-          "min": "1500",
-          "max": "35000",
-          "disponible": "99.75"
+          "precio": 965.0,
+          "comerciante": "Suaveveve",
+          "min": "50000",
+          "max": "552825",
+          "disponible": "567.33"
         },
         {
-          "precio": 968.0,
-          "comerciante": "Vanessaccs",
-          "min": "48000",
-          "max": "48800",
-          "disponible": "99.75"
-        },
-        {
-          "precio": 968.5,
-          "comerciante": "Barrontradeer",
-          "min": "5000",
-          "max": "10000",
-          "disponible": "99.75"
-        },
-        {
-          "precio": 969.0,
-          "comerciante": "FASTEREXCHAGE",
-          "min": "300",
+          "precio": 965.0,
+          "comerciante": "Beisbolefectivo",
+          "min": "10000",
           "max": "4000000",
-          "disponible": "0.31"
+          "disponible": "10.80"
         },
         {
-          "precio": 969.0,
-          "comerciante": "Plines",
-          "min": "80000",
-          "max": "400000",
-          "disponible": "299.25"
+          "precio": 965.0,
+          "comerciante": "mayerlingm",
+          "min": "100000",
+          "max": "36450000",
+          "disponible": "188.30"
+        },
+        {
+          "precio": 965.0,
+          "comerciante": "Breitnerjaimes",
+          "min": "800000",
+          "max": "4000000",
+          "disponible": "1496.25"
+        },
+        {
+          "precio": 965.0,
+          "comerciante": "karina",
+          "min": "150000",
+          "max": "160000",
+          "disponible": "164.58"
         }
       ]
     }
   },
-  "brecha_pct": 18.9
+  "brecha_pct": 18.41
 }
