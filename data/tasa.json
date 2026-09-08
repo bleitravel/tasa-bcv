@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-08T18:02:20+00:00",
-  "actualizado_ve": "2026-09-08T14:02:20-04:00",
+  "actualizado_utc": "2026-09-08T18:38:49+00:00",
+  "actualizado_ve": "2026-09-08T14:38:49-04:00",
   "bcv": {
     "usd": 814.6908,
     "eur": 947.29802151,
@@ -10,19 +10,26 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 969.6,
+    "referencia": 970.2,
     "venta": {
-      "promedio": 969.6,
+      "promedio": 970.2,
       "minimo": 968.0,
       "maximo": 973.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
           "precio": 973.0,
-          "comerciante": "Blank_Mind",
-          "min": "1500000",
+          "comerciante": "La-Tia-Mema",
+          "min": "2000000",
           "max": "36450000",
-          "disponible": "70573.42"
+          "disponible": "73845.62"
+        },
+        {
+          "precio": 972.0,
+          "comerciante": "Blank_Mind",
+          "min": "1000000",
+          "max": "36450000",
+          "disponible": "56207.34"
         },
         {
           "precio": 970.0,
@@ -32,71 +39,64 @@
           "disponible": "3000.00"
         },
         {
-          "precio": 968.5,
-          "comerciante": "EAchange",
-          "min": "1500000",
-          "max": "2550000",
-          "disponible": "2650.00"
-        },
-        {
-          "precio": 968.5,
-          "comerciante": "Proca_vnzla",
-          "min": "970000",
+          "precio": 968.0,
+          "comerciante": "LantzAvance",
+          "min": "600000",
           "max": "4000000",
-          "disponible": "7000.00"
+          "disponible": "4205.85"
         },
         {
           "precio": 968.0,
-          "comerciante": "PsicoCash",
-          "min": "600000",
-          "max": "616868",
-          "disponible": "637.26"
+          "comerciante": "FTAIRG",
+          "min": "300000",
+          "max": "2583699",
+          "disponible": "2669.00"
         }
       ]
     },
     "compra": {
-      "promedio": 948.2738,
-      "minimo": 869.0,
-      "maximo": 968.369,
+      "promedio": 965.7378,
+      "minimo": 965.0,
+      "maximo": 966.19,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 869.0,
-          "comerciante": "DavidArell",
-          "min": "5000",
-          "max": "4000000",
-          "disponible": "449.28"
+          "precio": 965.0,
+          "comerciante": "El soberano26",
+          "min": "300",
+          "max": "4000",
+          "disponible": "138.44"
         },
         {
-          "precio": 968.0,
-          "comerciante": "JL Exchange",
-          "min": "95000",
-          "max": "10000000",
-          "disponible": "99.80"
+          "precio": 965.499,
+          "comerciante": "LEMONCHANGE",
+          "min": "150000",
+          "max": "400000",
+          "disponible": "843.53"
         },
         {
-          "precio": 968.0,
-          "comerciante": "bethania1991",
-          "min": "48400",
-          "max": "193600",
-          "disponible": "199.50"
+          "precio": 966.0,
+          "comerciante": "Avrisiel",
+          "min": "500000",
+          "max": "600000",
+          "disponible": "545.92"
         },
         {
-          "precio": 968.0,
-          "comerciante": "Diana Maya",
-          "min": "961000",
-          "max": "962000",
-          "disponible": "997.50"
+          "precio": 966.0,
+          "comerciante": "J17CS",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "8691.20"
         },
         {
-          "precio": 968.369,
-          "comerciante": "edjaen",
-          "min": "14999",
-          "max": "15000",
-          "disponible": "71.80"
+          "precio": 966.19,
+          "comerciante": "AlfaTrader21",
+          "min": "1000000",
+          "max": "2000000",
+          "disponible": "1531.56"
         }
       ]
     }
   },
-  "brecha_pct": 19.01
+  "brecha_pct": 19.09
 }
