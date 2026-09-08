@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-08T22:34:05+00:00",
-  "actualizado_ve": "2026-09-08T18:34:05-04:00",
+  "actualizado_utc": "2026-09-08T23:01:59+00:00",
+  "actualizado_ve": "2026-09-08T19:01:59-04:00",
   "bcv": {
     "usd": 820.1018,
     "eur": 954.02442394,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 967.32,
+    "referencia": 966.541,
     "venta": {
-      "promedio": 967.32,
-      "minimo": 967.0,
-      "maximo": 968.0,
+      "promedio": 966.541,
+      "minimo": 966.005,
+      "maximo": 967.1,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 968.0,
+          "precio": 967.1,
+          "comerciante": "GalaxyRose",
+          "min": "2000",
+          "max": "2100",
+          "disponible": "132.74"
+        },
+        {
+          "precio": 967.0,
           "comerciante": "Trust-Broker",
           "min": "3000000",
           "max": "36450000",
-          "disponible": "46388.03"
+          "disponible": "30000.00"
         },
         {
-          "precio": 967.5,
-          "comerciante": "CambiosMZ",
+          "precio": 966.5,
+          "comerciante": "User-b9036",
           "min": "2000000",
-          "max": "36450000",
-          "disponible": "28456.11"
+          "max": "4000000",
+          "disponible": "9878.98"
         },
         {
-          "precio": 967.1,
+          "precio": 966.1,
+          "comerciante": "User-3f304",
+          "min": "2000000",
+          "max": "4000000",
+          "disponible": "4141.00"
+        },
+        {
+          "precio": 966.005,
           "comerciante": "Gustavo129",
           "min": "1500000",
           "max": "36450000",
           "disponible": "80000.00"
-        },
-        {
-          "precio": 967.0,
-          "comerciante": "LiraInversiones",
-          "min": "150000",
-          "max": "3938990",
-          "disponible": "1001.38"
-        },
-        {
-          "precio": 967.0,
-          "comerciante": "-Syria1264-",
-          "min": "1000000",
-          "max": "36450000",
-          "disponible": "8965.88"
         }
       ]
     },
     "compra": {
-      "promedio": 966.988,
+      "promedio": 966.0,
       "minimo": 966.0,
-      "maximo": 967.49,
+      "maximo": 966.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
           "precio": 966.0,
-          "comerciante": "User-d2cd3",
-          "min": "20000",
-          "max": "4000000",
+          "comerciante": "Inteligencia3",
+          "min": "96350",
+          "max": "96600",
           "disponible": "199.50"
         },
         {
-          "precio": 967.0,
+          "precio": 966.0,
+          "comerciante": "Yousberth2907",
+          "min": "47400",
+          "max": "47500",
+          "disponible": "50.58"
+        },
+        {
+          "precio": 966.0,
+          "comerciante": "User-473b7",
+          "min": "137000",
+          "max": "242717",
+          "disponible": "250.37"
+        },
+        {
+          "precio": 966.0,
           "comerciante": "P2P-cbb8a3lc",
           "min": "30000",
           "max": "668000",
-          "disponible": "199.50"
+          "disponible": "399.00"
         },
         {
-          "precio": 967.0,
-          "comerciante": "Raicen43",
-          "min": "30000",
+          "precio": 966.0,
+          "comerciante": "User-60a4d",
+          "min": "90000",
           "max": "4000000",
           "disponible": "99.75"
-        },
-        {
-          "precio": 967.45,
-          "comerciante": "JugadorFranquiicia1",
-          "min": "2000000",
-          "max": "30000000",
-          "disponible": "2153.99"
-        },
-        {
-          "precio": 967.49,
-          "comerciante": "Melani_sublimascione",
-          "min": "3000000",
-          "max": "16852352",
-          "disponible": "17396.88"
         }
       ]
     }
   },
-  "brecha_pct": 17.95
+  "brecha_pct": 17.86
 }
