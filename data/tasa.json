@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-08T19:02:30+00:00",
-  "actualizado_ve": "2026-09-08T15:02:30-04:00",
+  "actualizado_utc": "2026-09-08T19:33:52+00:00",
+  "actualizado_ve": "2026-09-08T15:33:52-04:00",
   "bcv": {
     "usd": 814.6908,
     "eur": 947.29802151,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 970.2,
+    "referencia": 968.7198,
     "venta": {
-      "promedio": 970.2,
-      "minimo": 968.0,
-      "maximo": 973.0,
+      "promedio": 968.7198,
+      "minimo": 967.0,
+      "maximo": 972.0,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 973.0,
-          "comerciante": "La-Tia-Mema",
-          "min": "2000000",
-          "max": "36450000",
-          "disponible": "56412.52"
-        },
         {
           "precio": 972.0,
           "comerciante": "Blank_Mind",
           "min": "1000000",
           "max": "36450000",
-          "disponible": "49202.95"
+          "disponible": "38866.93"
         },
         {
           "precio": 970.0,
-          "comerciante": "JAG_CRIPTO",
-          "min": "1000000",
-          "max": "1540000",
-          "disponible": "1954.06"
+          "comerciante": "serranoj87",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "5500.00"
         },
         {
-          "precio": 968.0,
-          "comerciante": "FTAIRG",
-          "min": "300000",
-          "max": "2583699",
-          "disponible": "1804.53"
-        },
-        {
-          "precio": 968.0,
+          "precio": 967.599,
           "comerciante": "-Syria1264-",
-          "min": "5000000",
+          "min": "3000000",
           "max": "36450000",
-          "disponible": "16963.13"
+          "disponible": "9229.25"
+        },
+        {
+          "precio": 967.0,
+          "comerciante": "Alexa79",
+          "min": "800000",
+          "max": "4000000",
+          "disponible": "15098.21"
+        },
+        {
+          "precio": 967.0,
+          "comerciante": "CambiosMZ",
+          "min": "2000000",
+          "max": "36450000",
+          "disponible": "68067.32"
         }
       ]
     },
     "compra": {
-      "promedio": 965.0,
-      "minimo": 960.8,
-      "maximo": 966.2,
+      "promedio": 966.1598,
+      "minimo": 966.0,
+      "maximo": 966.5,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 960.8,
-          "comerciante": "Saturcros",
-          "min": "50000",
-          "max": "500000",
-          "disponible": "1268.46"
+          "precio": 966.0,
+          "comerciante": "SPAICER",
+          "min": "320",
+          "max": "877000",
+          "disponible": "0.34"
         },
         {
           "precio": 966.0,
-          "comerciante": "Cambiosyg",
-          "min": "300",
+          "comerciante": "MKambios",
+          "min": "160000",
           "max": "4000000",
-          "disponible": "1.17"
+          "disponible": "598.50"
         },
         {
           "precio": 966.0,
-          "comerciante": "P4P4L3T4",
-          "min": "50000",
-          "max": "193200",
-          "disponible": "54.58"
+          "comerciante": "MARKOS55",
+          "min": "90000",
+          "max": "4000000",
+          "disponible": "99.75"
         },
         {
-          "precio": 966.0,
-          "comerciante": "nene",
-          "min": "98000",
-          "max": "10000000",
-          "disponible": "102.48"
+          "precio": 966.299,
+          "comerciante": "VelociCambiosMx",
+          "min": "41200",
+          "max": "41201",
+          "disponible": "102.89"
         },
         {
-          "precio": 966.2,
-          "comerciante": "Nemec22",
-          "min": "6000",
-          "max": "18000",
-          "disponible": "148.40"
+          "precio": 966.5,
+          "comerciante": "Armonymx",
+          "min": "95999",
+          "max": "96000",
+          "disponible": "99.75"
         }
       ]
     }
   },
-  "brecha_pct": 19.09
+  "brecha_pct": 18.91
 }
