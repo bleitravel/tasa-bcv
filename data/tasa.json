@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-08T10:36:20+00:00",
-  "actualizado_ve": "2026-09-08T06:36:20-04:00",
+  "actualizado_utc": "2026-09-08T11:02:24+00:00",
+  "actualizado_ve": "2026-09-08T07:02:24-04:00",
   "bcv": {
     "usd": 814.6908,
     "eur": 947.29802151,
@@ -10,62 +10,69 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 968.0406,
+    "referencia": 969.022,
     "venta": {
-      "promedio": 968.0406,
-      "minimo": 967.8,
-      "maximo": 968.152,
+      "promedio": 969.022,
+      "minimo": 968.24,
+      "maximo": 972.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 968.152,
-          "comerciante": "CambiosJDMartinez",
-          "min": "50000",
-          "max": "4000000",
-          "disponible": "164.11"
+          "precio": 972.0,
+          "comerciante": "Blank_Mind",
+          "min": "1000000",
+          "max": "36450000",
+          "disponible": "34946.47"
         },
         {
-          "precio": 968.15,
-          "comerciante": "AENETEACHEOENEYE",
-          "min": "500000",
-          "max": "6421383",
-          "disponible": "1861.29"
+          "precio": 968.31,
+          "comerciante": "YGinversiones",
+          "min": "2000000",
+          "max": "36450000",
+          "disponible": "76400.00"
         },
         {
-          "precio": 968.051,
-          "comerciante": "TH3K1NGP2P",
-          "min": "200000",
-          "max": "7451000",
-          "disponible": "1025.88"
+          "precio": 968.3,
+          "comerciante": "zoecambios_21",
+          "min": "1000000",
+          "max": "35000000",
+          "disponible": "4050.06"
         },
         {
-          "precio": 968.05,
-          "comerciante": "CambiosPay",
-          "min": "200000",
-          "max": "4000000",
-          "disponible": "3518.54"
+          "precio": 968.26,
+          "comerciante": "SIEMPRE ACTIVO",
+          "min": "450000",
+          "max": "36450000",
+          "disponible": "1228.84"
         },
         {
-          "precio": 967.8,
-          "comerciante": "NovaCambio",
-          "min": "100000",
-          "max": "1600000",
-          "disponible": "2170.00"
+          "precio": 968.24,
+          "comerciante": "rod888",
+          "min": "250000",
+          "max": "2905000",
+          "disponible": "2627.87"
         }
       ]
     },
     "compra": {
-      "promedio": 972.1462,
-      "minimo": 970.0,
-      "maximo": 972.931,
+      "promedio": 971.784,
+      "minimo": 970.921,
+      "maximo": 972.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 970.0,
-          "comerciante": "P2P-522016xl",
-          "min": "10000",
-          "max": "400000",
-          "disponible": "393.70"
+          "precio": 970.921,
+          "comerciante": "Wilson_-Rabago",
+          "min": "70000",
+          "max": "500000",
+          "disponible": "353.69"
+        },
+        {
+          "precio": 971.999,
+          "comerciante": "ZynerakP2P",
+          "min": "3000",
+          "max": "4000000",
+          "disponible": "99.75"
         },
         {
           "precio": 972.0,
@@ -75,28 +82,21 @@
           "disponible": "1963.72"
         },
         {
-          "precio": 972.9,
-          "comerciante": "ArepaConCafe",
-          "min": "36450000",
-          "max": "200000000",
-          "disponible": "43883.29"
+          "precio": 972.0,
+          "comerciante": "Suaveveve",
+          "min": "50000",
+          "max": "552825",
+          "disponible": "567.33"
         },
         {
-          "precio": 972.9,
-          "comerciante": "Deivis",
-          "min": "50000",
-          "max": "2456320",
-          "disponible": "1756.88"
-        },
-        {
-          "precio": 972.931,
-          "comerciante": "Trabso",
-          "min": "50000",
-          "max": "1040000",
-          "disponible": "199.31"
+          "precio": 972.0,
+          "comerciante": "Lagocha2405",
+          "min": "96000",
+          "max": "174000",
+          "disponible": "177.59"
         }
       ]
     }
   },
-  "brecha_pct": 18.82
+  "brecha_pct": 18.94
 }
