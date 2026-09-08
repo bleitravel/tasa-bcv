@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-08T11:35:24+00:00",
-  "actualizado_ve": "2026-09-08T07:35:24-04:00",
+  "actualizado_utc": "2026-09-08T12:02:42+00:00",
+  "actualizado_ve": "2026-09-08T08:02:42-04:00",
   "bcv": {
     "usd": 814.6908,
     "eur": 947.29802151,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 969.2,
+    "referencia": 968.7002,
     "venta": {
-      "promedio": 969.2,
-      "minimo": 968.0,
+      "promedio": 968.7002,
+      "minimo": 967.5,
       "maximo": 972.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -22,81 +22,81 @@
           "comerciante": "Blank_Mind",
           "min": "1000000",
           "max": "36450000",
-          "disponible": "28689.16"
+          "disponible": "34320.93"
         },
         {
-          "precio": 970.0,
+          "precio": 968.001,
           "comerciante": "CryptoVersos",
-          "min": "600000",
+          "min": "500000",
           "max": "16000000",
-          "disponible": "22651.62"
+          "disponible": "19966.46"
         },
         {
           "precio": 968.0,
           "comerciante": "Vicky201403",
           "min": "500000",
           "max": "36450000",
-          "disponible": "6715.00"
+          "disponible": "3836.59"
         },
         {
           "precio": 968.0,
-          "comerciante": "azulexchange",
-          "min": "100000",
-          "max": "4000000",
-          "disponible": "1144.52"
+          "comerciante": "User-4d8f2d4u",
+          "min": "600000",
+          "max": "2924960",
+          "disponible": "3021.68"
         },
         {
-          "precio": 968.0,
-          "comerciante": "Pabon335",
-          "min": "100000",
-          "max": "1000000",
-          "disponible": "800.00"
+          "precio": 967.5,
+          "comerciante": "Money77ves",
+          "min": "10000000",
+          "max": "36450000",
+          "disponible": "19606.91"
         }
       ]
     },
     "compra": {
-      "promedio": 969.7552,
-      "minimo": 969.0,
-      "maximo": 970.0,
+      "promedio": 968.3748,
+      "minimo": 967.374,
+      "maximo": 969.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 969.0,
-          "comerciante": "P2P-36c671sj",
-          "min": "1000",
-          "max": "4000000",
-          "disponible": "87.83"
-        },
-        {
-          "precio": 969.777,
-          "comerciante": "CAMBIOS MERIDA",
-          "min": "6000",
-          "max": "100000",
-          "disponible": "149.62"
-        },
-        {
-          "precio": 969.999,
-          "comerciante": "Mp2pM",
-          "min": "20000",
-          "max": "1000000",
-          "disponible": "185.87"
-        },
-        {
-          "precio": 970.0,
-          "comerciante": "aibarr01",
-          "min": "25000",
-          "max": "27000",
+          "precio": 967.374,
+          "comerciante": "Kamel_Valencia",
+          "min": "1500",
+          "max": "35000",
           "disponible": "99.75"
         },
         {
-          "precio": 970.0,
-          "comerciante": "User-ea781",
-          "min": "139800",
+          "precio": 968.0,
+          "comerciante": "Vanessaccs",
+          "min": "48000",
+          "max": "48800",
+          "disponible": "99.75"
+        },
+        {
+          "precio": 968.5,
+          "comerciante": "Barrontradeer",
+          "min": "5000",
+          "max": "10000",
+          "disponible": "99.75"
+        },
+        {
+          "precio": 969.0,
+          "comerciante": "FASTEREXCHAGE",
+          "min": "300",
           "max": "4000000",
-          "disponible": "144.40"
+          "disponible": "0.31"
+        },
+        {
+          "precio": 969.0,
+          "comerciante": "Plines",
+          "min": "80000",
+          "max": "400000",
+          "disponible": "299.25"
         }
       ]
     }
   },
-  "brecha_pct": 18.97
+  "brecha_pct": 18.9
 }
