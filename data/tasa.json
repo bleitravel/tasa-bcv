@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-08T13:37:25+00:00",
-  "actualizado_ve": "2026-09-08T09:37:25-04:00",
+  "actualizado_utc": "2026-09-08T14:02:52+00:00",
+  "actualizado_ve": "2026-09-08T10:02:52-04:00",
   "bcv": {
     "usd": 814.6908,
     "eur": 947.29802151,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 965.4012,
+    "referencia": 966.6412,
     "venta": {
-      "promedio": 965.4012,
-      "minimo": 965.0,
-      "maximo": 966.0,
+      "promedio": 966.6412,
+      "minimo": 966.25,
+      "maximo": 967.5,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 966.0,
+          "precio": 967.5,
           "comerciante": "Trust-Broker",
-          "min": "3000000",
+          "min": "2000000",
           "max": "36450000",
-          "disponible": "50000.00"
+          "disponible": "22645.07"
         },
         {
-          "precio": 965.506,
+          "precio": 966.6,
+          "comerciante": "c__s",
+          "min": "4000000",
+          "max": "36450000",
+          "disponible": "20842.06"
+        },
+        {
+          "precio": 966.506,
           "comerciante": "ELTIBURON-DEL-CRYPTO",
           "min": "1000000",
           "max": "4000000",
-          "disponible": "24453.40"
+          "disponible": "18381.68"
         },
         {
-          "precio": 965.5,
-          "comerciante": "贝HarveySpecter贝",
-          "min": "37000000",
-          "max": "200000000",
-          "disponible": "100000.00"
+          "precio": 966.35,
+          "comerciante": "Trust-Broker",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "53092.16"
         },
         {
-          "precio": 965.0,
-          "comerciante": "PEJAGOBLA",
-          "min": "15000000",
-          "max": "36400000",
-          "disponible": "50925.87"
-        },
-        {
-          "precio": 965.0,
-          "comerciante": "Gatsby_24",
-          "min": "15000000",
+          "precio": 966.25,
+          "comerciante": "Kingjvl",
+          "min": "2000000",
           "max": "36450000",
           "disponible": "80000.00"
         }
       ]
     },
     "compra": {
-      "promedio": 966.0,
-      "minimo": 966.0,
-      "maximo": 966.0,
+      "promedio": 966.1022,
+      "minimo": 965.9,
+      "maximo": 966.311,
       "anuncios_usados": 5,
       "anuncios": [
         {
+          "precio": 965.9,
+          "comerciante": "nayliemg",
+          "min": "3790",
+          "max": "3800",
+          "disponible": "99.75"
+        },
+        {
           "precio": 966.0,
+          "comerciante": "Santy_2511",
+          "min": "6000",
+          "max": "2000000",
+          "disponible": "8.51"
+        },
+        {
+          "precio": 966.0,
+          "comerciante": "lilioscol",
+          "min": "1500",
+          "max": "96500",
+          "disponible": "6.16"
+        },
+        {
+          "precio": 966.3,
           "comerciante": "ElBossP2P",
           "min": "300",
           "max": "10000",
-          "disponible": "110.45"
+          "disponible": "474.26"
         },
         {
-          "precio": 966.0,
-          "comerciante": "SeguridadGlobal",
-          "min": "8000",
-          "max": "4000000",
-          "disponible": "9.71"
-        },
-        {
-          "precio": 966.0,
-          "comerciante": "DanielBlancoE",
-          "min": "3265000",
-          "max": "3274740",
-          "disponible": "3383.23"
-        },
-        {
-          "precio": 966.0,
-          "comerciante": "MOIMOI-P2P",
-          "min": "96500",
-          "max": "96600",
-          "disponible": "100.39"
-        },
-        {
-          "precio": 966.0,
-          "comerciante": "User-d2cd3",
-          "min": "20000",
-          "max": "4000000",
-          "disponible": "60.69"
+          "precio": 966.311,
+          "comerciante": "AlltheServices",
+          "min": "10000",
+          "max": "96700",
+          "disponible": "24.53"
         }
       ]
     }
   },
-  "brecha_pct": 18.5
+  "brecha_pct": 18.65
 }
