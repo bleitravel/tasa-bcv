@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-08T06:02:16+00:00",
-  "actualizado_ve": "2026-09-08T02:02:16-04:00",
+  "actualizado_utc": "2026-09-08T06:40:09+00:00",
+  "actualizado_ve": "2026-09-08T02:40:09-04:00",
   "bcv": {
     "usd": 814.6908,
     "eur": 947.29802151,
@@ -10,56 +10,63 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 973.0442,
+    "referencia": 971.9258,
     "venta": {
-      "promedio": 973.0442,
-      "minimo": 968.0,
+      "promedio": 971.9258,
+      "minimo": 967.1,
       "maximo": 990.22,
       "anuncios_usados": 5,
       "anuncios": [
         {
           "precio": 990.22,
           "comerciante": "User-3077a",
-          "min": "100000",
-          "max": "4000000",
-          "disponible": "3532.88"
+          "min": "200000",
+          "max": "1000000",
+          "disponible": "2403.63"
         },
         {
-          "precio": 970.0,
-          "comerciante": "Godisgift",
-          "min": "2800000",
+          "precio": 967.5,
+          "comerciante": "你就变得更强",
+          "min": "900000",
           "max": "36450000",
-          "disponible": "2886.60"
+          "disponible": "43500.00"
         },
         {
-          "precio": 969.0,
-          "comerciante": "yennerln200",
-          "min": "158000",
-          "max": "159000",
-          "disponible": "328.00"
+          "precio": 967.5,
+          "comerciante": "CazadorDeBallenas",
+          "min": "600000",
+          "max": "36000000",
+          "disponible": "27650.00"
         },
         {
-          "precio": 968.001,
-          "comerciante": "Zetta_Queen",
+          "precio": 967.309,
+          "comerciante": "MolinaJP_",
           "min": "100000",
-          "max": "4000000",
-          "disponible": "254.50"
+          "max": "5000000",
+          "disponible": "36417.82"
         },
         {
-          "precio": 968.0,
-          "comerciante": "elianderm792",
-          "min": "50000",
-          "max": "4000000",
-          "disponible": "4031.68"
+          "precio": 967.1,
+          "comerciante": "Nello_AssetMananger",
+          "min": "20000",
+          "max": "108315",
+          "disponible": "37.15"
         }
       ]
     },
     "compra": {
-      "promedio": 972.6396,
-      "minimo": 972.0,
+      "promedio": 972.2796,
+      "minimo": 971.0,
       "maximo": 972.998,
       "anuncios_usados": 5,
       "anuncios": [
+        {
+          "precio": 971.0,
+          "comerciante": "djcesartp",
+          "min": "3000",
+          "max": "4000000",
+          "disponible": "159.60"
+        },
         {
           "precio": 972.0,
           "comerciante": "jesusvanegas",
@@ -72,14 +79,7 @@
           "comerciante": "Vtp2p",
           "min": "300",
           "max": "98748",
-          "disponible": "5.08"
-        },
-        {
-          "precio": 972.8,
-          "comerciante": "-TSxRV-",
-          "min": "36450000",
-          "max": "500000000",
-          "disponible": "188066.52"
+          "disponible": "7.14"
         },
         {
           "precio": 972.9,
@@ -98,5 +98,5 @@
       ]
     }
   },
-  "brecha_pct": 19.44
+  "brecha_pct": 19.3
 }
