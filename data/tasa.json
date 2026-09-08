@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-08T00:43:51+00:00",
-  "actualizado_ve": "2026-09-07T20:43:51-04:00",
+  "actualizado_utc": "2026-09-08T01:02:52+00:00",
+  "actualizado_ve": "2026-09-07T21:02:52-04:00",
   "bcv": {
     "usd": 814.6908,
     "eur": 947.29802151,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 969.258,
+    "referencia": 969.43,
     "venta": {
-      "promedio": 969.258,
-      "minimo": 968.39,
+      "promedio": 969.43,
+      "minimo": 968.55,
       "maximo": 972.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -22,64 +22,64 @@
           "comerciante": "Blank_Mind",
           "min": "820000",
           "max": "36450000",
-          "disponible": "15797.16"
+          "disponible": "10143.32"
         },
         {
           "precio": 969.0,
-          "comerciante": "CROMOSOMA-21",
+          "comerciante": "PEJAGOBLA",
+          "min": "2000000",
+          "max": "36400000",
+          "disponible": "6920.00"
+        },
+        {
+          "precio": 969.0,
+          "comerciante": "IsaBTC-",
           "min": "10000000",
           "max": "36450000",
           "disponible": "80000.00"
         },
         {
-          "precio": 968.5,
-          "comerciante": "Money77ves",
-          "min": "10000000",
-          "max": "36450000",
-          "disponible": "54000.00"
+          "precio": 968.6,
+          "comerciante": "Cjm_distribuidor",
+          "min": "1000000",
+          "max": "4000000",
+          "disponible": "28925.06"
         },
         {
-          "precio": 968.4,
-          "comerciante": "WayneTecnology",
-          "min": "3000000",
-          "max": "34645000",
-          "disponible": "48450.02"
-        },
-        {
-          "precio": 968.39,
-          "comerciante": "王冠__你们的头",
-          "min": "3000000",
-          "max": "36450000",
-          "disponible": "51804.40"
+          "precio": 968.55,
+          "comerciante": "贝HarveySpecter贝",
+          "min": "15000000",
+          "max": "36000000",
+          "disponible": "50000.00"
         }
       ]
     },
     "compra": {
-      "promedio": 968.3318,
-      "minimo": 965.0,
+      "promedio": 969.5498,
+      "minimo": 969.0,
       "maximo": 969.9,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 965.0,
-          "comerciante": "CriptoAleM",
-          "min": "550000",
-          "max": "600000",
-          "disponible": "1060.34"
-        },
-        {
-          "precio": 968.009,
-          "comerciante": "yeferCambios",
-          "min": "9374",
-          "max": "9424",
-          "disponible": "99.75"
-        },
         {
           "precio": 969.0,
           "comerciante": "Suaveveve",
           "min": "50000",
           "max": "602525",
           "disponible": "567.33"
+        },
+        {
+          "precio": 969.5,
+          "comerciante": "Reycristo",
+          "min": "5000",
+          "max": "186144",
+          "disponible": "36.81"
+        },
+        {
+          "precio": 969.599,
+          "comerciante": "Fabvsm",
+          "min": "35850",
+          "max": "35900",
+          "disponible": "62.73"
         },
         {
           "precio": 969.75,
@@ -98,5 +98,5 @@
       ]
     }
   },
-  "brecha_pct": 18.97
+  "brecha_pct": 18.99
 }
