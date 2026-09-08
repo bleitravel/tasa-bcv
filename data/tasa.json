@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-08T07:03:38+00:00",
-  "actualizado_ve": "2026-09-08T03:03:38-04:00",
+  "actualizado_utc": "2026-09-08T07:36:16+00:00",
+  "actualizado_ve": "2026-09-08T03:36:16-04:00",
   "bcv": {
     "usd": 814.6908,
     "eur": 947.29802151,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 972.4678,
+    "referencia": 971.744,
     "venta": {
-      "promedio": 972.4678,
-      "minimo": 967.309,
+      "promedio": 971.744,
+      "minimo": 967.0,
       "maximo": 990.22,
       "anuncios_usados": 5,
       "anuncios": [
@@ -25,13 +25,6 @@
           "disponible": "2198.69"
         },
         {
-          "precio": 970.0,
-          "comerciante": "SGeralXchange",
-          "min": "5000",
-          "max": "850000",
-          "disponible": "184.54"
-        },
-        {
           "precio": 967.5,
           "comerciante": "你就变得更强",
           "min": "900000",
@@ -39,34 +32,34 @@
           "disponible": "43500.00"
         },
         {
-          "precio": 967.31,
-          "comerciante": "Atraderspkj",
-          "min": "200000",
-          "max": "13000000",
-          "disponible": "13400.00"
+          "precio": 967.0,
+          "comerciante": "El Sexy",
+          "min": "2000000",
+          "max": "2901000",
+          "disponible": "3000.00"
         },
         {
-          "precio": 967.309,
-          "comerciante": "MolinaJP_",
-          "min": "100000",
-          "max": "5000000",
-          "disponible": "36118.42"
+          "precio": 967.0,
+          "comerciante": "Leonlopez12",
+          "min": "500000",
+          "max": "2000000",
+          "disponible": "2200.00"
+        },
+        {
+          "precio": 967.0,
+          "comerciante": "Josebat23",
+          "min": "36450000",
+          "max": "37000000",
+          "disponible": "45700.09"
         }
       ]
     },
     "compra": {
-      "promedio": 972.3796,
-      "minimo": 971.0,
+      "promedio": 972.7796,
+      "minimo": 972.0,
       "maximo": 973.0,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 971.0,
-          "comerciante": "djcesartp",
-          "min": "3000",
-          "max": "4000000",
-          "disponible": "72.62"
-        },
         {
           "precio": 972.0,
           "comerciante": "jesusvanegas",
@@ -94,9 +87,16 @@
           "min": "900000",
           "max": "1700000",
           "disponible": "1552.85"
+        },
+        {
+          "precio": 973.0,
+          "comerciante": "kront",
+          "min": "10000",
+          "max": "40000",
+          "disponible": "66.72"
         }
       ]
     }
   },
-  "brecha_pct": 19.37
+  "brecha_pct": 19.28
 }
