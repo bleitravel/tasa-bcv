@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-08T03:36:35+00:00",
-  "actualizado_ve": "2026-09-07T23:36:35-04:00",
+  "actualizado_utc": "2026-09-08T04:01:44+00:00",
+  "actualizado_ve": "2026-09-08T00:01:44-04:00",
   "bcv": {
     "usd": 814.6908,
     "eur": 947.29802151,
@@ -10,26 +10,33 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 969.8304,
+    "referencia": 974.374,
     "venta": {
-      "promedio": 969.8304,
-      "minimo": 969.6,
-      "maximo": 970.002,
+      "promedio": 974.374,
+      "minimo": 969.05,
+      "maximo": 982.8,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 970.002,
-          "comerciante": "VISÓN CRIPTØ",
+          "precio": 982.8,
+          "comerciante": "Excharge-Vnzla",
           "min": "1000000",
-          "max": "36450000",
-          "disponible": "4673.45"
+          "max": "4000000",
+          "disponible": "2563.83"
+        },
+        {
+          "precio": 980.22,
+          "comerciante": "User-3077a",
+          "min": "200000",
+          "max": "4000000",
+          "disponible": "9000.00"
         },
         {
           "precio": 970.0,
-          "comerciante": "THE_BOSS_962",
-          "min": "2000000",
-          "max": "36420000",
-          "disponible": "31000.00"
+          "comerciante": "tranfiero-inmediato",
+          "min": "500000",
+          "max": "2428000",
+          "disponible": "2400.00"
         },
         {
           "precio": 969.8,
@@ -39,64 +46,57 @@
           "disponible": "547.96"
         },
         {
-          "precio": 969.75,
-          "comerciante": "贝HarveySpecter贝",
-          "min": "4000000",
-          "max": "36000000",
-          "disponible": "25133.08"
-        },
-        {
-          "precio": 969.6,
-          "comerciante": "RuizJr02",
-          "min": "1000000",
-          "max": "30000000",
-          "disponible": "8100.00"
+          "precio": 969.05,
+          "comerciante": "THEBOSSTRADER",
+          "min": "700000",
+          "max": "22852587",
+          "disponible": "9280.29"
         }
       ]
     },
     "compra": {
-      "promedio": 971.893,
-      "minimo": 970.0,
-      "maximo": 972.6,
+      "promedio": 970.8952,
+      "minimo": 969.0,
+      "maximo": 972.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 970.0,
+          "precio": 969.0,
           "comerciante": "gabo001",
-          "min": "967500",
-          "max": "970000",
+          "min": "966500",
+          "max": "969000",
           "disponible": "997.50"
         },
         {
-          "precio": 971.775,
-          "comerciante": "Darwin_Olmedo_",
-          "min": "97000",
-          "max": "98000",
-          "disponible": "168.07"
-        },
-        {
-          "precio": 972.5,
-          "comerciante": "Vtp2p",
+          "precio": 970.0,
+          "comerciante": "YirbeannysSP",
           "min": "300",
-          "max": "98748",
-          "disponible": "7.24"
+          "max": "120000",
+          "disponible": "5.24"
         },
         {
-          "precio": 972.59,
-          "comerciante": "PAYMENTSPRO",
+          "precio": 971.499,
+          "comerciante": "Roki",
+          "min": "300",
+          "max": "140900",
+          "disponible": "40.32"
+        },
+        {
+          "precio": 971.977,
+          "comerciante": "PedroEspinoza",
+          "min": "48000",
+          "max": "48300",
+          "disponible": "50.06"
+        },
+        {
+          "precio": 972.0,
+          "comerciante": "Eladiocarrion2002",
           "min": "300000",
-          "max": "800000",
-          "disponible": "1005.27"
-        },
-        {
-          "precio": 972.6,
-          "comerciante": "SuperDuko",
-          "min": "100000",
-          "max": "15000000",
-          "disponible": "1340.84"
+          "max": "4000000",
+          "disponible": "857.85"
         }
       ]
     }
   },
-  "brecha_pct": 19.04
+  "brecha_pct": 19.6
 }
