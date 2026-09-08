@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-08T01:02:52+00:00",
-  "actualizado_ve": "2026-09-07T21:02:52-04:00",
+  "actualizado_utc": "2026-09-08T01:35:09+00:00",
+  "actualizado_ve": "2026-09-07T21:35:09-04:00",
   "bcv": {
     "usd": 814.6908,
     "eur": 947.29802151,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 969.43,
+    "referencia": 969.242,
     "venta": {
-      "promedio": 969.43,
-      "minimo": 968.55,
-      "maximo": 972.0,
+      "promedio": 969.242,
+      "minimo": 969.2,
+      "maximo": 969.3,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 972.0,
-          "comerciante": "Blank_Mind",
-          "min": "820000",
-          "max": "36450000",
-          "disponible": "10143.32"
-        },
-        {
-          "precio": 969.0,
+          "precio": 969.3,
           "comerciante": "PEJAGOBLA",
-          "min": "2000000",
-          "max": "36400000",
-          "disponible": "6920.00"
-        },
-        {
-          "precio": 969.0,
-          "comerciante": "IsaBTC-",
           "min": "10000000",
-          "max": "36450000",
+          "max": "36400000",
           "disponible": "80000.00"
         },
         {
-          "precio": 968.6,
-          "comerciante": "Cjm_distribuidor",
-          "min": "1000000",
-          "max": "4000000",
-          "disponible": "28925.06"
-        },
-        {
-          "precio": 968.55,
+          "precio": 969.25,
           "comerciante": "贝HarveySpecter贝",
           "min": "15000000",
           "max": "36000000",
           "disponible": "50000.00"
+        },
+        {
+          "precio": 969.24,
+          "comerciante": "WayneTecnology",
+          "min": "3000000",
+          "max": "34645000",
+          "disponible": "72824.08"
+        },
+        {
+          "precio": 969.22,
+          "comerciante": "VISÓN CRIPTØ",
+          "min": "2000000",
+          "max": "36450000",
+          "disponible": "49901.56"
+        },
+        {
+          "precio": 969.2,
+          "comerciante": "RuizJr02",
+          "min": "1000000",
+          "max": "30000000",
+          "disponible": "6918.29"
         }
       ]
     },
     "compra": {
-      "promedio": 969.5498,
-      "minimo": 969.0,
-      "maximo": 969.9,
+      "promedio": 969.88,
+      "minimo": 969.5,
+      "maximo": 970.0,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 969.0,
-          "comerciante": "Suaveveve",
-          "min": "50000",
-          "max": "602525",
-          "disponible": "567.33"
-        },
         {
           "precio": 969.5,
           "comerciante": "Reycristo",
           "min": "5000",
           "max": "186144",
-          "disponible": "36.81"
-        },
-        {
-          "precio": 969.599,
-          "comerciante": "Fabvsm",
-          "min": "35850",
-          "max": "35900",
-          "disponible": "62.73"
-        },
-        {
-          "precio": 969.75,
-          "comerciante": "VladimirDauttan",
-          "min": "6000",
-          "max": "4000000",
-          "disponible": "6.30"
+          "disponible": "8.67"
         },
         {
           "precio": 969.9,
-          "comerciante": "Danielajcg",
-          "min": "1000",
-          "max": "81000",
-          "disponible": "1.60"
+          "comerciante": "Alfonso124",
+          "min": "100810",
+          "max": "101830",
+          "disponible": "104.73"
+        },
+        {
+          "precio": 970.0,
+          "comerciante": "CambiosJDFV",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "4.73"
+        },
+        {
+          "precio": 970.0,
+          "comerciante": "Gabym3012",
+          "min": "10000",
+          "max": "198000",
+          "disponible": "11.73"
+        },
+        {
+          "precio": 970.0,
+          "comerciante": "JuanCarmona98",
+          "min": "5000",
+          "max": "30000",
+          "disponible": "52.57"
         }
       ]
     }
   },
-  "brecha_pct": 18.99
+  "brecha_pct": 18.97
 }
