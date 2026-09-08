@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-08T15:37:43+00:00",
-  "actualizado_ve": "2026-09-08T11:37:43-04:00",
+  "actualizado_utc": "2026-09-08T16:02:24+00:00",
+  "actualizado_ve": "2026-09-08T12:02:24-04:00",
   "bcv": {
     "usd": 814.6908,
     "eur": 947.29802151,
@@ -10,56 +10,70 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 969.8446,
+    "referencia": 969.822,
     "venta": {
-      "promedio": 969.8446,
-      "minimo": 969.501,
-      "maximo": 970.2,
+      "promedio": 969.822,
+      "minimo": 969.71,
+      "maximo": 970.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 970.2,
-          "comerciante": "Money77ves",
-          "min": "3912039",
+          "precio": 970.0,
+          "comerciante": "-Tyrion-Lannister-",
+          "min": "10000000",
           "max": "36450000",
-          "disponible": "4033.23"
+          "disponible": "38500.06"
         },
         {
-          "precio": 970.0,
-          "comerciante": "安全与信任",
-          "min": "37000000",
-          "max": "500000000",
-          "disponible": "45300.00"
+          "precio": 969.8,
+          "comerciante": "Blank_Mind",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "10989.68"
         },
         {
-          "precio": 970.0,
-          "comerciante": "LAZER1406",
-          "min": "800000",
-          "max": "4000000",
-          "disponible": "12185.00"
-        },
-        {
-          "precio": 969.522,
-          "comerciante": "加密操作",
-          "min": "3000000",
+          "precio": 969.8,
+          "comerciante": "CoorpLogistic",
+          "min": "10000000",
           "max": "36000000",
-          "disponible": "66243.48"
+          "disponible": "35000.00"
         },
         {
-          "precio": 969.501,
-          "comerciante": "TuPesadilla008",
-          "min": "1500000",
+          "precio": 969.8,
+          "comerciante": "活着的价值",
+          "min": "2000000",
           "max": "36450000",
-          "disponible": "4746.73"
+          "disponible": "14266.84"
+        },
+        {
+          "precio": 969.71,
+          "comerciante": "_Vortex12_",
+          "min": "2000000",
+          "max": "36450000",
+          "disponible": "19625.54"
         }
       ]
     },
     "compra": {
-      "promedio": 967.8998,
-      "minimo": 967.499,
-      "maximo": 968.0,
+      "promedio": 967.6998,
+      "minimo": 967.0,
+      "maximo": 969.0,
       "anuncios_usados": 5,
       "anuncios": [
+        {
+          "precio": 967.0,
+          "comerciante": "Juancbravo",
+          "min": "300",
+          "max": "386800",
+          "disponible": "0.88"
+        },
+        {
+          "precio": 967.0,
+          "comerciante": "jt rider",
+          "min": "350000",
+          "max": "500000",
+          "disponible": "448.87"
+        },
         {
           "precio": 967.499,
           "comerciante": "Cambiadores",
@@ -69,31 +83,17 @@
         },
         {
           "precio": 968.0,
-          "comerciante": "Yogil",
-          "min": "50000",
-          "max": "4000000",
-          "disponible": "499.46"
-        },
-        {
-          "precio": 968.0,
-          "comerciante": "WJ_AL16",
-          "min": "10000",
-          "max": "296343",
-          "disponible": "16.15"
-        },
-        {
-          "precio": 968.0,
           "comerciante": "GlovalValoresCambios",
           "min": "1000",
           "max": "400000",
-          "disponible": "8.25"
+          "disponible": "1.52"
         },
         {
-          "precio": 968.0,
-          "comerciante": "DanielGC23",
-          "min": "20000",
+          "precio": 969.0,
+          "comerciante": "FASTEREXCHAGE",
+          "min": "300",
           "max": "4000000",
-          "disponible": "299.25"
+          "disponible": "0.31"
         }
       ]
     }
