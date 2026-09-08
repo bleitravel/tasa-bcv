@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-08T08:37:31+00:00",
-  "actualizado_ve": "2026-09-08T04:37:31-04:00",
+  "actualizado_utc": "2026-09-08T09:02:11+00:00",
+  "actualizado_ve": "2026-09-08T05:02:11-04:00",
   "bcv": {
     "usd": 814.6908,
     "eur": 947.29802151,
@@ -36,7 +36,7 @@
           "comerciante": "Leonlopez12",
           "min": "500000",
           "max": "2000000",
-          "disponible": "2200.00"
+          "disponible": "1350.77"
         },
         {
           "precio": 967.0,
@@ -93,7 +93,7 @@
           "comerciante": "Freddie-Mercury",
           "min": "20000",
           "max": "1000000",
-          "disponible": "349.12"
+          "disponible": "164.13"
         }
       ]
     }
