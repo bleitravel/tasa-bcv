@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-08T19:33:52+00:00",
-  "actualizado_ve": "2026-09-08T15:33:52-04:00",
+  "actualizado_utc": "2026-09-08T20:02:03+00:00",
+  "actualizado_ve": "2026-09-08T16:02:03-04:00",
   "bcv": {
     "usd": 814.6908,
     "eur": 947.29802151,
@@ -10,77 +10,56 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 968.7198,
+    "referencia": 967.6198,
     "venta": {
-      "promedio": 968.7198,
-      "minimo": 967.0,
-      "maximo": 972.0,
+      "promedio": 967.6198,
+      "minimo": 966.5,
+      "maximo": 970.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 972.0,
+          "precio": 970.0,
           "comerciante": "Blank_Mind",
           "min": "1000000",
           "max": "36450000",
-          "disponible": "38866.93"
+          "disponible": "66622.69"
         },
         {
-          "precio": 970.0,
-          "comerciante": "serranoj87",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "5500.00"
+          "precio": 968.0,
+          "comerciante": "Trust-Broker",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "50000.00"
         },
         {
-          "precio": 967.599,
+          "precio": 967.0,
+          "comerciante": "FTAIRG",
+          "min": "200000",
+          "max": "2583699",
+          "disponible": "249.48"
+        },
+        {
+          "precio": 966.599,
           "comerciante": "-Syria1264-",
           "min": "3000000",
           "max": "36450000",
-          "disponible": "9229.25"
+          "disponible": "11662.10"
         },
         {
-          "precio": 967.0,
-          "comerciante": "Alexa79",
-          "min": "800000",
-          "max": "4000000",
-          "disponible": "15098.21"
-        },
-        {
-          "precio": 967.0,
-          "comerciante": "CambiosMZ",
-          "min": "2000000",
-          "max": "36450000",
-          "disponible": "68067.32"
+          "precio": 966.5,
+          "comerciante": "安全与信任",
+          "min": "1000000",
+          "max": "36000000",
+          "disponible": "3575.86"
         }
       ]
     },
     "compra": {
-      "promedio": 966.1598,
-      "minimo": 966.0,
-      "maximo": 966.5,
+      "promedio": 966.8196,
+      "minimo": 966.299,
+      "maximo": 967.0,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 966.0,
-          "comerciante": "SPAICER",
-          "min": "320",
-          "max": "877000",
-          "disponible": "0.34"
-        },
-        {
-          "precio": 966.0,
-          "comerciante": "MKambios",
-          "min": "160000",
-          "max": "4000000",
-          "disponible": "598.50"
-        },
-        {
-          "precio": 966.0,
-          "comerciante": "MARKOS55",
-          "min": "90000",
-          "max": "4000000",
-          "disponible": "99.75"
-        },
         {
           "precio": 966.299,
           "comerciante": "VelociCambiosMx",
@@ -89,14 +68,35 @@
           "disponible": "102.89"
         },
         {
-          "precio": 966.5,
-          "comerciante": "Armonymx",
-          "min": "95999",
-          "max": "96000",
-          "disponible": "99.75"
+          "precio": 966.9,
+          "comerciante": "Broker Trader",
+          "min": "19300",
+          "max": "19301",
+          "disponible": "104.73"
+        },
+        {
+          "precio": 966.9,
+          "comerciante": "greivercambios",
+          "min": "1000",
+          "max": "96700",
+          "disponible": "99.98"
+        },
+        {
+          "precio": 966.999,
+          "comerciante": "Samuel Jair",
+          "min": "300",
+          "max": "3500",
+          "disponible": "100.15"
+        },
+        {
+          "precio": 967.0,
+          "comerciante": "IGlobalHouse",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "34.03"
         }
       ]
     }
   },
-  "brecha_pct": 18.91
+  "brecha_pct": 18.77
 }
