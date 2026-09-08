@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-08T02:36:03+00:00",
-  "actualizado_ve": "2026-09-07T22:36:03-04:00",
+  "actualizado_utc": "2026-09-08T03:01:50+00:00",
+  "actualizado_ve": "2026-09-07T23:01:50-04:00",
   "bcv": {
     "usd": 814.6908,
     "eur": 947.29802151,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 970.9276,
+    "referencia": 971.813,
     "venta": {
-      "promedio": 970.9276,
-      "minimo": 969.75,
+      "promedio": 971.813,
+      "minimo": 971.0,
       "maximo": 973.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -22,42 +22,42 @@
           "comerciante": "AndresRoa03",
           "min": "100000",
           "max": "4000000",
-          "disponible": "2441.70"
+          "disponible": "188.11"
         },
         {
-          "precio": 972.0,
-          "comerciante": "PEJAGOBLA",
-          "min": "5000000",
-          "max": "36400000",
-          "disponible": "62548.07"
+          "precio": 973.0,
+          "comerciante": "GAZA_CRIPTO",
+          "min": "7000000",
+          "max": "36450000",
+          "disponible": "9482.20"
         },
         {
-          "precio": 970.0,
-          "comerciante": "HectorB",
-          "min": "2000000",
-          "max": "36000000",
-          "disponible": "68151.42"
-        },
-        {
-          "precio": 969.888,
-          "comerciante": "LAZER1406",
-          "min": "399108",
-          "max": "399150",
-          "disponible": "411.50"
-        },
-        {
-          "precio": 969.75,
-          "comerciante": "RapidPago94",
+          "precio": 971.06,
+          "comerciante": "永不放棄",
           "min": "1000000",
-          "max": "4000000",
-          "disponible": "22806.60"
+          "max": "36450000",
+          "disponible": "22423.03"
+        },
+        {
+          "precio": 971.005,
+          "comerciante": "-Tyrion-Lannister-",
+          "min": "1000000",
+          "max": "36450000",
+          "disponible": "2891.45"
+        },
+        {
+          "precio": 971.0,
+          "comerciante": "HectorB",
+          "min": "1000000",
+          "max": "36000000",
+          "disponible": "10942.43"
         }
       ]
     },
     "compra": {
-      "promedio": 971.278,
+      "promedio": 970.464,
       "minimo": 970.0,
-      "maximo": 971.9,
+      "maximo": 971.32,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "99.75"
         },
         {
-          "precio": 971.19,
-          "comerciante": "DonCarmine-",
-          "min": "20000",
-          "max": "400000",
-          "disponible": "389.06"
-        },
-        {
-          "precio": 971.5,
-          "comerciante": "P2PLedex",
-          "min": "20000",
-          "max": "46000",
-          "disponible": "103.40"
-        },
-        {
-          "precio": 971.8,
-          "comerciante": "enjeramo",
-          "min": "150000",
+          "precio": 970.0,
+          "comerciante": "FlashCoinn",
+          "min": "10000",
           "max": "4000000",
-          "disponible": "279.30"
+          "disponible": "55.25"
         },
         {
-          "precio": 971.9,
-          "comerciante": "ELSOSO",
-          "min": "500000",
-          "max": "36450000",
-          "disponible": "729.46"
+          "precio": 970.0,
+          "comerciante": "IGlobalHouse",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "0.39"
+        },
+        {
+          "precio": 971.0,
+          "comerciante": "TOYITA",
+          "min": "274560",
+          "max": "275000",
+          "disponible": "282.76"
+        },
+        {
+          "precio": 971.32,
+          "comerciante": "Johanvq",
+          "min": "18000",
+          "max": "18500",
+          "disponible": "99.75"
         }
       ]
     }
   },
-  "brecha_pct": 19.18
+  "brecha_pct": 19.29
 }
