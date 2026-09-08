@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-08T17:02:03+00:00",
-  "actualizado_ve": "2026-09-08T13:02:03-04:00",
+  "actualizado_utc": "2026-09-08T17:34:13+00:00",
+  "actualizado_ve": "2026-09-08T13:34:13-04:00",
   "bcv": {
     "usd": 814.6908,
     "eur": 947.29802151,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 970.102,
+    "referencia": 969.4,
     "venta": {
-      "promedio": 970.102,
-      "minimo": 969.01,
+      "promedio": 969.4,
+      "minimo": 968.5,
       "maximo": 972.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -22,81 +22,81 @@
           "comerciante": "Blank_Mind",
           "min": "1500000",
           "max": "36450000",
-          "disponible": "80000.00"
+          "disponible": "72255.00"
         },
         {
-          "precio": 970.0,
+          "precio": 969.0,
           "comerciante": "Trust-Broker",
           "min": "3000000",
           "max": "36450000",
-          "disponible": "46907.22"
+          "disponible": "34778.13"
         },
         {
-          "precio": 970.0,
-          "comerciante": "GARD_13",
-          "min": "2000000",
+          "precio": 969.0,
+          "comerciante": "LantzAvance",
+          "min": "800000",
           "max": "4000000",
-          "disponible": "10000.00"
+          "disponible": "7016.78"
         },
         {
-          "precio": 969.5,
-          "comerciante": "USDTFASTTT",
-          "min": "5000000",
-          "max": "36450000",
-          "disponible": "27909.71"
+          "precio": 968.5,
+          "comerciante": "Proca_vnzla",
+          "min": "970000",
+          "max": "4000000",
+          "disponible": "5689.61"
         },
         {
-          "precio": 969.01,
-          "comerciante": "Bull_Rrun_Trading",
-          "min": "1501000",
-          "max": "36000000",
-          "disponible": "7771.06"
+          "precio": 968.5,
+          "comerciante": "EAchange",
+          "min": "1500000",
+          "max": "2550000",
+          "disponible": "2650.00"
         }
       ]
     },
     "compra": {
-      "promedio": 969.1512,
-      "minimo": 968.879,
-      "maximo": 969.877,
+      "promedio": 969.0576,
+      "minimo": 968.0,
+      "maximo": 969.788,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 968.879,
-          "comerciante": "edjaen",
-          "min": "14999",
-          "max": "15000",
-          "disponible": "102.73"
-        },
-        {
-          "precio": 969.0,
-          "comerciante": "FASTEREXCHAGE",
+          "precio": 968.0,
+          "comerciante": "User-48ed540y",
           "min": "300",
-          "max": "4000000",
-          "disponible": "0.31"
+          "max": "97329",
+          "disponible": "4.23"
         },
         {
           "precio": 969.0,
-          "comerciante": "cambiosjuancho",
-          "min": "90000",
-          "max": "97000",
+          "comerciante": "User-ec0e1",
+          "min": "50000",
+          "max": "193800",
+          "disponible": "109.54"
+        },
+        {
+          "precio": 969.0,
+          "comerciante": "Gatsby_24",
+          "min": "36450000",
+          "max": "500000000",
+          "disponible": "312398.63"
+        },
+        {
+          "precio": 969.5,
+          "comerciante": "CryptoJotaEnvios",
+          "min": "83900",
+          "max": "83950",
           "disponible": "99.75"
         },
         {
-          "precio": 969.0,
-          "comerciante": "José Gabrieljc",
-          "min": "15000",
-          "max": "135660",
-          "disponible": "97.62"
-        },
-        {
-          "precio": 969.877,
-          "comerciante": "CambiosLaReinaGR",
-          "min": "1000",
-          "max": "77700",
-          "disponible": "88.32"
+          "precio": 969.788,
+          "comerciante": "StarBusiness2",
+          "min": "2000000",
+          "max": "10000000",
+          "disponible": "9810.78"
         }
       ]
     }
   },
-  "brecha_pct": 19.08
+  "brecha_pct": 18.99
 }
