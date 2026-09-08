@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-08T08:01:56+00:00",
-  "actualizado_ve": "2026-09-08T04:01:56-04:00",
+  "actualizado_utc": "2026-09-08T08:37:31+00:00",
+  "actualizado_ve": "2026-09-08T04:37:31-04:00",
   "bcv": {
     "usd": 814.6908,
     "eur": 947.29802151,
@@ -10,20 +10,13 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 971.744,
+    "referencia": 967.1,
     "venta": {
-      "promedio": 971.744,
+      "promedio": 967.1,
       "minimo": 967.0,
-      "maximo": 990.22,
+      "maximo": 967.5,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 990.22,
-          "comerciante": "User-3077a",
-          "min": "200000",
-          "max": "1000000",
-          "disponible": "2403.63"
-        },
         {
           "precio": 967.5,
           "comerciante": "你就变得更强",
@@ -51,6 +44,13 @@
           "min": "36450000",
           "max": "37000000",
           "disponible": "45700.09"
+        },
+        {
+          "precio": 967.0,
+          "comerciante": "Dekar13",
+          "min": "100000",
+          "max": "2770000",
+          "disponible": "2641.63"
         }
       ]
     },
@@ -65,7 +65,7 @@
           "comerciante": "jesusvanegas",
           "min": "972000",
           "max": "2916000",
-          "disponible": "2992.51"
+          "disponible": "1963.72"
         },
         {
           "precio": 972.9,
@@ -90,13 +90,13 @@
         },
         {
           "precio": 973.0,
-          "comerciante": "kront",
-          "min": "10000",
-          "max": "40000",
-          "disponible": "64.84"
+          "comerciante": "Freddie-Mercury",
+          "min": "20000",
+          "max": "1000000",
+          "disponible": "349.12"
         }
       ]
     }
   },
-  "brecha_pct": 19.28
+  "brecha_pct": 18.71
 }
