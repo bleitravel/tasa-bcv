@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-08T10:01:40+00:00",
-  "actualizado_ve": "2026-09-08T06:01:40-04:00",
+  "actualizado_utc": "2026-09-08T10:36:20+00:00",
+  "actualizado_ve": "2026-09-08T06:36:20-04:00",
   "bcv": {
     "usd": 814.6908,
     "eur": 947.29802151,
@@ -10,62 +10,62 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 968.7422,
+    "referencia": 968.0406,
     "venta": {
-      "promedio": 968.7422,
-      "minimo": 967.501,
-      "maximo": 970.0,
+      "promedio": 968.0406,
+      "minimo": 967.8,
+      "maximo": 968.152,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 970.0,
-          "comerciante": "ANT_QUI",
-          "min": "12000",
-          "max": "280000",
-          "disponible": "22.23"
+          "precio": 968.152,
+          "comerciante": "CambiosJDMartinez",
+          "min": "50000",
+          "max": "4000000",
+          "disponible": "164.11"
         },
         {
-          "precio": 969.1,
-          "comerciante": "Yesi_Titular",
-          "min": "110000",
-          "max": "131335",
-          "disponible": "193.46"
+          "precio": 968.15,
+          "comerciante": "AENETEACHEOENEYE",
+          "min": "500000",
+          "max": "6421383",
+          "disponible": "1861.29"
         },
         {
-          "precio": 968.56,
-          "comerciante": "Céfiro Confianzaplena",
-          "min": "1000000",
-          "max": "1963000",
-          "disponible": "2025.00"
+          "precio": 968.051,
+          "comerciante": "TH3K1NGP2P",
+          "min": "200000",
+          "max": "7451000",
+          "disponible": "1025.88"
         },
         {
-          "precio": 968.55,
+          "precio": 968.05,
           "comerciante": "CambiosPay",
           "min": "200000",
           "max": "4000000",
-          "disponible": "2314.75"
+          "disponible": "3518.54"
         },
         {
-          "precio": 967.501,
-          "comerciante": "AngelFlashVen",
+          "precio": 967.8,
+          "comerciante": "NovaCambio",
           "min": "100000",
-          "max": "1000000",
-          "disponible": "3015.57"
+          "max": "1600000",
+          "disponible": "2170.00"
         }
       ]
     },
     "compra": {
-      "promedio": 971.78,
+      "promedio": 972.1462,
       "minimo": 970.0,
-      "maximo": 972.9,
+      "maximo": 972.931,
       "anuncios_usados": 5,
       "anuncios": [
         {
           "precio": 970.0,
-          "comerciante": "ACRDA",
-          "min": "500",
-          "max": "30000",
-          "disponible": "99.75"
+          "comerciante": "P2P-522016xl",
+          "min": "10000",
+          "max": "400000",
+          "disponible": "393.70"
         },
         {
           "precio": 972.0,
@@ -75,28 +75,28 @@
           "disponible": "1963.72"
         },
         {
-          "precio": 972.0,
-          "comerciante": "COMERCIO_SEGURO03",
-          "min": "500000",
-          "max": "36450000",
-          "disponible": "617.00"
-        },
-        {
-          "precio": 972.0,
-          "comerciante": "aibarr01",
-          "min": "25000",
-          "max": "27000",
-          "disponible": "99.75"
-        },
-        {
           "precio": 972.9,
           "comerciante": "ArepaConCafe",
           "min": "36450000",
           "max": "200000000",
           "disponible": "43883.29"
+        },
+        {
+          "precio": 972.9,
+          "comerciante": "Deivis",
+          "min": "50000",
+          "max": "2456320",
+          "disponible": "1756.88"
+        },
+        {
+          "precio": 972.931,
+          "comerciante": "Trabso",
+          "min": "50000",
+          "max": "1040000",
+          "disponible": "199.31"
         }
       ]
     }
   },
-  "brecha_pct": 18.91
+  "brecha_pct": 18.82
 }
