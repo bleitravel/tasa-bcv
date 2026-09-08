@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-08T09:02:11+00:00",
-  "actualizado_ve": "2026-09-08T05:02:11-04:00",
+  "actualizado_utc": "2026-09-08T09:36:20+00:00",
+  "actualizado_ve": "2026-09-08T05:36:20-04:00",
   "bcv": {
     "usd": 814.6908,
     "eur": 947.29802151,
@@ -10,62 +10,76 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 967.1,
+    "referencia": 968.0222,
     "venta": {
-      "promedio": 967.1,
-      "minimo": 967.0,
-      "maximo": 967.5,
+      "promedio": 968.0222,
+      "minimo": 967.501,
+      "maximo": 968.5,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 967.5,
-          "comerciante": "你就变得更强",
-          "min": "900000",
-          "max": "36450000",
-          "disponible": "43500.00"
+          "precio": 968.5,
+          "comerciante": "Mr Day Leo",
+          "min": "150000",
+          "max": "1000000",
+          "disponible": "1478.00"
         },
         {
-          "precio": 967.0,
-          "comerciante": "El Sexy",
-          "min": "2000000",
-          "max": "2901000",
-          "disponible": "3000.00"
+          "precio": 968.11,
+          "comerciante": "CambiosPay",
+          "min": "200000",
+          "max": "4000000",
+          "disponible": "3640.60"
         },
         {
-          "precio": 967.0,
-          "comerciante": "Leonlopez12",
-          "min": "500000",
-          "max": "2000000",
-          "disponible": "1350.77"
+          "precio": 968.0,
+          "comerciante": "ChP27",
+          "min": "193000",
+          "max": "193500",
+          "disponible": "200.00"
         },
         {
-          "precio": 967.0,
-          "comerciante": "Josebat23",
-          "min": "36450000",
-          "max": "37000000",
-          "disponible": "45700.09"
+          "precio": 968.0,
+          "comerciante": "Yesi_Titular",
+          "min": "110000",
+          "max": "1919899",
+          "disponible": "1936.61"
         },
         {
-          "precio": 967.0,
-          "comerciante": "Dekar13",
-          "min": "100000",
-          "max": "2770000",
-          "disponible": "2641.63"
+          "precio": 967.501,
+          "comerciante": "User-e2da5",
+          "min": "90000",
+          "max": "1035000",
+          "disponible": "357.35"
         }
       ]
     },
     "compra": {
-      "promedio": 972.7796,
-      "minimo": 972.0,
-      "maximo": 973.0,
+      "promedio": 972.3792,
+      "minimo": 971.998,
+      "maximo": 972.998,
       "anuncios_usados": 5,
       "anuncios": [
+        {
+          "precio": 971.998,
+          "comerciante": "WilhelmPay",
+          "min": "50000",
+          "max": "577863",
+          "disponible": "593.02"
+        },
         {
           "precio": 972.0,
           "comerciante": "jesusvanegas",
           "min": "972000",
           "max": "2916000",
           "disponible": "1963.72"
+        },
+        {
+          "precio": 972.0,
+          "comerciante": "COMERCIO_SEGURO03",
+          "min": "500000",
+          "max": "36450000",
+          "disponible": "1896.20"
         },
         {
           "precio": 972.9,
@@ -80,23 +94,9 @@
           "min": "36450000",
           "max": "500000000",
           "disponible": "68375.32"
-        },
-        {
-          "precio": 973.0,
-          "comerciante": "ycambio13",
-          "min": "900000",
-          "max": "1700000",
-          "disponible": "1552.85"
-        },
-        {
-          "precio": 973.0,
-          "comerciante": "Freddie-Mercury",
-          "min": "20000",
-          "max": "1000000",
-          "disponible": "164.13"
         }
       ]
     }
   },
-  "brecha_pct": 18.71
+  "brecha_pct": 18.82
 }
