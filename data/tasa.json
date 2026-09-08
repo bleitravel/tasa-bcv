@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-08T00:02:23+00:00",
-  "actualizado_ve": "2026-09-07T20:02:23-04:00",
+  "actualizado_utc": "2026-09-08T00:43:51+00:00",
+  "actualizado_ve": "2026-09-07T20:43:51-04:00",
   "bcv": {
     "usd": 814.6908,
     "eur": 947.29802151,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 968.8908,
+    "referencia": 969.258,
     "venta": {
-      "promedio": 968.8908,
-      "minimo": 968.004,
+      "promedio": 969.258,
+      "minimo": 968.39,
       "maximo": 972.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
           "precio": 972.0,
           "comerciante": "Blank_Mind",
-          "min": "1400000",
+          "min": "820000",
           "max": "36450000",
-          "disponible": "10929.20"
+          "disponible": "15797.16"
         },
         {
-          "precio": 968.3,
-          "comerciante": "PEJAGOBLA",
+          "precio": 969.0,
+          "comerciante": "CROMOSOMA-21",
           "min": "10000000",
-          "max": "36400000",
-          "disponible": "77157.53"
-        },
-        {
-          "precio": 968.1,
-          "comerciante": "HectorB",
-          "min": "7000000",
-          "max": "36000000",
-          "disponible": "64700.06"
-        },
-        {
-          "precio": 968.05,
-          "comerciante": "IsaBTC-",
-          "min": "5000000",
           "max": "36450000",
-          "disponible": "44032.47"
+          "disponible": "80000.00"
         },
         {
-          "precio": 968.004,
-          "comerciante": "IA_CORPORATE",
+          "precio": 968.5,
+          "comerciante": "Money77ves",
+          "min": "10000000",
+          "max": "36450000",
+          "disponible": "54000.00"
+        },
+        {
+          "precio": 968.4,
+          "comerciante": "WayneTecnology",
           "min": "3000000",
-          "max": "36400000",
-          "disponible": "13677.01"
+          "max": "34645000",
+          "disponible": "48450.02"
+        },
+        {
+          "precio": 968.39,
+          "comerciante": "王冠__你们的头",
+          "min": "3000000",
+          "max": "36450000",
+          "disponible": "51804.40"
         }
       ]
     },
     "compra": {
-      "promedio": 967.4582,
-      "minimo": 966.0,
-      "maximo": 968.2,
+      "promedio": 968.3318,
+      "minimo": 965.0,
+      "maximo": 969.9,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 966.0,
-          "comerciante": "tucambioseguro",
-          "min": "100000",
-          "max": "4000000",
-          "disponible": "299.25"
+          "precio": 965.0,
+          "comerciante": "CriptoAleM",
+          "min": "550000",
+          "max": "600000",
+          "disponible": "1060.34"
         },
         {
-          "precio": 967.001,
-          "comerciante": "gelittle1980",
-          "min": "5000",
-          "max": "10001",
-          "disponible": "84.35"
+          "precio": 968.009,
+          "comerciante": "yeferCambios",
+          "min": "9374",
+          "max": "9424",
+          "disponible": "99.75"
         },
         {
-          "precio": 968.0,
+          "precio": 969.0,
           "comerciante": "Suaveveve",
           "min": "50000",
           "max": "602525",
-          "disponible": "618.97"
+          "disponible": "567.33"
         },
         {
-          "precio": 968.09,
-          "comerciante": "Globalbusinessmxsss",
-          "min": "205503",
-          "max": "205504",
-          "disponible": "212.46"
-        },
-        {
-          "precio": 968.2,
-          "comerciante": "Cambiosenlinea_",
-          "min": "800000",
+          "precio": 969.75,
+          "comerciante": "VladimirDauttan",
+          "min": "6000",
           "max": "4000000",
-          "disponible": "983.54"
+          "disponible": "6.30"
+        },
+        {
+          "precio": 969.9,
+          "comerciante": "Danielajcg",
+          "min": "1000",
+          "max": "81000",
+          "disponible": "1.60"
         }
       ]
     }
   },
-  "brecha_pct": 18.93
+  "brecha_pct": 18.97
 }
