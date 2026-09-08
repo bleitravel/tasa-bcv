@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-08T18:38:49+00:00",
-  "actualizado_ve": "2026-09-08T14:38:49-04:00",
+  "actualizado_utc": "2026-09-08T19:02:30+00:00",
+  "actualizado_ve": "2026-09-08T15:02:30-04:00",
   "bcv": {
     "usd": 814.6908,
     "eur": 947.29802151,
@@ -22,78 +22,78 @@
           "comerciante": "La-Tia-Mema",
           "min": "2000000",
           "max": "36450000",
-          "disponible": "73845.62"
+          "disponible": "56412.52"
         },
         {
           "precio": 972.0,
           "comerciante": "Blank_Mind",
           "min": "1000000",
           "max": "36450000",
-          "disponible": "56207.34"
+          "disponible": "49202.95"
         },
         {
           "precio": 970.0,
           "comerciante": "JAG_CRIPTO",
           "min": "1000000",
           "max": "1540000",
-          "disponible": "3000.00"
-        },
-        {
-          "precio": 968.0,
-          "comerciante": "LantzAvance",
-          "min": "600000",
-          "max": "4000000",
-          "disponible": "4205.85"
+          "disponible": "1954.06"
         },
         {
           "precio": 968.0,
           "comerciante": "FTAIRG",
           "min": "300000",
           "max": "2583699",
-          "disponible": "2669.00"
+          "disponible": "1804.53"
+        },
+        {
+          "precio": 968.0,
+          "comerciante": "-Syria1264-",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "16963.13"
         }
       ]
     },
     "compra": {
-      "promedio": 965.7378,
-      "minimo": 965.0,
-      "maximo": 966.19,
+      "promedio": 965.0,
+      "minimo": 960.8,
+      "maximo": 966.2,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 965.0,
-          "comerciante": "El soberano26",
+          "precio": 960.8,
+          "comerciante": "Saturcros",
+          "min": "50000",
+          "max": "500000",
+          "disponible": "1268.46"
+        },
+        {
+          "precio": 966.0,
+          "comerciante": "Cambiosyg",
           "min": "300",
-          "max": "4000",
-          "disponible": "138.44"
-        },
-        {
-          "precio": 965.499,
-          "comerciante": "LEMONCHANGE",
-          "min": "150000",
-          "max": "400000",
-          "disponible": "843.53"
+          "max": "4000000",
+          "disponible": "1.17"
         },
         {
           "precio": 966.0,
-          "comerciante": "Avrisiel",
-          "min": "500000",
-          "max": "600000",
-          "disponible": "545.92"
+          "comerciante": "P4P4L3T4",
+          "min": "50000",
+          "max": "193200",
+          "disponible": "54.58"
         },
         {
           "precio": 966.0,
-          "comerciante": "J17CS",
-          "min": "5000000",
-          "max": "36450000",
-          "disponible": "8691.20"
+          "comerciante": "nene",
+          "min": "98000",
+          "max": "10000000",
+          "disponible": "102.48"
         },
         {
-          "precio": 966.19,
-          "comerciante": "AlfaTrader21",
-          "min": "1000000",
-          "max": "2000000",
-          "disponible": "1531.56"
+          "precio": 966.2,
+          "comerciante": "Nemec22",
+          "min": "6000",
+          "max": "18000",
+          "disponible": "148.40"
         }
       ]
     }
