@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-08T14:37:41+00:00",
-  "actualizado_ve": "2026-09-08T10:37:41-04:00",
+  "actualizado_utc": "2026-09-08T15:03:31+00:00",
+  "actualizado_ve": "2026-09-08T11:03:31-04:00",
   "bcv": {
     "usd": 814.6908,
     "eur": 947.29802151,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 967.508,
+    "referencia": 968.7226,
     "venta": {
-      "promedio": 967.508,
-      "minimo": 966.52,
-      "maximo": 970.15,
+      "promedio": 968.7226,
+      "minimo": 968.005,
+      "maximo": 969.307,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 970.15,
-          "comerciante": "User-17899",
-          "min": "300000",
-          "max": "1900000",
-          "disponible": "527.27"
+          "precio": 969.307,
+          "comerciante": "Omega Fitness Center",
+          "min": "1000000",
+          "max": "4000000",
+          "disponible": "1766.71"
         },
         {
-          "precio": 967.17,
-          "comerciante": "Trust-Broker",
-          "min": "2000000",
+          "precio": 969.1,
+          "comerciante": "-AMATERATSU-",
+          "min": "15000000",
           "max": "36450000",
-          "disponible": "27309.51"
+          "disponible": "80000.00"
         },
         {
-          "precio": 967.0,
+          "precio": 969.001,
+          "comerciante": "TH3K1NGP2P",
+          "min": "15000000",
+          "max": "36450000",
+          "disponible": "80000.00"
+        },
+        {
+          "precio": 968.2,
           "comerciante": "Money77ves",
           "min": "12000000",
           "max": "36450000",
-          "disponible": "65000.06"
+          "disponible": "27200.00"
         },
         {
-          "precio": 966.7,
-          "comerciante": "angelchacon",
-          "min": "9000000",
+          "precio": 968.005,
+          "comerciante": "Trust-Broker",
+          "min": "2000000",
           "max": "36450000",
-          "disponible": "72294.53"
-        },
-        {
-          "precio": 966.52,
-          "comerciante": "Inversiones-ADSC",
-          "min": "15000000",
-          "max": "36450000",
-          "disponible": "44028.03"
+          "disponible": "30000.00"
         }
       ]
     },
     "compra": {
-      "promedio": 966.48,
-      "minimo": 966.0,
-      "maximo": 966.9,
+      "promedio": 966.0598,
+      "minimo": 965.9,
+      "maximo": 966.399,
       "anuncios_usados": 5,
       "anuncios": [
+        {
+          "precio": 965.9,
+          "comerciante": "tucambioseguro",
+          "min": "96000",
+          "max": "4000000",
+          "disponible": "399.00"
+        },
         {
           "precio": 966.0,
           "comerciante": "VeroJerez",
           "min": "300",
           "max": "162747",
-          "disponible": "1.71"
+          "disponible": "0.71"
         },
         {
-          "precio": 966.1,
-          "comerciante": "Cambios_LaNiche",
-          "min": "94569",
-          "max": "95364",
-          "disponible": "199.50"
+          "precio": 966.0,
+          "comerciante": "andry0212",
+          "min": "17175",
+          "max": "17176",
+          "disponible": "99.75"
         },
         {
-          "precio": 966.5,
-          "comerciante": "REMESALEAL",
-          "min": "5000",
+          "precio": 966.0,
+          "comerciante": "Jorgeperez79",
+          "min": "80000",
           "max": "4000000",
-          "disponible": "49.06"
+          "disponible": "99.96"
         },
         {
-          "precio": 966.9,
-          "comerciante": "WeSm23",
-          "min": "5000",
-          "max": "4000000",
-          "disponible": "62.19"
-        },
-        {
-          "precio": 966.9,
-          "comerciante": "P2P_CAMBIOS_SEGUROS_RR",
-          "min": "20000",
-          "max": "429000",
-          "disponible": "272.19"
+          "precio": 966.399,
+          "comerciante": "Esthefa14",
+          "min": "10000",
+          "max": "20000",
+          "disponible": "89.41"
         }
       ]
     }
   },
-  "brecha_pct": 18.76
+  "brecha_pct": 18.91
 }
