@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-08T02:02:02+00:00",
-  "actualizado_ve": "2026-09-07T22:02:02-04:00",
+  "actualizado_utc": "2026-09-08T02:36:03+00:00",
+  "actualizado_ve": "2026-09-07T22:36:03-04:00",
   "bcv": {
     "usd": 814.6908,
     "eur": 947.29802151,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 969.7922,
+    "referencia": 970.9276,
     "venta": {
-      "promedio": 969.7922,
-      "minimo": 969.6,
-      "maximo": 970.001,
+      "promedio": 970.9276,
+      "minimo": 969.75,
+      "maximo": 973.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 970.001,
-          "comerciante": "贝HarveySpecter贝",
-          "min": "6000000",
-          "max": "36000000",
-          "disponible": "59282.08"
+          "precio": 973.0,
+          "comerciante": "AndresRoa03",
+          "min": "100000",
+          "max": "4000000",
+          "disponible": "2441.70"
+        },
+        {
+          "precio": 972.0,
+          "comerciante": "PEJAGOBLA",
+          "min": "5000000",
+          "max": "36400000",
+          "disponible": "62548.07"
         },
         {
           "precio": 970.0,
-          "comerciante": "PEJAGOBLA",
-          "min": "10000000",
-          "max": "36400000",
-          "disponible": "65596.89"
-        },
-        {
-          "precio": 969.7,
-          "comerciante": "GAZA_CRIPTO",
-          "min": "3000000",
-          "max": "36450000",
-          "disponible": "70500.06"
-        },
-        {
-          "precio": 969.66,
-          "comerciante": "WayneTecnology",
-          "min": "3000000",
-          "max": "34645000",
-          "disponible": "52126.02"
-        },
-        {
-          "precio": 969.6,
           "comerciante": "HectorB",
           "min": "2000000",
           "max": "36000000",
-          "disponible": "76872.06"
+          "disponible": "68151.42"
+        },
+        {
+          "precio": 969.888,
+          "comerciante": "LAZER1406",
+          "min": "399108",
+          "max": "399150",
+          "disponible": "411.50"
+        },
+        {
+          "precio": 969.75,
+          "comerciante": "RapidPago94",
+          "min": "1000000",
+          "max": "4000000",
+          "disponible": "22806.60"
         }
       ]
     },
     "compra": {
-      "promedio": 970.1498,
-      "minimo": 969.6,
-      "maximo": 970.999,
+      "promedio": 971.278,
+      "minimo": 970.0,
+      "maximo": 971.9,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 969.6,
-          "comerciante": "el_ poller-obispo",
-          "min": "96500",
-          "max": "97000",
-          "disponible": "100.32"
-        },
-        {
-          "precio": 969.9,
-          "comerciante": "Alfonso124",
-          "min": "100810",
-          "max": "101830",
-          "disponible": "104.73"
-        },
-        {
           "precio": 970.0,
-          "comerciante": "Zockolo",
-          "min": "40000",
-          "max": "41000",
+          "comerciante": "OP SOLUCIONES",
+          "min": "96000",
+          "max": "97000",
           "disponible": "99.75"
         },
         {
-          "precio": 970.25,
-          "comerciante": "Habibi_trader_play",
-          "min": "300",
-          "max": "103000",
-          "disponible": "7.96"
+          "precio": 971.19,
+          "comerciante": "DonCarmine-",
+          "min": "20000",
+          "max": "400000",
+          "disponible": "389.06"
         },
         {
-          "precio": 970.999,
-          "comerciante": "JesCrypto-P2P",
-          "min": "300",
+          "precio": 971.5,
+          "comerciante": "P2PLedex",
+          "min": "20000",
+          "max": "46000",
+          "disponible": "103.40"
+        },
+        {
+          "precio": 971.8,
+          "comerciante": "enjeramo",
+          "min": "150000",
           "max": "4000000",
-          "disponible": "3.06"
+          "disponible": "279.30"
+        },
+        {
+          "precio": 971.9,
+          "comerciante": "ELSOSO",
+          "min": "500000",
+          "max": "36450000",
+          "disponible": "729.46"
         }
       ]
     }
   },
-  "brecha_pct": 19.04
+  "brecha_pct": 19.18
 }
