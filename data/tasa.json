@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-08T14:02:52+00:00",
-  "actualizado_ve": "2026-09-08T10:02:52-04:00",
+  "actualizado_utc": "2026-09-08T14:37:41+00:00",
+  "actualizado_ve": "2026-09-08T10:37:41-04:00",
   "bcv": {
     "usd": 814.6908,
     "eur": 947.29802151,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 966.6412,
+    "referencia": 967.508,
     "venta": {
-      "promedio": 966.6412,
-      "minimo": 966.25,
-      "maximo": 967.5,
+      "promedio": 967.508,
+      "minimo": 966.52,
+      "maximo": 970.15,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 967.5,
+          "precio": 970.15,
+          "comerciante": "User-17899",
+          "min": "300000",
+          "max": "1900000",
+          "disponible": "527.27"
+        },
+        {
+          "precio": 967.17,
           "comerciante": "Trust-Broker",
           "min": "2000000",
           "max": "36450000",
-          "disponible": "22645.07"
+          "disponible": "27309.51"
         },
         {
-          "precio": 966.6,
-          "comerciante": "c__s",
-          "min": "4000000",
+          "precio": 967.0,
+          "comerciante": "Money77ves",
+          "min": "12000000",
           "max": "36450000",
-          "disponible": "20842.06"
+          "disponible": "65000.06"
         },
         {
-          "precio": 966.506,
-          "comerciante": "ELTIBURON-DEL-CRYPTO",
-          "min": "1000000",
-          "max": "4000000",
-          "disponible": "18381.68"
-        },
-        {
-          "precio": 966.35,
-          "comerciante": "Trust-Broker",
-          "min": "5000000",
+          "precio": 966.7,
+          "comerciante": "angelchacon",
+          "min": "9000000",
           "max": "36450000",
-          "disponible": "53092.16"
+          "disponible": "72294.53"
         },
         {
-          "precio": 966.25,
-          "comerciante": "Kingjvl",
-          "min": "2000000",
+          "precio": 966.52,
+          "comerciante": "Inversiones-ADSC",
+          "min": "15000000",
           "max": "36450000",
-          "disponible": "80000.00"
+          "disponible": "44028.03"
         }
       ]
     },
     "compra": {
-      "promedio": 966.1022,
-      "minimo": 965.9,
-      "maximo": 966.311,
+      "promedio": 966.48,
+      "minimo": 966.0,
+      "maximo": 966.9,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 965.9,
-          "comerciante": "nayliemg",
-          "min": "3790",
-          "max": "3800",
-          "disponible": "99.75"
-        },
-        {
           "precio": 966.0,
-          "comerciante": "Santy_2511",
-          "min": "6000",
-          "max": "2000000",
-          "disponible": "8.51"
-        },
-        {
-          "precio": 966.0,
-          "comerciante": "lilioscol",
-          "min": "1500",
-          "max": "96500",
-          "disponible": "6.16"
-        },
-        {
-          "precio": 966.3,
-          "comerciante": "ElBossP2P",
+          "comerciante": "VeroJerez",
           "min": "300",
-          "max": "10000",
-          "disponible": "474.26"
+          "max": "162747",
+          "disponible": "1.71"
         },
         {
-          "precio": 966.311,
-          "comerciante": "AlltheServices",
-          "min": "10000",
-          "max": "96700",
-          "disponible": "24.53"
+          "precio": 966.1,
+          "comerciante": "Cambios_LaNiche",
+          "min": "94569",
+          "max": "95364",
+          "disponible": "199.50"
+        },
+        {
+          "precio": 966.5,
+          "comerciante": "REMESALEAL",
+          "min": "5000",
+          "max": "4000000",
+          "disponible": "49.06"
+        },
+        {
+          "precio": 966.9,
+          "comerciante": "WeSm23",
+          "min": "5000",
+          "max": "4000000",
+          "disponible": "62.19"
+        },
+        {
+          "precio": 966.9,
+          "comerciante": "P2P_CAMBIOS_SEGUROS_RR",
+          "min": "20000",
+          "max": "429000",
+          "disponible": "272.19"
         }
       ]
     }
   },
-  "brecha_pct": 18.65
+  "brecha_pct": 18.76
 }
