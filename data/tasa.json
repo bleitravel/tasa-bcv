@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-08T20:02:03+00:00",
-  "actualizado_ve": "2026-09-08T16:02:03-04:00",
+  "actualizado_utc": "2026-09-08T20:35:37+00:00",
+  "actualizado_ve": "2026-09-08T16:35:37-04:00",
   "bcv": {
     "usd": 814.6908,
     "eur": 947.29802151,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 967.6198,
+    "referencia": 970.21,
     "venta": {
-      "promedio": 967.6198,
-      "minimo": 966.5,
-      "maximo": 970.0,
+      "promedio": 970.21,
+      "minimo": 967.0,
+      "maximo": 973.9,
       "anuncios_usados": 5,
       "anuncios": [
+        {
+          "precio": 973.9,
+          "comerciante": "wilce84",
+          "min": "964161",
+          "max": "999999",
+          "disponible": "990.00"
+        },
+        {
+          "precio": 972.15,
+          "comerciante": "User-17899",
+          "min": "300000",
+          "max": "3000000",
+          "disponible": "1011.13"
+        },
         {
           "precio": 970.0,
           "comerciante": "Blank_Mind",
           "min": "1000000",
           "max": "36450000",
-          "disponible": "66622.69"
+          "disponible": "59883.91"
         },
         {
           "precio": 968.0,
           "comerciante": "Trust-Broker",
-          "min": "5000000",
+          "min": "4000000",
           "max": "36450000",
-          "disponible": "50000.00"
+          "disponible": "23481.53"
         },
         {
           "precio": 967.0,
-          "comerciante": "FTAIRG",
-          "min": "200000",
-          "max": "2583699",
-          "disponible": "249.48"
-        },
-        {
-          "precio": 966.599,
-          "comerciante": "-Syria1264-",
-          "min": "3000000",
-          "max": "36450000",
-          "disponible": "11662.10"
-        },
-        {
-          "precio": 966.5,
-          "comerciante": "安全与信任",
-          "min": "1000000",
-          "max": "36000000",
-          "disponible": "3575.86"
+          "comerciante": "LiraInversiones",
+          "min": "150000",
+          "max": "4000000",
+          "disponible": "2770.20"
         }
       ]
     },
     "compra": {
-      "promedio": 966.8196,
-      "minimo": 966.299,
+      "promedio": 966.9198,
+      "minimo": 966.8,
       "maximo": 967.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 966.299,
-          "comerciante": "VelociCambiosMx",
-          "min": "41200",
-          "max": "41201",
-          "disponible": "102.89"
+          "precio": 966.8,
+          "comerciante": "greivercambios",
+          "min": "1000",
+          "max": "96700",
+          "disponible": "1.34"
         },
         {
           "precio": 966.9,
           "comerciante": "Broker Trader",
           "min": "19300",
           "max": "19301",
-          "disponible": "104.73"
+          "disponible": "84.78"
         },
         {
           "precio": 966.9,
-          "comerciante": "greivercambios",
-          "min": "1000",
-          "max": "96700",
-          "disponible": "99.98"
+          "comerciante": "TU-PAGO_SEGURO-2026",
+          "min": "5000",
+          "max": "166900",
+          "disponible": "161.75"
         },
         {
           "precio": 966.999,
           "comerciante": "Samuel Jair",
           "min": "300",
           "max": "3500",
-          "disponible": "100.15"
+          "disponible": "92.49"
         },
         {
           "precio": 967.0,
           "comerciante": "IGlobalHouse",
           "min": "300",
           "max": "4000000",
-          "disponible": "34.03"
+          "disponible": "0.52"
         }
       ]
     }
   },
-  "brecha_pct": 18.77
+  "brecha_pct": 19.09
 }
