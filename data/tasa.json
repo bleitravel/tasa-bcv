@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-08T21:32:47+00:00",
-  "actualizado_ve": "2026-09-08T17:32:47-04:00",
+  "actualizado_utc": "2026-09-08T22:02:36+00:00",
+  "actualizado_ve": "2026-09-08T18:02:36-04:00",
   "bcv": {
     "usd": 814.6908,
     "eur": 947.29802151,
@@ -10,54 +10,54 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 969.06,
+    "referencia": 970.38,
     "venta": {
-      "promedio": 969.06,
-      "minimo": 968.0,
-      "maximo": 970.3,
+      "promedio": 970.38,
+      "minimo": 969.0,
+      "maximo": 973.9,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 970.3,
-          "comerciante": "P2P-f7729etw",
-          "min": "1200",
-          "max": "1500",
-          "disponible": "100.00"
+          "precio": 973.9,
+          "comerciante": "wilce84",
+          "min": "681730",
+          "max": "999999",
+          "disponible": "700.00"
         },
         {
           "precio": 970.0,
           "comerciante": "Blank_Mind",
           "min": "1000000",
           "max": "36450000",
-          "disponible": "18887.87"
+          "disponible": "11100.71"
+        },
+        {
+          "precio": 970.0,
+          "comerciante": "GG-Cripto96",
+          "min": "1000000",
+          "max": "4000000",
+          "disponible": "5093.58"
         },
         {
           "precio": 969.0,
           "comerciante": "CambiosMZ",
           "min": "5000000",
           "max": "36450000",
-          "disponible": "56639.39"
+          "disponible": "32879.50"
         },
         {
-          "precio": 968.0,
+          "precio": 969.0,
           "comerciante": "Trust-Broker",
           "min": "3000000",
           "max": "36450000",
-          "disponible": "22900.89"
-        },
-        {
-          "precio": 968.0,
-          "comerciante": "貝斯韋",
-          "min": "900000",
-          "max": "10000000",
-          "disponible": "1015.51"
+          "disponible": "45252.84"
         }
       ]
     },
     "compra": {
-      "promedio": 966.9198,
+      "promedio": 966.968,
       "minimo": 966.8,
-      "maximo": 967.0,
+      "maximo": 967.04,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -65,21 +65,7 @@
           "comerciante": "greivercambios",
           "min": "1000",
           "max": "96700",
-          "disponible": "1.55"
-        },
-        {
-          "precio": 966.899,
-          "comerciante": "VelociCambiosMx",
-          "min": "77250",
-          "max": "77251",
-          "disponible": "100.16"
-        },
-        {
-          "precio": 966.9,
-          "comerciante": "Broker Trader",
-          "min": "19300",
-          "max": "19301",
-          "disponible": "64.83"
+          "disponible": "2.55"
         },
         {
           "precio": 967.0,
@@ -90,13 +76,27 @@
         },
         {
           "precio": 967.0,
-          "comerciante": "trader-jade",
-          "min": "98000",
-          "max": "100000",
-          "disponible": "103.15"
+          "comerciante": "P_drm24030806",
+          "min": "300",
+          "max": "1400000",
+          "disponible": "115.61"
+        },
+        {
+          "precio": 967.0,
+          "comerciante": "Business-ExchangeJM",
+          "min": "90000",
+          "max": "400000",
+          "disponible": "99.75"
+        },
+        {
+          "precio": 967.04,
+          "comerciante": "GeiderB",
+          "min": "10000",
+          "max": "400000",
+          "disponible": "84.24"
         }
       ]
     }
   },
-  "brecha_pct": 18.95
+  "brecha_pct": 19.11
 }
