@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-08T15:03:31+00:00",
-  "actualizado_ve": "2026-09-08T11:03:31-04:00",
+  "actualizado_utc": "2026-09-08T15:37:43+00:00",
+  "actualizado_ve": "2026-09-08T11:37:43-04:00",
   "bcv": {
     "usd": 814.6908,
     "eur": 947.29802151,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 968.7226,
+    "referencia": 969.8446,
     "venta": {
-      "promedio": 968.7226,
-      "minimo": 968.005,
-      "maximo": 969.307,
+      "promedio": 969.8446,
+      "minimo": 969.501,
+      "maximo": 970.2,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 969.307,
-          "comerciante": "Omega Fitness Center",
-          "min": "1000000",
-          "max": "4000000",
-          "disponible": "1766.71"
-        },
-        {
-          "precio": 969.1,
-          "comerciante": "-AMATERATSU-",
-          "min": "15000000",
-          "max": "36450000",
-          "disponible": "80000.00"
-        },
-        {
-          "precio": 969.001,
-          "comerciante": "TH3K1NGP2P",
-          "min": "15000000",
-          "max": "36450000",
-          "disponible": "80000.00"
-        },
-        {
-          "precio": 968.2,
+          "precio": 970.2,
           "comerciante": "Money77ves",
-          "min": "12000000",
+          "min": "3912039",
           "max": "36450000",
-          "disponible": "27200.00"
+          "disponible": "4033.23"
         },
         {
-          "precio": 968.005,
-          "comerciante": "Trust-Broker",
-          "min": "2000000",
+          "precio": 970.0,
+          "comerciante": "安全与信任",
+          "min": "37000000",
+          "max": "500000000",
+          "disponible": "45300.00"
+        },
+        {
+          "precio": 970.0,
+          "comerciante": "LAZER1406",
+          "min": "800000",
+          "max": "4000000",
+          "disponible": "12185.00"
+        },
+        {
+          "precio": 969.522,
+          "comerciante": "加密操作",
+          "min": "3000000",
+          "max": "36000000",
+          "disponible": "66243.48"
+        },
+        {
+          "precio": 969.501,
+          "comerciante": "TuPesadilla008",
+          "min": "1500000",
           "max": "36450000",
-          "disponible": "30000.00"
+          "disponible": "4746.73"
         }
       ]
     },
     "compra": {
-      "promedio": 966.0598,
-      "minimo": 965.9,
-      "maximo": 966.399,
+      "promedio": 967.8998,
+      "minimo": 967.499,
+      "maximo": 968.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 965.9,
-          "comerciante": "tucambioseguro",
-          "min": "96000",
-          "max": "4000000",
-          "disponible": "399.00"
-        },
-        {
-          "precio": 966.0,
-          "comerciante": "VeroJerez",
+          "precio": 967.499,
+          "comerciante": "Cambiadores",
           "min": "300",
-          "max": "162747",
-          "disponible": "0.71"
+          "max": "201430",
+          "disponible": "0.34"
         },
         {
-          "precio": 966.0,
-          "comerciante": "andry0212",
-          "min": "17175",
-          "max": "17176",
-          "disponible": "99.75"
-        },
-        {
-          "precio": 966.0,
-          "comerciante": "Jorgeperez79",
-          "min": "80000",
+          "precio": 968.0,
+          "comerciante": "Yogil",
+          "min": "50000",
           "max": "4000000",
-          "disponible": "99.96"
+          "disponible": "499.46"
         },
         {
-          "precio": 966.399,
-          "comerciante": "Esthefa14",
+          "precio": 968.0,
+          "comerciante": "WJ_AL16",
           "min": "10000",
-          "max": "20000",
-          "disponible": "89.41"
+          "max": "296343",
+          "disponible": "16.15"
+        },
+        {
+          "precio": 968.0,
+          "comerciante": "GlovalValoresCambios",
+          "min": "1000",
+          "max": "400000",
+          "disponible": "8.25"
+        },
+        {
+          "precio": 968.0,
+          "comerciante": "DanielGC23",
+          "min": "20000",
+          "max": "4000000",
+          "disponible": "299.25"
         }
       ]
     }
   },
-  "brecha_pct": 18.91
+  "brecha_pct": 19.04
 }
