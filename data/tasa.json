@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-09T03:36:21+00:00",
-  "actualizado_ve": "2026-09-08T23:36:21-04:00",
+  "actualizado_utc": "2026-09-09T04:01:52+00:00",
+  "actualizado_ve": "2026-09-09T00:01:52-04:00",
   "bcv": {
     "usd": 820.1018,
     "eur": 954.02442394,
@@ -10,26 +10,19 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 964.451,
+    "referencia": 964.11,
     "venta": {
-      "promedio": 964.451,
+      "promedio": 964.11,
       "minimo": 964.0,
-      "maximo": 965.005,
+      "maximo": 964.2,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 965.005,
-          "comerciante": "Gustavo129",
+          "precio": 964.2,
+          "comerciante": "JJC18",
           "min": "1000000",
-          "max": "36450000",
-          "disponible": "5621.23"
-        },
-        {
-          "precio": 965.0,
-          "comerciante": "Mdtextilcrypto",
-          "min": "2000000",
-          "max": "14000000",
-          "disponible": "40000.00"
+          "max": "3800000",
+          "disponible": "4000.06"
         },
         {
           "precio": 964.15,
@@ -43,60 +36,67 @@
           "comerciante": "BalduinoIV",
           "min": "1000000",
           "max": "36450000",
-          "disponible": "24500.00"
+          "disponible": "11800.22"
+        },
+        {
+          "precio": 964.1,
+          "comerciante": "VISÓN CRIPTØ",
+          "min": "800000",
+          "max": "36450000",
+          "disponible": "7116.76"
         },
         {
           "precio": 964.0,
-          "comerciante": "NexusPremiun",
-          "min": "1000000",
-          "max": "20057000",
-          "disponible": "6500.00"
+          "comerciante": "Mdtextilcrypto",
+          "min": "900000",
+          "max": "14000000",
+          "disponible": "26721.00"
         }
       ]
     },
     "compra": {
-      "promedio": 964.9998,
+      "promedio": 965.1158,
       "minimo": 964.999,
-      "maximo": 965.0,
+      "maximo": 965.3,
       "anuncios_usados": 5,
       "anuncios": [
         {
           "precio": 964.999,
-          "comerciante": "Cardpagos10",
+          "comerciante": "EnocWgrt",
+          "min": "448000",
+          "max": "449000",
+          "disponible": "465.97"
+        },
+        {
+          "precio": 965.0,
+          "comerciante": "tucambio-jfmv",
           "min": "300",
           "max": "4000000",
-          "disponible": "2.48"
-        },
-        {
-          "precio": 965.0,
-          "comerciante": "Norelia0213",
-          "min": "412200",
-          "max": "412201",
-          "disponible": "428.95"
-        },
-        {
-          "precio": 965.0,
-          "comerciante": "Crypto-Stormy",
-          "min": "10000",
-          "max": "1000000",
-          "disponible": "41.30"
-        },
-        {
-          "precio": 965.0,
-          "comerciante": "andry0212",
-          "min": "412200",
-          "max": "412201",
-          "disponible": "428.92"
+          "disponible": "32.45"
         },
         {
           "precio": 965.0,
           "comerciante": "jeanbc2M",
           "min": "48300",
           "max": "429618",
-          "disponible": "444.08"
+          "disponible": "50.31"
+        },
+        {
+          "precio": 965.28,
+          "comerciante": "User-3dc75",
+          "min": "300000",
+          "max": "4000000",
+          "disponible": "851.87"
+        },
+        {
+          "precio": 965.3,
+          "comerciante": "gabostonks",
+          "min": "300000",
+          "max": "4000000",
+          "disponible": "1478.46"
         }
       ]
     }
   },
-  "brecha_pct": 17.6
+  "brecha_pct": 17.56
 }
