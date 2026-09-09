@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-09T19:33:03+00:00",
-  "actualizado_ve": "2026-09-09T15:33:03-04:00",
+  "actualizado_utc": "2026-09-09T20:01:59+00:00",
+  "actualizado_ve": "2026-09-09T16:01:59-04:00",
   "bcv": {
     "usd": 820.1018,
     "eur": 954.02442394,
@@ -10,47 +10,47 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 964.2322,
+    "referencia": 965.72,
     "venta": {
-      "promedio": 964.2322,
-      "minimo": 964.0,
-      "maximo": 965.0,
+      "promedio": 965.72,
+      "minimo": 965.0,
+      "maximo": 968.0,
       "anuncios_usados": 5,
       "anuncios": [
+        {
+          "precio": 968.0,
+          "comerciante": "User-6193a",
+          "min": "5915",
+          "max": "5916",
+          "disponible": "100.00"
+        },
+        {
+          "precio": 965.5,
+          "comerciante": "安全与信任",
+          "min": "3000000",
+          "max": "36000000",
+          "disponible": "34724.06"
+        },
+        {
+          "precio": 965.1,
+          "comerciante": "Rsreyes_777",
+          "min": "1000000",
+          "max": "36450000",
+          "disponible": "4213.96"
+        },
         {
           "precio": 965.0,
           "comerciante": "maisondorada",
           "min": "1000000",
           "max": "4000000",
-          "disponible": "14864.14"
+          "disponible": "16364.08"
         },
         {
-          "precio": 964.15,
-          "comerciante": "AJ-Cambios",
-          "min": "3000000",
-          "max": "36450000",
-          "disponible": "21193.18"
-        },
-        {
-          "precio": 964.01,
-          "comerciante": "EKExpress",
-          "min": "1000000",
-          "max": "36450000",
-          "disponible": "75380.60"
-        },
-        {
-          "precio": 964.001,
-          "comerciante": "Blank_Mind",
-          "min": "67000",
-          "max": "67500",
-          "disponible": "100.00"
-        },
-        {
-          "precio": 964.0,
-          "comerciante": "CrxptoFast",
-          "min": "200000",
-          "max": "4000000",
-          "disponible": "5524.46"
+          "precio": 965.0,
+          "comerciante": "thejesus04",
+          "min": "300000",
+          "max": "1500000",
+          "disponible": "340.06"
         }
       ]
     },
@@ -69,24 +69,17 @@
         },
         {
           "precio": 965.0,
-          "comerciante": "ArianaGuedez",
-          "min": "965000",
-          "max": "3000000",
-          "disponible": "10921.17"
+          "comerciante": "JoseMuji",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "2.20"
         },
         {
           "precio": 965.0,
-          "comerciante": "Inter-Pagos",
-          "min": "200000",
-          "max": "1000000",
-          "disponible": "1015.17"
-        },
-        {
-          "precio": 965.0,
-          "comerciante": "WuinderTT",
-          "min": "17000",
-          "max": "444305",
-          "disponible": "19.85"
+          "comerciante": "FastTradeOne",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "3.07"
         },
         {
           "precio": 965.0,
@@ -94,9 +87,16 @@
           "min": "480000",
           "max": "482000",
           "disponible": "498.75"
+        },
+        {
+          "precio": 965.0,
+          "comerciante": "Remesaslagrita27",
+          "min": "64000",
+          "max": "65000",
+          "disponible": "99.75"
         }
       ]
     }
   },
-  "brecha_pct": 17.57
+  "brecha_pct": 17.76
 }
