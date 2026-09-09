@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-09T13:02:49+00:00",
-  "actualizado_ve": "2026-09-09T09:02:49-04:00",
+  "actualizado_utc": "2026-09-09T13:37:23+00:00",
+  "actualizado_ve": "2026-09-09T09:37:23-04:00",
   "bcv": {
     "usd": 820.1018,
     "eur": 954.02442394,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 962.72,
+    "referencia": 963.94,
     "venta": {
-      "promedio": 962.72,
-      "minimo": 962.0,
-      "maximo": 964.0,
+      "promedio": 963.94,
+      "minimo": 963.4,
+      "maximo": 965.0,
       "anuncios_usados": 5,
       "anuncios": [
+        {
+          "precio": 965.0,
+          "comerciante": "La-Tia-Mema",
+          "min": "1000000",
+          "max": "30000000",
+          "disponible": "31088.00"
+        },
         {
           "precio": 964.0,
           "comerciante": "Trust-Broker",
           "min": "2000000",
           "max": "36450000",
-          "disponible": "45388.72"
+          "disponible": "15960.15"
         },
         {
-          "precio": 963.0,
-          "comerciante": "Blank_Mind",
+          "precio": 963.8,
+          "comerciante": "2020EXCHANGEVIP",
           "min": "10000000",
           "max": "36450000",
-          "disponible": "57281.47"
+          "disponible": "40000.00"
         },
         {
-          "precio": 962.5,
-          "comerciante": "-TonySoprano-",
-          "min": "9000000",
+          "precio": 963.5,
+          "comerciante": "-AMATERATSU-",
+          "min": "10000000",
           "max": "36450000",
-          "disponible": "60000.06"
+          "disponible": "74000.00"
         },
         {
-          "precio": 962.1,
-          "comerciante": "FinnMcMissile",
-          "min": "6000000",
+          "precio": 963.4,
+          "comerciante": "Vitatech",
+          "min": "7000000",
           "max": "36000000",
-          "disponible": "65000.00"
-        },
-        {
-          "precio": 962.0,
-          "comerciante": "CoorpLogistic",
-          "min": "9500000",
-          "max": "36000000",
-          "disponible": "20000.00"
+          "disponible": "80000.00"
         }
       ]
     },
     "compra": {
-      "promedio": 960.8,
-      "minimo": 960.0,
-      "maximo": 961.0,
+      "promedio": 963.756,
+      "minimo": 963.0,
+      "maximo": 964.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 960.0,
-          "comerciante": "JuanCarmona98",
-          "min": "10000",
-          "max": "4000000",
-          "disponible": "14.12"
+          "precio": 963.0,
+          "comerciante": "Espojonso",
+          "min": "20000",
+          "max": "25000",
+          "disponible": "99.75"
         },
         {
-          "precio": 961.0,
-          "comerciante": "richgomes",
-          "min": "800",
-          "max": "60000",
-          "disponible": "1.69"
-        },
-        {
-          "precio": 961.0,
-          "comerciante": "geraldin140",
+          "precio": 963.88,
+          "comerciante": "traderalberjos",
           "min": "300",
-          "max": "400000",
-          "disponible": "1.04"
+          "max": "97000",
+          "disponible": "0.31"
         },
         {
-          "precio": 961.0,
-          "comerciante": "FARAYAL",
+          "precio": 963.9,
+          "comerciante": "WeSm23",
           "min": "5000",
-          "max": "30000",
-          "disponible": "24.89"
+          "max": "4000000",
+          "disponible": "210.92"
         },
         {
-          "precio": 961.0,
-          "comerciante": "Mary1414",
-          "min": "90000",
-          "max": "190000",
-          "disponible": "200.49"
+          "precio": 964.0,
+          "comerciante": "Jhair lopez",
+          "min": "3000",
+          "max": "200000",
+          "disponible": "20.84"
+        },
+        {
+          "precio": 964.0,
+          "comerciante": "osmelys",
+          "min": "2500",
+          "max": "145200",
+          "disponible": "2.80"
         }
       ]
     }
   },
-  "brecha_pct": 17.39
+  "brecha_pct": 17.54
 }
