@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-09T16:37:24+00:00",
-  "actualizado_ve": "2026-09-09T12:37:24-04:00",
+  "actualizado_utc": "2026-09-09T17:01:44+00:00",
+  "actualizado_ve": "2026-09-09T13:01:44-04:00",
   "bcv": {
     "usd": 820.1018,
     "eur": 954.02442394,
@@ -10,52 +10,52 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 965.0508,
+    "referencia": 964.8666,
     "venta": {
-      "promedio": 965.0508,
-      "minimo": 965.02,
-      "maximo": 965.074,
+      "promedio": 964.8666,
+      "minimo": 964.1,
+      "maximo": 967.008,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 965.074,
-          "comerciante": "TOPlevelS",
-          "min": "10000000",
-          "max": "36000000",
-          "disponible": "43000.06"
+          "precio": 967.008,
+          "comerciante": "User-7ffe3",
+          "min": "200000",
+          "max": "790000",
+          "disponible": "1000.00"
         },
         {
-          "precio": 965.07,
-          "comerciante": "FinnMcMissile",
-          "min": "10000000",
+          "precio": 965.0,
+          "comerciante": "Blank_Mind",
+          "min": "1500000",
           "max": "36450000",
-          "disponible": "74300.00"
+          "disponible": "40000.00"
         },
         {
-          "precio": 965.05,
-          "comerciante": "VZLAMundialista",
+          "precio": 964.115,
+          "comerciante": "TOPlevelS",
+          "min": "36450000",
+          "max": "1000000000",
+          "disponible": "155000.00"
+        },
+        {
+          "precio": 964.11,
+          "comerciante": "FinnMcMissile",
           "min": "8000000",
-          "max": "30000000",
-          "disponible": "25025.24"
+          "max": "36450000",
+          "disponible": "40810.00"
         },
         {
-          "precio": 965.04,
-          "comerciante": "MICHELITA_",
-          "min": "5000000",
-          "max": "36000000",
-          "disponible": "62312.75"
-        },
-        {
-          "precio": 965.02,
+          "precio": 964.1,
           "comerciante": "YGinversiones",
           "min": "3000000",
           "max": "36350000",
-          "disponible": "22814.12"
+          "disponible": "14664.24"
         }
       ]
     },
     "compra": {
-      "promedio": 963.1998,
+      "promedio": 963.4596,
       "minimo": 962.5,
       "maximo": 963.999,
       "anuncios_usados": 5,
@@ -65,38 +65,38 @@
           "comerciante": "Broker Trader",
           "min": "19300",
           "max": "19301",
-          "disponible": "104.64"
+          "disponible": "44.49"
         },
         {
           "precio": 963.0,
-          "comerciante": "marenga",
+          "comerciante": "Lubernuflo",
           "min": "300",
-          "max": "96300",
-          "disponible": "1.25"
+          "max": "4000000",
+          "disponible": "2.23"
         },
         {
-          "precio": 963.0,
-          "comerciante": "GrupoEVONUT",
-          "min": "40000",
-          "max": "49000",
-          "disponible": "57.73"
-        },
-        {
-          "precio": 963.5,
-          "comerciante": "BreMerLo",
-          "min": "100000",
-          "max": "200000",
-          "disponible": "199.50"
+          "precio": 963.8,
+          "comerciante": "CryptoEthx",
+          "min": "10000",
+          "max": "100000",
+          "disponible": "299.25"
         },
         {
           "precio": 963.999,
-          "comerciante": "JEmanuelGG",
-          "min": "972",
+          "comerciante": "Armonymx",
+          "min": "83200",
+          "max": "83201",
+          "disponible": "99.75"
+        },
+        {
+          "precio": 963.999,
+          "comerciante": "P2P-75c3aeq0",
+          "min": "8000",
           "max": "40000",
-          "disponible": "11.40"
+          "disponible": "99.75"
         }
       ]
     }
   },
-  "brecha_pct": 17.67
+  "brecha_pct": 17.65
 }
