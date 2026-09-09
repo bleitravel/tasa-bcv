@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-09T13:37:23+00:00",
-  "actualizado_ve": "2026-09-09T09:37:23-04:00",
+  "actualizado_utc": "2026-09-09T14:01:37+00:00",
+  "actualizado_ve": "2026-09-09T10:01:37-04:00",
   "bcv": {
     "usd": 820.1018,
     "eur": 954.02442394,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 963.94,
+    "referencia": 964.44,
     "venta": {
-      "promedio": 963.94,
-      "minimo": 963.4,
+      "promedio": 964.44,
+      "minimo": 964.0,
       "maximo": 965.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -22,81 +22,81 @@
           "comerciante": "La-Tia-Mema",
           "min": "1000000",
           "max": "30000000",
-          "disponible": "31088.00"
+          "disponible": "27954.86"
+        },
+        {
+          "precio": 965.0,
+          "comerciante": "maisondorada",
+          "min": "1000000",
+          "max": "4000000",
+          "disponible": "20000.00"
+        },
+        {
+          "precio": 964.2,
+          "comerciante": "CrxptoFast",
+          "min": "200000",
+          "max": "4000000",
+          "disponible": "16947.53"
         },
         {
           "precio": 964.0,
           "comerciante": "Trust-Broker",
           "min": "2000000",
           "max": "36450000",
-          "disponible": "15960.15"
+          "disponible": "30000.00"
         },
         {
-          "precio": 963.8,
-          "comerciante": "2020EXCHANGEVIP",
-          "min": "10000000",
-          "max": "36450000",
-          "disponible": "40000.00"
-        },
-        {
-          "precio": 963.5,
-          "comerciante": "-AMATERATSU-",
-          "min": "10000000",
-          "max": "36450000",
-          "disponible": "74000.00"
-        },
-        {
-          "precio": 963.4,
-          "comerciante": "Vitatech",
-          "min": "7000000",
-          "max": "36000000",
-          "disponible": "80000.00"
+          "precio": 964.0,
+          "comerciante": "User-95450",
+          "min": "3000000",
+          "max": "25000000",
+          "disponible": "15000.00"
         }
       ]
     },
     "compra": {
-      "promedio": 963.756,
-      "minimo": 963.0,
+      "promedio": 963.9996,
+      "minimo": 963.999,
       "maximo": 964.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 963.0,
-          "comerciante": "Espojonso",
-          "min": "20000",
-          "max": "25000",
+          "precio": 963.999,
+          "comerciante": "Deswicripto",
+          "min": "44000",
+          "max": "45000",
           "disponible": "99.75"
         },
         {
-          "precio": 963.88,
-          "comerciante": "traderalberjos",
-          "min": "300",
-          "max": "97000",
-          "disponible": "0.31"
-        },
-        {
-          "precio": 963.9,
-          "comerciante": "WeSm23",
-          "min": "5000",
-          "max": "4000000",
-          "disponible": "210.92"
+          "precio": 963.999,
+          "comerciante": "Edron Market",
+          "min": "7000",
+          "max": "50000",
+          "disponible": "99.75"
         },
         {
           "precio": 964.0,
           "comerciante": "Jhair lopez",
           "min": "3000",
           "max": "200000",
-          "disponible": "20.84"
+          "disponible": "8.40"
         },
         {
           "precio": 964.0,
-          "comerciante": "osmelys",
-          "min": "2500",
-          "max": "145200",
-          "disponible": "2.80"
+          "comerciante": "carlosteran1",
+          "min": "300",
+          "max": "842000",
+          "disponible": "14.73"
+        },
+        {
+          "precio": 964.0,
+          "comerciante": "Kennt_26",
+          "min": "2910",
+          "max": "4000000",
+          "disponible": "5.24"
         }
       ]
     }
   },
-  "brecha_pct": 17.54
+  "brecha_pct": 17.6
 }
