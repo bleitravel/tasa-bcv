@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-09T07:36:07+00:00",
-  "actualizado_ve": "2026-09-09T03:36:07-04:00",
+  "actualizado_utc": "2026-09-09T08:02:12+00:00",
+  "actualizado_ve": "2026-09-09T04:02:12-04:00",
   "bcv": {
     "usd": 820.1018,
     "eur": 954.02442394,
@@ -10,9 +10,9 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 963.06,
+    "referencia": 962.63,
     "venta": {
-      "promedio": 963.06,
+      "promedio": 962.63,
       "minimo": 962.0,
       "maximo": 964.15,
       "anuncios_usados": 5,
@@ -25,13 +25,6 @@
           "disponible": "10500.06"
         },
         {
-          "precio": 963.15,
-          "comerciante": "Juanz17",
-          "min": "700000",
-          "max": "7500000",
-          "disponible": "5100.97"
-        },
-        {
           "precio": 963.0,
           "comerciante": "Kpx4x4",
           "min": "48900",
@@ -39,25 +32,32 @@
           "disponible": "100.00"
         },
         {
-          "precio": 963.0,
-          "comerciante": "CryptoVersos",
-          "min": "300000",
-          "max": "2000000",
-          "disponible": "54361.36"
-        },
-        {
           "precio": 962.0,
           "comerciante": "MarceciccaP2P",
           "min": "300",
           "max": "320",
           "disponible": "395.85"
+        },
+        {
+          "precio": 962.0,
+          "comerciante": "GRUPOAVILA",
+          "min": "1000000",
+          "max": "20000000",
+          "disponible": "80000.00"
+        },
+        {
+          "precio": 962.0,
+          "comerciante": "CryptoVersos",
+          "min": "200000",
+          "max": "340000",
+          "disponible": "53936.65"
         }
       ]
     },
     "compra": {
-      "promedio": 964.8222,
+      "promedio": 965.0998,
       "minimo": 964.0,
-      "maximo": 965.111,
+      "maximo": 965.5,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -72,31 +72,31 @@
           "comerciante": "SecureChange",
           "min": "20000",
           "max": "21000",
-          "disponible": "99.75"
+          "disponible": "57.49"
         },
         {
-          "precio": 965.0,
-          "comerciante": "MariaSVO",
-          "min": "10000",
-          "max": "400000",
-          "disponible": "139.68"
+          "precio": 965.499,
+          "comerciante": "chapoeditions",
+          "min": "400000",
+          "max": "820000",
+          "disponible": "846.74"
         },
         {
-          "precio": 965.0,
-          "comerciante": "Fabianchiss",
-          "min": "4000",
-          "max": "402611",
-          "disponible": "414.88"
+          "precio": 965.5,
+          "comerciante": "KRYSM10",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "20.71"
         },
         {
-          "precio": 965.111,
-          "comerciante": "Yojacksonp",
-          "min": "1000",
-          "max": "98600",
-          "disponible": "3.96"
+          "precio": 965.5,
+          "comerciante": "DJRICARDO1K",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "9.89"
         }
       ]
     }
   },
-  "brecha_pct": 17.43
+  "brecha_pct": 17.38
 }
