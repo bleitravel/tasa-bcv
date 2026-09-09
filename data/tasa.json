@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-09T12:02:13+00:00",
-  "actualizado_ve": "2026-09-09T08:02:13-04:00",
+  "actualizado_utc": "2026-09-09T12:41:02+00:00",
+  "actualizado_ve": "2026-09-09T08:41:02-04:00",
   "bcv": {
     "usd": 820.1018,
     "eur": 954.02442394,
@@ -10,56 +10,70 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 962.196,
+    "referencia": 959.95,
     "venta": {
-      "promedio": 962.196,
-      "minimo": 961.78,
-      "maximo": 963.0,
+      "promedio": 959.95,
+      "minimo": 959.5,
+      "maximo": 960.25,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 963.0,
-          "comerciante": "Gustavo129",
-          "min": "700000",
-          "max": "36450000",
-          "disponible": "1484.95"
+          "precio": 960.25,
+          "comerciante": "FamaP2P",
+          "min": "2000000",
+          "max": "34950000",
+          "disponible": "34500.00"
         },
         {
-          "precio": 962.2,
-          "comerciante": "User-95450",
-          "min": "1000000",
-          "max": "25000000",
-          "disponible": "2790.00"
-        },
-        {
-          "precio": 962.0,
-          "comerciante": "GRUPOAVILA",
-          "min": "1000000",
-          "max": "20000000",
-          "disponible": "80000.00"
-        },
-        {
-          "precio": 962.0,
-          "comerciante": "Blank_Mind",
-          "min": "1000000",
-          "max": "36450000",
-          "disponible": "3623.95"
-        },
-        {
-          "precio": 961.78,
-          "comerciante": "ミReinaPepiadaCoinミ",
+          "precio": 960.0,
+          "comerciante": "Trust-Broker",
           "min": "2000000",
           "max": "36450000",
-          "disponible": "37000.00"
+          "disponible": "50000.00"
+        },
+        {
+          "precio": 960.0,
+          "comerciante": "TradeCampeon",
+          "min": "1000000",
+          "max": "4000000",
+          "disponible": "8411.77"
+        },
+        {
+          "precio": 960.0,
+          "comerciante": "La-Tia-Mema",
+          "min": "1000000",
+          "max": "36450000",
+          "disponible": "40479.68"
+        },
+        {
+          "precio": 959.5,
+          "comerciante": "LadyCapitalP2P",
+          "min": "3000000",
+          "max": "8100000",
+          "disponible": "8419.00"
         }
       ]
     },
     "compra": {
-      "promedio": 960.6,
-      "minimo": 960.0,
-      "maximo": 961.0,
+      "promedio": 959.9994,
+      "minimo": 959.998,
+      "maximo": 960.0,
       "anuncios_usados": 5,
       "anuncios": [
+        {
+          "precio": 959.998,
+          "comerciante": "DuarteFastCash",
+          "min": "20000",
+          "max": "60000",
+          "disponible": "129.67"
+        },
+        {
+          "precio": 959.999,
+          "comerciante": "beremis77",
+          "min": "20000",
+          "max": "4000000",
+          "disponible": "20.87"
+        },
         {
           "precio": 960.0,
           "comerciante": "JairGOVA佳尔",
@@ -69,34 +83,20 @@
         },
         {
           "precio": 960.0,
-          "comerciante": "Alex13527",
-          "min": "1000",
+          "comerciante": "JuanCarmona98",
+          "min": "10000",
           "max": "4000000",
-          "disponible": "21.35"
+          "disponible": "38.63"
         },
         {
-          "precio": 961.0,
-          "comerciante": "Nexotrade_P2P",
-          "min": "1000",
-          "max": "400000",
-          "disponible": "82.52"
-        },
-        {
-          "precio": 961.0,
-          "comerciante": "LLJG",
-          "min": "45000",
-          "max": "50000",
-          "disponible": "99.75"
-        },
-        {
-          "precio": 961.0,
-          "comerciante": "los100cien",
-          "min": "3000000",
-          "max": "10000000",
-          "disponible": "31844.33"
+          "precio": 960.0,
+          "comerciante": "DanielVra",
+          "min": "10000",
+          "max": "900000",
+          "disponible": "101.06"
         }
       ]
     }
   },
-  "brecha_pct": 17.33
+  "brecha_pct": 17.05
 }
