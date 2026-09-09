@@ -1,22 +1,29 @@
 {
-  "actualizado_utc": "2026-09-09T22:01:51+00:00",
-  "actualizado_ve": "2026-09-09T18:01:51-04:00",
+  "actualizado_utc": "2026-09-09T22:34:03+00:00",
+  "actualizado_ve": "2026-09-09T18:34:03-04:00",
   "bcv": {
-    "usd": 820.1018,
-    "eur": 954.02442394,
-    "fecha_valor": "2026-09-09T00:00:00-04:00"
+    "usd": 827.7371,
+    "eur": 963.21283115,
+    "fecha_valor": "2026-09-10T00:00:00-04:00"
   },
   "binance_p2p": {
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 966.62,
+    "referencia": 966.808,
     "venta": {
-      "promedio": 966.62,
-      "minimo": 966.1,
-      "maximo": 967.0,
+      "promedio": 966.808,
+      "minimo": 966.15,
+      "maximo": 967.89,
       "anuncios_usados": 5,
       "anuncios": [
+        {
+          "precio": 967.89,
+          "comerciante": "CAPU212",
+          "min": "20000",
+          "max": "135505",
+          "disponible": "57.35"
+        },
         {
           "precio": 967.0,
           "comerciante": "maisondorada",
@@ -25,18 +32,11 @@
           "disponible": "5499.02"
         },
         {
-          "precio": 967.0,
-          "comerciante": "TheOchoa",
-          "min": "2000000",
-          "max": "36450000",
-          "disponible": "80000.00"
-        },
-        {
           "precio": 966.5,
           "comerciante": "Blank_Mind",
           "min": "1500000",
           "max": "36450000",
-          "disponible": "57657.68"
+          "disponible": "52657.74"
         },
         {
           "precio": 966.5,
@@ -46,34 +46,20 @@
           "disponible": "18000.00"
         },
         {
-          "precio": 966.1,
+          "precio": 966.15,
           "comerciante": "GRUPOAVILA",
           "min": "1500000",
           "max": "20000000",
-          "disponible": "42100.06"
+          "disponible": "36815.31"
         }
       ]
     },
     "compra": {
-      "promedio": 963.8156,
-      "minimo": 962.5,
-      "maximo": 965.0,
+      "promedio": 965.196,
+      "minimo": 964.0,
+      "maximo": 965.5,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 962.5,
-          "comerciante": "Estheban_H",
-          "min": "100000",
-          "max": "4000000",
-          "disponible": "1162.99"
-        },
-        {
-          "precio": 962.779,
-          "comerciante": "Kamel_Valencia",
-          "min": "1500",
-          "max": "35000",
-          "disponible": "64.89"
-        },
         {
           "precio": 964.0,
           "comerciante": "Gabrielfoq",
@@ -82,21 +68,35 @@
           "disponible": "3990.02"
         },
         {
-          "precio": 964.799,
-          "comerciante": "Cambios Díaz",
-          "min": "90000",
-          "max": "4000000",
-          "disponible": "149.62"
+          "precio": 965.48,
+          "comerciante": "JDVR_05",
+          "min": "2000000",
+          "max": "35000000",
+          "disponible": "12000.00"
         },
         {
-          "precio": 965.0,
-          "comerciante": "MOIMOI-P2P",
-          "min": "96200",
-          "max": "96400",
-          "disponible": "100.00"
+          "precio": 965.5,
+          "comerciante": "Cece777",
+          "min": "10000",
+          "max": "4000000",
+          "disponible": "63.36"
+        },
+        {
+          "precio": 965.5,
+          "comerciante": "JG-18Dembouz",
+          "min": "2000001",
+          "max": "10000000",
+          "disponible": "7195.48"
+        },
+        {
+          "precio": 965.5,
+          "comerciante": "Gjsan",
+          "min": "4000000",
+          "max": "36450000",
+          "disponible": "10486.89"
         }
       ]
     }
   },
-  "brecha_pct": 17.87
+  "brecha_pct": 16.8
 }
