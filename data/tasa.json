@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-09T10:01:58+00:00",
-  "actualizado_ve": "2026-09-09T06:01:58-04:00",
+  "actualizado_utc": "2026-09-09T10:36:43+00:00",
+  "actualizado_ve": "2026-09-09T06:36:43-04:00",
   "bcv": {
     "usd": 820.1018,
     "eur": 954.02442394,
@@ -22,7 +22,7 @@
           "comerciante": "Bianchiplus",
           "min": "2000000",
           "max": "14000000",
-          "disponible": "10500.06"
+          "disponible": "8400.12"
         },
         {
           "precio": 963.0,
@@ -36,7 +36,7 @@
           "comerciante": "User-95450",
           "min": "1000000",
           "max": "25000000",
-          "disponible": "17287.33"
+          "disponible": "20900.00"
         },
         {
           "precio": 962.0,
@@ -55,45 +55,45 @@
       ]
     },
     "compra": {
-      "promedio": 965.3692,
-      "minimo": 964.999,
-      "maximo": 965.848,
+      "promedio": 964.5896,
+      "minimo": 963.0,
+      "maximo": 964.999,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 964.999,
-          "comerciante": "Lubarca",
-          "min": "300",
-          "max": "5000",
-          "disponible": "99.75"
-        },
-        {
-          "precio": 965.0,
-          "comerciante": "Hosmary Luque ",
-          "min": "500",
-          "max": "208034",
-          "disponible": "0.95"
-        },
-        {
-          "precio": 965.499,
-          "comerciante": "chapoeditions",
-          "min": "400000",
-          "max": "820000",
-          "disponible": "846.74"
-        },
-        {
-          "precio": 965.5,
-          "comerciante": "KRYSM10",
-          "min": "300",
+          "precio": 963.0,
+          "comerciante": "MARIELYSGUT",
+          "min": "10000",
           "max": "4000000",
-          "disponible": "5.61"
+          "disponible": "212.46"
         },
         {
-          "precio": 965.848,
-          "comerciante": "TilinArberto",
-          "min": "1500000",
-          "max": "36450000",
-          "disponible": "9533.57"
+          "precio": 964.97,
+          "comerciante": "CambiosBAAE",
+          "min": "300",
+          "max": "371000",
+          "disponible": "381.04"
+        },
+        {
+          "precio": 964.98,
+          "comerciante": "Puertblue",
+          "min": "9000",
+          "max": "289560",
+          "disponible": "299.25"
+        },
+        {
+          "precio": 964.999,
+          "comerciante": "eglyshot24",
+          "min": "206957",
+          "max": "3000000",
+          "disponible": "214.46"
+        },
+        {
+          "precio": 964.999,
+          "comerciante": "fabita13",
+          "min": "1000",
+          "max": "405042",
+          "disponible": "199.49"
         }
       ]
     }
