@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-09T14:37:33+00:00",
-  "actualizado_ve": "2026-09-09T10:37:33-04:00",
+  "actualizado_utc": "2026-09-09T15:01:42+00:00",
+  "actualizado_ve": "2026-09-09T11:01:42-04:00",
   "bcv": {
     "usd": 820.1018,
     "eur": 954.02442394,
@@ -10,26 +10,19 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 963.604,
+    "referencia": 963.7,
     "venta": {
-      "promedio": 963.604,
+      "promedio": 963.7,
       "minimo": 963.0,
-      "maximo": 964.02,
+      "maximo": 965.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 964.02,
-          "comerciante": "GR_SS",
+          "precio": 965.0,
+          "comerciante": "La-Tia-Mema",
           "min": "1000000",
-          "max": "4000000",
-          "disponible": "28962.68"
-        },
-        {
-          "precio": 964.0,
-          "comerciante": "Trust-Broker",
-          "min": "2000000",
-          "max": "36450000",
-          "disponible": "13094.99"
+          "max": "30000000",
+          "disponible": "19331.18"
         },
         {
           "precio": 964.0,
@@ -39,64 +32,71 @@
           "disponible": "12866.24"
         },
         {
-          "precio": 963.0,
-          "comerciante": "Umbrella2503",
-          "min": "870000",
-          "max": "4000000",
-          "disponible": "5949.36"
+          "precio": 963.5,
+          "comerciante": "Trust-Broker",
+          "min": "2000000",
+          "max": "36450000",
+          "disponible": "27000.06"
         },
         {
           "precio": 963.0,
-          "comerciante": "User-3f304",
-          "min": "2000000",
-          "max": "4000000",
-          "disponible": "4155.00"
+          "comerciante": "CoorpLogistic",
+          "min": "2800000",
+          "max": "36000000",
+          "disponible": "2985.97"
+        },
+        {
+          "precio": 963.0,
+          "comerciante": "CambioMillonario",
+          "min": "481500",
+          "max": "1400000",
+          "disponible": "5513.52"
         }
       ]
     },
     "compra": {
-      "promedio": 963.1988,
-      "minimo": 962.995,
-      "maximo": 963.999,
+      "promedio": 963.2798,
+      "minimo": 962.999,
+      "maximo": 963.5,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 962.995,
-          "comerciante": "CODE-30_IA",
-          "min": "300",
-          "max": "6000",
-          "disponible": "84.60"
+          "precio": 962.999,
+          "comerciante": "GGCAMBIOSYA",
+          "min": "10000",
+          "max": "4000000",
+          "disponible": "49.31"
         },
         {
           "precio": 963.0,
-          "comerciante": "User-db2bb",
-          "min": "90000",
-          "max": "92000",
-          "disponible": "99.75"
-        },
-        {
-          "precio": 963.0,
-          "comerciante": "SG_MM",
-          "min": "40000",
-          "max": "192600",
-          "disponible": "199.50"
-        },
-        {
-          "precio": 963.0,
-          "comerciante": "GGS1607",
-          "min": "95500",
-          "max": "96300",
-          "disponible": "99.75"
-        },
-        {
-          "precio": 963.999,
-          "comerciante": "ElBossP2P",
+          "comerciante": "Maggi2015",
           "min": "300",
           "max": "10000",
-          "disponible": "68.16"
+          "disponible": "99.75"
+        },
+        {
+          "precio": 963.4,
+          "comerciante": "Trejo",
+          "min": "300",
+          "max": "96000",
+          "disponible": "2.85"
+        },
+        {
+          "precio": 963.5,
+          "comerciante": "palatrem",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "0.46"
+        },
+        {
+          "precio": 963.5,
+          "comerciante": "_DemoCambios_",
+          "min": "300000",
+          "max": "4000000",
+          "disponible": "498.75"
         }
       ]
     }
   },
-  "brecha_pct": 17.5
+  "brecha_pct": 17.51
 }
