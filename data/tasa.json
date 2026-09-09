@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-09T14:01:37+00:00",
-  "actualizado_ve": "2026-09-09T10:01:37-04:00",
+  "actualizado_utc": "2026-09-09T14:37:33+00:00",
+  "actualizado_ve": "2026-09-09T10:37:33-04:00",
   "bcv": {
     "usd": 820.1018,
     "eur": 954.02442394,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 964.44,
+    "referencia": 963.604,
     "venta": {
-      "promedio": 964.44,
-      "minimo": 964.0,
-      "maximo": 965.0,
+      "promedio": 963.604,
+      "minimo": 963.0,
+      "maximo": 964.02,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 965.0,
-          "comerciante": "La-Tia-Mema",
-          "min": "1000000",
-          "max": "30000000",
-          "disponible": "27954.86"
-        },
-        {
-          "precio": 965.0,
-          "comerciante": "maisondorada",
+          "precio": 964.02,
+          "comerciante": "GR_SS",
           "min": "1000000",
           "max": "4000000",
-          "disponible": "20000.00"
-        },
-        {
-          "precio": 964.2,
-          "comerciante": "CrxptoFast",
-          "min": "200000",
-          "max": "4000000",
-          "disponible": "16947.53"
+          "disponible": "28962.68"
         },
         {
           "precio": 964.0,
           "comerciante": "Trust-Broker",
           "min": "2000000",
           "max": "36450000",
-          "disponible": "30000.00"
+          "disponible": "13094.99"
         },
         {
           "precio": 964.0,
-          "comerciante": "User-95450",
-          "min": "3000000",
-          "max": "25000000",
-          "disponible": "15000.00"
+          "comerciante": "maisondorada",
+          "min": "1000000",
+          "max": "4000000",
+          "disponible": "12866.24"
+        },
+        {
+          "precio": 963.0,
+          "comerciante": "Umbrella2503",
+          "min": "870000",
+          "max": "4000000",
+          "disponible": "5949.36"
+        },
+        {
+          "precio": 963.0,
+          "comerciante": "User-3f304",
+          "min": "2000000",
+          "max": "4000000",
+          "disponible": "4155.00"
         }
       ]
     },
     "compra": {
-      "promedio": 963.9996,
-      "minimo": 963.999,
-      "maximo": 964.0,
+      "promedio": 963.1988,
+      "minimo": 962.995,
+      "maximo": 963.999,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 963.999,
-          "comerciante": "Deswicripto",
-          "min": "44000",
-          "max": "45000",
-          "disponible": "99.75"
-        },
-        {
-          "precio": 963.999,
-          "comerciante": "Edron Market",
-          "min": "7000",
-          "max": "50000",
-          "disponible": "99.75"
-        },
-        {
-          "precio": 964.0,
-          "comerciante": "Jhair lopez",
-          "min": "3000",
-          "max": "200000",
-          "disponible": "8.40"
-        },
-        {
-          "precio": 964.0,
-          "comerciante": "carlosteran1",
+          "precio": 962.995,
+          "comerciante": "CODE-30_IA",
           "min": "300",
-          "max": "842000",
-          "disponible": "14.73"
+          "max": "6000",
+          "disponible": "84.60"
         },
         {
-          "precio": 964.0,
-          "comerciante": "Kennt_26",
-          "min": "2910",
-          "max": "4000000",
-          "disponible": "5.24"
+          "precio": 963.0,
+          "comerciante": "User-db2bb",
+          "min": "90000",
+          "max": "92000",
+          "disponible": "99.75"
+        },
+        {
+          "precio": 963.0,
+          "comerciante": "SG_MM",
+          "min": "40000",
+          "max": "192600",
+          "disponible": "199.50"
+        },
+        {
+          "precio": 963.0,
+          "comerciante": "GGS1607",
+          "min": "95500",
+          "max": "96300",
+          "disponible": "99.75"
+        },
+        {
+          "precio": 963.999,
+          "comerciante": "ElBossP2P",
+          "min": "300",
+          "max": "10000",
+          "disponible": "68.16"
         }
       ]
     }
   },
-  "brecha_pct": 17.6
+  "brecha_pct": 17.5
 }
