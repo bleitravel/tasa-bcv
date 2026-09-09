@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-08T23:33:01+00:00",
-  "actualizado_ve": "2026-09-08T19:33:01-04:00",
+  "actualizado_utc": "2026-09-09T00:02:39+00:00",
+  "actualizado_ve": "2026-09-08T20:02:39-04:00",
   "bcv": {
     "usd": 820.1018,
     "eur": 954.02442394,
@@ -10,20 +10,13 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 965.401,
+    "referencia": 964.7602,
     "venta": {
-      "promedio": 965.401,
-      "minimo": 965.0,
+      "promedio": 964.7602,
+      "minimo": 964.1,
       "maximo": 966.0,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 966.0,
-          "comerciante": "Bruce-Wayne-93",
-          "min": "100000",
-          "max": "300000",
-          "disponible": "311.00"
-        },
         {
           "precio": 966.0,
           "comerciante": "Trust-Broker",
@@ -32,71 +25,78 @@
           "disponible": "30000.00"
         },
         {
-          "precio": 965.005,
+          "precio": 965.0,
+          "comerciante": "CambiosMZ",
+          "min": "1000000",
+          "max": "10273000",
+          "disponible": "3625.61"
+        },
+        {
+          "precio": 964.5,
           "comerciante": "Gustavo129",
           "min": "1500000",
           "max": "36450000",
           "disponible": "80000.00"
         },
         {
-          "precio": 965.0,
-          "comerciante": "CambioNJL",
-          "min": "800000",
+          "precio": 964.201,
+          "comerciante": "fenix2517",
+          "min": "200000",
           "max": "4000000",
-          "disponible": "1963.74"
+          "disponible": "5971.47"
         },
         {
-          "precio": 965.0,
-          "comerciante": "-维克多-",
-          "min": "1000000",
-          "max": "36000000",
-          "disponible": "6152.26"
+          "precio": 964.1,
+          "comerciante": "NexusPremiun",
+          "min": "700000",
+          "max": "20057000",
+          "disponible": "14275.59"
         }
       ]
     },
     "compra": {
-      "promedio": 964.964,
-      "minimo": 964.942,
-      "maximo": 964.999,
+      "promedio": 964.9478,
+      "minimo": 964.869,
+      "maximo": 965.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 964.942,
-          "comerciante": "SafeSwapLong",
-          "min": "2000000",
-          "max": "6300570",
-          "disponible": "3151.38"
-        },
-        {
-          "precio": 964.949,
-          "comerciante": "VIPChanges",
-          "min": "2500000",
+          "precio": 964.869,
+          "comerciante": "Latinlf",
+          "min": "5000",
           "max": "10000000",
-          "disponible": "3949.59"
+          "disponible": "89.69"
         },
         {
-          "precio": 964.95,
-          "comerciante": "不會不會他不會",
+          "precio": 964.87,
+          "comerciante": "Azir-p2p",
           "min": "2000000",
-          "max": "9500000",
-          "disponible": "4492.13"
+          "max": "15000000",
+          "disponible": "4884.16"
         },
         {
-          "precio": 964.98,
-          "comerciante": "trade-key",
+          "precio": 965.0,
+          "comerciante": "DoggyTorres",
+          "min": "193000",
+          "max": "193483",
+          "disponible": "200.00"
+        },
+        {
+          "precio": 965.0,
+          "comerciante": "Fexyz",
+          "min": "10000000",
+          "max": "36450000",
+          "disponible": "13715.27"
+        },
+        {
+          "precio": 965.0,
+          "comerciante": "TAZ-P2P",
           "min": "2000000",
           "max": "36450000",
-          "disponible": "4931.19"
-        },
-        {
-          "precio": 964.999,
-          "comerciante": "Lmg_traders",
-          "min": "2000000",
-          "max": "36450000",
-          "disponible": "10281.30"
+          "disponible": "11985.01"
         }
       ]
     }
   },
-  "brecha_pct": 17.72
+  "brecha_pct": 17.64
 }
