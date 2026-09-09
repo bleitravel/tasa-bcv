@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-09T15:01:42+00:00",
-  "actualizado_ve": "2026-09-09T11:01:42-04:00",
+  "actualizado_utc": "2026-09-09T15:37:12+00:00",
+  "actualizado_ve": "2026-09-09T11:37:12-04:00",
   "bcv": {
     "usd": 820.1018,
     "eur": 954.02442394,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 963.7,
+    "referencia": 964.92,
     "venta": {
-      "promedio": 963.7,
-      "minimo": 963.0,
+      "promedio": 964.92,
+      "minimo": 964.6,
       "maximo": 965.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -22,81 +22,81 @@
           "comerciante": "La-Tia-Mema",
           "min": "1000000",
           "max": "30000000",
-          "disponible": "19331.18"
+          "disponible": "10053.28"
         },
         {
-          "precio": 964.0,
+          "precio": 965.0,
           "comerciante": "maisondorada",
           "min": "1000000",
           "max": "4000000",
-          "disponible": "12866.24"
+          "disponible": "8716.93"
         },
         {
-          "precio": 963.5,
-          "comerciante": "Trust-Broker",
-          "min": "2000000",
-          "max": "36450000",
-          "disponible": "27000.06"
+          "precio": 965.0,
+          "comerciante": "arabe1989",
+          "min": "200000",
+          "max": "960000",
+          "disponible": "600.00"
         },
         {
-          "precio": 963.0,
+          "precio": 965.0,
           "comerciante": "CoorpLogistic",
-          "min": "2800000",
+          "min": "9000000",
           "max": "36000000",
-          "disponible": "2985.97"
+          "disponible": "10020.00"
         },
         {
-          "precio": 963.0,
-          "comerciante": "CambioMillonario",
-          "min": "481500",
-          "max": "1400000",
-          "disponible": "5513.52"
+          "precio": 964.6,
+          "comerciante": "-TonySoprano-",
+          "min": "15000000",
+          "max": "36450000",
+          "disponible": "61565.98"
         }
       ]
     },
     "compra": {
-      "promedio": 963.2798,
-      "minimo": 962.999,
-      "maximo": 963.5,
+      "promedio": 963.7568,
+      "minimo": 963.0,
+      "maximo": 963.995,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 962.999,
-          "comerciante": "GGCAMBIOSYA",
-          "min": "10000",
-          "max": "4000000",
-          "disponible": "49.31"
+          "precio": 963.0,
+          "comerciante": "Broker Trader",
+          "min": "19300",
+          "max": "19301",
+          "disponible": "124.68"
         },
         {
-          "precio": 963.0,
-          "comerciante": "Maggi2015",
+          "precio": 963.899,
+          "comerciante": "ElBossP2P",
           "min": "300",
           "max": "10000",
+          "disponible": "358.34"
+        },
+        {
+          "precio": 963.9,
+          "comerciante": "Alfonso124",
+          "min": "24097",
+          "max": "24098",
           "disponible": "99.75"
         },
         {
-          "precio": 963.4,
-          "comerciante": "Trejo",
-          "min": "300",
-          "max": "96000",
-          "disponible": "2.85"
+          "precio": 963.99,
+          "comerciante": "DemeCambios",
+          "min": "30000",
+          "max": "289199",
+          "disponible": "104.15"
         },
         {
-          "precio": 963.5,
-          "comerciante": "palatrem",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "0.46"
-        },
-        {
-          "precio": 963.5,
-          "comerciante": "_DemoCambios_",
-          "min": "300000",
-          "max": "4000000",
-          "disponible": "498.75"
+          "precio": 963.995,
+          "comerciante": "DL_CambioS",
+          "min": "50000",
+          "max": "154239",
+          "disponible": "159.60"
         }
       ]
     }
   },
-  "brecha_pct": 17.51
+  "brecha_pct": 17.66
 }
