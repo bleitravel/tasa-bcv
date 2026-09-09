@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-09T10:36:43+00:00",
-  "actualizado_ve": "2026-09-09T06:36:43-04:00",
+  "actualizado_utc": "2026-09-09T11:01:59+00:00",
+  "actualizado_ve": "2026-09-09T07:01:59-04:00",
   "bcv": {
     "usd": 820.1018,
     "eur": 954.02442394,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 962.67,
+    "referencia": 963.428,
     "venta": {
-      "promedio": 962.67,
-      "minimo": 962.0,
+      "promedio": 963.428,
+      "minimo": 962.99,
       "maximo": 964.15,
       "anuncios_usados": 5,
       "anuncios": [
@@ -22,7 +22,14 @@
           "comerciante": "Bianchiplus",
           "min": "2000000",
           "max": "14000000",
-          "disponible": "8400.12"
+          "disponible": "7705.66"
+        },
+        {
+          "precio": 964.0,
+          "comerciante": "Blank_Mind",
+          "min": "1500000",
+          "max": "36450000",
+          "disponible": "20683.93"
         },
         {
           "precio": 963.0,
@@ -32,71 +39,64 @@
           "disponible": "100.00"
         },
         {
-          "precio": 962.2,
-          "comerciante": "User-95450",
+          "precio": 963.0,
+          "comerciante": "JJC18",
           "min": "1000000",
-          "max": "25000000",
-          "disponible": "20900.00"
+          "max": "3800000",
+          "disponible": "10000.00"
         },
         {
-          "precio": 962.0,
-          "comerciante": "MarceciccaP2P",
-          "min": "300",
-          "max": "320",
-          "disponible": "395.85"
-        },
-        {
-          "precio": 962.0,
-          "comerciante": "GRUPOAVILA",
-          "min": "1000000",
-          "max": "20000000",
-          "disponible": "80000.00"
+          "precio": 962.99,
+          "comerciante": "FTAIRG",
+          "min": "80000",
+          "max": "3886075",
+          "disponible": "1138.53"
         }
       ]
     },
     "compra": {
-      "promedio": 964.5896,
-      "minimo": 963.0,
-      "maximo": 964.999,
+      "promedio": 963.96,
+      "minimo": 963.8,
+      "maximo": 964.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 963.0,
-          "comerciante": "MARIELYSGUT",
-          "min": "10000",
+          "precio": 963.8,
+          "comerciante": "Yumbrit",
+          "min": "40000",
           "max": "4000000",
-          "disponible": "212.46"
+          "disponible": "356.44"
         },
         {
-          "precio": 964.97,
-          "comerciante": "CambiosBAAE",
-          "min": "300",
-          "max": "371000",
-          "disponible": "381.04"
+          "precio": 964.0,
+          "comerciante": "P2P-7378496d",
+          "min": "30000",
+          "max": "4000000",
+          "disponible": "168.76"
         },
         {
-          "precio": 964.98,
-          "comerciante": "Puertblue",
-          "min": "9000",
-          "max": "289560",
-          "disponible": "299.25"
+          "precio": 964.0,
+          "comerciante": "Victordhd",
+          "min": "964",
+          "max": "287753",
+          "disponible": "297.44"
         },
         {
-          "precio": 964.999,
-          "comerciante": "eglyshot24",
-          "min": "206957",
-          "max": "3000000",
-          "disponible": "214.46"
-        },
-        {
-          "precio": 964.999,
+          "precio": 964.0,
           "comerciante": "fabita13",
           "min": "1000",
           "max": "405042",
-          "disponible": "199.49"
+          "disponible": "173.56"
+        },
+        {
+          "precio": 964.0,
+          "comerciante": "AVAVA-2",
+          "min": "100000",
+          "max": "4000000",
+          "disponible": "2842.11"
         }
       ]
     }
   },
-  "brecha_pct": 17.38
+  "brecha_pct": 17.48
 }
