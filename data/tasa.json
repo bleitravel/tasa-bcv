@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-09T19:01:55+00:00",
-  "actualizado_ve": "2026-09-09T15:01:55-04:00",
+  "actualizado_utc": "2026-09-09T19:33:03+00:00",
+  "actualizado_ve": "2026-09-09T15:33:03-04:00",
   "bcv": {
     "usd": 820.1018,
     "eur": 954.02442394,
@@ -10,77 +10,56 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 965.6,
+    "referencia": 964.2322,
     "venta": {
-      "promedio": 965.6,
+      "promedio": 964.2322,
       "minimo": 964.0,
-      "maximo": 968.0,
+      "maximo": 965.0,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 968.0,
-          "comerciante": "sarutobi",
-          "min": "3300000",
-          "max": "3388000",
-          "disponible": "3500.00"
-        },
-        {
-          "precio": 966.0,
-          "comerciante": "CAMBIOSBREINER10",
-          "min": "500000",
-          "max": "4000000",
-          "disponible": "2162.47"
-        },
         {
           "precio": 965.0,
           "comerciante": "maisondorada",
           "min": "1000000",
           "max": "4000000",
-          "disponible": "17492.29"
+          "disponible": "14864.14"
         },
         {
-          "precio": 965.0,
-          "comerciante": "Blank_Mind",
-          "min": "2000000",
+          "precio": 964.15,
+          "comerciante": "AJ-Cambios",
+          "min": "3000000",
           "max": "36450000",
-          "disponible": "58980.48"
+          "disponible": "21193.18"
+        },
+        {
+          "precio": 964.01,
+          "comerciante": "EKExpress",
+          "min": "1000000",
+          "max": "36450000",
+          "disponible": "75380.60"
+        },
+        {
+          "precio": 964.001,
+          "comerciante": "Blank_Mind",
+          "min": "67000",
+          "max": "67500",
+          "disponible": "100.00"
         },
         {
           "precio": 964.0,
           "comerciante": "CrxptoFast",
           "min": "200000",
           "max": "4000000",
-          "disponible": "8929.71"
+          "disponible": "5524.46"
         }
       ]
     },
     "compra": {
-      "promedio": 964.5998,
-      "minimo": 964.0,
+      "promedio": 965.0,
+      "minimo": 965.0,
       "maximo": 965.0,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 964.0,
-          "comerciante": "ArianaGuedez",
-          "min": "965000",
-          "max": "3000000",
-          "disponible": "5093.77"
-        },
-        {
-          "precio": 964.0,
-          "comerciante": "Salem1998",
-          "min": "50000",
-          "max": "80000",
-          "disponible": "99.75"
-        },
-        {
-          "precio": 964.999,
-          "comerciante": "GlobalBusinessmx",
-          "min": "62400",
-          "max": "62401",
-          "disponible": "99.75"
-        },
         {
           "precio": 965.0,
           "comerciante": "Gabrielfoq",
@@ -90,13 +69,34 @@
         },
         {
           "precio": 965.0,
-          "comerciante": "JoseMuji",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "2.38"
+          "comerciante": "ArianaGuedez",
+          "min": "965000",
+          "max": "3000000",
+          "disponible": "10921.17"
+        },
+        {
+          "precio": 965.0,
+          "comerciante": "Inter-Pagos",
+          "min": "200000",
+          "max": "1000000",
+          "disponible": "1015.17"
+        },
+        {
+          "precio": 965.0,
+          "comerciante": "WuinderTT",
+          "min": "17000",
+          "max": "444305",
+          "disponible": "19.85"
+        },
+        {
+          "precio": 965.0,
+          "comerciante": "LUILLY136",
+          "min": "480000",
+          "max": "482000",
+          "disponible": "498.75"
         }
       ]
     }
   },
-  "brecha_pct": 17.74
+  "brecha_pct": 17.57
 }
