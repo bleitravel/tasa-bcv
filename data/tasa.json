@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-09T09:36:45+00:00",
-  "actualizado_ve": "2026-09-09T05:36:45-04:00",
+  "actualizado_utc": "2026-09-09T10:01:58+00:00",
+  "actualizado_ve": "2026-09-09T06:01:58-04:00",
   "bcv": {
     "usd": 820.1018,
     "eur": 954.02442394,
@@ -55,17 +55,24 @@
       ]
     },
     "compra": {
-      "promedio": 965.5578,
-      "minimo": 965.0,
-      "maximo": 965.9,
+      "promedio": 965.3692,
+      "minimo": 964.999,
+      "maximo": 965.848,
       "anuncios_usados": 5,
       "anuncios": [
+        {
+          "precio": 964.999,
+          "comerciante": "Lubarca",
+          "min": "300",
+          "max": "5000",
+          "disponible": "99.75"
+        },
         {
           "precio": 965.0,
           "comerciante": "Hosmary Luque ",
           "min": "500",
           "max": "208034",
-          "disponible": "155.99"
+          "disponible": "0.95"
         },
         {
           "precio": 965.499,
@@ -82,18 +89,11 @@
           "disponible": "5.61"
         },
         {
-          "precio": 965.89,
-          "comerciante": "Melani_sublimascione",
-          "min": "3000000",
-          "max": "16987700",
-          "disponible": "17540.61"
-        },
-        {
-          "precio": 965.9,
-          "comerciante": "Elnegrop2p",
-          "min": "3000000",
-          "max": "14000000",
-          "disponible": "13292.03"
+          "precio": 965.848,
+          "comerciante": "TilinArberto",
+          "min": "1500000",
+          "max": "36450000",
+          "disponible": "9533.57"
         }
       ]
     }
