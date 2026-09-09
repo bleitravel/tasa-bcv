@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-09T23:01:39+00:00",
-  "actualizado_ve": "2026-09-09T19:01:39-04:00",
+  "actualizado_utc": "2026-09-09T23:33:14+00:00",
+  "actualizado_ve": "2026-09-09T19:33:14-04:00",
   "bcv": {
     "usd": 827.7371,
     "eur": 963.21283115,
@@ -10,54 +10,54 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 966.098,
+    "referencia": 965.6176,
     "venta": {
-      "promedio": 966.098,
-      "minimo": 965.5,
+      "promedio": 965.6176,
+      "minimo": 965.0,
       "maximo": 967.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
           "precio": 967.0,
-          "comerciante": "maisondorada",
-          "min": "1000000",
+          "comerciante": "Guayoyo1",
+          "min": "500000",
           "max": "4000000",
-          "disponible": "3005.96"
-        },
-        {
-          "precio": 966.5,
-          "comerciante": "CoorpLogistic",
-          "min": "8500000",
-          "max": "36000000",
-          "disponible": "18000.00"
-        },
-        {
-          "precio": 965.8,
-          "comerciante": "GRUPOAVILA",
-          "min": "1500000",
-          "max": "20000000",
-          "disponible": "5374.64"
+          "disponible": "785.30"
         },
         {
           "precio": 965.69,
           "comerciante": "GR_SS",
           "min": "1000000",
           "max": "4000000",
-          "disponible": "16089.06"
+          "disponible": "12731.70"
         },
         {
-          "precio": 965.5,
-          "comerciante": "CRUCETA",
+          "precio": 965.398,
+          "comerciante": "Omega Fitness Center",
           "min": "1000000",
-          "max": "30000000",
-          "disponible": "4660.90"
+          "max": "4000000",
+          "disponible": "1055.42"
+        },
+        {
+          "precio": 965.0,
+          "comerciante": "User-9fb1c",
+          "min": "2000000",
+          "max": "4000000",
+          "disponible": "30000.00"
+        },
+        {
+          "precio": 965.0,
+          "comerciante": "LantzAvance",
+          "min": "600000",
+          "max": "4000000",
+          "disponible": "16726.00"
         }
       ]
     },
     "compra": {
-      "promedio": 964.2656,
+      "promedio": 965.3136,
       "minimo": 964.0,
-      "maximo": 964.528,
+      "maximo": 965.888,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "3990.02"
         },
         {
-          "precio": 964.0,
-          "comerciante": "Susann Columbo h3Ge",
-          "min": "100000",
-          "max": "700000",
-          "disponible": "199.50"
+          "precio": 965.0,
+          "comerciante": "P2P-335ab5ou",
+          "min": "200000",
+          "max": "579600",
+          "disponible": "598.50"
         },
         {
-          "precio": 964.3,
-          "comerciante": "GlobalBusinessmx",
-          "min": "83200",
-          "max": "83201",
-          "disponible": "100.32"
+          "precio": 965.83,
+          "comerciante": "JDVR_05",
+          "min": "2000000",
+          "max": "35000000",
+          "disponible": "2468.68"
         },
         {
-          "precio": 964.5,
-          "comerciante": "inversiones Emiliano",
-          "min": "100000",
-          "max": "500000",
-          "disponible": "549.03"
+          "precio": 965.85,
+          "comerciante": "Cgovia23",
+          "min": "2000000",
+          "max": "36450000",
+          "disponible": "3742.75"
         },
         {
-          "precio": 964.528,
-          "comerciante": "Pueblos_del_Sur_P2P",
-          "min": "193720",
-          "max": "199532",
-          "disponible": "205.48"
+          "precio": 965.888,
+          "comerciante": "SafeSwapLong",
+          "min": "2000000",
+          "max": "6300570",
+          "disponible": "9280.71"
         }
       ]
     }
   },
-  "brecha_pct": 16.72
+  "brecha_pct": 16.66
 }
