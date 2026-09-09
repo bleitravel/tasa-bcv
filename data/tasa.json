@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-09T05:01:50+00:00",
-  "actualizado_ve": "2026-09-09T01:01:50-04:00",
+  "actualizado_utc": "2026-09-09T05:35:30+00:00",
+  "actualizado_ve": "2026-09-09T01:35:30-04:00",
   "bcv": {
     "usd": 820.1018,
     "eur": 954.02442394,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 963.51,
+    "referencia": 963.41,
     "venta": {
-      "promedio": 963.51,
-      "minimo": 963.2,
+      "promedio": 963.41,
+      "minimo": 963.0,
       "maximo": 964.15,
       "anuncios_usados": 5,
       "anuncios": [
@@ -26,77 +26,77 @@
         },
         {
           "precio": 963.5,
-          "comerciante": "rubenTddc",
-          "min": "68000",
-          "max": "4000000",
-          "disponible": "100.00"
+          "comerciante": "VISÓN CRIPTØ",
+          "min": "500000",
+          "max": "36450000",
+          "disponible": "2873.21"
         },
         {
           "precio": 963.4,
           "comerciante": "S3bss_Exchang3",
           "min": "400000",
           "max": "8000000",
-          "disponible": "1535.15"
+          "disponible": "1106.46"
         },
         {
-          "precio": 963.3,
-          "comerciante": "VISÓN CRIPTØ",
-          "min": "500000",
-          "max": "36450000",
-          "disponible": "7202.17"
+          "precio": 963.0,
+          "comerciante": "Kpx4x4",
+          "min": "48900",
+          "max": "49000",
+          "disponible": "100.00"
         },
         {
-          "precio": 963.2,
-          "comerciante": "Listoexpress",
-          "min": "200000",
-          "max": "36450000",
-          "disponible": "4792.36"
+          "precio": 963.0,
+          "comerciante": "CryptoVersos",
+          "min": "300000",
+          "max": "2000000",
+          "disponible": "55521.76"
         }
       ]
     },
     "compra": {
-      "promedio": 964.8978,
-      "minimo": 964.5,
-      "maximo": 965.0,
+      "promedio": 963.9992,
+      "minimo": 963.998,
+      "maximo": 964.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 964.5,
-          "comerciante": "Nairin19",
-          "min": "300",
-          "max": "50000",
-          "disponible": "109.65"
-        },
-        {
-          "precio": 964.99,
-          "comerciante": "OrdeP06",
-          "min": "100000",
-          "max": "4000000",
-          "disponible": "350.13"
-        },
-        {
-          "precio": 964.999,
-          "comerciante": "cambios_veccoins",
-          "min": "3000",
-          "max": "300000",
-          "disponible": "207.35"
-        },
-        {
-          "precio": 965.0,
-          "comerciante": "EnocWgrt",
+          "precio": 963.998,
+          "comerciante": "NEROZKILL ",
           "min": "50000",
-          "max": "449000",
-          "disponible": "62.32"
+          "max": "412000",
+          "disponible": "327.25"
         },
         {
-          "precio": 965.0,
-          "comerciante": "SecureChange",
-          "min": "20000",
-          "max": "21000",
-          "disponible": "99.75"
+          "precio": 963.999,
+          "comerciante": "Parzival1012",
+          "min": "40000",
+          "max": "340000",
+          "disponible": "140.35"
+        },
+        {
+          "precio": 963.999,
+          "comerciante": "Jeima27",
+          "min": "50000",
+          "max": "400000",
+          "disponible": "1161.09"
+        },
+        {
+          "precio": 964.0,
+          "comerciante": "federicobtc",
+          "min": "700000",
+          "max": "4000000",
+          "disponible": "847.88"
+        },
+        {
+          "precio": 964.0,
+          "comerciante": "Gonzalezarmando1",
+          "min": "5000",
+          "max": "96000",
+          "disponible": "19.61"
         }
       ]
     }
   },
-  "brecha_pct": 17.49
+  "brecha_pct": 17.47
 }
