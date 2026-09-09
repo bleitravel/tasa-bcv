@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-09T08:02:12+00:00",
-  "actualizado_ve": "2026-09-09T04:02:12-04:00",
+  "actualizado_utc": "2026-09-09T08:35:55+00:00",
+  "actualizado_ve": "2026-09-09T04:35:55-04:00",
   "bcv": {
     "usd": 820.1018,
     "eur": 954.02442394,
@@ -47,15 +47,15 @@
         },
         {
           "precio": 962.0,
-          "comerciante": "CryptoVersos",
-          "min": "200000",
-          "max": "340000",
-          "disponible": "53936.65"
+          "comerciante": "tradermmg",
+          "min": "249000",
+          "max": "250000",
+          "disponible": "300.00"
         }
       ]
     },
     "compra": {
-      "promedio": 965.0998,
+      "promedio": 965.0812,
       "minimo": 964.0,
       "maximo": 965.5,
       "anuncios_usados": 5,
@@ -68,11 +68,11 @@
           "disponible": "847.88"
         },
         {
-          "precio": 965.0,
-          "comerciante": "SecureChange",
-          "min": "20000",
-          "max": "21000",
-          "disponible": "57.49"
+          "precio": 964.907,
+          "comerciante": "Yojacksonp",
+          "min": "1000",
+          "max": "98600",
+          "disponible": "1.37"
         },
         {
           "precio": 965.499,
@@ -86,14 +86,14 @@
           "comerciante": "KRYSM10",
           "min": "300",
           "max": "4000000",
-          "disponible": "20.71"
+          "disponible": "10.78"
         },
         {
           "precio": 965.5,
           "comerciante": "DJRICARDO1K",
           "min": "300",
           "max": "4000000",
-          "disponible": "9.89"
+          "disponible": "6.80"
         }
       ]
     }
