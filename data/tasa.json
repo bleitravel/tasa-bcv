@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-09T05:35:30+00:00",
-  "actualizado_ve": "2026-09-09T01:35:30-04:00",
+  "actualizado_utc": "2026-09-09T06:02:27+00:00",
+  "actualizado_ve": "2026-09-09T02:02:27-04:00",
   "bcv": {
     "usd": 820.1018,
     "eur": 954.02442394,
@@ -10,9 +10,9 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 963.41,
+    "referencia": 963.55,
     "venta": {
-      "promedio": 963.41,
+      "promedio": 963.55,
       "minimo": 963.0,
       "maximo": 964.15,
       "anuncios_usados": 5,
@@ -25,18 +25,25 @@
           "disponible": "10500.06"
         },
         {
+          "precio": 963.7,
+          "comerciante": "Juanz17",
+          "min": "700000",
+          "max": "7500000",
+          "disponible": "8000.00"
+        },
+        {
           "precio": 963.5,
           "comerciante": "VISÓN CRIPTØ",
           "min": "500000",
           "max": "36450000",
-          "disponible": "2873.21"
+          "disponible": "2137.58"
         },
         {
           "precio": 963.4,
           "comerciante": "S3bss_Exchang3",
           "min": "400000",
           "max": "8000000",
-          "disponible": "1106.46"
+          "disponible": "656.52"
         },
         {
           "precio": 963.0,
@@ -44,42 +51,28 @@
           "min": "48900",
           "max": "49000",
           "disponible": "100.00"
-        },
-        {
-          "precio": 963.0,
-          "comerciante": "CryptoVersos",
-          "min": "300000",
-          "max": "2000000",
-          "disponible": "55521.76"
         }
       ]
     },
     "compra": {
-      "promedio": 963.9992,
-      "minimo": 963.998,
+      "promedio": 963.75,
+      "minimo": 963.0,
       "maximo": 964.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 963.998,
-          "comerciante": "NEROZKILL ",
+          "precio": 963.0,
+          "comerciante": "MRDIAZ03",
           "min": "50000",
-          "max": "412000",
-          "disponible": "327.25"
+          "max": "412164",
+          "disponible": "426.93"
         },
         {
-          "precio": 963.999,
-          "comerciante": "Parzival1012",
-          "min": "40000",
-          "max": "340000",
-          "disponible": "140.35"
-        },
-        {
-          "precio": 963.999,
-          "comerciante": "Jeima27",
-          "min": "50000",
-          "max": "400000",
-          "disponible": "1161.09"
+          "precio": 963.75,
+          "comerciante": "JHCambios",
+          "min": "90000",
+          "max": "4000000",
+          "disponible": "100.55"
         },
         {
           "precio": 964.0,
@@ -90,13 +83,20 @@
         },
         {
           "precio": 964.0,
-          "comerciante": "Gonzalezarmando1",
-          "min": "5000",
-          "max": "96000",
-          "disponible": "19.61"
+          "comerciante": "P2P-db7072qs",
+          "min": "8000",
+          "max": "30000",
+          "disponible": "37.53"
+        },
+        {
+          "precio": 964.0,
+          "comerciante": "PAGORAPID0O",
+          "min": "20000",
+          "max": "410550",
+          "disponible": "66.43"
         }
       ]
     }
   },
-  "brecha_pct": 17.47
+  "brecha_pct": 17.49
 }
