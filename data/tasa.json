@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-09T17:35:07+00:00",
-  "actualizado_ve": "2026-09-09T13:35:07-04:00",
+  "actualizado_utc": "2026-09-09T18:02:11+00:00",
+  "actualizado_ve": "2026-09-09T14:02:11-04:00",
   "bcv": {
     "usd": 820.1018,
     "eur": 954.02442394,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 965.1,
+    "referencia": 965.5514,
     "venta": {
-      "promedio": 965.1,
+      "promedio": 965.5514,
       "minimo": 965.0,
-      "maximo": 965.5,
+      "maximo": 966.757,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 965.5,
-          "comerciante": "HectorB",
-          "min": "15000000",
-          "max": "36000000",
-          "disponible": "60000.00"
+          "precio": 966.757,
+          "comerciante": "Nhalegria24",
+          "min": "70000",
+          "max": "71000",
+          "disponible": "100.00"
+        },
+        {
+          "precio": 966.0,
+          "comerciante": "P2Palba",
+          "min": "140000",
+          "max": "140070",
+          "disponible": "145.00"
         },
         {
           "precio": 965.0,
           "comerciante": "Umbrella2503",
           "min": "870000",
           "max": "4000000",
-          "disponible": "9340.54"
+          "disponible": "4293.92"
         },
         {
           "precio": 965.0,
           "comerciante": "calorina sankey",
           "min": "1000000",
           "max": "4000000",
-          "disponible": "14000.00"
+          "disponible": "11927.47"
         },
         {
           "precio": 965.0,
-          "comerciante": "Blank_Mind",
-          "min": "1500000",
-          "max": "36450000",
-          "disponible": "13734.57"
-        },
-        {
-          "precio": 965.0,
-          "comerciante": "GAZA_CRIPTO",
-          "min": "10000000",
-          "max": "36450000",
-          "disponible": "45214.21"
+          "comerciante": "memo",
+          "min": "1000000",
+          "max": "2000000",
+          "disponible": "1165.82"
         }
       ]
     },
     "compra": {
-      "promedio": 963.6998,
-      "minimo": 962.0,
-      "maximo": 964.499,
+      "promedio": 964.8998,
+      "minimo": 964.499,
+      "maximo": 965.0,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 962.0,
-          "comerciante": "simosaalonso",
-          "min": "383830",
-          "max": "383838",
-          "disponible": "399.00"
-        },
-        {
-          "precio": 964.0,
-          "comerciante": "Jhair lopez",
-          "min": "3000",
-          "max": "200000",
-          "disponible": "6.00"
-        },
-        {
-          "precio": 964.0,
-          "comerciante": "IGlobalHouse",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "16.12"
-        },
-        {
-          "precio": 964.0,
-          "comerciante": "trader-jade",
-          "min": "98000",
-          "max": "100000",
-          "disponible": "103.47"
-        },
         {
           "precio": 964.499,
           "comerciante": "oro-2001-mar",
           "min": "300",
           "max": "80000",
           "disponible": "0.46"
+        },
+        {
+          "precio": 965.0,
+          "comerciante": "P2P_LlaveDeRiqueza",
+          "min": "300",
+          "max": "143193",
+          "disponible": "0.43"
+        },
+        {
+          "precio": 965.0,
+          "comerciante": "P_drm24030806",
+          "min": "300",
+          "max": "1400000",
+          "disponible": "0.88"
+        },
+        {
+          "precio": 965.0,
+          "comerciante": "CCsita",
+          "min": "300",
+          "max": "50000",
+          "disponible": "2.95"
+        },
+        {
+          "precio": 965.0,
+          "comerciante": "LeoWinged",
+          "min": "300",
+          "max": "97200",
+          "disponible": "1.02"
         }
       ]
     }
   },
-  "brecha_pct": 17.68
+  "brecha_pct": 17.74
 }
