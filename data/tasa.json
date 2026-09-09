@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-09T08:35:55+00:00",
-  "actualizado_ve": "2026-09-09T04:35:55-04:00",
+  "actualizado_utc": "2026-09-09T09:01:51+00:00",
+  "actualizado_ve": "2026-09-09T05:01:51-04:00",
   "bcv": {
     "usd": 820.1018,
     "eur": 954.02442394,
@@ -10,9 +10,9 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 962.63,
+    "referencia": 962.67,
     "venta": {
-      "promedio": 962.63,
+      "promedio": 962.67,
       "minimo": 962.0,
       "maximo": 964.15,
       "anuncios_usados": 5,
@@ -22,7 +22,7 @@
           "comerciante": "Bianchiplus",
           "min": "2000000",
           "max": "14000000",
-          "disponible": "10500.06"
+          "disponible": "5060.12"
         },
         {
           "precio": 963.0,
@@ -30,6 +30,13 @@
           "min": "48900",
           "max": "49000",
           "disponible": "100.00"
+        },
+        {
+          "precio": 962.2,
+          "comerciante": "User-95450",
+          "min": "1000000",
+          "max": "25000000",
+          "disponible": "17287.33"
         },
         {
           "precio": 962.0,
@@ -44,20 +51,13 @@
           "min": "1000000",
           "max": "20000000",
           "disponible": "80000.00"
-        },
-        {
-          "precio": 962.0,
-          "comerciante": "tradermmg",
-          "min": "249000",
-          "max": "250000",
-          "disponible": "300.00"
         }
       ]
     },
     "compra": {
-      "promedio": 965.0812,
+      "promedio": 965.2986,
       "minimo": 964.0,
-      "maximo": 965.5,
+      "maximo": 965.9,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -66,13 +66,6 @@
           "min": "700000",
           "max": "4000000",
           "disponible": "847.88"
-        },
-        {
-          "precio": 964.907,
-          "comerciante": "Yojacksonp",
-          "min": "1000",
-          "max": "98600",
-          "disponible": "1.37"
         },
         {
           "precio": 965.499,
@@ -89,11 +82,18 @@
           "disponible": "10.78"
         },
         {
-          "precio": 965.5,
-          "comerciante": "DJRICARDO1K",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "6.80"
+          "precio": 965.594,
+          "comerciante": "Yojacksonp",
+          "min": "1000",
+          "max": "98600",
+          "disponible": "1.37"
+        },
+        {
+          "precio": 965.9,
+          "comerciante": "Elnegrop2p",
+          "min": "3000000",
+          "max": "14000000",
+          "disponible": "13292.03"
         }
       ]
     }
