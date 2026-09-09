@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-09T21:01:57+00:00",
-  "actualizado_ve": "2026-09-09T17:01:57-04:00",
+  "actualizado_utc": "2026-09-09T21:33:58+00:00",
+  "actualizado_ve": "2026-09-09T17:33:58-04:00",
   "bcv": {
     "usd": 820.1018,
     "eur": 954.02442394,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 966.36,
+    "referencia": 966.49,
     "venta": {
-      "promedio": 966.36,
-      "minimo": 966.0,
+      "promedio": 966.49,
+      "minimo": 966.15,
       "maximo": 967.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -22,58 +22,44 @@
           "comerciante": "maisondorada",
           "min": "1000000",
           "max": "4000000",
-          "disponible": "13567.14"
+          "disponible": "6533.14"
         },
         {
           "precio": 966.5,
           "comerciante": "安全与信任",
           "min": "3000000",
           "max": "36000000",
-          "disponible": "27024.18"
+          "disponible": "4536.58"
         },
         {
-          "precio": 966.2,
-          "comerciante": "User-95450",
-          "min": "2000000",
-          "max": "25000000",
-          "disponible": "3350.00"
-        },
-        {
-          "precio": 966.1,
-          "comerciante": "Rsreyes_777",
-          "min": "1000000",
+          "precio": 966.5,
+          "comerciante": "Blank_Mind",
+          "min": "1500000",
           "max": "36450000",
-          "disponible": "5821.08"
+          "disponible": "66157.56"
         },
         {
-          "precio": 966.0,
-          "comerciante": "TheOchoa",
-          "min": "1000000",
-          "max": "36450000",
-          "disponible": "68210.09"
+          "precio": 966.3,
+          "comerciante": "El chino USDT",
+          "min": "900000",
+          "max": "4000000",
+          "disponible": "1330.09"
+        },
+        {
+          "precio": 966.15,
+          "comerciante": "GRUPOAVILA",
+          "min": "1500000",
+          "max": "20000000",
+          "disponible": "59527.57"
         }
       ]
     },
     "compra": {
-      "promedio": 965.1098,
-      "minimo": 964.55,
-      "maximo": 965.999,
+      "promedio": 965.6034,
+      "minimo": 965.0,
+      "maximo": 966.0,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 964.55,
-          "comerciante": "Kamel_Valencia",
-          "min": "1500",
-          "max": "35000",
-          "disponible": "96.38"
-        },
-        {
-          "precio": 965.0,
-          "comerciante": "tucambio-jfmv",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "14.36"
-        },
         {
           "precio": 965.0,
           "comerciante": "carlosteran1",
@@ -82,21 +68,35 @@
           "disponible": "0.37"
         },
         {
-          "precio": 965.0,
-          "comerciante": "Gabrielfoq",
-          "min": "2860000",
-          "max": "3860000",
-          "disponible": "3990.02"
+          "precio": 965.1,
+          "comerciante": "Encuadre",
+          "min": "2000",
+          "max": "96510",
+          "disponible": "99.75"
         },
         {
-          "precio": 965.999,
-          "comerciante": "GlobalBusinessmx",
-          "min": "234000",
-          "max": "234001",
-          "disponible": "246.11"
+          "precio": 965.917,
+          "comerciante": "Kamel_Valencia",
+          "min": "1500",
+          "max": "35000",
+          "disponible": "67.33"
+        },
+        {
+          "precio": 966.0,
+          "comerciante": "Zockolo",
+          "min": "38000",
+          "max": "38100",
+          "disponible": "60.31"
+        },
+        {
+          "precio": 966.0,
+          "comerciante": "YariCambios",
+          "min": "328566",
+          "max": "329406",
+          "disponible": "340.14"
         }
       ]
     }
   },
-  "brecha_pct": 17.83
+  "brecha_pct": 17.85
 }
