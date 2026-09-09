@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-09T00:43:33+00:00",
-  "actualizado_ve": "2026-09-08T20:43:33-04:00",
+  "actualizado_utc": "2026-09-09T01:02:20+00:00",
+  "actualizado_ve": "2026-09-08T21:02:20-04:00",
   "bcv": {
     "usd": 820.1018,
     "eur": 954.02442394,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 965.6022,
+    "referencia": 965.622,
     "venta": {
-      "promedio": 965.6022,
-      "minimo": 965.0,
+      "promedio": 965.622,
+      "minimo": 964.8,
       "maximo": 967.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -22,78 +22,78 @@
           "comerciante": "Trust-Broker",
           "min": "3000000",
           "max": "36450000",
-          "disponible": "16766.48"
+          "disponible": "5714.18"
         },
         {
-          "precio": 966.0,
-          "comerciante": "Cambios Skayle",
-          "min": "500000",
-          "max": "1500000",
-          "disponible": "1050.00"
+          "precio": 966.005,
+          "comerciante": "Trust-Broker",
+          "min": "1000000",
+          "max": "36450000",
+          "disponible": "31760.63"
         },
         {
-          "precio": 965.006,
+          "precio": 965.3,
+          "comerciante": "REA_PRO",
+          "min": "700000",
+          "max": "36000000",
+          "disponible": "1761.65"
+        },
+        {
+          "precio": 965.005,
           "comerciante": "Gustavo129",
           "min": "1500000",
           "max": "36450000",
           "disponible": "80000.00"
         },
         {
-          "precio": 965.005,
-          "comerciante": "TuCambioYa_",
-          "min": "700000",
-          "max": "8341033",
-          "disponible": "7108.93"
-        },
-        {
-          "precio": 965.0,
-          "comerciante": "Trust-Broker",
-          "min": "1000000",
-          "max": "36450000",
-          "disponible": "31760.63"
+          "precio": 964.8,
+          "comerciante": "CepedaYJ17",
+          "min": "500000",
+          "max": "1000000",
+          "disponible": "1000.00"
         }
       ]
     },
     "compra": {
-      "promedio": 965.4338,
-      "minimo": 965.399,
-      "maximo": 965.48,
+      "promedio": 965.2978,
+      "minimo": 963.0,
+      "maximo": 965.989,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 965.399,
-          "comerciante": "ChandeNQ",
-          "min": "300000",
-          "max": "4000000",
-          "disponible": "657.44"
+          "precio": 963.0,
+          "comerciante": "User-db2bb",
+          "min": "266000",
+          "max": "267000",
+          "disponible": "299.25"
         },
         {
-          "precio": 965.4,
-          "comerciante": "Puertblue",
-          "min": "9000",
-          "max": "96590",
-          "disponible": "13.78"
-        },
-        {
-          "precio": 965.44,
-          "comerciante": "Crypto-Lily",
-          "min": "100000",
-          "max": "4000000",
-          "disponible": "347.68"
-        },
-        {
-          "precio": 965.45,
-          "comerciante": "pabloc1969",
-          "min": "30000",
-          "max": "4000000",
-          "disponible": "33.00"
-        },
-        {
-          "precio": 965.48,
-          "comerciante": "Flash__CAMBIOS",
-          "min": "23500",
-          "max": "23501",
+          "precio": 965.7,
+          "comerciante": "_AEMS_",
+          "min": "56000",
+          "max": "56100",
           "disponible": "99.75"
+        },
+        {
+          "precio": 965.9,
+          "comerciante": "EnviosyaChile3",
+          "min": "50000",
+          "max": "4000000",
+          "disponible": "148.72"
+        },
+        {
+          "precio": 965.9,
+          "comerciante": "RapidCambiosJC",
+          "min": "50000",
+          "max": "4000000",
+          "disponible": "147.57"
+        },
+        {
+          "precio": 965.989,
+          "comerciante": "supergiro365",
+          "min": "10000",
+          "max": "4000000",
+          "disponible": "149.30"
         }
       ]
     }
