@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-09T18:38:01+00:00",
-  "actualizado_ve": "2026-09-09T14:38:01-04:00",
+  "actualizado_utc": "2026-09-09T19:01:55+00:00",
+  "actualizado_ve": "2026-09-09T15:01:55-04:00",
   "bcv": {
     "usd": 820.1018,
     "eur": 954.02442394,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 965.36,
+    "referencia": 965.6,
     "venta": {
-      "promedio": 965.36,
-      "minimo": 964.3,
+      "promedio": 965.6,
+      "minimo": 964.0,
       "maximo": 968.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -25,6 +25,13 @@
           "disponible": "3500.00"
         },
         {
+          "precio": 966.0,
+          "comerciante": "CAMBIOSBREINER10",
+          "min": "500000",
+          "max": "4000000",
+          "disponible": "2162.47"
+        },
+        {
           "precio": 965.0,
           "comerciante": "maisondorada",
           "min": "1000000",
@@ -33,53 +40,46 @@
         },
         {
           "precio": 965.0,
-          "comerciante": "Umbrella2503",
-          "min": "870000",
-          "max": "4000000",
-          "disponible": "8377.55"
-        },
-        {
-          "precio": 964.5,
-          "comerciante": "CROMOSOMA-21",
-          "min": "10000000",
-          "max": "36450000",
-          "disponible": "80000.00"
-        },
-        {
-          "precio": 964.3,
-          "comerciante": "famerica",
+          "comerciante": "Blank_Mind",
           "min": "2000000",
-          "max": "5000000",
-          "disponible": "9715.02"
+          "max": "36450000",
+          "disponible": "58980.48"
+        },
+        {
+          "precio": 964.0,
+          "comerciante": "CrxptoFast",
+          "min": "200000",
+          "max": "4000000",
+          "disponible": "8929.71"
         }
       ]
     },
     "compra": {
-      "promedio": 964.8,
+      "promedio": 964.5998,
       "minimo": 964.0,
       "maximo": 965.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
           "precio": 964.0,
-          "comerciante": "Dilauro",
-          "min": "90000",
-          "max": "4000000",
-          "disponible": "149.62"
+          "comerciante": "ArianaGuedez",
+          "min": "965000",
+          "max": "3000000",
+          "disponible": "5093.77"
         },
         {
-          "precio": 965.0,
-          "comerciante": "P2P_LlaveDeRiqueza",
-          "min": "300",
-          "max": "143193",
-          "disponible": "0.43"
+          "precio": 964.0,
+          "comerciante": "Salem1998",
+          "min": "50000",
+          "max": "80000",
+          "disponible": "99.75"
         },
         {
-          "precio": 965.0,
-          "comerciante": "CCsita",
-          "min": "300",
-          "max": "50000",
-          "disponible": "0.36"
+          "precio": 964.999,
+          "comerciante": "GlobalBusinessmx",
+          "min": "62400",
+          "max": "62401",
+          "disponible": "99.75"
         },
         {
           "precio": 965.0,
@@ -90,13 +90,13 @@
         },
         {
           "precio": 965.0,
-          "comerciante": "ArianaGuedez",
-          "min": "965000",
-          "max": "3000000",
-          "disponible": "14395.67"
+          "comerciante": "JoseMuji",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "2.38"
         }
       ]
     }
   },
-  "brecha_pct": 17.71
+  "brecha_pct": 17.74
 }
