@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-09T22:34:03+00:00",
-  "actualizado_ve": "2026-09-09T18:34:03-04:00",
+  "actualizado_utc": "2026-09-09T23:01:39+00:00",
+  "actualizado_ve": "2026-09-09T19:01:39-04:00",
   "bcv": {
     "usd": 827.7371,
     "eur": 963.21283115,
@@ -10,33 +10,19 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 966.808,
+    "referencia": 966.098,
     "venta": {
-      "promedio": 966.808,
-      "minimo": 966.15,
-      "maximo": 967.89,
+      "promedio": 966.098,
+      "minimo": 965.5,
+      "maximo": 967.0,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 967.89,
-          "comerciante": "CAPU212",
-          "min": "20000",
-          "max": "135505",
-          "disponible": "57.35"
-        },
         {
           "precio": 967.0,
           "comerciante": "maisondorada",
           "min": "1000000",
           "max": "4000000",
-          "disponible": "5499.02"
-        },
-        {
-          "precio": 966.5,
-          "comerciante": "Blank_Mind",
-          "min": "1500000",
-          "max": "36450000",
-          "disponible": "52657.74"
+          "disponible": "3005.96"
         },
         {
           "precio": 966.5,
@@ -46,18 +32,32 @@
           "disponible": "18000.00"
         },
         {
-          "precio": 966.15,
+          "precio": 965.8,
           "comerciante": "GRUPOAVILA",
           "min": "1500000",
           "max": "20000000",
-          "disponible": "36815.31"
+          "disponible": "5374.64"
+        },
+        {
+          "precio": 965.69,
+          "comerciante": "GR_SS",
+          "min": "1000000",
+          "max": "4000000",
+          "disponible": "16089.06"
+        },
+        {
+          "precio": 965.5,
+          "comerciante": "CRUCETA",
+          "min": "1000000",
+          "max": "30000000",
+          "disponible": "4660.90"
         }
       ]
     },
     "compra": {
-      "promedio": 965.196,
+      "promedio": 964.2656,
       "minimo": 964.0,
-      "maximo": 965.5,
+      "maximo": 964.528,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "3990.02"
         },
         {
-          "precio": 965.48,
-          "comerciante": "JDVR_05",
-          "min": "2000000",
-          "max": "35000000",
-          "disponible": "12000.00"
+          "precio": 964.0,
+          "comerciante": "Susann Columbo h3Ge",
+          "min": "100000",
+          "max": "700000",
+          "disponible": "199.50"
         },
         {
-          "precio": 965.5,
-          "comerciante": "Cece777",
-          "min": "10000",
-          "max": "4000000",
-          "disponible": "63.36"
+          "precio": 964.3,
+          "comerciante": "GlobalBusinessmx",
+          "min": "83200",
+          "max": "83201",
+          "disponible": "100.32"
         },
         {
-          "precio": 965.5,
-          "comerciante": "JG-18Dembouz",
-          "min": "2000001",
-          "max": "10000000",
-          "disponible": "7195.48"
+          "precio": 964.5,
+          "comerciante": "inversiones Emiliano",
+          "min": "100000",
+          "max": "500000",
+          "disponible": "549.03"
         },
         {
-          "precio": 965.5,
-          "comerciante": "Gjsan",
-          "min": "4000000",
-          "max": "36450000",
-          "disponible": "10486.89"
+          "precio": 964.528,
+          "comerciante": "Pueblos_del_Sur_P2P",
+          "min": "193720",
+          "max": "199532",
+          "disponible": "205.48"
         }
       ]
     }
   },
-  "brecha_pct": 16.8
+  "brecha_pct": 16.72
 }
