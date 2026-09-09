@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-09T07:03:32+00:00",
-  "actualizado_ve": "2026-09-09T03:03:32-04:00",
+  "actualizado_utc": "2026-09-09T07:36:07+00:00",
+  "actualizado_ve": "2026-09-09T03:36:07-04:00",
   "bcv": {
     "usd": 820.1018,
     "eur": 954.02442394,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 963.18,
+    "referencia": 963.06,
     "venta": {
-      "promedio": 963.18,
-      "minimo": 962.5,
+      "promedio": 963.06,
+      "minimo": 962.0,
       "maximo": 964.15,
       "anuncios_usados": 5,
       "anuncios": [
@@ -25,11 +25,11 @@
           "disponible": "10500.06"
         },
         {
-          "precio": 963.25,
+          "precio": 963.15,
           "comerciante": "Juanz17",
           "min": "700000",
           "max": "7500000",
-          "disponible": "6000.00"
+          "disponible": "5100.97"
         },
         {
           "precio": 963.0,
@@ -46,18 +46,18 @@
           "disponible": "54361.36"
         },
         {
-          "precio": 962.5,
-          "comerciante": "P2P-f5decafl",
-          "min": "20000",
-          "max": "100000",
-          "disponible": "103.80"
+          "precio": 962.0,
+          "comerciante": "MarceciccaP2P",
+          "min": "300",
+          "max": "320",
+          "disponible": "395.85"
         }
       ]
     },
     "compra": {
-      "promedio": 964.9994,
+      "promedio": 964.8222,
       "minimo": 964.0,
-      "maximo": 965.499,
+      "maximo": 965.111,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -76,27 +76,27 @@
         },
         {
           "precio": 965.0,
-          "comerciante": "Benvenuty_Bureau",
-          "min": "150000",
-          "max": "1000000",
-          "disponible": "1537.74"
+          "comerciante": "MariaSVO",
+          "min": "10000",
+          "max": "400000",
+          "disponible": "139.68"
         },
         {
-          "precio": 965.498,
-          "comerciante": "LitxanderC",
-          "min": "2000",
-          "max": "4000000",
-          "disponible": "68.64"
+          "precio": 965.0,
+          "comerciante": "Fabianchiss",
+          "min": "4000",
+          "max": "402611",
+          "disponible": "414.88"
         },
         {
-          "precio": 965.499,
-          "comerciante": "chapoeditions",
-          "min": "400000",
-          "max": "820000",
-          "disponible": "846.74"
+          "precio": 965.111,
+          "comerciante": "Yojacksonp",
+          "min": "1000",
+          "max": "98600",
+          "disponible": "3.96"
         }
       ]
     }
   },
-  "brecha_pct": 17.45
+  "brecha_pct": 17.43
 }
