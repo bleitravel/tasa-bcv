@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-09T02:02:12+00:00",
-  "actualizado_ve": "2026-09-08T22:02:12-04:00",
+  "actualizado_utc": "2026-09-09T02:35:35+00:00",
+  "actualizado_ve": "2026-09-08T22:35:35-04:00",
   "bcv": {
     "usd": 820.1018,
     "eur": 954.02442394,
@@ -10,70 +10,56 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 965.703,
+    "referencia": 970.5404,
     "venta": {
-      "promedio": 965.703,
-      "minimo": 964.51,
-      "maximo": 967.0,
+      "promedio": 970.5404,
+      "minimo": 964.5,
+      "maximo": 991.702,
       "anuncios_usados": 5,
       "anuncios": [
+        {
+          "precio": 991.702,
+          "comerciante": "roaJf_p2p",
+          "min": "15000",
+          "max": "18000",
+          "disponible": "100.00"
+        },
         {
           "precio": 967.0,
           "comerciante": "Trust-Broker",
           "min": "1000000",
           "max": "36450000",
-          "disponible": "13532.54"
-        },
-        {
-          "precio": 967.0,
-          "comerciante": "User-384ac",
-          "min": "772000",
-          "max": "775000",
-          "disponible": "800.00"
-        },
-        {
-          "precio": 965.005,
-          "comerciante": "Gustavo129",
-          "min": "1000000",
-          "max": "36450000",
-          "disponible": "64860.42"
+          "disponible": "3396.08"
         },
         {
           "precio": 965.0,
-          "comerciante": "Andres",
-          "min": "97000",
-          "max": "97200",
-          "disponible": "120.00"
+          "comerciante": "ivantrader17usd",
+          "min": "100000",
+          "max": "900000",
+          "disponible": "146.43"
         },
         {
-          "precio": 964.51,
-          "comerciante": "RuizJr02",
+          "precio": 964.5,
+          "comerciante": "Benvenuty_Bureau",
+          "min": "350000",
+          "max": "2000000",
+          "disponible": "4461.65"
+        },
+        {
+          "precio": 964.5,
+          "comerciante": "Gustavo129",
           "min": "1000000",
-          "max": "30000000",
-          "disponible": "11963.21"
+          "max": "36450000",
+          "disponible": "16110.07"
         }
       ]
     },
     "compra": {
-      "promedio": 964.721,
-      "minimo": 963.292,
-      "maximo": 965.7,
+      "promedio": 965.04,
+      "minimo": 965.0,
+      "maximo": 965.2,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 963.292,
-          "comerciante": "JFKInv",
-          "min": "240000",
-          "max": "250000",
-          "disponible": "249.37"
-        },
-        {
-          "precio": 964.199,
-          "comerciante": "Armonymx",
-          "min": "93600",
-          "max": "93601",
-          "disponible": "99.75"
-        },
         {
           "precio": 965.0,
           "comerciante": "Hector_piero",
@@ -82,21 +68,35 @@
           "disponible": "0.58"
         },
         {
-          "precio": 965.414,
-          "comerciante": "Amilcar-7",
-          "min": "533000",
-          "max": "4000000",
-          "disponible": "553.09"
+          "precio": 965.0,
+          "comerciante": "Servicios-Criptos-27",
+          "min": "3000000",
+          "max": "14000000",
+          "disponible": "3993.01"
         },
         {
-          "precio": 965.7,
+          "precio": 965.0,
           "comerciante": "sanchez237",
-          "min": "3950000",
+          "min": "3945000",
           "max": "8000000",
           "disponible": "4091.81"
+        },
+        {
+          "precio": 965.0,
+          "comerciante": "Legendary84350",
+          "min": "50000",
+          "max": "289500",
+          "disponible": "299.25"
+        },
+        {
+          "precio": 965.2,
+          "comerciante": "P2P-36c671sj",
+          "min": "60000",
+          "max": "4000000",
+          "disponible": "330.01"
         }
       ]
     }
   },
-  "brecha_pct": 17.75
+  "brecha_pct": 18.34
 }
