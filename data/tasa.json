@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-09T20:35:20+00:00",
-  "actualizado_ve": "2026-09-09T16:35:20-04:00",
+  "actualizado_utc": "2026-09-09T21:01:57+00:00",
+  "actualizado_ve": "2026-09-09T17:01:57-04:00",
   "bcv": {
     "usd": 820.1018,
     "eur": 954.02442394,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 965.938,
+    "referencia": 966.36,
     "venta": {
-      "promedio": 965.938,
-      "minimo": 965.5,
+      "promedio": 966.36,
+      "minimo": 966.0,
       "maximo": 967.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -22,50 +22,57 @@
           "comerciante": "maisondorada",
           "min": "1000000",
           "max": "4000000",
-          "disponible": "16364.08"
+          "disponible": "13567.14"
         },
         {
-          "precio": 966.0,
-          "comerciante": "Camklaro25",
-          "min": "2415000",
-          "max": "3000000",
-          "disponible": "2500.00"
-        },
-        {
-          "precio": 965.69,
-          "comerciante": "GR_SS",
-          "min": "1000000",
-          "max": "4000000",
-          "disponible": "17189.00"
-        },
-        {
-          "precio": 965.5,
+          "precio": 966.5,
           "comerciante": "安全与信任",
           "min": "3000000",
           "max": "36000000",
-          "disponible": "34724.06"
+          "disponible": "27024.18"
         },
         {
-          "precio": 965.5,
-          "comerciante": "Smolder-",
-          "min": "10000000",
+          "precio": 966.2,
+          "comerciante": "User-95450",
+          "min": "2000000",
+          "max": "25000000",
+          "disponible": "3350.00"
+        },
+        {
+          "precio": 966.1,
+          "comerciante": "Rsreyes_777",
+          "min": "1000000",
           "max": "36450000",
-          "disponible": "25788.68"
+          "disponible": "5821.08"
+        },
+        {
+          "precio": 966.0,
+          "comerciante": "TheOchoa",
+          "min": "1000000",
+          "max": "36450000",
+          "disponible": "68210.09"
         }
       ]
     },
     "compra": {
-      "promedio": 965.6674,
-      "minimo": 965.0,
-      "maximo": 966.337,
+      "promedio": 965.1098,
+      "minimo": 964.55,
+      "maximo": 965.999,
       "anuncios_usados": 5,
       "anuncios": [
         {
+          "precio": 964.55,
+          "comerciante": "Kamel_Valencia",
+          "min": "1500",
+          "max": "35000",
+          "disponible": "96.38"
+        },
+        {
           "precio": 965.0,
-          "comerciante": "Gabrielfoq",
-          "min": "3760000",
-          "max": "3860000",
-          "disponible": "3990.02"
+          "comerciante": "tucambio-jfmv",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "14.36"
         },
         {
           "precio": 965.0,
@@ -75,28 +82,21 @@
           "disponible": "0.37"
         },
         {
-          "precio": 966.0,
-          "comerciante": "oxcartz",
-          "min": "4350",
-          "max": "4400",
-          "disponible": "104.73"
+          "precio": 965.0,
+          "comerciante": "Gabrielfoq",
+          "min": "2860000",
+          "max": "3860000",
+          "disponible": "3990.02"
         },
         {
-          "precio": 966.0,
-          "comerciante": "FloresJR",
-          "min": "70000",
-          "max": "77600",
-          "disponible": "99.75"
-        },
-        {
-          "precio": 966.337,
-          "comerciante": "Daniel - E",
-          "min": "2000",
-          "max": "4000000",
-          "disponible": "2.69"
+          "precio": 965.999,
+          "comerciante": "GlobalBusinessmx",
+          "min": "234000",
+          "max": "234001",
+          "disponible": "246.11"
         }
       ]
     }
   },
-  "brecha_pct": 17.78
+  "brecha_pct": 17.83
 }
