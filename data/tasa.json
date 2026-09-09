@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-09T18:02:11+00:00",
-  "actualizado_ve": "2026-09-09T14:02:11-04:00",
+  "actualizado_utc": "2026-09-09T18:38:01+00:00",
+  "actualizado_ve": "2026-09-09T14:38:01-04:00",
   "bcv": {
     "usd": 820.1018,
     "eur": 954.02442394,
@@ -10,62 +10,62 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 965.5514,
+    "referencia": 965.36,
     "venta": {
-      "promedio": 965.5514,
-      "minimo": 965.0,
-      "maximo": 966.757,
+      "promedio": 965.36,
+      "minimo": 964.3,
+      "maximo": 968.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 966.757,
-          "comerciante": "Nhalegria24",
-          "min": "70000",
-          "max": "71000",
-          "disponible": "100.00"
+          "precio": 968.0,
+          "comerciante": "sarutobi",
+          "min": "3300000",
+          "max": "3388000",
+          "disponible": "3500.00"
         },
         {
-          "precio": 966.0,
-          "comerciante": "P2Palba",
-          "min": "140000",
-          "max": "140070",
-          "disponible": "145.00"
+          "precio": 965.0,
+          "comerciante": "maisondorada",
+          "min": "1000000",
+          "max": "4000000",
+          "disponible": "17492.29"
         },
         {
           "precio": 965.0,
           "comerciante": "Umbrella2503",
           "min": "870000",
           "max": "4000000",
-          "disponible": "4293.92"
+          "disponible": "8377.55"
         },
         {
-          "precio": 965.0,
-          "comerciante": "calorina sankey",
-          "min": "1000000",
-          "max": "4000000",
-          "disponible": "11927.47"
+          "precio": 964.5,
+          "comerciante": "CROMOSOMA-21",
+          "min": "10000000",
+          "max": "36450000",
+          "disponible": "80000.00"
         },
         {
-          "precio": 965.0,
-          "comerciante": "memo",
-          "min": "1000000",
-          "max": "2000000",
-          "disponible": "1165.82"
+          "precio": 964.3,
+          "comerciante": "famerica",
+          "min": "2000000",
+          "max": "5000000",
+          "disponible": "9715.02"
         }
       ]
     },
     "compra": {
-      "promedio": 964.8998,
-      "minimo": 964.499,
+      "promedio": 964.8,
+      "minimo": 964.0,
       "maximo": 965.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 964.499,
-          "comerciante": "oro-2001-mar",
-          "min": "300",
-          "max": "80000",
-          "disponible": "0.46"
+          "precio": 964.0,
+          "comerciante": "Dilauro",
+          "min": "90000",
+          "max": "4000000",
+          "disponible": "149.62"
         },
         {
           "precio": 965.0,
@@ -76,27 +76,27 @@
         },
         {
           "precio": 965.0,
-          "comerciante": "P_drm24030806",
-          "min": "300",
-          "max": "1400000",
-          "disponible": "0.88"
-        },
-        {
-          "precio": 965.0,
           "comerciante": "CCsita",
           "min": "300",
           "max": "50000",
-          "disponible": "2.95"
+          "disponible": "0.36"
         },
         {
           "precio": 965.0,
-          "comerciante": "LeoWinged",
-          "min": "300",
-          "max": "97200",
-          "disponible": "1.02"
+          "comerciante": "Gabrielfoq",
+          "min": "3760000",
+          "max": "3860000",
+          "disponible": "3990.02"
+        },
+        {
+          "precio": 965.0,
+          "comerciante": "ArianaGuedez",
+          "min": "965000",
+          "max": "3000000",
+          "disponible": "14395.67"
         }
       ]
     }
   },
-  "brecha_pct": 17.74
+  "brecha_pct": 17.71
 }
