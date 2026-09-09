@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-09T20:01:59+00:00",
-  "actualizado_ve": "2026-09-09T16:01:59-04:00",
+  "actualizado_utc": "2026-09-09T20:35:20+00:00",
+  "actualizado_ve": "2026-09-09T16:35:20-04:00",
   "bcv": {
     "usd": 820.1018,
     "eur": 954.02442394,
@@ -10,19 +10,33 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 965.72,
+    "referencia": 965.938,
     "venta": {
-      "promedio": 965.72,
-      "minimo": 965.0,
-      "maximo": 968.0,
+      "promedio": 965.938,
+      "minimo": 965.5,
+      "maximo": 967.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 968.0,
-          "comerciante": "User-6193a",
-          "min": "5915",
-          "max": "5916",
-          "disponible": "100.00"
+          "precio": 967.0,
+          "comerciante": "maisondorada",
+          "min": "1000000",
+          "max": "4000000",
+          "disponible": "16364.08"
+        },
+        {
+          "precio": 966.0,
+          "comerciante": "Camklaro25",
+          "min": "2415000",
+          "max": "3000000",
+          "disponible": "2500.00"
+        },
+        {
+          "precio": 965.69,
+          "comerciante": "GR_SS",
+          "min": "1000000",
+          "max": "4000000",
+          "disponible": "17189.00"
         },
         {
           "precio": 965.5,
@@ -32,32 +46,18 @@
           "disponible": "34724.06"
         },
         {
-          "precio": 965.1,
-          "comerciante": "Rsreyes_777",
-          "min": "1000000",
+          "precio": 965.5,
+          "comerciante": "Smolder-",
+          "min": "10000000",
           "max": "36450000",
-          "disponible": "4213.96"
-        },
-        {
-          "precio": 965.0,
-          "comerciante": "maisondorada",
-          "min": "1000000",
-          "max": "4000000",
-          "disponible": "16364.08"
-        },
-        {
-          "precio": 965.0,
-          "comerciante": "thejesus04",
-          "min": "300000",
-          "max": "1500000",
-          "disponible": "340.06"
+          "disponible": "25788.68"
         }
       ]
     },
     "compra": {
-      "promedio": 965.0,
+      "promedio": 965.6674,
       "minimo": 965.0,
-      "maximo": 965.0,
+      "maximo": 966.337,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -69,34 +69,34 @@
         },
         {
           "precio": 965.0,
-          "comerciante": "JoseMuji",
+          "comerciante": "carlosteran1",
           "min": "300",
-          "max": "4000000",
-          "disponible": "2.20"
+          "max": "842000",
+          "disponible": "0.37"
         },
         {
-          "precio": 965.0,
-          "comerciante": "FastTradeOne",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "3.07"
+          "precio": 966.0,
+          "comerciante": "oxcartz",
+          "min": "4350",
+          "max": "4400",
+          "disponible": "104.73"
         },
         {
-          "precio": 965.0,
-          "comerciante": "LUILLY136",
-          "min": "480000",
-          "max": "482000",
-          "disponible": "498.75"
-        },
-        {
-          "precio": 965.0,
-          "comerciante": "Remesaslagrita27",
-          "min": "64000",
-          "max": "65000",
+          "precio": 966.0,
+          "comerciante": "FloresJR",
+          "min": "70000",
+          "max": "77600",
           "disponible": "99.75"
+        },
+        {
+          "precio": 966.337,
+          "comerciante": "Daniel - E",
+          "min": "2000",
+          "max": "4000000",
+          "disponible": "2.69"
         }
       ]
     }
   },
-  "brecha_pct": 17.76
+  "brecha_pct": 17.78
 }
