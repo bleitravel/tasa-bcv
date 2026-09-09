@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-09T01:02:20+00:00",
-  "actualizado_ve": "2026-09-08T21:02:20-04:00",
+  "actualizado_utc": "2026-09-09T01:35:28+00:00",
+  "actualizado_ve": "2026-09-08T21:35:28-04:00",
   "bcv": {
     "usd": 820.1018,
     "eur": 954.02442394,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 965.622,
+    "referencia": 966.5,
     "venta": {
-      "promedio": 965.622,
-      "minimo": 964.8,
-      "maximo": 967.0,
+      "promedio": 966.5,
+      "minimo": 965.5,
+      "maximo": 968.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 967.0,
-          "comerciante": "Trust-Broker",
-          "min": "3000000",
-          "max": "36450000",
-          "disponible": "5714.18"
+          "precio": 968.0,
+          "comerciante": "RonaldoVp",
+          "min": "2000000",
+          "max": "4000000",
+          "disponible": "6000.00"
         },
         {
-          "precio": 966.005,
+          "precio": 967.0,
           "comerciante": "Trust-Broker",
           "min": "1000000",
           "max": "36450000",
-          "disponible": "31760.63"
+          "disponible": "23307.46"
         },
         {
-          "precio": 965.3,
-          "comerciante": "REA_PRO",
-          "min": "700000",
-          "max": "36000000",
-          "disponible": "1761.65"
+          "precio": 966.0,
+          "comerciante": "Capitalisca",
+          "min": "3000000",
+          "max": "4000000",
+          "disponible": "6066.26"
         },
         {
-          "precio": 965.005,
-          "comerciante": "Gustavo129",
-          "min": "1500000",
+          "precio": 966.0,
+          "comerciante": "Trust-Broker",
+          "min": "2000000",
           "max": "36450000",
-          "disponible": "80000.00"
+          "disponible": "4909.61"
         },
         {
-          "precio": 964.8,
-          "comerciante": "CepedaYJ17",
-          "min": "500000",
-          "max": "1000000",
-          "disponible": "1000.00"
+          "precio": 965.5,
+          "comerciante": "Cryptomed7",
+          "min": "32000",
+          "max": "32095",
+          "disponible": "66.76"
         }
       ]
     },
     "compra": {
-      "promedio": 965.2978,
-      "minimo": 963.0,
-      "maximo": 965.989,
+      "promedio": 965.4158,
+      "minimo": 964.5,
+      "maximo": 966.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 963.0,
-          "comerciante": "User-db2bb",
-          "min": "266000",
-          "max": "267000",
-          "disponible": "299.25"
-        },
-        {
-          "precio": 965.7,
-          "comerciante": "_AEMS_",
-          "min": "56000",
-          "max": "56100",
-          "disponible": "99.75"
-        },
-        {
-          "precio": 965.9,
-          "comerciante": "EnviosyaChile3",
+          "precio": 964.5,
+          "comerciante": "User-881a0",
           "min": "50000",
-          "max": "4000000",
-          "disponible": "148.72"
+          "max": "200000",
+          "disponible": "541.23"
         },
         {
-          "precio": 965.9,
-          "comerciante": "RapidCambiosJC",
-          "min": "50000",
-          "max": "4000000",
-          "disponible": "147.57"
+          "precio": 964.6,
+          "comerciante": "Yesicara",
+          "min": "430000",
+          "max": "442000",
+          "disponible": "458.25"
         },
         {
           "precio": 965.989,
-          "comerciante": "supergiro365",
-          "min": "10000",
+          "comerciante": "VIPChanges",
+          "min": "2500000",
+          "max": "10000000",
+          "disponible": "3905.49"
+        },
+        {
+          "precio": 965.99,
+          "comerciante": "trade-key",
+          "min": "2000000",
+          "max": "36450000",
+          "disponible": "5084.53"
+        },
+        {
+          "precio": 966.0,
+          "comerciante": "Yhonnatan07",
+          "min": "300",
           "max": "4000000",
-          "disponible": "149.30"
+          "disponible": "0.49"
         }
       ]
     }
   },
-  "brecha_pct": 17.74
+  "brecha_pct": 17.85
 }
