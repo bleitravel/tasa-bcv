@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-10T06:02:20+00:00",
-  "actualizado_ve": "2026-09-10T02:02:20-04:00",
+  "actualizado_utc": "2026-09-10T06:40:12+00:00",
+  "actualizado_ve": "2026-09-10T02:40:12-04:00",
   "bcv": {
     "usd": 827.7371,
     "eur": 963.21283115,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 962.23,
+    "referencia": 962.13,
     "venta": {
-      "promedio": 962.23,
-      "minimo": 961.0,
+      "promedio": 962.13,
+      "minimo": 960.5,
       "maximo": 967.05,
       "anuncios_usados": 5,
       "anuncios": [
@@ -22,7 +22,7 @@
           "comerciante": "Anyelo",
           "min": "517000",
           "max": "517200",
-          "disponible": "5426.22"
+          "disponible": "5961.04"
         },
         {
           "precio": 961.1,
@@ -30,13 +30,6 @@
           "min": "200000",
           "max": "4000000",
           "disponible": "3590.39"
-        },
-        {
-          "precio": 961.0,
-          "comerciante": "Profitivo",
-          "min": "15000",
-          "max": "19471",
-          "disponible": "80.13"
         },
         {
           "precio": 961.0,
@@ -51,15 +44,36 @@
           "min": "33900",
           "max": "34100",
           "disponible": "100.00"
+        },
+        {
+          "precio": 960.5,
+          "comerciante": "Ofaff",
+          "min": "200000",
+          "max": "961000",
+          "disponible": "1000.00"
         }
       ]
     },
     "compra": {
-      "promedio": 964.6756,
-      "minimo": 964.099,
-      "maximo": 964.9,
+      "promedio": 964.0176,
+      "minimo": 963.0,
+      "maximo": 964.799,
       "anuncios_usados": 5,
       "anuncios": [
+        {
+          "precio": 963.0,
+          "comerciante": "Inver360",
+          "min": "300",
+          "max": "270943",
+          "disponible": "133.35"
+        },
+        {
+          "precio": 963.4,
+          "comerciante": "SpaceX_Trader",
+          "min": "1000000",
+          "max": "15000000",
+          "disponible": "24114.49"
+        },
         {
           "precio": 964.099,
           "comerciante": "iviza_crypto",
@@ -68,35 +82,21 @@
           "disponible": "498.75"
         },
         {
-          "precio": 964.779,
-          "comerciante": "EdgarS26",
-          "min": "20000",
-          "max": "531430",
-          "disponible": "61.42"
-        },
-        {
-          "precio": 964.8,
-          "comerciante": "Jesus",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "1.41"
-        },
-        {
-          "precio": 964.8,
-          "comerciante": "SpaceX_Trader",
+          "precio": 964.79,
+          "comerciante": "VeExpressLars",
           "min": "1000000",
-          "max": "15000000",
-          "disponible": "20274.65"
+          "max": "36000000",
+          "disponible": "17619.05"
         },
         {
-          "precio": 964.9,
-          "comerciante": "Royrdgz",
-          "min": "5000000",
-          "max": "36450000",
-          "disponible": "12689.23"
+          "precio": 964.799,
+          "comerciante": "RR-Distribuidora",
+          "min": "300",
+          "max": "1000000",
+          "disponible": "999.61"
         }
       ]
     }
   },
-  "brecha_pct": 16.25
+  "brecha_pct": 16.24
 }
