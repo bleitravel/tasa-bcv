@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-10T13:35:03+00:00",
-  "actualizado_ve": "2026-09-10T09:35:03-04:00",
+  "actualizado_utc": "2026-09-10T14:01:50+00:00",
+  "actualizado_ve": "2026-09-10T10:01:50-04:00",
   "bcv": {
     "usd": 827.7371,
     "eur": 963.21283115,
@@ -10,19 +10,26 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 961.99,
+    "referencia": 962.48,
     "venta": {
-      "promedio": 961.99,
-      "minimo": 961.4,
-      "maximo": 962.5,
+      "promedio": 962.48,
+      "minimo": 962.0,
+      "maximo": 963.3,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 962.5,
-          "comerciante": "luis12crt",
-          "min": "5000000",
-          "max": "36000000",
-          "disponible": "30050.12"
+          "precio": 963.3,
+          "comerciante": "Cripto_Alexis_M",
+          "min": "65800",
+          "max": "65877",
+          "disponible": "100.00"
+        },
+        {
+          "precio": 963.0,
+          "comerciante": "MavilHidalgo",
+          "min": "600000",
+          "max": "4000000",
+          "disponible": "2109.36"
         },
         {
           "precio": 962.05,
@@ -32,71 +39,64 @@
           "disponible": "80000.00"
         },
         {
-          "precio": 962.0,
-          "comerciante": "moreno-",
-          "min": "2000000",
-          "max": "5538000",
-          "disponible": "5700.12"
+          "precio": 962.05,
+          "comerciante": "cbbcompany",
+          "min": "1238000",
+          "max": "1238100",
+          "disponible": "1300.00"
         },
         {
           "precio": 962.0,
           "comerciante": "Blank_Mind",
           "min": "1500000",
           "max": "36450000",
-          "disponible": "70000.00"
-        },
-        {
-          "precio": 961.4,
-          "comerciante": "GR_SS",
-          "min": "1000000",
-          "max": "4000000",
-          "disponible": "9802.56"
+          "disponible": "57203.81"
         }
       ]
     },
     "compra": {
-      "promedio": 961.712,
-      "minimo": 960.0,
-      "maximo": 962.3,
+      "promedio": 962.1,
+      "minimo": 962.0,
+      "maximo": 962.5,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 960.0,
-          "comerciante": "MoneyGo2",
-          "min": "96000",
-          "max": "144000",
-          "disponible": "149.62"
+          "precio": 962.0,
+          "comerciante": "kalamardo",
+          "min": "80000",
+          "max": "36450000",
+          "disponible": "275.51"
         },
         {
           "precio": 962.0,
-          "comerciante": "Angel629",
-          "min": "500",
-          "max": "96200",
+          "comerciante": "Yousberth2907",
+          "min": "96400",
+          "max": "96500",
+          "disponible": "104.10"
+        },
+        {
+          "precio": 962.0,
+          "comerciante": "Jey269",
+          "min": "18000",
+          "max": "20000",
           "disponible": "99.75"
         },
         {
-          "precio": 962.06,
-          "comerciante": "sagon33",
-          "min": "300",
+          "precio": 962.0,
+          "comerciante": "Mauspeed",
+          "min": "90000",
           "max": "4000000",
-          "disponible": "1.09"
+          "disponible": "99.75"
         },
         {
-          "precio": 962.2,
-          "comerciante": "CAMBIOS_YESSI",
-          "min": "2000000",
-          "max": "14000000",
-          "disponible": "4918.65"
-        },
-        {
-          "precio": 962.3,
-          "comerciante": "REYDAVID ",
-          "min": "300000",
+          "precio": 962.5,
+          "comerciante": "FrankMendez92",
+          "min": "100000",
           "max": "4000000",
-          "disponible": "611.15"
+          "disponible": "730.67"
         }
       ]
     }
   },
-  "brecha_pct": 16.22
+  "brecha_pct": 16.28
 }
