@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-10T12:02:29+00:00",
-  "actualizado_ve": "2026-09-10T08:02:29-04:00",
+  "actualizado_utc": "2026-09-10T12:41:03+00:00",
+  "actualizado_ve": "2026-09-10T08:41:03-04:00",
   "bcv": {
     "usd": 827.7371,
     "eur": 963.21283115,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 959.26,
+    "referencia": 960.16,
     "venta": {
-      "promedio": 959.26,
-      "minimo": 958.9,
-      "maximo": 959.9,
+      "promedio": 960.16,
+      "minimo": 960.0,
+      "maximo": 960.4,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 959.9,
-          "comerciante": "User-95450",
-          "min": "600000",
-          "max": "25000000",
-          "disponible": "7050.44"
+          "precio": 960.4,
+          "comerciante": "VanguardGroup_",
+          "min": "2000000",
+          "max": "10000000",
+          "disponible": "4800.06"
         },
         {
-          "precio": 959.5,
-          "comerciante": "Comercializadora_MAC",
+          "precio": 960.2,
+          "comerciante": "Bianchiplus",
+          "min": "1900000",
+          "max": "8000000",
+          "disponible": "4250.41"
+        },
+        {
+          "precio": 960.2,
+          "comerciante": "cambios-JOB",
+          "min": "700000",
+          "max": "4000000",
+          "disponible": "2450.00"
+        },
+        {
+          "precio": 960.0,
+          "comerciante": "Blank_Mind",
           "min": "1500000",
           "max": "36450000",
-          "disponible": "28968.69"
+          "disponible": "43330.24"
         },
         {
-          "precio": 959.0,
-          "comerciante": "alex",
-          "min": "3800000",
-          "max": "4000000",
-          "disponible": "4200.00"
-        },
-        {
-          "precio": 959.0,
-          "comerciante": "MansaMusa_XIV",
-          "min": "1000000",
-          "max": "6200000",
-          "disponible": "1124.06"
-        },
-        {
-          "precio": 958.9,
+          "precio": 960.0,
           "comerciante": "FamaP2P",
-          "min": "400000",
+          "min": "2000000",
           "max": "35000000",
-          "disponible": "2341.98"
+          "disponible": "19300.13"
         }
       ]
     },
     "compra": {
-      "promedio": 960.0,
+      "promedio": 960.6448,
       "minimo": 960.0,
-      "maximo": 960.0,
+      "maximo": 961.799,
       "anuncios_usados": 5,
       "anuncios": [
         {
           "precio": 960.0,
-          "comerciante": "DIEGOMOTORCYCLE65",
-          "min": "41400",
-          "max": "41400",
+          "comerciante": "Marcos1111",
+          "min": "10000",
+          "max": "19000",
+          "disponible": "64.87"
+        },
+        {
+          "precio": 960.0,
+          "comerciante": "REY_SALOMON_CRIPTO",
+          "min": "2900000",
+          "max": "2950000",
+          "disponible": "3066.63"
+        },
+        {
+          "precio": 960.435,
+          "comerciante": "PAGOSUPERAPIDO",
+          "min": "300",
+          "max": "3999999",
+          "disponible": "0.36"
+        },
+        {
+          "precio": 960.99,
+          "comerciante": "Jey269",
+          "min": "55000",
+          "max": "60000",
           "disponible": "99.75"
         },
         {
-          "precio": 960.0,
-          "comerciante": "Daniel2108",
-          "min": "4000",
-          "max": "384400",
-          "disponible": "60.68"
-        },
-        {
-          "precio": 960.0,
-          "comerciante": "Ateneas",
-          "min": "30000",
-          "max": "4000000",
-          "disponible": "528.77"
-        },
-        {
-          "precio": 960.0,
-          "comerciante": "coyotecojop2p12",
-          "min": "5000",
-          "max": "200000",
-          "disponible": "34.79"
-        },
-        {
-          "precio": 960.0,
-          "comerciante": "CambioLosAndes23",
-          "min": "50000",
-          "max": "4000000",
-          "disponible": "651.73"
+          "precio": 961.799,
+          "comerciante": "JG-18Dembouz",
+          "min": "2000001",
+          "max": "10000000",
+          "disponible": "6696.08"
         }
       ]
     }
   },
-  "brecha_pct": 15.89
+  "brecha_pct": 16.0
 }
