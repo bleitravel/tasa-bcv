@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-10T14:36:38+00:00",
-  "actualizado_ve": "2026-09-10T10:36:38-04:00",
+  "actualizado_utc": "2026-09-10T15:02:07+00:00",
+  "actualizado_ve": "2026-09-10T11:02:07-04:00",
   "bcv": {
     "usd": 827.7371,
     "eur": 963.21283115,
@@ -10,69 +10,62 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 963.4402,
+    "referencia": 962.64,
     "venta": {
-      "promedio": 963.4402,
-      "minimo": 963.001,
-      "maximo": 964.0,
+      "promedio": 962.64,
+      "minimo": 962.0,
+      "maximo": 963.2,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 964.0,
-          "comerciante": "DOCTOR_CAMBIO",
-          "min": "36450000",
-          "max": "500000000",
-          "disponible": "150000.00"
-        },
-        {
-          "precio": 963.6,
+          "precio": 963.2,
           "comerciante": "diomedez14",
           "min": "3000000",
           "max": "36450000",
           "disponible": "80000.00"
         },
         {
-          "precio": 963.5,
+          "precio": 963.0,
+          "comerciante": "CoorpLogistic",
+          "min": "9000000",
+          "max": "36000000",
+          "disponible": "10020.00"
+        },
+        {
+          "precio": 963.0,
           "comerciante": "Blank_Mind",
           "min": "1500000",
           "max": "36450000",
-          "disponible": "66063.24"
+          "disponible": "64063.30"
         },
         {
-          "precio": 963.1,
-          "comerciante": "P2PCAMBIO2",
-          "min": "1000000",
-          "max": "4000000",
-          "disponible": "1059.42"
-        },
-        {
-          "precio": 963.001,
-          "comerciante": "CambiosEl",
+          "precio": 962.0,
+          "comerciante": "app2112",
           "min": "7000000",
-          "max": "36450000",
-          "disponible": "22600.06"
+          "max": "30000000",
+          "disponible": "50000.00"
+        },
+        {
+          "precio": 962.0,
+          "comerciante": "moreno-",
+          "min": "2030000",
+          "max": "2031000",
+          "disponible": "2111.22"
         }
       ]
     },
     "compra": {
-      "promedio": 962.7998,
-      "minimo": 962.0,
-      "maximo": 963.0,
+      "promedio": 963.1596,
+      "minimo": 962.999,
+      "maximo": 963.499,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 962.0,
-          "comerciante": "kalamardo",
-          "min": "80000",
-          "max": "36450000",
-          "disponible": "370.22"
-        },
         {
           "precio": 962.999,
           "comerciante": "juanmv91",
           "min": "300",
           "max": "4000000",
-          "disponible": "0.90"
+          "disponible": "0.39"
         },
         {
           "precio": 963.0,
@@ -83,20 +76,27 @@
         },
         {
           "precio": 963.0,
-          "comerciante": "AGROAAA",
-          "min": "9629",
-          "max": "9630",
+          "comerciante": "MzVentasCripto",
+          "min": "67400",
+          "max": "67401",
           "disponible": "99.75"
         },
         {
-          "precio": 963.0,
-          "comerciante": "Santy_2511",
-          "min": "6000",
-          "max": "2000000",
-          "disponible": "8.89"
+          "precio": 963.3,
+          "comerciante": "CryptoEthx",
+          "min": "10000",
+          "max": "100000",
+          "disponible": "249.37"
+        },
+        {
+          "precio": 963.499,
+          "comerciante": "Jehu07",
+          "min": "20000",
+          "max": "100000",
+          "disponible": "34.75"
         }
       ]
     }
   },
-  "brecha_pct": 16.39
+  "brecha_pct": 16.3
 }
