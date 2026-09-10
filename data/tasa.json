@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-10T07:36:20+00:00",
-  "actualizado_ve": "2026-09-10T03:36:20-04:00",
+  "actualizado_utc": "2026-09-10T08:02:10+00:00",
+  "actualizado_ve": "2026-09-10T04:02:10-04:00",
   "bcv": {
     "usd": 827.7371,
     "eur": 963.21283115,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 962.13,
+    "referencia": 962.33,
     "venta": {
-      "promedio": 962.13,
-      "minimo": 960.5,
+      "promedio": 962.33,
+      "minimo": 961.0,
       "maximo": 967.05,
       "anuncios_usados": 5,
       "anuncios": [
@@ -23,6 +23,13 @@
           "min": "517000",
           "max": "517200",
           "disponible": "5961.04"
+        },
+        {
+          "precio": 961.5,
+          "comerciante": "pmbravo",
+          "min": "240000",
+          "max": "250000",
+          "disponible": "330.00"
         },
         {
           "precio": 961.1,
@@ -43,36 +50,29 @@
           "comerciante": "lavoluntaddeDios",
           "min": "2000",
           "max": "360000",
-          "disponible": "48.31"
-        },
-        {
-          "precio": 960.5,
-          "comerciante": "Ofaff",
-          "min": "200000",
-          "max": "961000",
-          "disponible": "1000.00"
+          "disponible": "44.15"
         }
       ]
     },
     "compra": {
-      "promedio": 963.9998,
-      "minimo": 963.9,
+      "promedio": 963.8998,
+      "minimo": 963.5,
       "maximo": 964.099,
       "anuncios_usados": 5,
       "anuncios": [
+        {
+          "precio": 963.5,
+          "comerciante": "RamsesP2P",
+          "min": "300",
+          "max": "1254499",
+          "disponible": "90.89"
+        },
         {
           "precio": 963.9,
           "comerciante": "RR-Distribuidora",
           "min": "300",
           "max": "1000000",
-          "disponible": "904.07"
-        },
-        {
-          "precio": 964.0,
-          "comerciante": "RamsesP2P",
-          "min": "300",
-          "max": "1254499",
-          "disponible": "176.49"
+          "disponible": "891.42"
         },
         {
           "precio": 964.0,
@@ -98,5 +98,5 @@
       ]
     }
   },
-  "brecha_pct": 16.24
+  "brecha_pct": 16.26
 }
