@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-10T05:35:00+00:00",
-  "actualizado_ve": "2026-09-10T01:35:00-04:00",
+  "actualizado_utc": "2026-09-10T06:02:20+00:00",
+  "actualizado_ve": "2026-09-10T02:02:20-04:00",
   "bcv": {
     "usd": 827.7371,
     "eur": 963.21283115,
@@ -22,21 +22,21 @@
           "comerciante": "Anyelo",
           "min": "517000",
           "max": "517200",
-          "disponible": "5961.04"
+          "disponible": "5426.22"
         },
         {
           "precio": 961.1,
           "comerciante": "AutosAlpha",
           "min": "200000",
           "max": "4000000",
-          "disponible": "3371.25"
+          "disponible": "3590.39"
         },
         {
           "precio": 961.0,
           "comerciante": "Profitivo",
           "min": "15000",
           "max": "19471",
-          "disponible": "100.00"
+          "disponible": "80.13"
         },
         {
           "precio": 961.0,
@@ -55,24 +55,24 @@
       ]
     },
     "compra": {
-      "promedio": 964.5578,
-      "minimo": 964.0,
-      "maximo": 964.99,
+      "promedio": 964.6756,
+      "minimo": 964.099,
+      "maximo": 964.9,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 964.0,
-          "comerciante": "User-29d11",
-          "min": "300",
-          "max": "384365",
-          "disponible": "3.32"
-        },
         {
           "precio": 964.099,
           "comerciante": "iviza_crypto",
           "min": "5000",
           "max": "400000",
           "disponible": "498.75"
+        },
+        {
+          "precio": 964.779,
+          "comerciante": "EdgarS26",
+          "min": "20000",
+          "max": "531430",
+          "disponible": "61.42"
         },
         {
           "precio": 964.8,
@@ -82,18 +82,18 @@
           "disponible": "1.41"
         },
         {
-          "precio": 964.9,
-          "comerciante": "latigoflash2571",
-          "min": "7000",
-          "max": "19500",
-          "disponible": "11.71"
+          "precio": 964.8,
+          "comerciante": "SpaceX_Trader",
+          "min": "1000000",
+          "max": "15000000",
+          "disponible": "20274.65"
         },
         {
-          "precio": 964.99,
-          "comerciante": "cambiosmachado",
-          "min": "30000",
-          "max": "4000000",
-          "disponible": "360.27"
+          "precio": 964.9,
+          "comerciante": "Royrdgz",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "12689.23"
         }
       ]
     }
