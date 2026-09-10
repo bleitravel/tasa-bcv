@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-10T08:02:10+00:00",
-  "actualizado_ve": "2026-09-10T04:02:10-04:00",
+  "actualizado_utc": "2026-09-10T08:37:24+00:00",
+  "actualizado_ve": "2026-09-10T04:37:24-04:00",
   "bcv": {
     "usd": 827.7371,
     "eur": 963.21283115,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 962.33,
+    "referencia": 962.03,
     "venta": {
-      "promedio": 962.33,
-      "minimo": 961.0,
+      "promedio": 962.03,
+      "minimo": 960.5,
       "maximo": 967.05,
       "anuncios_usados": 5,
       "anuncios": [
@@ -23,13 +23,6 @@
           "min": "517000",
           "max": "517200",
           "disponible": "5961.04"
-        },
-        {
-          "precio": 961.5,
-          "comerciante": "pmbravo",
-          "min": "240000",
-          "max": "250000",
-          "disponible": "330.00"
         },
         {
           "precio": 961.1,
@@ -46,40 +39,33 @@
           "disponible": "100.00"
         },
         {
-          "precio": 961.0,
-          "comerciante": "lavoluntaddeDios",
-          "min": "2000",
-          "max": "360000",
-          "disponible": "44.15"
+          "precio": 960.5,
+          "comerciante": "Ofaff",
+          "min": "200000",
+          "max": "961000",
+          "disponible": "1000.00"
+        },
+        {
+          "precio": 960.5,
+          "comerciante": "arturo2493",
+          "min": "500000",
+          "max": "4000000",
+          "disponible": "7822.49"
         }
       ]
     },
     "compra": {
-      "promedio": 963.8998,
-      "minimo": 963.5,
-      "maximo": 964.099,
+      "promedio": 964.1598,
+      "minimo": 963.9,
+      "maximo": 964.8,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 963.5,
-          "comerciante": "RamsesP2P",
-          "min": "300",
-          "max": "1254499",
-          "disponible": "90.89"
-        },
         {
           "precio": 963.9,
           "comerciante": "RR-Distribuidora",
           "min": "300",
           "max": "1000000",
-          "disponible": "891.42"
-        },
-        {
-          "precio": 964.0,
-          "comerciante": "Cambios24-7-",
-          "min": "300",
-          "max": "1262415",
-          "disponible": "1299.05"
+          "disponible": "832.41"
         },
         {
           "precio": 964.0,
@@ -89,14 +75,28 @@
           "disponible": "202.49"
         },
         {
+          "precio": 964.0,
+          "comerciante": "Deivis",
+          "min": "100000",
+          "max": "3327520",
+          "disponible": "3443.09"
+        },
+        {
           "precio": 964.099,
           "comerciante": "iviza_crypto",
           "min": "5000",
           "max": "400000",
           "disponible": "498.75"
+        },
+        {
+          "precio": 964.8,
+          "comerciante": "Jesus",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "1.41"
         }
       ]
     }
   },
-  "brecha_pct": 16.26
+  "brecha_pct": 16.22
 }
