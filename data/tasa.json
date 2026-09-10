@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-10T08:37:24+00:00",
-  "actualizado_ve": "2026-09-10T04:37:24-04:00",
+  "actualizado_utc": "2026-09-10T09:01:44+00:00",
+  "actualizado_ve": "2026-09-10T05:01:44-04:00",
   "bcv": {
     "usd": 827.7371,
     "eur": 963.21283115,
@@ -55,9 +55,9 @@
       ]
     },
     "compra": {
-      "promedio": 964.1598,
+      "promedio": 964.0614,
       "minimo": 963.9,
-      "maximo": 964.8,
+      "maximo": 964.308,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -65,7 +65,7 @@
           "comerciante": "RR-Distribuidora",
           "min": "300",
           "max": "1000000",
-          "disponible": "832.41"
+          "disponible": "705.30"
         },
         {
           "precio": 964.0,
@@ -79,7 +79,7 @@
           "comerciante": "Deivis",
           "min": "100000",
           "max": "3327520",
-          "disponible": "3443.09"
+          "disponible": "3271.94"
         },
         {
           "precio": 964.099,
@@ -89,11 +89,11 @@
           "disponible": "498.75"
         },
         {
-          "precio": 964.8,
-          "comerciante": "Jesus",
+          "precio": 964.308,
+          "comerciante": "atlasDr",
           "min": "300",
-          "max": "4000000",
-          "disponible": "1.41"
+          "max": "962179",
+          "disponible": "788.25"
         }
       ]
     }
