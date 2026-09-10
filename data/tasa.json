@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-10T00:02:41+00:00",
-  "actualizado_ve": "2026-09-09T20:02:41-04:00",
+  "actualizado_utc": "2026-09-10T00:40:05+00:00",
+  "actualizado_ve": "2026-09-09T20:40:05-04:00",
   "bcv": {
     "usd": 827.7371,
     "eur": 963.21283115,
@@ -10,19 +10,19 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 964.758,
+    "referencia": 965.2432,
     "venta": {
-      "promedio": 964.758,
-      "minimo": 964.3,
-      "maximo": 965.69,
+      "promedio": 965.2432,
+      "minimo": 963.41,
+      "maximo": 969.501,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 965.69,
-          "comerciante": "GR_SS",
-          "min": "1000000",
+          "precio": 969.501,
+          "comerciante": "SebastianFlamerich",
+          "min": "10000",
           "max": "4000000",
-          "disponible": "11431.76"
+          "disponible": "199.69"
         },
         {
           "precio": 965.0,
@@ -32,71 +32,71 @@
           "disponible": "30000.00"
         },
         {
-          "precio": 964.5,
-          "comerciante": "John-Deere",
-          "min": "4000000",
-          "max": "36450000",
-          "disponible": "73779.17"
+          "precio": 964.3,
+          "comerciante": "calorina sankey",
+          "min": "1500000",
+          "max": "4000000",
+          "disponible": "5866.51"
         },
         {
-          "precio": 964.3,
-          "comerciante": "IngCryptos",
-          "min": "5000000",
-          "max": "19360000",
-          "disponible": "21000.00"
-        },
-        {
-          "precio": 964.3,
-          "comerciante": "Burdyn",
+          "precio": 964.005,
+          "comerciante": "Trust-Broker",
           "min": "2000000",
-          "max": "33850719",
-          "disponible": "35103.92"
+          "max": "36450000",
+          "disponible": "4189.12"
+        },
+        {
+          "precio": 963.41,
+          "comerciante": "Jat-Import",
+          "min": "100000",
+          "max": "500000",
+          "disponible": "389.69"
         }
       ]
     },
     "compra": {
-      "promedio": 964.4352,
-      "minimo": 964.0,
-      "maximo": 964.876,
+      "promedio": 963.0,
+      "minimo": 963.0,
+      "maximo": 963.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 964.0,
-          "comerciante": "Lucyy_P2P",
-          "min": "2500",
-          "max": "134000",
-          "disponible": "36.15"
+          "precio": 963.0,
+          "comerciante": "Luishein",
+          "min": "1000000",
+          "max": "11740356",
+          "disponible": "5013.35"
         },
         {
-          "precio": 964.0,
-          "comerciante": "karim1608",
-          "min": "50000",
+          "precio": 963.0,
+          "comerciante": "Enmanuel3001",
+          "min": "5000",
+          "max": "200000",
+          "disponible": "7.69"
+        },
+        {
+          "precio": 963.0,
+          "comerciante": "eugebora",
+          "min": "70000",
+          "max": "190000",
+          "disponible": "109.76"
+        },
+        {
+          "precio": 963.0,
+          "comerciante": "tucambioseguro",
+          "min": "100000",
           "max": "4000000",
-          "disponible": "299.25"
+          "disponible": "149.62"
         },
         {
-          "precio": 964.5,
-          "comerciante": "Stef21",
-          "min": "21000",
-          "max": "97000",
-          "disponible": "157.42"
-        },
-        {
-          "precio": 964.8,
-          "comerciante": "Jesus",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "15.69"
-        },
-        {
-          "precio": 964.876,
-          "comerciante": "JDVR_05",
+          "precio": 963.0,
+          "comerciante": "Fexyz",
           "min": "2000000",
-          "max": "35000000",
-          "disponible": "4766.51"
+          "max": "36450000",
+          "disponible": "13300.73"
         }
       ]
     }
   },
-  "brecha_pct": 16.55
+  "brecha_pct": 16.61
 }
