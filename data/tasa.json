@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-10T02:35:37+00:00",
-  "actualizado_ve": "2026-09-09T22:35:37-04:00",
+  "actualizado_utc": "2026-09-10T03:01:56+00:00",
+  "actualizado_ve": "2026-09-09T23:01:56-04:00",
   "bcv": {
     "usd": 827.7371,
     "eur": 963.21283115,
@@ -10,54 +10,54 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 963.08,
+    "referencia": 962.902,
     "venta": {
-      "promedio": 963.08,
-      "minimo": 962.9,
-      "maximo": 963.5,
+      "promedio": 962.902,
+      "minimo": 962.5,
+      "maximo": 963.01,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 963.5,
-          "comerciante": "bryannateram",
+          "precio": 963.01,
+          "comerciante": "LordCambios",
           "min": "1000000",
-          "max": "4000000",
-          "disponible": "6200.10"
+          "max": "30163000",
+          "disponible": "12446.74"
         },
         {
           "precio": 963.0,
           "comerciante": "Mdtextilcrypto",
           "min": "2500000",
           "max": "14000000",
-          "disponible": "23913.18"
+          "disponible": "17213.30"
         },
         {
           "precio": 963.0,
-          "comerciante": "CriptoCambiosVzla",
-          "min": "300000",
-          "max": "600000",
-          "disponible": "1009.47"
+          "comerciante": "AutosAlpha",
+          "min": "200000",
+          "max": "4000000",
+          "disponible": "5519.37"
         },
         {
           "precio": 963.0,
-          "comerciante": "GAZA_CRIPTO",
-          "min": "36450000",
-          "max": "775452400",
-          "disponible": "160000.00"
+          "comerciante": "Smolder-",
+          "min": "10000000",
+          "max": "36450000",
+          "disponible": "41285.00"
         },
         {
-          "precio": 962.9,
-          "comerciante": "Capital_Carreno",
-          "min": "400000",
-          "max": "36000000",
-          "disponible": "8255.27"
+          "precio": 962.5,
+          "comerciante": "User-f62d5",
+          "min": "200000",
+          "max": "1400000",
+          "disponible": "400.33"
         }
       ]
     },
     "compra": {
-      "promedio": 963.1738,
+      "promedio": 963.4998,
       "minimo": 962.8,
-      "maximo": 963.44,
+      "maximo": 964.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -65,38 +65,38 @@
           "comerciante": "CAMBIOS-BC17",
           "min": "500000",
           "max": "4000000",
-          "disponible": "3583.99"
+          "disponible": "16957.60"
         },
         {
           "precio": 963.0,
-          "comerciante": "Mercadolar",
-          "min": "96000",
-          "max": "96300",
-          "disponible": "99.75"
+          "comerciante": "cheike",
+          "min": "95000",
+          "max": "4000000",
+          "disponible": "108.00"
         },
         {
-          "precio": 963.199,
-          "comerciante": "edir555",
+          "precio": 963.7,
+          "comerciante": "Jeison99",
+          "min": "800",
+          "max": "441000",
+          "disponible": "15.45"
+        },
+        {
+          "precio": 963.999,
+          "comerciante": "ADOLF_PAGO-INMEDIATO",
+          "min": "300",
+          "max": "98191",
+          "disponible": "2.89"
+        },
+        {
+          "precio": 964.0,
+          "comerciante": "Ashton Cordiero MlVk",
           "min": "300",
           "max": "4000000",
-          "disponible": "235.91"
-        },
-        {
-          "precio": 963.43,
-          "comerciante": "RicoMcPato_3minutos",
-          "min": "3000000",
-          "max": "36000000",
-          "disponible": "3448.28"
-        },
-        {
-          "precio": 963.44,
-          "comerciante": "RADIACTIVE",
-          "min": "3000000",
-          "max": "9999999",
-          "disponible": "4872.19"
+          "disponible": "140.38"
         }
       ]
     }
   },
-  "brecha_pct": 16.35
+  "brecha_pct": 16.33
 }
