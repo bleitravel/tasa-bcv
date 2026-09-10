@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-10T09:01:44+00:00",
-  "actualizado_ve": "2026-09-10T05:01:44-04:00",
+  "actualizado_utc": "2026-09-10T09:36:28+00:00",
+  "actualizado_ve": "2026-09-10T05:36:28-04:00",
   "bcv": {
     "usd": 827.7371,
     "eur": 963.21283115,
@@ -29,7 +29,7 @@
           "comerciante": "AutosAlpha",
           "min": "200000",
           "max": "4000000",
-          "disponible": "3590.39"
+          "disponible": "2984.77"
         },
         {
           "precio": 961.0,
@@ -55,17 +55,24 @@
       ]
     },
     "compra": {
-      "promedio": 964.0614,
-      "minimo": 963.9,
-      "maximo": 964.308,
+      "promedio": 963.8998,
+      "minimo": 963.5,
+      "maximo": 964.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 963.9,
-          "comerciante": "RR-Distribuidora",
-          "min": "300",
-          "max": "1000000",
-          "disponible": "705.30"
+          "precio": 963.5,
+          "comerciante": "Carlos_TodoSeguridad",
+          "min": "96100",
+          "max": "4000000",
+          "disponible": "99.75"
+        },
+        {
+          "precio": 963.999,
+          "comerciante": "P2P-Enlinea",
+          "min": "300000",
+          "max": "4000000",
+          "disponible": "798.00"
         },
         {
           "precio": 964.0,
@@ -79,21 +86,14 @@
           "comerciante": "Deivis",
           "min": "100000",
           "max": "3327520",
-          "disponible": "3271.94"
+          "disponible": "2950.38"
         },
         {
-          "precio": 964.099,
-          "comerciante": "iviza_crypto",
-          "min": "5000",
-          "max": "400000",
-          "disponible": "498.75"
-        },
-        {
-          "precio": 964.308,
-          "comerciante": "atlasDr",
-          "min": "300",
-          "max": "962179",
-          "disponible": "788.25"
+          "precio": 964.0,
+          "comerciante": "MULTICOMERCIO",
+          "min": "1010000",
+          "max": "1010001",
+          "disponible": "1048.50"
         }
       ]
     }
