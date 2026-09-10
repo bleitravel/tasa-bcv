@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-10T06:40:12+00:00",
-  "actualizado_ve": "2026-09-10T02:40:12-04:00",
+  "actualizado_utc": "2026-09-10T07:03:19+00:00",
+  "actualizado_ve": "2026-09-10T03:03:19-04:00",
   "bcv": {
     "usd": 827.7371,
     "eur": 963.21283115,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 962.13,
+    "referencia": 962.23,
     "venta": {
-      "promedio": 962.13,
-      "minimo": 960.5,
+      "promedio": 962.23,
+      "minimo": 961.0,
       "maximo": 967.05,
       "anuncios_usados": 5,
       "anuncios": [
@@ -46,33 +46,47 @@
           "disponible": "100.00"
         },
         {
-          "precio": 960.5,
-          "comerciante": "Ofaff",
-          "min": "200000",
-          "max": "961000",
-          "disponible": "1000.00"
+          "precio": 961.0,
+          "comerciante": "lavoluntaddeDios",
+          "min": "2000",
+          "max": "360000",
+          "disponible": "93.05"
         }
       ]
     },
     "compra": {
-      "promedio": 964.0176,
-      "minimo": 963.0,
-      "maximo": 964.799,
+      "promedio": 963.9004,
+      "minimo": 963.503,
+      "maximo": 964.099,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 963.0,
-          "comerciante": "Inver360",
-          "min": "300",
-          "max": "270943",
-          "disponible": "133.35"
+          "precio": 963.503,
+          "comerciante": "atlasDr",
+          "min": "10000",
+          "max": "106266",
+          "disponible": "109.72"
         },
         {
-          "precio": 963.4,
-          "comerciante": "SpaceX_Trader",
-          "min": "1000000",
-          "max": "15000000",
-          "disponible": "24114.49"
+          "precio": 963.9,
+          "comerciante": "RR-Distribuidora",
+          "min": "300",
+          "max": "1000000",
+          "disponible": "989.56"
+        },
+        {
+          "precio": 964.0,
+          "comerciante": "RamsesP2P",
+          "min": "300",
+          "max": "1254499",
+          "disponible": "1278.95"
+        },
+        {
+          "precio": 964.0,
+          "comerciante": "Cambios24-7-",
+          "min": "300",
+          "max": "1262415",
+          "disponible": "1306.29"
         },
         {
           "precio": 964.099,
@@ -80,23 +94,9 @@
           "min": "5000",
           "max": "400000",
           "disponible": "498.75"
-        },
-        {
-          "precio": 964.79,
-          "comerciante": "VeExpressLars",
-          "min": "1000000",
-          "max": "36000000",
-          "disponible": "17619.05"
-        },
-        {
-          "precio": 964.799,
-          "comerciante": "RR-Distribuidora",
-          "min": "300",
-          "max": "1000000",
-          "disponible": "999.61"
         }
       ]
     }
   },
-  "brecha_pct": 16.24
+  "brecha_pct": 16.25
 }
