@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-10T17:33:36+00:00",
-  "actualizado_ve": "2026-09-10T13:33:36-04:00",
+  "actualizado_utc": "2026-09-10T18:02:18+00:00",
+  "actualizado_ve": "2026-09-10T14:02:18-04:00",
   "bcv": {
     "usd": 827.7371,
     "eur": 963.21283115,
@@ -10,56 +10,70 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 962.361,
+    "referencia": 963.192,
     "venta": {
-      "promedio": 962.361,
-      "minimo": 962.0,
-      "maximo": 963.0,
+      "promedio": 963.192,
+      "minimo": 961.5,
+      "maximo": 967.46,
       "anuncios_usados": 5,
       "anuncios": [
         {
+          "precio": 967.46,
+          "comerciante": "Sg-Cambioseguro",
+          "min": "70001",
+          "max": "2000008",
+          "disponible": "2088.00"
+        },
+        {
           "precio": 963.0,
-          "comerciante": "AURA_CAPITAL",
-          "min": "1000000",
+          "comerciante": "100preseguroyconfiabl",
+          "min": "100000",
           "max": "4000000",
-          "disponible": "4741.20"
-        },
-        {
-          "precio": 962.5,
-          "comerciante": "LeonBlanco11",
-          "min": "500000",
-          "max": "4000000",
-          "disponible": "4332.21"
-        },
-        {
-          "precio": 962.3,
-          "comerciante": "diomedez14",
-          "min": "3000000",
-          "max": "36450000",
-          "disponible": "75844.16"
-        },
-        {
-          "precio": 962.005,
-          "comerciante": "Trust-Broker",
-          "min": "1000000",
-          "max": "36450000",
-          "disponible": "28966.84"
+          "disponible": "2039.42"
         },
         {
           "precio": 962.0,
-          "comerciante": "Blank_Mind",
-          "min": "1000000",
+          "comerciante": "LiraInversiones",
+          "min": "150000",
+          "max": "945280",
+          "disponible": "827.08"
+        },
+        {
+          "precio": 962.0,
+          "comerciante": "P2P-f1a4bclo",
+          "min": "500000",
+          "max": "4000000",
+          "disponible": "2200.00"
+        },
+        {
+          "precio": 961.5,
+          "comerciante": "diomedez14",
+          "min": "2500000",
           "max": "36450000",
-          "disponible": "4634.00"
+          "disponible": "70844.22"
         }
       ]
     },
     "compra": {
-      "promedio": 962.5494,
-      "minimo": 962.0,
-      "maximo": 962.997,
+      "promedio": 961.368,
+      "minimo": 959.1,
+      "maximo": 962.74,
       "anuncios_usados": 5,
       "anuncios": [
+        {
+          "precio": 959.1,
+          "comerciante": "tradedenve",
+          "min": "192000",
+          "max": "192900",
+          "disponible": "200.49"
+        },
+        {
+          "precio": 961.0,
+          "comerciante": "Leigha Precht Hnd9",
+          "min": "3000000",
+          "max": "4000000",
+          "disponible": "15196.11"
+        },
         {
           "precio": 962.0,
           "comerciante": "kalamardo",
@@ -69,27 +83,13 @@
         },
         {
           "precio": 962.0,
-          "comerciante": "GlovalValoresCambios",
-          "min": "1000",
-          "max": "400000",
-          "disponible": "4.78"
+          "comerciante": "TURISTA",
+          "min": "48000",
+          "max": "48001",
+          "disponible": "249.35"
         },
         {
-          "precio": 962.85,
-          "comerciante": "SANTABARBARA_TRADING",
-          "min": "5000",
-          "max": "99000",
-          "disponible": "99.75"
-        },
-        {
-          "precio": 962.9,
-          "comerciante": "_AEMS_",
-          "min": "84900",
-          "max": "85000",
-          "disponible": "99.75"
-        },
-        {
-          "precio": 962.997,
+          "precio": 962.74,
           "comerciante": "ImJustGirl",
           "min": "3000000",
           "max": "6000000",
@@ -98,5 +98,5 @@
       ]
     }
   },
-  "brecha_pct": 16.26
+  "brecha_pct": 16.36
 }
