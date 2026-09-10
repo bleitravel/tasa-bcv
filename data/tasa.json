@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-10T05:01:44+00:00",
-  "actualizado_ve": "2026-09-10T01:01:44-04:00",
+  "actualizado_utc": "2026-09-10T05:35:00+00:00",
+  "actualizado_ve": "2026-09-10T01:35:00-04:00",
   "bcv": {
     "usd": 827.7371,
     "eur": 963.21283115,
@@ -10,9 +10,9 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 962.3112,
+    "referencia": 962.23,
     "venta": {
-      "promedio": 962.3112,
+      "promedio": 962.23,
       "minimo": 961.0,
       "maximo": 967.05,
       "anuncios_usados": 5,
@@ -22,28 +22,21 @@
           "comerciante": "Anyelo",
           "min": "517000",
           "max": "517200",
-          "disponible": "4891.40"
-        },
-        {
-          "precio": 961.406,
-          "comerciante": "Pepealcubo",
-          "min": "30000",
-          "max": "100000",
-          "disponible": "100.00"
+          "disponible": "5961.04"
         },
         {
           "precio": 961.1,
           "comerciante": "AutosAlpha",
           "min": "200000",
           "max": "4000000",
-          "disponible": "3590.39"
+          "disponible": "3371.25"
         },
         {
           "precio": 961.0,
           "comerciante": "Profitivo",
           "min": "15000",
           "max": "19471",
-          "disponible": "82.32"
+          "disponible": "100.00"
         },
         {
           "precio": 961.0,
@@ -51,52 +44,59 @@
           "min": "450000",
           "max": "450001",
           "disponible": "500.00"
+        },
+        {
+          "precio": 961.0,
+          "comerciante": "TraderToday",
+          "min": "33900",
+          "max": "34100",
+          "disponible": "100.00"
         }
       ]
     },
     "compra": {
-      "promedio": 963.7196,
-      "minimo": 963.4,
-      "maximo": 963.998,
+      "promedio": 964.5578,
+      "minimo": 964.0,
+      "maximo": 964.99,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 963.4,
-          "comerciante": "TrustStore19",
-          "min": "10000",
-          "max": "390000",
-          "disponible": "11.90"
-        },
-        {
-          "precio": 963.5,
-          "comerciante": "FLASH1009",
+          "precio": 964.0,
+          "comerciante": "User-29d11",
           "min": "300",
-          "max": "50000",
-          "disponible": "8.36"
+          "max": "384365",
+          "disponible": "3.32"
         },
         {
-          "precio": 963.8,
-          "comerciante": "KingFA",
+          "precio": 964.099,
+          "comerciante": "iviza_crypto",
+          "min": "5000",
+          "max": "400000",
+          "disponible": "498.75"
+        },
+        {
+          "precio": 964.8,
+          "comerciante": "Jesus",
           "min": "300",
-          "max": "900000",
-          "disponible": "5.78"
+          "max": "4000000",
+          "disponible": "1.41"
         },
         {
-          "precio": 963.9,
-          "comerciante": "Juanco_424",
-          "min": "300",
-          "max": "135800",
-          "disponible": "11.55"
+          "precio": 964.9,
+          "comerciante": "latigoflash2571",
+          "min": "7000",
+          "max": "19500",
+          "disponible": "11.71"
         },
         {
-          "precio": 963.998,
-          "comerciante": "User-d30a8",
-          "min": "20000",
-          "max": "554558",
-          "disponible": "50.74"
+          "precio": 964.99,
+          "comerciante": "cambiosmachado",
+          "min": "30000",
+          "max": "4000000",
+          "disponible": "360.27"
         }
       ]
     }
   },
-  "brecha_pct": 16.26
+  "brecha_pct": 16.25
 }
