@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-10T10:36:12+00:00",
-  "actualizado_ve": "2026-09-10T06:36:12-04:00",
+  "actualizado_utc": "2026-09-10T11:02:10+00:00",
+  "actualizado_ve": "2026-09-10T07:02:10-04:00",
   "bcv": {
     "usd": 827.7371,
     "eur": 963.21283115,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 962.81,
+    "referencia": 963.73,
     "venta": {
-      "promedio": 962.81,
-      "minimo": 960.5,
+      "promedio": 963.73,
+      "minimo": 960.7,
       "maximo": 967.05,
       "anuncios_usados": 5,
       "anuncios": [
@@ -22,7 +22,14 @@
           "comerciante": "Anyelo",
           "min": "517000",
           "max": "517200",
-          "disponible": "4357.00"
+          "disponible": "2217.93"
+        },
+        {
+          "precio": 964.9,
+          "comerciante": "luigitomei21",
+          "min": "900",
+          "max": "90000",
+          "disponible": "139.50"
         },
         {
           "precio": 963.0,
@@ -33,70 +40,63 @@
         },
         {
           "precio": 963.0,
-          "comerciante": "AutosAlpha",
-          "min": "200000",
-          "max": "4000000",
-          "disponible": "2317.03"
-        },
-        {
-          "precio": 960.5,
-          "comerciante": "Ofaff",
-          "min": "200000",
-          "max": "961000",
-          "disponible": "546.21"
-        },
-        {
-          "precio": 960.5,
           "comerciante": "arturo2493",
           "min": "500000",
           "max": "4000000",
-          "disponible": "7822.49"
+          "disponible": "2894.64"
+        },
+        {
+          "precio": 960.7,
+          "comerciante": "User-0b057erx",
+          "min": "100000",
+          "max": "4000000",
+          "disponible": "2828.06"
         }
       ]
     },
     "compra": {
-      "promedio": 963.4942,
-      "minimo": 962.821,
-      "maximo": 963.997,
+      "promedio": 961.458,
+      "minimo": 961.0,
+      "maximo": 961.7,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 962.821,
-          "comerciante": "Rafarv_",
-          "min": "5000",
-          "max": "339000",
-          "disponible": "76.60"
+          "precio": 961.0,
+          "comerciante": "Servicios-Criptos-27",
+          "min": "1000000",
+          "max": "14000000",
+          "disponible": "3094.58"
         },
         {
-          "precio": 962.999,
-          "comerciante": "Owoire_exchange",
-          "min": "2000",
-          "max": "133631",
-          "disponible": "70.36"
+          "precio": 961.49,
+          "comerciante": "AUTOPAY-P2P",
+          "min": "200000",
+          "max": "1200000",
+          "disponible": "1497.37"
         },
         {
-          "precio": 963.8,
-          "comerciante": "Strader_14",
+          "precio": 961.5,
+          "comerciante": "Melani_sublimascione",
+          "min": "3000000",
+          "max": "13180289",
+          "disponible": "13685.38"
+        },
+        {
+          "precio": 961.6,
+          "comerciante": "CAMBIOS_YESSI",
           "min": "2000000",
-          "max": "36450000",
-          "disponible": "2994.01"
+          "max": "14000000",
+          "disponible": "2828.83"
         },
         {
-          "precio": 963.854,
-          "comerciante": "yohnprieto",
-          "min": "30000",
-          "max": "1108432",
-          "disponible": "441.63"
-        },
-        {
-          "precio": 963.997,
-          "comerciante": "TilinArberto",
+          "precio": 961.7,
+          "comerciante": "zoecambios_21",
           "min": "1500000",
           "max": "36450000",
-          "disponible": "2630.58"
+          "disponible": "36947.30"
         }
       ]
     }
   },
-  "brecha_pct": 16.32
+  "brecha_pct": 16.43
 }
