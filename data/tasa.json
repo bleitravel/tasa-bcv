@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-10T03:01:56+00:00",
-  "actualizado_ve": "2026-09-09T23:01:56-04:00",
+  "actualizado_utc": "2026-09-10T03:36:36+00:00",
+  "actualizado_ve": "2026-09-09T23:36:36-04:00",
   "bcv": {
     "usd": 827.7371,
     "eur": 963.21283115,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 962.902,
+    "referencia": 963.0048,
     "venta": {
-      "promedio": 962.902,
-      "minimo": 962.5,
-      "maximo": 963.01,
+      "promedio": 963.0048,
+      "minimo": 962.001,
+      "maximo": 964.523,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 963.01,
-          "comerciante": "LordCambios",
-          "min": "1000000",
-          "max": "30163000",
-          "disponible": "12446.74"
+          "precio": 964.523,
+          "comerciante": "Gtjhonny",
+          "min": "300",
+          "max": "7000",
+          "disponible": "1000.00"
         },
         {
           "precio": 963.0,
           "comerciante": "Mdtextilcrypto",
           "min": "2500000",
           "max": "14000000",
-          "disponible": "17213.30"
+          "disponible": "19279.58"
         },
         {
           "precio": 963.0,
           "comerciante": "AutosAlpha",
           "min": "200000",
           "max": "4000000",
-          "disponible": "5519.37"
-        },
-        {
-          "precio": 963.0,
-          "comerciante": "Smolder-",
-          "min": "10000000",
-          "max": "36450000",
-          "disponible": "41285.00"
+          "disponible": "3935.33"
         },
         {
           "precio": 962.5,
-          "comerciante": "User-f62d5",
-          "min": "200000",
-          "max": "1400000",
-          "disponible": "400.33"
+          "comerciante": "arturo2493",
+          "min": "500000",
+          "max": "4000000",
+          "disponible": "7822.49"
+        },
+        {
+          "precio": 962.001,
+          "comerciante": "漢-Kapo",
+          "min": "1000000",
+          "max": "36450000",
+          "disponible": "18742.11"
         }
       ]
     },
     "compra": {
-      "promedio": 963.4998,
+      "promedio": 963.578,
       "minimo": 962.8,
-      "maximo": 964.0,
+      "maximo": 963.9,
       "anuncios_usados": 5,
       "anuncios": [
         {
           "precio": 962.8,
           "comerciante": "CAMBIOS-BC17",
-          "min": "500000",
+          "min": "1000000",
           "max": "4000000",
-          "disponible": "16957.60"
+          "disponible": "14578.47"
         },
         {
-          "precio": 963.0,
-          "comerciante": "cheike",
-          "min": "95000",
+          "precio": 963.69,
+          "comerciante": "Dani210o",
+          "min": "3000",
           "max": "4000000",
-          "disponible": "108.00"
+          "disponible": "38.64"
         },
         {
           "precio": 963.7,
           "comerciante": "Jeison99",
           "min": "800",
           "max": "441000",
-          "disponible": "15.45"
+          "disponible": "1.50"
         },
         {
-          "precio": 963.999,
-          "comerciante": "ADOLF_PAGO-INMEDIATO",
+          "precio": 963.8,
+          "comerciante": "Luis schinina ",
           "min": "300",
-          "max": "98191",
-          "disponible": "2.89"
+          "max": "400475",
+          "disponible": "110.06"
         },
         {
-          "precio": 964.0,
-          "comerciante": "Ashton Cordiero MlVk",
+          "precio": 963.9,
+          "comerciante": "jmmorillo",
           "min": "300",
           "max": "4000000",
-          "disponible": "140.38"
+          "disponible": "181.82"
         }
       ]
     }
   },
-  "brecha_pct": 16.33
+  "brecha_pct": 16.34
 }
