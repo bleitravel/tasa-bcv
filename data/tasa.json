@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-10T18:02:18+00:00",
-  "actualizado_ve": "2026-09-10T14:02:18-04:00",
+  "actualizado_utc": "2026-09-10T18:37:08+00:00",
+  "actualizado_ve": "2026-09-10T14:37:08-04:00",
   "bcv": {
     "usd": 827.7371,
     "eur": 963.21283115,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 963.192,
+    "referencia": 962.3234,
     "venta": {
-      "promedio": 963.192,
-      "minimo": 961.5,
-      "maximo": 967.46,
+      "promedio": 962.3234,
+      "minimo": 962.0,
+      "maximo": 963.5,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 967.46,
-          "comerciante": "Sg-Cambioseguro",
-          "min": "70001",
-          "max": "2000008",
-          "disponible": "2088.00"
+          "precio": 963.5,
+          "comerciante": "P2P-8d622bqb",
+          "min": "121000",
+          "max": "122600",
+          "disponible": "127.24"
         },
         {
-          "precio": 963.0,
-          "comerciante": "100preseguroyconfiabl",
-          "min": "100000",
-          "max": "4000000",
-          "disponible": "2039.42"
-        },
-        {
-          "precio": 962.0,
-          "comerciante": "LiraInversiones",
-          "min": "150000",
-          "max": "945280",
-          "disponible": "827.08"
-        },
-        {
-          "precio": 962.0,
-          "comerciante": "P2P-f1a4bclo",
-          "min": "500000",
-          "max": "4000000",
-          "disponible": "2200.00"
-        },
-        {
-          "precio": 961.5,
+          "precio": 962.1,
           "comerciante": "diomedez14",
           "min": "2500000",
           "max": "36450000",
           "disponible": "70844.22"
+        },
+        {
+          "precio": 962.017,
+          "comerciante": "TOPlevelS",
+          "min": "5000000",
+          "max": "36000000",
+          "disponible": "19142.96"
+        },
+        {
+          "precio": 962.0,
+          "comerciante": "Umbrella2503",
+          "min": "870000",
+          "max": "4000000",
+          "disponible": "1165.18"
+        },
+        {
+          "precio": 962.0,
+          "comerciante": "安全与信任",
+          "min": "1000000",
+          "max": "36000000",
+          "disponible": "14429.22"
         }
       ]
     },
     "compra": {
-      "promedio": 961.368,
-      "minimo": 959.1,
-      "maximo": 962.74,
+      "promedio": 962.952,
+      "minimo": 962.76,
+      "maximo": 963.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 959.1,
-          "comerciante": "tradedenve",
-          "min": "192000",
-          "max": "192900",
-          "disponible": "200.49"
+          "precio": 962.76,
+          "comerciante": "FlorcitaTrading",
+          "min": "500000",
+          "max": "2000000",
+          "disponible": "978.04"
         },
         {
-          "precio": 961.0,
-          "comerciante": "Leigha Precht Hnd9",
-          "min": "3000000",
+          "precio": 963.0,
+          "comerciante": "Luniexchange",
+          "min": "300",
           "max": "4000000",
-          "disponible": "15196.11"
+          "disponible": "0.44"
         },
         {
-          "precio": 962.0,
-          "comerciante": "kalamardo",
-          "min": "80000",
-          "max": "36450000",
-          "disponible": "135.60"
+          "precio": 963.0,
+          "comerciante": "JPMorganchase",
+          "min": "480000",
+          "max": "4000000",
+          "disponible": "498.75"
         },
         {
-          "precio": 962.0,
-          "comerciante": "TURISTA",
-          "min": "48000",
-          "max": "48001",
-          "disponible": "249.35"
+          "precio": 963.0,
+          "comerciante": "floki17_",
+          "min": "40000",
+          "max": "689868",
+          "disponible": "42.90"
         },
         {
-          "precio": 962.74,
-          "comerciante": "ImJustGirl",
-          "min": "3000000",
-          "max": "6000000",
-          "disponible": "4100.18"
+          "precio": 963.0,
+          "comerciante": "Cripto-Tunnig",
+          "min": "96300",
+          "max": "192600",
+          "disponible": "200.79"
         }
       ]
     }
   },
-  "brecha_pct": 16.36
+  "brecha_pct": 16.26
 }
