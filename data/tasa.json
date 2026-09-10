@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-10T15:02:07+00:00",
-  "actualizado_ve": "2026-09-10T11:02:07-04:00",
+  "actualizado_utc": "2026-09-10T15:36:01+00:00",
+  "actualizado_ve": "2026-09-10T11:36:01-04:00",
   "bcv": {
     "usd": 827.7371,
     "eur": 963.21283115,
@@ -10,62 +10,69 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 962.64,
+    "referencia": 962.2298,
     "venta": {
-      "promedio": 962.64,
+      "promedio": 962.2298,
       "minimo": 962.0,
-      "maximo": 963.2,
+      "maximo": 963.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 963.2,
-          "comerciante": "diomedez14",
-          "min": "3000000",
-          "max": "36450000",
+          "precio": 963.0,
+          "comerciante": "Ateneaaa",
+          "min": "36450000",
+          "max": "50000000",
           "disponible": "80000.00"
         },
         {
-          "precio": 963.0,
-          "comerciante": "CoorpLogistic",
-          "min": "9000000",
-          "max": "36000000",
-          "disponible": "10020.00"
-        },
-        {
-          "precio": 963.0,
-          "comerciante": "Blank_Mind",
-          "min": "1500000",
+          "precio": 962.1,
+          "comerciante": "diomedez14",
+          "min": "3000000",
           "max": "36450000",
-          "disponible": "64063.30"
+          "disponible": "76885.39"
+        },
+        {
+          "precio": 962.049,
+          "comerciante": "TOPlevelS",
+          "min": "5000000",
+          "max": "36000000",
+          "disponible": "64200.00"
         },
         {
           "precio": 962.0,
-          "comerciante": "app2112",
-          "min": "7000000",
-          "max": "30000000",
-          "disponible": "50000.00"
+          "comerciante": "WBCambios",
+          "min": "1000000",
+          "max": "4000000",
+          "disponible": "1842.29"
         },
         {
           "precio": 962.0,
-          "comerciante": "moreno-",
-          "min": "2030000",
-          "max": "2031000",
-          "disponible": "2111.22"
+          "comerciante": "Ateneaaa",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "43000.12"
         }
       ]
     },
     "compra": {
-      "promedio": 963.1596,
-      "minimo": 962.999,
-      "maximo": 963.499,
+      "promedio": 962.2998,
+      "minimo": 959.0,
+      "maximo": 963.5,
       "anuncios_usados": 5,
       "anuncios": [
+        {
+          "precio": 959.0,
+          "comerciante": "Ronaldelectro",
+          "min": "1670000",
+          "max": "1670000",
+          "disponible": "1995.01"
+        },
         {
           "precio": 962.999,
           "comerciante": "juanmv91",
           "min": "300",
           "max": "4000000",
-          "disponible": "0.39"
+          "disponible": "0.59"
         },
         {
           "precio": 963.0,
@@ -76,27 +83,20 @@
         },
         {
           "precio": 963.0,
-          "comerciante": "MzVentasCripto",
-          "min": "67400",
-          "max": "67401",
+          "comerciante": "Cp2pc",
+          "min": "300",
+          "max": "10000",
+          "disponible": "760.53"
+        },
+        {
+          "precio": 963.5,
+          "comerciante": "YefersonM1",
+          "min": "300",
+          "max": "10117",
           "disponible": "99.75"
-        },
-        {
-          "precio": 963.3,
-          "comerciante": "CryptoEthx",
-          "min": "10000",
-          "max": "100000",
-          "disponible": "249.37"
-        },
-        {
-          "precio": 963.499,
-          "comerciante": "Jehu07",
-          "min": "20000",
-          "max": "100000",
-          "disponible": "34.75"
         }
       ]
     }
   },
-  "brecha_pct": 16.3
+  "brecha_pct": 16.25
 }
