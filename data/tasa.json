@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-10T04:36:22+00:00",
-  "actualizado_ve": "2026-09-10T00:36:22-04:00",
+  "actualizado_utc": "2026-09-10T05:01:44+00:00",
+  "actualizado_ve": "2026-09-10T01:01:44-04:00",
   "bcv": {
     "usd": 827.7371,
     "eur": 963.21283115,
@@ -10,9 +10,9 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 962.23,
+    "referencia": 962.3112,
     "venta": {
-      "promedio": 962.23,
+      "promedio": 962.3112,
       "minimo": 961.0,
       "maximo": 967.05,
       "anuncios_usados": 5,
@@ -22,7 +22,14 @@
           "comerciante": "Anyelo",
           "min": "517000",
           "max": "517200",
-          "disponible": "5961.04"
+          "disponible": "4891.40"
+        },
+        {
+          "precio": 961.406,
+          "comerciante": "Pepealcubo",
+          "min": "30000",
+          "max": "100000",
+          "disponible": "100.00"
         },
         {
           "precio": 961.1,
@@ -36,67 +43,60 @@
           "comerciante": "Profitivo",
           "min": "15000",
           "max": "19471",
-          "disponible": "67.17"
+          "disponible": "82.32"
         },
         {
           "precio": 961.0,
-          "comerciante": "Criptoboomoficial",
-          "min": "50000",
-          "max": "940000",
-          "disponible": "980.19"
-        },
-        {
-          "precio": 961.0,
-          "comerciante": "TraderToday",
-          "min": "33900",
-          "max": "34100",
-          "disponible": "100.00"
+          "comerciante": "ElCatire05",
+          "min": "450000",
+          "max": "450001",
+          "disponible": "500.00"
         }
       ]
     },
     "compra": {
-      "promedio": 963.54,
-      "minimo": 963.3,
-      "maximo": 963.8,
+      "promedio": 963.7196,
+      "minimo": 963.4,
+      "maximo": 963.998,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 963.3,
-          "comerciante": "Dotty86",
-          "min": "70000",
-          "max": "80500",
-          "disponible": "99.75"
-        },
         {
           "precio": 963.4,
           "comerciante": "TrustStore19",
           "min": "10000",
           "max": "390000",
-          "disponible": "55.47"
+          "disponible": "11.90"
         },
         {
-          "precio": 963.45,
-          "comerciante": "User-AS2002",
+          "precio": 963.5,
+          "comerciante": "FLASH1009",
           "min": "300",
-          "max": "4000000",
-          "disponible": "4.52"
-        },
-        {
-          "precio": 963.75,
-          "comerciante": "Jesusavh",
-          "min": "4500",
           "max": "50000",
-          "disponible": "99.75"
+          "disponible": "8.36"
         },
         {
           "precio": 963.8,
           "comerciante": "KingFA",
           "min": "300",
           "max": "900000",
-          "disponible": "50.92"
+          "disponible": "5.78"
+        },
+        {
+          "precio": 963.9,
+          "comerciante": "Juanco_424",
+          "min": "300",
+          "max": "135800",
+          "disponible": "11.55"
+        },
+        {
+          "precio": 963.998,
+          "comerciante": "User-d30a8",
+          "min": "20000",
+          "max": "554558",
+          "disponible": "50.74"
         }
       ]
     }
   },
-  "brecha_pct": 16.25
+  "brecha_pct": 16.26
 }
