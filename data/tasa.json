@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-10T16:02:12+00:00",
-  "actualizado_ve": "2026-09-10T12:02:12-04:00",
+  "actualizado_utc": "2026-09-10T16:34:53+00:00",
+  "actualizado_ve": "2026-09-10T12:34:53-04:00",
   "bcv": {
     "usd": 827.7371,
     "eur": 963.21283115,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 961.8402,
+    "referencia": 961.6216,
     "venta": {
-      "promedio": 961.8402,
-      "minimo": 961.501,
+      "promedio": 961.6216,
+      "minimo": 961.0,
       "maximo": 962.1,
       "anuncios_usados": 5,
       "anuncios": [
@@ -26,77 +26,77 @@
         },
         {
           "precio": 962.0,
-          "comerciante": "Ateneaaa",
-          "min": "4000000",
-          "max": "36450000",
-          "disponible": "54800.12"
-        },
-        {
-          "precio": 962.0,
           "comerciante": "Blank_Mind",
           "min": "1500000",
           "max": "36450000",
-          "disponible": "40000.00"
+          "disponible": "6193.43"
         },
         {
-          "precio": 961.6,
-          "comerciante": "User-b9036",
-          "min": "2000000",
-          "max": "4000000",
-          "disponible": "12601.73"
+          "precio": 961.508,
+          "comerciante": "TOPlevelS",
+          "min": "5000000",
+          "max": "36000000",
+          "disponible": "56200.06"
         },
         {
-          "precio": 961.501,
-          "comerciante": "Cripto-venzapla",
-          "min": "196000",
-          "max": "4000000",
-          "disponible": "204.06"
+          "precio": 961.5,
+          "comerciante": "USDTFASTTT",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "39552.05"
+        },
+        {
+          "precio": 961.0,
+          "comerciante": "Cross-26",
+          "min": "10000000",
+          "max": "36000000",
+          "disponible": "80000.00"
         }
       ]
     },
     "compra": {
-      "promedio": 962.7606,
-      "minimo": 962.5,
-      "maximo": 962.899,
+      "promedio": 961.8718,
+      "minimo": 961.259,
+      "maximo": 962.1,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 962.5,
-          "comerciante": "stardark",
-          "min": "9700",
-          "max": "97000",
-          "disponible": "99.75"
+          "precio": 961.259,
+          "comerciante": "atlasDr",
+          "min": "50000",
+          "max": "289276",
+          "disponible": "160.63"
         },
         {
-          "precio": 962.71,
-          "comerciante": "adrubita",
-          "min": "1391000",
-          "max": "10000000",
-          "disponible": "1445.17"
-        },
-        {
-          "precio": 962.8,
-          "comerciante": "Herstellerin",
-          "min": "2000000",
-          "max": "14000000",
-          "disponible": "2586.15"
-        },
-        {
-          "precio": 962.894,
-          "comerciante": "_AltCoinMaster_",
-          "min": "3000000",
+          "precio": 962.0,
+          "comerciante": "kalamardo",
+          "min": "80000",
           "max": "36450000",
-          "disponible": "12000.00"
+          "disponible": "135.60"
         },
         {
-          "precio": 962.899,
-          "comerciante": "Jossynt-Fast",
-          "min": "1000000",
-          "max": "36000000",
-          "disponible": "4991.26"
+          "precio": 962.0,
+          "comerciante": "Magu08",
+          "min": "300",
+          "max": "300000",
+          "disponible": "16.69"
+        },
+        {
+          "precio": 962.0,
+          "comerciante": "Victordhd",
+          "min": "962",
+          "max": "962000",
+          "disponible": "304.78"
+        },
+        {
+          "precio": 962.1,
+          "comerciante": "tineoc0301",
+          "min": "10000",
+          "max": "200000",
+          "disponible": "99.75"
         }
       ]
     }
   },
-  "brecha_pct": 16.2
+  "brecha_pct": 16.17
 }
