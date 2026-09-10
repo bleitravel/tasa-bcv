@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-10T07:03:19+00:00",
-  "actualizado_ve": "2026-09-10T03:03:19-04:00",
+  "actualizado_utc": "2026-09-10T07:36:20+00:00",
+  "actualizado_ve": "2026-09-10T03:36:20-04:00",
   "bcv": {
     "usd": 827.7371,
     "eur": 963.21283115,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 962.23,
+    "referencia": 962.13,
     "venta": {
-      "promedio": 962.23,
-      "minimo": 961.0,
+      "promedio": 962.13,
+      "minimo": 960.5,
       "maximo": 967.05,
       "anuncios_usados": 5,
       "anuncios": [
@@ -33,13 +33,6 @@
         },
         {
           "precio": 961.0,
-          "comerciante": "ElCatire05",
-          "min": "450000",
-          "max": "450001",
-          "disponible": "500.00"
-        },
-        {
-          "precio": 961.0,
           "comerciante": "TraderToday",
           "min": "33900",
           "max": "34100",
@@ -50,43 +43,50 @@
           "comerciante": "lavoluntaddeDios",
           "min": "2000",
           "max": "360000",
-          "disponible": "93.05"
+          "disponible": "48.31"
+        },
+        {
+          "precio": 960.5,
+          "comerciante": "Ofaff",
+          "min": "200000",
+          "max": "961000",
+          "disponible": "1000.00"
         }
       ]
     },
     "compra": {
-      "promedio": 963.9004,
-      "minimo": 963.503,
+      "promedio": 963.9998,
+      "minimo": 963.9,
       "maximo": 964.099,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 963.503,
-          "comerciante": "atlasDr",
-          "min": "10000",
-          "max": "106266",
-          "disponible": "109.72"
-        },
         {
           "precio": 963.9,
           "comerciante": "RR-Distribuidora",
           "min": "300",
           "max": "1000000",
-          "disponible": "989.56"
+          "disponible": "904.07"
         },
         {
           "precio": 964.0,
           "comerciante": "RamsesP2P",
           "min": "300",
           "max": "1254499",
-          "disponible": "1278.95"
+          "disponible": "176.49"
         },
         {
           "precio": 964.0,
           "comerciante": "Cambios24-7-",
           "min": "300",
           "max": "1262415",
-          "disponible": "1306.29"
+          "disponible": "1299.05"
+        },
+        {
+          "precio": 964.0,
+          "comerciante": "andry0212",
+          "min": "194100",
+          "max": "194101",
+          "disponible": "202.49"
         },
         {
           "precio": 964.099,
@@ -98,5 +98,5 @@
       ]
     }
   },
-  "brecha_pct": 16.25
+  "brecha_pct": 16.24
 }
