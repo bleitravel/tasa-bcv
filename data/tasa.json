@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-10T19:01:32+00:00",
-  "actualizado_ve": "2026-09-10T15:01:32-04:00",
+  "actualizado_utc": "2026-09-10T19:31:22+00:00",
+  "actualizado_ve": "2026-09-10T15:31:22-04:00",
   "bcv": {
     "usd": 827.7371,
     "eur": 963.21283115,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 962.1008,
+    "referencia": 961.39,
     "venta": {
-      "promedio": 962.1008,
-      "minimo": 962.0,
-      "maximo": 962.3,
+      "promedio": 961.39,
+      "minimo": 960.7,
+      "maximo": 962.5,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 962.3,
-          "comerciante": "IngCryptos",
-          "min": "3004658",
-          "max": "3004659",
-          "disponible": "3200.00"
-        },
-        {
-          "precio": 962.2,
+          "precio": 962.5,
           "comerciante": "diomedez14",
           "min": "2500000",
           "max": "36450000",
-          "disponible": "70844.22"
-        },
-        {
-          "precio": 962.004,
-          "comerciante": "HenryCryptob",
-          "min": "8599",
-          "max": "8600",
-          "disponible": "3953.83"
+          "disponible": "80000.00"
         },
         {
           "precio": 962.0,
           "comerciante": "安全与信任",
           "min": "1000000",
           "max": "36000000",
-          "disponible": "10200.34"
+          "disponible": "9160.84"
         },
         {
-          "precio": 962.0,
-          "comerciante": "ELTORO_Trader",
-          "min": "7000",
-          "max": "7200",
-          "disponible": "107.00"
+          "precio": 961.005,
+          "comerciante": "Trust-Broker",
+          "min": "1000000",
+          "max": "36450000",
+          "disponible": "26885.69"
+        },
+        {
+          "precio": 960.745,
+          "comerciante": "TOPlevelS",
+          "min": "3000000",
+          "max": "36000000",
+          "disponible": "7945.61"
+        },
+        {
+          "precio": 960.7,
+          "comerciante": "2020EXCHANGEVIP",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "24919.87"
         }
       ]
     },
     "compra": {
-      "promedio": 959.3,
-      "minimo": 955.0,
-      "maximo": 962.5,
+      "promedio": 962.3334,
+      "minimo": 962.0,
+      "maximo": 962.46,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 955.0,
-          "comerciante": "ElMuSa30",
-          "min": "100000",
+          "precio": 962.0,
+          "comerciante": "CambiosLCAVen",
+          "min": "50000",
+          "max": "1500000",
+          "disponible": "284.66"
+        },
+        {
+          "precio": 962.357,
+          "comerciante": "Leyscambios",
+          "min": "1000000",
+          "max": "1500000",
+          "disponible": "1088.09"
+        },
+        {
+          "precio": 962.4,
+          "comerciante": "Cambios_fast54",
+          "min": "5000000",
           "max": "36450000",
-          "disponible": "2338.84"
+          "disponible": "12983.77"
         },
         {
-          "precio": 958.0,
-          "comerciante": "JairGOVA佳尔",
-          "min": "100000",
-          "max": "860000",
-          "disponible": "191.71"
+          "precio": 962.45,
+          "comerciante": "Doña Salomé",
+          "min": "500000",
+          "max": "36450000",
+          "disponible": "1592.82"
         },
         {
-          "precio": 960.0,
-          "comerciante": "User-9c642",
-          "min": "15000",
-          "max": "355430",
-          "disponible": "129.78"
-        },
-        {
-          "precio": 961.0,
-          "comerciante": "SPAICER",
-          "min": "320",
-          "max": "877000",
-          "disponible": "63.93"
-        },
-        {
-          "precio": 962.5,
-          "comerciante": "WeSm23",
-          "min": "10000",
-          "max": "4000000",
-          "disponible": "115.52"
+          "precio": 962.46,
+          "comerciante": "StarBusiness2",
+          "min": "2000000",
+          "max": "10000000",
+          "disponible": "5671.83"
         }
       ]
     }
   },
-  "brecha_pct": 16.23
+  "brecha_pct": 16.15
 }
