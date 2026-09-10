@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-10T11:02:10+00:00",
-  "actualizado_ve": "2026-09-10T07:02:10-04:00",
+  "actualizado_utc": "2026-09-10T11:35:35+00:00",
+  "actualizado_ve": "2026-09-10T07:35:35-04:00",
   "bcv": {
     "usd": 827.7371,
     "eur": 963.21283115,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 963.73,
+    "referencia": 959.76,
     "venta": {
-      "promedio": 963.73,
-      "minimo": 960.7,
-      "maximo": 967.05,
+      "promedio": 959.76,
+      "minimo": 959.3,
+      "maximo": 960.5,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 967.05,
-          "comerciante": "Anyelo",
-          "min": "517000",
-          "max": "517200",
-          "disponible": "2217.93"
+          "precio": 960.5,
+          "comerciante": "Theblackcard",
+          "min": "995970",
+          "max": "995980",
+          "disponible": "1036.94"
         },
         {
-          "precio": 964.9,
-          "comerciante": "luigitomei21",
-          "min": "900",
-          "max": "90000",
-          "disponible": "139.50"
-        },
-        {
-          "precio": 963.0,
-          "comerciante": "Godisgift",
-          "min": "2700000",
+          "precio": 960.1,
+          "comerciante": "ReadyToTrade_",
+          "min": "2000000",
           "max": "36450000",
-          "disponible": "2803.74"
+          "disponible": "54675.99"
         },
         {
-          "precio": 963.0,
-          "comerciante": "arturo2493",
-          "min": "500000",
-          "max": "4000000",
-          "disponible": "2894.64"
+          "precio": 959.5,
+          "comerciante": "Comercializadora_MAC",
+          "min": "1500000",
+          "max": "36450000",
+          "disponible": "32352.45"
         },
         {
-          "precio": 960.7,
-          "comerciante": "User-0b057erx",
-          "min": "100000",
-          "max": "4000000",
-          "disponible": "2828.06"
+          "precio": 959.4,
+          "comerciante": "DOCTOR_CAMBIO",
+          "min": "800000",
+          "max": "36450000",
+          "disponible": "24580.92"
+        },
+        {
+          "precio": 959.3,
+          "comerciante": "User-95450",
+          "min": "600000",
+          "max": "25000000",
+          "disponible": "6750.61"
         }
       ]
     },
     "compra": {
-      "promedio": 961.458,
-      "minimo": 961.0,
-      "maximo": 961.7,
+      "promedio": 960.0592,
+      "minimo": 960.0,
+      "maximo": 960.196,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 961.0,
-          "comerciante": "Servicios-Criptos-27",
-          "min": "1000000",
-          "max": "14000000",
-          "disponible": "3094.58"
-        },
-        {
-          "precio": 961.49,
-          "comerciante": "AUTOPAY-P2P",
-          "min": "200000",
-          "max": "1200000",
-          "disponible": "1497.37"
-        },
-        {
-          "precio": 961.5,
-          "comerciante": "Melani_sublimascione",
+          "precio": 960.0,
+          "comerciante": "WorldTradeinCripto",
           "min": "3000000",
-          "max": "13180289",
-          "disponible": "13685.38"
-        },
-        {
-          "precio": 961.6,
-          "comerciante": "CAMBIOS_YESSI",
-          "min": "2000000",
-          "max": "14000000",
-          "disponible": "2828.83"
-        },
-        {
-          "precio": 961.7,
-          "comerciante": "zoecambios_21",
-          "min": "1500000",
           "max": "36450000",
-          "disponible": "36947.30"
+          "disponible": "21043.94"
+        },
+        {
+          "precio": 960.0,
+          "comerciante": "giantv76",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "1.26"
+        },
+        {
+          "precio": 960.0,
+          "comerciante": "Plines",
+          "min": "80000",
+          "max": "400000",
+          "disponible": "199.50"
+        },
+        {
+          "precio": 960.1,
+          "comerciante": "JoseRv",
+          "min": "100000",
+          "max": "1400000",
+          "disponible": "128.06"
+        },
+        {
+          "precio": 960.196,
+          "comerciante": "ChandeNQ",
+          "min": "300000",
+          "max": "4000000",
+          "disponible": "2514.12"
         }
       ]
     }
   },
-  "brecha_pct": 16.43
+  "brecha_pct": 15.95
 }
