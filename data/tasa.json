@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-10T01:33:58+00:00",
-  "actualizado_ve": "2026-09-09T21:33:58-04:00",
+  "actualizado_utc": "2026-09-10T02:01:42+00:00",
+  "actualizado_ve": "2026-09-09T22:01:42-04:00",
   "bcv": {
     "usd": 827.7371,
     "eur": 963.21283115,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 962.622,
+    "referencia": 962.9004,
     "venta": {
-      "promedio": 962.622,
-      "minimo": 961.75,
-      "maximo": 963.5,
+      "promedio": 962.9004,
+      "minimo": 962.0,
+      "maximo": 964.0,
       "anuncios_usados": 5,
       "anuncios": [
+        {
+          "precio": 964.0,
+          "comerciante": "Nike-Jc",
+          "min": "500000",
+          "max": "3274200",
+          "disponible": "626.84"
+        },
         {
           "precio": 963.5,
           "comerciante": "bryannateram",
           "min": "1000000",
           "max": "4000000",
-          "disponible": "20663.62"
-        },
-        {
-          "precio": 963.01,
-          "comerciante": "calorina sankey",
-          "min": "1500000",
-          "max": "4000000",
-          "disponible": "3926.63"
+          "disponible": "18794.20"
         },
         {
           "precio": 963.0,
-          "comerciante": "Gochocambios1",
-          "min": "40000",
-          "max": "4000000",
-          "disponible": "6047.74"
-        },
-        {
-          "precio": 961.85,
-          "comerciante": "Jat-Import",
+          "comerciante": "User-e48cb",
           "min": "100000",
-          "max": "500000",
-          "disponible": "1981.17"
+          "max": "2000000",
+          "disponible": "2076.84"
         },
         {
-          "precio": 961.75,
-          "comerciante": "SuperDuko",
-          "min": "600000",
-          "max": "713642",
-          "disponible": "742.00"
+          "precio": 962.002,
+          "comerciante": "Primeramente Dios ",
+          "min": "20000",
+          "max": "4000000",
+          "disponible": "186.00"
+        },
+        {
+          "precio": 962.0,
+          "comerciante": "luised7",
+          "min": "200000",
+          "max": "700000",
+          "disponible": "326.88"
         }
       ]
     },
     "compra": {
-      "promedio": 962.1536,
-      "minimo": 962.0,
-      "maximo": 962.288,
+      "promedio": 962.44,
+      "minimo": 961.5,
+      "maximo": 963.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 962.0,
-          "comerciante": "DaniieLopez",
-          "min": "400000",
-          "max": "727099",
-          "disponible": "753.93"
-        },
-        {
-          "precio": 962.0,
-          "comerciante": "luismc7013",
-          "min": "600000",
+          "precio": 961.5,
+          "comerciante": "CAMBIOS-BC17",
+          "min": "500000",
           "max": "4000000",
-          "disponible": "1206.98"
+          "disponible": "1835.15"
         },
         {
-          "precio": 962.2,
-          "comerciante": "SecurityMaster",
-          "min": "900000",
-          "max": "1900000",
-          "disponible": "1700.00"
+          "precio": 962.0,
+          "comerciante": "Zess709",
+          "min": "30000",
+          "max": "418460",
+          "disponible": "34.79"
         },
         {
-          "precio": 962.28,
-          "comerciante": "trade-key",
-          "min": "2000000",
+          "precio": 962.7,
+          "comerciante": "Royrdgz",
+          "min": "5000000",
           "max": "36450000",
-          "disponible": "2815.48"
+          "disponible": "11637.72"
         },
         {
-          "precio": 962.288,
-          "comerciante": "SafeSwapLong",
-          "min": "2000000",
-          "max": "6300570",
-          "disponible": "5874.64"
+          "precio": 963.0,
+          "comerciante": "-Ledger-",
+          "min": "10000000",
+          "max": "36450000",
+          "disponible": "79900.12"
+        },
+        {
+          "precio": 963.0,
+          "comerciante": "CAMBIORAPID0S",
+          "min": "3000000",
+          "max": "36400000",
+          "disponible": "26937.94"
         }
       ]
     }
   },
-  "brecha_pct": 16.3
+  "brecha_pct": 16.33
 }
