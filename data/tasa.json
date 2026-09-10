@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-10T17:01:48+00:00",
-  "actualizado_ve": "2026-09-10T13:01:48-04:00",
+  "actualizado_utc": "2026-09-10T17:33:36+00:00",
+  "actualizado_ve": "2026-09-10T13:33:36-04:00",
   "bcv": {
     "usd": 827.7371,
     "eur": 963.21283115,
@@ -10,19 +10,40 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 961.79,
+    "referencia": 962.361,
     "venta": {
-      "promedio": 961.79,
-      "minimo": 961.25,
-      "maximo": 962.2,
+      "promedio": 962.361,
+      "minimo": 962.0,
+      "maximo": 963.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 962.2,
+          "precio": 963.0,
+          "comerciante": "AURA_CAPITAL",
+          "min": "1000000",
+          "max": "4000000",
+          "disponible": "4741.20"
+        },
+        {
+          "precio": 962.5,
+          "comerciante": "LeonBlanco11",
+          "min": "500000",
+          "max": "4000000",
+          "disponible": "4332.21"
+        },
+        {
+          "precio": 962.3,
           "comerciante": "diomedez14",
           "min": "3000000",
           "max": "36450000",
-          "disponible": "80000.00"
+          "disponible": "75844.16"
+        },
+        {
+          "precio": 962.005,
+          "comerciante": "Trust-Broker",
+          "min": "1000000",
+          "max": "36450000",
+          "disponible": "28966.84"
         },
         {
           "precio": 962.0,
@@ -30,34 +51,13 @@
           "min": "1000000",
           "max": "36450000",
           "disponible": "4634.00"
-        },
-        {
-          "precio": 962.0,
-          "comerciante": "Smolder-",
-          "min": "10000000",
-          "max": "36450000",
-          "disponible": "69604.99"
-        },
-        {
-          "precio": 961.5,
-          "comerciante": "CAMBIOS_RAPIDOS",
-          "min": "1000000",
-          "max": "24900909",
-          "disponible": "3324.89"
-        },
-        {
-          "precio": 961.25,
-          "comerciante": "TOPlevelS",
-          "min": "5000000",
-          "max": "36000000",
-          "disponible": "50287.07"
         }
       ]
     },
     "compra": {
-      "promedio": 963.0,
+      "promedio": 962.5494,
       "minimo": 962.0,
-      "maximo": 963.5,
+      "maximo": 962.997,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "135.60"
         },
         {
-          "precio": 963.0,
-          "comerciante": "Luniexchange",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "0.75"
+          "precio": 962.0,
+          "comerciante": "GlovalValoresCambios",
+          "min": "1000",
+          "max": "400000",
+          "disponible": "4.78"
         },
         {
-          "precio": 963.0,
-          "comerciante": "Kennt_26",
-          "min": "2910",
-          "max": "4000000",
-          "disponible": "117.48"
-        },
-        {
-          "precio": 963.5,
-          "comerciante": "KartZ_99",
-          "min": "2000",
-          "max": "300000",
-          "disponible": "12.74"
-        },
-        {
-          "precio": 963.5,
-          "comerciante": "YeshuaCambios",
+          "precio": 962.85,
+          "comerciante": "SANTABARBARA_TRADING",
           "min": "5000",
-          "max": "96000",
-          "disponible": "5.44"
+          "max": "99000",
+          "disponible": "99.75"
+        },
+        {
+          "precio": 962.9,
+          "comerciante": "_AEMS_",
+          "min": "84900",
+          "max": "85000",
+          "disponible": "99.75"
+        },
+        {
+          "precio": 962.997,
+          "comerciante": "ImJustGirl",
+          "min": "3000000",
+          "max": "6000000",
+          "disponible": "4100.18"
         }
       ]
     }
   },
-  "brecha_pct": 16.2
+  "brecha_pct": 16.26
 }
