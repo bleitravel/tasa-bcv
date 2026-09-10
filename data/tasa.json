@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-09T23:33:14+00:00",
-  "actualizado_ve": "2026-09-09T19:33:14-04:00",
+  "actualizado_utc": "2026-09-10T00:02:41+00:00",
+  "actualizado_ve": "2026-09-09T20:02:41-04:00",
   "bcv": {
     "usd": 827.7371,
     "eur": 963.21283115,
@@ -10,33 +10,19 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 965.6176,
+    "referencia": 964.758,
     "venta": {
-      "promedio": 965.6176,
-      "minimo": 965.0,
-      "maximo": 967.0,
+      "promedio": 964.758,
+      "minimo": 964.3,
+      "maximo": 965.69,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 967.0,
-          "comerciante": "Guayoyo1",
-          "min": "500000",
-          "max": "4000000",
-          "disponible": "785.30"
-        },
         {
           "precio": 965.69,
           "comerciante": "GR_SS",
           "min": "1000000",
           "max": "4000000",
-          "disponible": "12731.70"
-        },
-        {
-          "precio": 965.398,
-          "comerciante": "Omega Fitness Center",
-          "min": "1000000",
-          "max": "4000000",
-          "disponible": "1055.42"
+          "disponible": "11431.76"
         },
         {
           "precio": 965.0,
@@ -46,57 +32,71 @@
           "disponible": "30000.00"
         },
         {
-          "precio": 965.0,
-          "comerciante": "LantzAvance",
-          "min": "600000",
-          "max": "4000000",
-          "disponible": "16726.00"
+          "precio": 964.5,
+          "comerciante": "John-Deere",
+          "min": "4000000",
+          "max": "36450000",
+          "disponible": "73779.17"
+        },
+        {
+          "precio": 964.3,
+          "comerciante": "IngCryptos",
+          "min": "5000000",
+          "max": "19360000",
+          "disponible": "21000.00"
+        },
+        {
+          "precio": 964.3,
+          "comerciante": "Burdyn",
+          "min": "2000000",
+          "max": "33850719",
+          "disponible": "35103.92"
         }
       ]
     },
     "compra": {
-      "promedio": 965.3136,
+      "promedio": 964.4352,
       "minimo": 964.0,
-      "maximo": 965.888,
+      "maximo": 964.876,
       "anuncios_usados": 5,
       "anuncios": [
         {
           "precio": 964.0,
-          "comerciante": "Gabrielfoq",
-          "min": "2856000",
-          "max": "3856000",
-          "disponible": "3990.02"
+          "comerciante": "Lucyy_P2P",
+          "min": "2500",
+          "max": "134000",
+          "disponible": "36.15"
         },
         {
-          "precio": 965.0,
-          "comerciante": "P2P-335ab5ou",
-          "min": "200000",
-          "max": "579600",
-          "disponible": "598.50"
+          "precio": 964.0,
+          "comerciante": "karim1608",
+          "min": "50000",
+          "max": "4000000",
+          "disponible": "299.25"
         },
         {
-          "precio": 965.83,
+          "precio": 964.5,
+          "comerciante": "Stef21",
+          "min": "21000",
+          "max": "97000",
+          "disponible": "157.42"
+        },
+        {
+          "precio": 964.8,
+          "comerciante": "Jesus",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "15.69"
+        },
+        {
+          "precio": 964.876,
           "comerciante": "JDVR_05",
           "min": "2000000",
           "max": "35000000",
-          "disponible": "2468.68"
-        },
-        {
-          "precio": 965.85,
-          "comerciante": "Cgovia23",
-          "min": "2000000",
-          "max": "36450000",
-          "disponible": "3742.75"
-        },
-        {
-          "precio": 965.888,
-          "comerciante": "SafeSwapLong",
-          "min": "2000000",
-          "max": "6300570",
-          "disponible": "9280.71"
+          "disponible": "4766.51"
         }
       ]
     }
   },
-  "brecha_pct": 16.66
+  "brecha_pct": 16.55
 }
