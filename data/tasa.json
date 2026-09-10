@@ -1,18 +1,18 @@
 {
-  "actualizado_utc": "2026-09-10T20:01:50+00:00",
-  "actualizado_ve": "2026-09-10T16:01:50-04:00",
+  "actualizado_utc": "2026-09-10T20:34:09+00:00",
+  "actualizado_ve": "2026-09-10T16:34:09-04:00",
   "bcv": {
-    "usd": 827.7371,
-    "eur": 963.21283115,
-    "fecha_valor": "2026-09-10T00:00:00-04:00"
+    "usd": 832.4883,
+    "eur": 968.06734453,
+    "fecha_valor": "2026-09-11T00:00:00-04:00"
   },
   "binance_p2p": {
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 962.131,
+    "referencia": 962.231,
     "venta": {
-      "promedio": 962.131,
+      "promedio": 962.231,
       "minimo": 961.005,
       "maximo": 962.6,
       "anuncios_usados": 5,
@@ -33,17 +33,17 @@
         },
         {
           "precio": 962.5,
+          "comerciante": "Blank_Mind",
+          "min": "3000000",
+          "max": "36450000",
+          "disponible": "32727.27"
+        },
+        {
+          "precio": 962.5,
           "comerciante": "安全与信任",
           "min": "1000000",
           "max": "36000000",
-          "disponible": "5847.98"
-        },
-        {
-          "precio": 962.0,
-          "comerciante": "Cross-26",
-          "min": "10000000",
-          "max": "36000000",
-          "disponible": "80000.00"
+          "disponible": "3380.00"
         },
         {
           "precio": 961.005,
@@ -55,11 +55,25 @@
       ]
     },
     "compra": {
-      "promedio": 961.7196,
-      "minimo": 961.0,
-      "maximo": 962.0,
+      "promedio": 960.8998,
+      "minimo": 960.0,
+      "maximo": 961.999,
       "anuncios_usados": 5,
       "anuncios": [
+        {
+          "precio": 960.0,
+          "comerciante": "Trust-Broker",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "30482.61"
+        },
+        {
+          "precio": 960.0,
+          "comerciante": "EnyerberthGutiz",
+          "min": "273600",
+          "max": "4000000",
+          "disponible": "285.28"
+        },
         {
           "precio": 961.0,
           "comerciante": "SPAICER",
@@ -68,35 +82,21 @@
           "disponible": "0.52"
         },
         {
-          "precio": 961.6,
-          "comerciante": "ADANJOSE",
-          "min": "402800",
-          "max": "403872",
-          "disponible": "418.95"
-        },
-        {
-          "precio": 961.999,
-          "comerciante": "CambiosVeloz_",
+          "precio": 961.5,
+          "comerciante": "rafa crack ",
           "min": "50000",
-          "max": "126000",
-          "disponible": "130.69"
+          "max": "200000",
+          "disponible": "1702.21"
         },
         {
           "precio": 961.999,
-          "comerciante": "Melenudo",
-          "min": "80000",
-          "max": "400000",
-          "disponible": "99.75"
-        },
-        {
-          "precio": 962.0,
-          "comerciante": "TradeCertificate",
-          "min": "300",
+          "comerciante": "Carsalazar",
+          "min": "50000",
           "max": "4000000",
-          "disponible": "0.87"
+          "disponible": "70.85"
         }
       ]
     }
   },
-  "brecha_pct": 16.24
+  "brecha_pct": 15.58
 }
