@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-11T03:02:02+00:00",
-  "actualizado_ve": "2026-09-10T23:02:02-04:00",
+  "actualizado_utc": "2026-09-11T03:36:17+00:00",
+  "actualizado_ve": "2026-09-10T23:36:17-04:00",
   "bcv": {
     "usd": 832.4883,
     "eur": 968.06734453,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 967.702,
+    "referencia": 961.2224,
     "venta": {
-      "promedio": 967.702,
-      "minimo": 962.01,
-      "maximo": 980.0,
+      "promedio": 961.2224,
+      "minimo": 961.0,
+      "maximo": 962.01,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 980.0,
-          "comerciante": "LAF_Capital_Adonis",
-          "min": "220",
-          "max": "700000",
-          "disponible": "100.00"
-        },
-        {
-          "precio": 969.0,
-          "comerciante": "anyolos",
-          "min": "484500",
-          "max": "485000",
-          "disponible": "500.00"
-        },
-        {
-          "precio": 964.5,
-          "comerciante": "Trust-Broker",
-          "min": "2000000",
-          "max": "36450000",
-          "disponible": "12670.99"
-        },
-        {
-          "precio": 963.0,
-          "comerciante": "Josetoro88",
-          "min": "252671",
-          "max": "4000000",
-          "disponible": "262.38"
-        },
         {
           "precio": 962.01,
           "comerciante": "AndresCh99",
           "min": "950000",
           "max": "4000000",
           "disponible": "1750.98"
+        },
+        {
+          "precio": 961.1,
+          "comerciante": "Cristhian Borges",
+          "min": "12000",
+          "max": "2000000",
+          "disponible": "295.44"
+        },
+        {
+          "precio": 961.002,
+          "comerciante": "VISÓN CRIPTØ",
+          "min": "929000",
+          "max": "36450000",
+          "disponible": "967.00"
+        },
+        {
+          "precio": 961.0,
+          "comerciante": "OLDesk",
+          "min": "800000",
+          "max": "4000000",
+          "disponible": "2679.78"
+        },
+        {
+          "precio": 961.0,
+          "comerciante": "TMSat",
+          "min": "19000",
+          "max": "19300",
+          "disponible": "1696.63"
         }
       ]
     },
     "compra": {
-      "promedio": 962.7276,
-      "minimo": 962.659,
-      "maximo": 962.9,
+      "promedio": 961.8596,
+      "minimo": 960.0,
+      "maximo": 962.699,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 962.659,
-          "comerciante": "SebasUSDT_VE",
-          "min": "3840000",
-          "max": "3850000",
-          "disponible": "3992.01"
+          "precio": 960.0,
+          "comerciante": "CambioAr14",
+          "min": "10000",
+          "max": "50000",
+          "disponible": "321.53"
         },
         {
-          "precio": 962.689,
-          "comerciante": "ImJustGirl",
-          "min": "3000000",
-          "max": "6000000",
-          "disponible": "4492.13"
+          "precio": 962.0,
+          "comerciante": "User-ff060",
+          "min": "96200",
+          "max": "4000000",
+          "disponible": "410.63"
         },
         {
-          "precio": 962.69,
-          "comerciante": "zoecambios_21",
-          "min": "4000000",
+          "precio": 962.0,
+          "comerciante": "Angecrip",
+          "min": "299000",
+          "max": "301000",
+          "disponible": "311.22"
+        },
+        {
+          "precio": 962.599,
+          "comerciante": "VelociCambiosMx",
+          "min": "204000",
+          "max": "204001",
+          "disponible": "319.09"
+        },
+        {
+          "precio": 962.699,
+          "comerciante": "Cambios_fast54",
+          "min": "5000000",
           "max": "36450000",
-          "disponible": "11856.09"
-        },
-        {
-          "precio": 962.7,
-          "comerciante": "TUSKARR",
-          "min": "8000000",
-          "max": "36450000",
-          "disponible": "79900.12"
-        },
-        {
-          "precio": 962.9,
-          "comerciante": "TuCambioRapidoVE",
-          "min": "1260000",
-          "max": "1500000",
-          "disponible": "1596.00"
+          "disponible": "15000.24"
         }
       ]
     }
   },
-  "brecha_pct": 16.24
+  "brecha_pct": 15.46
 }
