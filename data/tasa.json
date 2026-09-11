@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-11T17:01:25+00:00",
-  "actualizado_ve": "2026-09-11T13:01:25-04:00",
+  "actualizado_utc": "2026-09-11T17:34:03+00:00",
+  "actualizado_ve": "2026-09-11T13:34:03-04:00",
   "bcv": {
     "usd": 832.4883,
     "eur": 968.06734453,
@@ -10,15 +10,15 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 957.7672,
+    "referencia": 958.0908,
     "venta": {
-      "promedio": 957.7672,
+      "promedio": 958.0908,
       "minimo": 956.5,
-      "maximo": 958.336,
+      "maximo": 961.444,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 958.336,
+          "precio": 961.444,
           "comerciante": "sass12",
           "min": "2000000",
           "max": "4000000",
@@ -29,74 +29,74 @@
           "comerciante": "DelgadoExchange",
           "min": "1000000",
           "max": "4000000",
+          "disponible": "9100.00"
+        },
+        {
+          "precio": 958.0,
+          "comerciante": "Junior0908",
+          "min": "41500",
+          "max": "288000",
+          "disponible": "110.81"
+        },
+        {
+          "precio": 956.51,
+          "comerciante": "SureXchanges",
+          "min": "2000000",
+          "max": "36450000",
           "disponible": "10000.00"
         },
         {
-          "precio": 958.0,
-          "comerciante": "Cristlukirito",
-          "min": "1000000",
-          "max": "1500000",
-          "disponible": "6800.00"
-        },
-        {
-          "precio": 958.0,
-          "comerciante": "User-5eb00",
-          "min": "190000",
-          "max": "195000",
-          "disponible": "200.00"
-        },
-        {
           "precio": 956.5,
-          "comerciante": "User-b9036",
-          "min": "2000000",
-          "max": "4000000",
-          "disponible": "8440.33"
+          "comerciante": "TPhillips",
+          "min": "3000000",
+          "max": "36450000",
+          "disponible": "40534.25"
         }
       ]
     },
     "compra": {
-      "promedio": 957.5616,
-      "minimo": 957.0,
-      "maximo": 958.0,
+      "promedio": 957.7394,
+      "minimo": 957.5,
+      "maximo": 957.8,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 957.0,
-          "comerciante": "antunezchanges",
-          "min": "300",
-          "max": "95700",
-          "disponible": "1.79"
+          "precio": 957.5,
+          "comerciante": "BlissMoneyClau",
+          "min": "50000",
+          "max": "4000000",
+          "disponible": "59.05"
         },
         {
-          "precio": 957.009,
-          "comerciante": "PAGOSUPERAPIDO",
-          "min": "300",
-          "max": "3999999",
-          "disponible": "12.19"
+          "precio": 957.798,
+          "comerciante": "_TropiCoqueta_",
+          "min": "500000",
+          "max": "10000000",
+          "disponible": "1941.03"
         },
         {
           "precio": 957.799,
-          "comerciante": "enviosglobal1",
-          "min": "20000",
-          "max": "21000",
-          "disponible": "99.75"
+          "comerciante": "ImJustGirl",
+          "min": "3000000",
+          "max": "6000000",
+          "disponible": "4438.57"
         },
         {
-          "precio": 958.0,
-          "comerciante": "Juancbravo",
-          "min": "300",
-          "max": "287400",
-          "disponible": "1.68"
+          "precio": 957.8,
+          "comerciante": "Much_Dolar",
+          "min": "320000",
+          "max": "400000",
+          "disponible": "349.12"
         },
         {
-          "precio": 958.0,
-          "comerciante": "JDCAPITAL-HOLDING",
-          "min": "200000",
-          "max": "7000000",
-          "disponible": "279.97"
+          "precio": 957.8,
+          "comerciante": "REMESAS_ALZATE",
+          "min": "1500000",
+          "max": "6000000",
+          "disponible": "27620.90"
         }
       ]
     }
   },
-  "brecha_pct": 15.05
+  "brecha_pct": 15.09
 }
