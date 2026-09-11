@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-11T09:01:41+00:00",
-  "actualizado_ve": "2026-09-11T05:01:41-04:00",
+  "actualizado_utc": "2026-09-11T09:35:21+00:00",
+  "actualizado_ve": "2026-09-11T05:35:21-04:00",
   "bcv": {
     "usd": 832.4883,
     "eur": 968.06734453,
@@ -10,20 +10,13 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 960.4032,
+    "referencia": 959.7452,
     "venta": {
-      "promedio": 960.4032,
-      "minimo": 959.0,
-      "maximo": 962.01,
+      "promedio": 959.7452,
+      "minimo": 958.72,
+      "maximo": 961.0,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 962.01,
-          "comerciante": "AndresCh99",
-          "min": "950000",
-          "max": "4000000",
-          "disponible": "1750.98"
-        },
         {
           "precio": 961.0,
           "comerciante": "TMSat",
@@ -51,22 +44,22 @@
           "min": "3800000",
           "max": "4000000",
           "disponible": "4200.00"
+        },
+        {
+          "precio": 958.72,
+          "comerciante": "-YAHWEH-",
+          "min": "100000",
+          "max": "4000000",
+          "disponible": "8780.71"
         }
       ]
     },
     "compra": {
-      "promedio": 961.976,
-      "minimo": 961.0,
-      "maximo": 962.78,
+      "promedio": 962.338,
+      "minimo": 962.0,
+      "maximo": 962.8,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 961.0,
-          "comerciante": "iriance",
-          "min": "300",
-          "max": "280504",
-          "disponible": "4.15"
-        },
         {
           "precio": 962.0,
           "comerciante": "Universal__Cash",
@@ -79,7 +72,7 @@
           "comerciante": "Royrdgz",
           "min": "5000000",
           "max": "36450000",
-          "disponible": "11675.07"
+          "disponible": "6477.58"
         },
         {
           "precio": 962.1,
@@ -89,14 +82,21 @@
           "disponible": "98.60"
         },
         {
-          "precio": 962.78,
-          "comerciante": "Azir-p2p",
-          "min": "2000000",
-          "max": "15000000",
-          "disponible": "4866.38"
+          "precio": 962.79,
+          "comerciante": "Diozp2p",
+          "min": "1000000",
+          "max": "1001000",
+          "disponible": "1043.17"
+        },
+        {
+          "precio": 962.8,
+          "comerciante": "Servicios-Criptos-27",
+          "min": "1000000",
+          "max": "14000000",
+          "disponible": "2055.96"
         }
       ]
     }
   },
-  "brecha_pct": 15.37
+  "brecha_pct": 15.29
 }
