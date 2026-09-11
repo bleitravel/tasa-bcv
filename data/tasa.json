@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-11T03:36:17+00:00",
-  "actualizado_ve": "2026-09-10T23:36:17-04:00",
+  "actualizado_utc": "2026-09-11T04:01:55+00:00",
+  "actualizado_ve": "2026-09-11T00:01:55-04:00",
   "bcv": {
     "usd": 832.4883,
     "eur": 968.06734453,
@@ -10,13 +10,20 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 961.2224,
+    "referencia": 961.7458,
     "venta": {
-      "promedio": 961.2224,
-      "minimo": 961.0,
-      "maximo": 962.01,
+      "promedio": 961.7458,
+      "minimo": 960.619,
+      "maximo": 964.0,
       "anuncios_usados": 5,
       "anuncios": [
+        {
+          "precio": 964.0,
+          "comerciante": "Trust-Broker",
+          "min": "2000000",
+          "max": "36450000",
+          "disponible": "20000.00"
+        },
         {
           "precio": 962.01,
           "comerciante": "AndresCh99",
@@ -29,21 +36,7 @@
           "comerciante": "Cristhian Borges",
           "min": "12000",
           "max": "2000000",
-          "disponible": "295.44"
-        },
-        {
-          "precio": 961.002,
-          "comerciante": "VISÓN CRIPTØ",
-          "min": "929000",
-          "max": "36450000",
-          "disponible": "967.00"
-        },
-        {
-          "precio": 961.0,
-          "comerciante": "OLDesk",
-          "min": "800000",
-          "max": "4000000",
-          "disponible": "2679.78"
+          "disponible": "47.36"
         },
         {
           "precio": 961.0,
@@ -51,28 +44,35 @@
           "min": "19000",
           "max": "19300",
           "disponible": "1696.63"
+        },
+        {
+          "precio": 960.619,
+          "comerciante": "AngelMolinaC",
+          "min": "300000",
+          "max": "17732238",
+          "disponible": "14395.28"
         }
       ]
     },
     "compra": {
-      "promedio": 961.8596,
-      "minimo": 960.0,
-      "maximo": 962.699,
+      "promedio": 961.7196,
+      "minimo": 961.0,
+      "maximo": 962.498,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 960.0,
-          "comerciante": "CambioAr14",
-          "min": "10000",
-          "max": "50000",
-          "disponible": "321.53"
+          "precio": 961.0,
+          "comerciante": "bethania1991",
+          "min": "48050",
+          "max": "298871",
+          "disponible": "310.22"
         },
         {
-          "precio": 962.0,
-          "comerciante": "User-ff060",
-          "min": "96200",
-          "max": "4000000",
-          "disponible": "410.63"
+          "precio": 961.1,
+          "comerciante": "CambioAr14",
+          "min": "50000",
+          "max": "80000",
+          "disponible": "321.53"
         },
         {
           "precio": 962.0,
@@ -82,21 +82,21 @@
           "disponible": "311.22"
         },
         {
-          "precio": 962.599,
-          "comerciante": "VelociCambiosMx",
-          "min": "204000",
-          "max": "204001",
-          "disponible": "319.09"
+          "precio": 962.0,
+          "comerciante": "RacheMoney",
+          "min": "1000000",
+          "max": "1394303",
+          "disponible": "1446.84"
         },
         {
-          "precio": 962.699,
-          "comerciante": "Cambios_fast54",
-          "min": "5000000",
-          "max": "36450000",
-          "disponible": "15000.24"
+          "precio": 962.498,
+          "comerciante": "SebasUSDT_VE",
+          "min": "1840000",
+          "max": "3850000",
+          "disponible": "3992.01"
         }
       ]
     }
   },
-  "brecha_pct": 15.46
+  "brecha_pct": 15.53
 }
