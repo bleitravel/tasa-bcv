@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-11T21:01:51+00:00",
-  "actualizado_ve": "2026-09-11T17:01:51-04:00",
+  "actualizado_utc": "2026-09-11T21:31:53+00:00",
+  "actualizado_ve": "2026-09-11T17:31:53-04:00",
   "bcv": {
     "usd": 842.2067,
     "eur": 977.8777773,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 957.16,
+    "referencia": 958.4,
     "venta": {
-      "promedio": 957.16,
-      "minimo": 956.8,
-      "maximo": 958.0,
+      "promedio": 958.4,
+      "minimo": 958.0,
+      "maximo": 960.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 958.0,
+          "precio": 960.0,
           "comerciante": "LordCambios",
           "min": "900000",
           "max": "28650000",
-          "disponible": "29906.06"
+          "disponible": "29843.75"
         },
         {
-          "precio": 957.0,
+          "precio": 958.0,
+          "comerciante": "王冠__你们的头",
+          "min": "1000000",
+          "max": "36450000",
+          "disponible": "17856.22"
+        },
+        {
+          "precio": 958.0,
           "comerciante": "Trust-Broker",
           "min": "2000000",
           "max": "36450000",
           "disponible": "24585.02"
         },
         {
-          "precio": 957.0,
+          "precio": 958.0,
+          "comerciante": "GAZA_CRIPTO",
+          "min": "36450000",
+          "max": "775452400",
+          "disponible": "100000.00"
+        },
+        {
+          "precio": 958.0,
           "comerciante": "John-Deere",
           "min": "2000000",
-          "max": "36450000",
-          "disponible": "16699.38"
-        },
-        {
-          "precio": 957.0,
-          "comerciante": "IsaBTC-",
-          "min": "10000000",
-          "max": "36450000",
-          "disponible": "60432.83"
-        },
-        {
-          "precio": 956.8,
-          "comerciante": "jxsosa",
-          "min": "5000000",
-          "max": "34000000",
-          "disponible": "6200.00"
+          "max": "6072551",
+          "disponible": "6345.00"
         }
       ]
     },
     "compra": {
-      "promedio": 957.02,
-      "minimo": 957.0,
-      "maximo": 957.1,
+      "promedio": 958.06,
+      "minimo": 957.99,
+      "maximo": 958.31,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 957.0,
-          "comerciante": "Yup2p",
-          "min": "300",
+          "precio": 957.99,
+          "comerciante": "Sunnygreen",
+          "min": "469000",
+          "max": "469001",
+          "disponible": "498.75"
+        },
+        {
+          "precio": 958.0,
+          "comerciante": "Elym19",
+          "min": "10000",
           "max": "97000",
-          "disponible": "0.64"
+          "disponible": "19.31"
         },
         {
-          "precio": 957.0,
-          "comerciante": "Mag96",
-          "min": "1500",
-          "max": "55000",
-          "disponible": "4.90"
+          "precio": 958.0,
+          "comerciante": "CryptoExpressVe",
+          "min": "5000000",
+          "max": "20000000",
+          "disponible": "10901.88"
         },
         {
-          "precio": 957.0,
-          "comerciante": "roimy",
-          "min": "3000",
-          "max": "4000000",
-          "disponible": "20.89"
+          "precio": 958.0,
+          "comerciante": "tineoc0301",
+          "min": "10000",
+          "max": "200000",
+          "disponible": "12.08"
         },
         {
-          "precio": 957.0,
-          "comerciante": "Susann Columbo h3Ge",
-          "min": "50000",
-          "max": "500000",
-          "disponible": "99.75"
-        },
-        {
-          "precio": 957.1,
-          "comerciante": "Alkisa",
-          "min": "4786",
-          "max": "105050",
-          "disponible": "5.88"
+          "precio": 958.31,
+          "comerciante": "GRAN_ROQUE",
+          "min": "5000",
+          "max": "124410",
+          "disponible": "49.02"
         }
       ]
     }
   },
-  "brecha_pct": 13.65
+  "brecha_pct": 13.8
 }
