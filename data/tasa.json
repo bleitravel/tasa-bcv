@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-11T14:35:50+00:00",
-  "actualizado_ve": "2026-09-11T10:35:50-04:00",
+  "actualizado_utc": "2026-09-11T15:02:00+00:00",
+  "actualizado_ve": "2026-09-11T11:02:00-04:00",
   "bcv": {
     "usd": 832.4883,
     "eur": 968.06734453,
@@ -10,13 +10,20 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 955.1198,
+    "referencia": 956.821,
     "venta": {
-      "promedio": 955.1198,
-      "minimo": 954.0,
-      "maximo": 957.0,
+      "promedio": 956.821,
+      "minimo": 955.5,
+      "maximo": 960.305,
       "anuncios_usados": 5,
       "anuncios": [
+        {
+          "precio": 960.305,
+          "comerciante": "sass12",
+          "min": "2500000",
+          "max": "4000000",
+          "disponible": "2800.00"
+        },
         {
           "precio": 957.0,
           "comerciante": "heidytrader",
@@ -25,54 +32,40 @@
           "disponible": "0.39"
         },
         {
-          "precio": 956.0,
-          "comerciante": "Daniaarilo",
-          "min": "1000000",
-          "max": "4000000",
-          "disponible": "1953.98"
+          "precio": 955.7,
+          "comerciante": "Caniel02",
+          "min": "800000",
+          "max": "36000000",
+          "disponible": "918.63"
         },
         {
-          "precio": 954.594,
-          "comerciante": "sass12",
-          "min": "2500000",
-          "max": "4000000",
-          "disponible": "2700.00"
-        },
-        {
-          "precio": 954.005,
-          "comerciante": "Trust-Broker",
-          "min": "2000000",
+          "precio": 955.6,
+          "comerciante": "securitylc",
+          "min": "1500000",
           "max": "36450000",
-          "disponible": "24475.92"
+          "disponible": "27640.41"
         },
         {
-          "precio": 954.0,
-          "comerciante": "PEJAGOBLA",
-          "min": "10000000",
-          "max": "36400000",
-          "disponible": "71560.98"
+          "precio": 955.5,
+          "comerciante": "Dynamo_A",
+          "min": "500000",
+          "max": "22000000",
+          "disponible": "6181.18"
         }
       ]
     },
     "compra": {
-      "promedio": 954.9,
-      "minimo": 954.5,
-      "maximo": 955.0,
+      "promedio": 955.3998,
+      "minimo": 954.0,
+      "maximo": 956.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 954.5,
-          "comerciante": "Yexson",
-          "min": "4000",
-          "max": "6000",
+          "precio": 954.0,
+          "comerciante": "RaphielCarrera",
+          "min": "20000",
+          "max": "4000000",
           "disponible": "99.75"
-        },
-        {
-          "precio": 955.0,
-          "comerciante": "P2P-b34664ai",
-          "min": "300000",
-          "max": "790000",
-          "disponible": "817.95"
         },
         {
           "precio": 955.0,
@@ -82,21 +75,28 @@
           "disponible": "0.43"
         },
         {
-          "precio": 955.0,
-          "comerciante": "Salamanca_",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "0.56"
+          "precio": 955.999,
+          "comerciante": "Nexotrade_P2P",
+          "min": "1000",
+          "max": "400000",
+          "disponible": "17.72"
         },
         {
-          "precio": 955.0,
-          "comerciante": "_DemoCambios_",
-          "min": "300000",
-          "max": "3000000",
-          "disponible": "498.75"
+          "precio": 956.0,
+          "comerciante": "Kjhony",
+          "min": "300",
+          "max": "1400000",
+          "disponible": "0.87"
+        },
+        {
+          "precio": 956.0,
+          "comerciante": "P2P-cbb8a3lc",
+          "min": "50000",
+          "max": "668000",
+          "disponible": "188.66"
         }
       ]
     }
   },
-  "brecha_pct": 14.73
+  "brecha_pct": 14.94
 }
