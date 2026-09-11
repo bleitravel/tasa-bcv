@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-11T12:39:39+00:00",
-  "actualizado_ve": "2026-09-11T08:39:39-04:00",
+  "actualizado_utc": "2026-09-11T13:01:49+00:00",
+  "actualizado_ve": "2026-09-11T09:01:49-04:00",
   "bcv": {
     "usd": 832.4883,
     "eur": 968.06734453,
@@ -22,14 +22,14 @@
           "comerciante": "Trust-Broker",
           "min": "2000000",
           "max": "36450000",
-          "disponible": "47900.06"
+          "disponible": "38642.18"
         },
         {
           "precio": 960.02,
           "comerciante": "AndresCh99",
-          "min": "450000",
+          "min": "850000",
           "max": "4000000",
-          "disponible": "9857.99"
+          "disponible": "9445.88"
         },
         {
           "precio": 960.006,
@@ -40,56 +40,56 @@
         },
         {
           "precio": 960.0,
-          "comerciante": "BlackVaultt",
-          "min": "200000",
-          "max": "4000000",
-          "disponible": "3603.34"
+          "comerciante": "Blank_Mind",
+          "min": "1000000",
+          "max": "36450000",
+          "disponible": "2721.87"
         },
         {
           "precio": 960.0,
-          "comerciante": "Trust-Broker",
-          "min": "2000000",
-          "max": "36450000",
-          "disponible": "9950.00"
+          "comerciante": "P2P-c61ac6mp",
+          "min": "40000",
+          "max": "96000",
+          "disponible": "100.00"
         }
       ]
     },
     "compra": {
-      "promedio": 957.5436,
-      "minimo": 957.1,
-      "maximo": 958.24,
+      "promedio": 959.6494,
+      "minimo": 959.0,
+      "maximo": 959.95,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 957.1,
-          "comerciante": "trade-key",
-          "min": "2000000",
-          "max": "36450000",
-          "disponible": "3287.58"
+          "precio": 959.0,
+          "comerciante": "Orion_Cambios",
+          "min": "900000",
+          "max": "1000000",
+          "disponible": "1097.25"
         },
         {
-          "precio": 957.189,
+          "precio": 959.447,
+          "comerciante": "User-65e65",
+          "min": "30000",
+          "max": "115000",
+          "disponible": "159.60"
+        },
+        {
+          "precio": 959.9,
+          "comerciante": "Pesce_Exchange",
+          "min": "399595",
+          "max": "399596",
+          "disponible": "419.26"
+        },
+        {
+          "precio": 959.95,
           "comerciante": "RicoMcPato_3minutos",
           "min": "3000000",
           "max": "36000000",
-          "disponible": "19616.94"
+          "disponible": "11488.63"
         },
         {
-          "precio": 957.19,
-          "comerciante": "WorldTradeinCripto",
-          "min": "3000000",
-          "max": "36450000",
-          "disponible": "14735.94"
-        },
-        {
-          "precio": 957.999,
-          "comerciante": "StarBusiness2",
-          "min": "2000000",
-          "max": "10000000",
-          "disponible": "6864.32"
-        },
-        {
-          "precio": 958.24,
+          "precio": 959.95,
           "comerciante": "-ZPro-",
           "min": "500000",
           "max": "10000000",
