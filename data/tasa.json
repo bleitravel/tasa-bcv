@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-11T11:01:45+00:00",
-  "actualizado_ve": "2026-09-11T07:01:45-04:00",
+  "actualizado_utc": "2026-09-11T11:34:18+00:00",
+  "actualizado_ve": "2026-09-11T07:34:18-04:00",
   "bcv": {
     "usd": 832.4883,
     "eur": 968.06734453,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 960.389,
+    "referencia": 960.606,
     "venta": {
-      "promedio": 960.389,
-      "minimo": 960.006,
+      "promedio": 960.606,
+      "minimo": 960.02,
       "maximo": 961.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -22,81 +22,81 @@
           "comerciante": "TMSat",
           "min": "19000",
           "max": "19300",
-          "disponible": "1676.61"
+          "disponible": "1696.63"
         },
         {
-          "precio": 960.9,
-          "comerciante": "yorgemg",
-          "min": "325000",
-          "max": "335000",
-          "disponible": "345.00"
+          "precio": 961.0,
+          "comerciante": "Blank_Mind",
+          "min": "9000000",
+          "max": "36450000",
+          "disponible": "18956.06"
+        },
+        {
+          "precio": 960.51,
+          "comerciante": "azulexchange",
+          "min": "100000",
+          "max": "4000000",
+          "disponible": "937.00"
+        },
+        {
+          "precio": 960.5,
+          "comerciante": "CHATGPTP2P",
+          "min": "80000",
+          "max": "2080000",
+          "disponible": "1722.53"
         },
         {
           "precio": 960.02,
           "comerciante": "AndresCh99",
           "min": "450000",
           "max": "4000000",
-          "disponible": "14036.48"
-        },
-        {
-          "precio": 960.019,
-          "comerciante": "AngelMolinaC",
-          "min": "300000",
-          "max": "17732238",
-          "disponible": "9706.43"
-        },
-        {
-          "precio": 960.006,
-          "comerciante": "arangurenjim",
-          "min": "900000",
-          "max": "4000000",
-          "disponible": "14478.91"
+          "disponible": "13437.23"
         }
       ]
     },
     "compra": {
-      "promedio": 960.4998,
-      "minimo": 960.0,
+      "promedio": 960.9498,
+      "minimo": 960.85,
       "maximo": 961.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 960.0,
-          "comerciante": "User-38df5",
-          "min": "1000",
-          "max": "976262",
-          "disponible": "1.69"
+          "precio": 960.85,
+          "comerciante": "Phill_Aventura",
+          "min": "50000",
+          "max": "600000",
+          "disponible": "145.39"
         },
         {
-          "precio": 960.0,
-          "comerciante": "FROA",
-          "min": "95700",
-          "max": "96000",
-          "disponible": "99.75"
-        },
-        {
-          "precio": 960.5,
-          "comerciante": "Verano_p2P",
-          "min": "49000",
-          "max": "50000",
-          "disponible": "99.75"
+          "precio": 960.9,
+          "comerciante": "henrryBarrios",
+          "min": "50000",
+          "max": "400000",
+          "disponible": "230.22"
         },
         {
           "precio": 960.999,
-          "comerciante": "Nexotrade_P2P",
-          "min": "1000",
-          "max": "400000",
-          "disponible": "82.52"
+          "comerciante": "DualUsdt",
+          "min": "5000",
+          "max": "50000",
+          "disponible": "13.91"
         },
         {
           "precio": 961.0,
-          "comerciante": "hernandez2525",
-          "min": "95000",
-          "max": "288900",
-          "disponible": "143.17"
+          "comerciante": "enyergomez",
+          "min": "9300",
+          "max": "95000",
+          "disponible": "372.99"
+        },
+        {
+          "precio": 961.0,
+          "comerciante": "P2P-176515tv",
+          "min": "500000",
+          "max": "3000000",
+          "disponible": "4311.16"
         }
       ]
     }
   },
-  "brecha_pct": 15.36
+  "brecha_pct": 15.39
 }
