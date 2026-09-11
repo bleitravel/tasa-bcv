@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-11T00:39:24+00:00",
-  "actualizado_ve": "2026-09-10T20:39:24-04:00",
+  "actualizado_utc": "2026-09-11T01:02:18+00:00",
+  "actualizado_ve": "2026-09-10T21:02:18-04:00",
   "bcv": {
     "usd": 832.4883,
     "eur": 968.06734453,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 961.3692,
+    "referencia": 961.1018,
     "venta": {
-      "promedio": 961.3692,
-      "minimo": 960.5,
-      "maximo": 962.637,
+      "promedio": 961.1018,
+      "minimo": 960.509,
+      "maximo": 962.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 962.637,
-          "comerciante": "Omega Fitness Center",
-          "min": "500000",
-          "max": "961000",
-          "disponible": "1000.00"
-        },
-        {
-          "precio": 961.7,
-          "comerciante": "diomedez14",
-          "min": "2000000",
-          "max": "36450000",
-          "disponible": "48727.85"
-        },
-        {
-          "precio": 961.5,
+          "precio": 962.0,
           "comerciante": "Blank_Mind",
           "min": "1000000",
           "max": "36450000",
-          "disponible": "28697.90"
+          "disponible": "25642.66"
+        },
+        {
+          "precio": 961.0,
+          "comerciante": "Trust-Broker",
+          "min": "1000000",
+          "max": "36450000",
+          "disponible": "9517.38"
+        },
+        {
+          "precio": 961.0,
+          "comerciante": "Blank_Mind",
+          "min": "10000000",
+          "max": "36450000",
+          "disponible": "42003.34"
+        },
+        {
+          "precio": 961.0,
+          "comerciante": "安全与信任",
+          "min": "3000000",
+          "max": "36000000",
+          "disponible": "47878.32"
         },
         {
           "precio": 960.509,
           "comerciante": "AngelMolinaC",
           "min": "300000",
           "max": "17732238",
-          "disponible": "17715.56"
-        },
-        {
-          "precio": 960.5,
-          "comerciante": "Trust-Broker",
-          "min": "1000000",
-          "max": "36450000",
-          "disponible": "10881.79"
+          "disponible": "15834.57"
         }
       ]
     },
     "compra": {
-      "promedio": 961.19,
-      "minimo": 961.0,
-      "maximo": 961.4,
+      "promedio": 961.7076,
+      "minimo": 961.65,
+      "maximo": 961.799,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 961.0,
-          "comerciante": "Angeletex",
-          "min": "30000",
-          "max": "600000",
-          "disponible": "99.75"
+          "precio": 961.65,
+          "comerciante": "CryptoHuron",
+          "min": "5000",
+          "max": "189514",
+          "disponible": "147.76"
         },
         {
-          "precio": 961.0,
-          "comerciante": "Barbarabms",
-          "min": "141800",
-          "max": "142400",
-          "disponible": "147.63"
+          "precio": 961.694,
+          "comerciante": "-Ledger-",
+          "min": "10000000",
+          "max": "36450000",
+          "disponible": "50034.40"
         },
         {
-          "precio": 961.25,
-          "comerciante": "baot store",
-          "min": "480000",
-          "max": "5000000",
-          "disponible": "514.48"
+          "precio": 961.695,
+          "comerciante": "TUSKARR",
+          "min": "8000000",
+          "max": "36450000",
+          "disponible": "79900.12"
         },
         {
-          "precio": 961.3,
-          "comerciante": "CambioRapido13",
-          "min": "2000000",
-          "max": "4270914",
-          "disponible": "2354.12"
-        },
-        {
-          "precio": 961.4,
+          "precio": 961.7,
           "comerciante": "Servicios-Criptos-27",
           "min": "2500000",
           "max": "14000000",
           "disponible": "3493.88"
+        },
+        {
+          "precio": 961.799,
+          "comerciante": "CoinFlou",
+          "min": "36450000",
+          "max": "200000000",
+          "disponible": "64949.25"
         }
       ]
     }
   },
-  "brecha_pct": 15.48
+  "brecha_pct": 15.45
 }
