@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-11T11:34:18+00:00",
-  "actualizado_ve": "2026-09-11T07:34:18-04:00",
+  "actualizado_utc": "2026-09-11T12:02:18+00:00",
+  "actualizado_ve": "2026-09-11T08:02:18-04:00",
   "bcv": {
     "usd": 832.4883,
     "eur": 968.06734453,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 960.606,
+    "referencia": 960.4052,
     "venta": {
-      "promedio": 960.606,
-      "minimo": 960.02,
+      "promedio": 960.4052,
+      "minimo": 960.006,
       "maximo": 961.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -22,28 +22,21 @@
           "comerciante": "TMSat",
           "min": "19000",
           "max": "19300",
-          "disponible": "1696.63"
-        },
-        {
-          "precio": 961.0,
-          "comerciante": "Blank_Mind",
-          "min": "9000000",
-          "max": "36450000",
-          "disponible": "18956.06"
-        },
-        {
-          "precio": 960.51,
-          "comerciante": "azulexchange",
-          "min": "100000",
-          "max": "4000000",
-          "disponible": "937.00"
+          "disponible": "1656.84"
         },
         {
           "precio": 960.5,
-          "comerciante": "CHATGPTP2P",
-          "min": "80000",
-          "max": "2080000",
-          "disponible": "1722.53"
+          "comerciante": "Anselmi",
+          "min": "100000",
+          "max": "3321000",
+          "disponible": "1136.79"
+        },
+        {
+          "precio": 960.5,
+          "comerciante": "Blank_Mind",
+          "min": "1000000",
+          "max": "36450000",
+          "disponible": "31120.12"
         },
         {
           "precio": 960.02,
@@ -51,52 +44,59 @@
           "min": "450000",
           "max": "4000000",
           "disponible": "13437.23"
+        },
+        {
+          "precio": 960.006,
+          "comerciante": "arangurenjim",
+          "min": "900000",
+          "max": "4000000",
+          "disponible": "14478.91"
         }
       ]
     },
     "compra": {
-      "promedio": 960.9498,
-      "minimo": 960.85,
-      "maximo": 961.0,
+      "promedio": 959.568,
+      "minimo": 959.5,
+      "maximo": 959.69,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 960.85,
-          "comerciante": "Phill_Aventura",
-          "min": "50000",
-          "max": "600000",
-          "disponible": "145.39"
+          "precio": 959.5,
+          "comerciante": "x88rising",
+          "min": "2500000",
+          "max": "36450000",
+          "disponible": "6391.34"
         },
         {
-          "precio": 960.9,
-          "comerciante": "henrryBarrios",
-          "min": "50000",
-          "max": "400000",
-          "disponible": "230.22"
+          "precio": 959.5,
+          "comerciante": "卡哈塞克尼奧",
+          "min": "3000000",
+          "max": "11000000",
+          "disponible": "9887.10"
         },
         {
-          "precio": 960.999,
-          "comerciante": "DualUsdt",
-          "min": "5000",
-          "max": "50000",
-          "disponible": "13.91"
+          "precio": 959.55,
+          "comerciante": "Germanctr",
+          "min": "3000000",
+          "max": "36450000",
+          "disponible": "8586.54"
         },
         {
-          "precio": 961.0,
-          "comerciante": "enyergomez",
-          "min": "9300",
-          "max": "95000",
-          "disponible": "372.99"
+          "precio": 959.6,
+          "comerciante": "LA_GLORIA_DE_DIOS",
+          "min": "3000000",
+          "max": "36450000",
+          "disponible": "8682.88"
         },
         {
-          "precio": 961.0,
-          "comerciante": "P2P-176515tv",
-          "min": "500000",
-          "max": "3000000",
-          "disponible": "4311.16"
+          "precio": 959.69,
+          "comerciante": "Vip_Super_p2p",
+          "min": "5000000",
+          "max": "7800000",
+          "disponible": "7969.66"
         }
       ]
     }
   },
-  "brecha_pct": 15.39
+  "brecha_pct": 15.37
 }
