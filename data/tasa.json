@@ -1,102 +1,102 @@
 {
-  "actualizado_utc": "2026-09-11T20:01:50+00:00",
-  "actualizado_ve": "2026-09-11T16:01:50-04:00",
+  "actualizado_utc": "2026-09-11T20:35:22+00:00",
+  "actualizado_ve": "2026-09-11T16:35:22-04:00",
   "bcv": {
-    "usd": 832.4883,
-    "eur": 968.06734453,
-    "fecha_valor": "2026-09-11T00:00:00-04:00"
+    "usd": 842.2067,
+    "eur": 977.8777773,
+    "fecha_valor": "2026-09-15T00:00:00-04:00"
   },
   "binance_p2p": {
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 955.382,
+    "referencia": 956.73,
     "venta": {
-      "promedio": 955.382,
-      "minimo": 955.1,
-      "maximo": 956.0,
+      "promedio": 956.73,
+      "minimo": 956.5,
+      "maximo": 957.1,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 956.0,
-          "comerciante": "Readypay",
-          "min": "2500000",
-          "max": "4500000",
-          "disponible": "6628.86"
-        },
-        {
-          "precio": 955.5,
-          "comerciante": "TPhillips",
-          "min": "3000000",
-          "max": "16000000",
-          "disponible": "16745.15"
-        },
-        {
-          "precio": 955.2,
+          "precio": 957.1,
           "comerciante": "Vitatech",
-          "min": "5000000",
+          "min": "3810000",
           "max": "36000000",
-          "disponible": "33249.59"
+          "disponible": "3985.00"
         },
         {
-          "precio": 955.11,
-          "comerciante": "Bluenew",
-          "min": "3000000",
-          "max": "36000000",
-          "disponible": "23937.29"
+          "precio": 957.0,
+          "comerciante": "LordCambios",
+          "min": "900000",
+          "max": "28650000",
+          "disponible": "29937.31"
         },
         {
-          "precio": 955.1,
-          "comerciante": "VZLAMundialista",
+          "precio": 956.55,
+          "comerciante": "-The_Dark_Knight-",
+          "min": "4000000",
+          "max": "36450000",
+          "disponible": "80000.00"
+        },
+        {
+          "precio": 956.5,
+          "comerciante": "Cross-26",
+          "min": "10000000",
+          "max": "36000000",
+          "disponible": "24817.89"
+        },
+        {
+          "precio": 956.5,
+          "comerciante": "LEYENDAOTC",
           "min": "3000000",
-          "max": "30000000",
-          "disponible": "51225.75"
+          "max": "33477500",
+          "disponible": "27026.41"
         }
       ]
     },
     "compra": {
-      "promedio": 955.5908,
-      "minimo": 954.999,
-      "maximo": 956.0,
+      "promedio": 956.9796,
+      "minimo": 956.9,
+      "maximo": 957.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 954.999,
-          "comerciante": "Armonymx",
-          "min": "156000",
-          "max": "156001",
-          "disponible": "163.59"
+          "precio": 956.9,
+          "comerciante": "Star-Z-A-I",
+          "min": "10000",
+          "max": "296000",
+          "disponible": "18.79"
         },
         {
-          "precio": 955.0,
-          "comerciante": "User-9c642",
-          "min": "15000",
-          "max": "815302",
-          "disponible": "665.41"
+          "precio": 956.999,
+          "comerciante": "InverMeme",
+          "min": "100000",
+          "max": "250000",
+          "disponible": "808.40"
         },
         {
-          "precio": 955.955,
-          "comerciante": "High-Stakes-Streets2",
-          "min": "955000",
-          "max": "10000000",
-          "disponible": "2836.78"
-        },
-        {
-          "precio": 956.0,
-          "comerciante": "Elturconegro",
-          "min": "300",
-          "max": "129888",
-          "disponible": "6.00"
-        },
-        {
-          "precio": 956.0,
-          "comerciante": "kalactronisorry",
-          "min": "300",
+          "precio": 956.999,
+          "comerciante": "ForPay",
+          "min": "100000",
           "max": "4000000",
-          "disponible": "0.81"
+          "disponible": "104.73"
+        },
+        {
+          "precio": 957.0,
+          "comerciante": "Yup2p",
+          "min": "300",
+          "max": "97000",
+          "disponible": "0.64"
+        },
+        {
+          "precio": 957.0,
+          "comerciante": "User-e054e",
+          "min": "100000",
+          "max": "200000",
+          "disponible": "104.98"
         }
       ]
     }
   },
-  "brecha_pct": 14.76
+  "brecha_pct": 13.6
 }
