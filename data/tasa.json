@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-11T07:35:59+00:00",
-  "actualizado_ve": "2026-09-11T03:35:59-04:00",
+  "actualizado_utc": "2026-09-11T08:02:04+00:00",
+  "actualizado_ve": "2026-09-11T04:02:04-04:00",
   "bcv": {
     "usd": 832.4883,
     "eur": 968.06734453,
@@ -55,18 +55,11 @@
       ]
     },
     "compra": {
-      "promedio": 961.4,
-      "minimo": 960.0,
-      "maximo": 962.0,
+      "promedio": 961.9,
+      "minimo": 961.0,
+      "maximo": 962.4,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 960.0,
-          "comerciante": "User-38df5",
-          "min": "1000",
-          "max": "1022400",
-          "disponible": "140.06"
-        },
         {
           "precio": 961.0,
           "comerciante": "iriance",
@@ -89,11 +82,18 @@
           "disponible": "11675.07"
         },
         {
-          "precio": 962.0,
-          "comerciante": "andry0212",
-          "min": "178500",
-          "max": "178501",
-          "disponible": "187.53"
+          "precio": 962.1,
+          "comerciante": "CambioAr14",
+          "min": "50000",
+          "max": "80000",
+          "disponible": "98.60"
+        },
+        {
+          "precio": 962.4,
+          "comerciante": "jrsalones",
+          "min": "326200",
+          "max": "327216",
+          "disponible": "339.15"
         }
       ]
     }
