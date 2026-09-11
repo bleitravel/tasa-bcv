@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-11T17:34:03+00:00",
-  "actualizado_ve": "2026-09-11T13:34:03-04:00",
+  "actualizado_utc": "2026-09-11T18:02:07+00:00",
+  "actualizado_ve": "2026-09-11T14:02:07-04:00",
   "bcv": {
     "usd": 832.4883,
     "eur": 968.06734453,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 958.0908,
+    "referencia": 957.965,
     "venta": {
-      "promedio": 958.0908,
-      "minimo": 956.5,
-      "maximo": 961.444,
+      "promedio": 957.965,
+      "minimo": 957.0,
+      "maximo": 959.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 961.444,
-          "comerciante": "sass12",
-          "min": "2000000",
-          "max": "4000000",
-          "disponible": "2915.18"
-        },
-        {
-          "precio": 958.0,
-          "comerciante": "DelgadoExchange",
-          "min": "1000000",
-          "max": "4000000",
-          "disponible": "9100.00"
-        },
-        {
-          "precio": 958.0,
-          "comerciante": "Junior0908",
-          "min": "41500",
-          "max": "288000",
-          "disponible": "110.81"
-        },
-        {
-          "precio": 956.51,
+          "precio": 959.0,
           "comerciante": "SureXchanges",
           "min": "2000000",
           "max": "36450000",
-          "disponible": "10000.00"
+          "disponible": "7890.06"
         },
         {
-          "precio": 956.5,
-          "comerciante": "TPhillips",
-          "min": "3000000",
+          "precio": 958.6,
+          "comerciante": "Juan Reyes Morales ",
+          "min": "1000000",
+          "max": "4000000",
+          "disponible": "1461.65"
+        },
+        {
+          "precio": 958.225,
+          "comerciante": "ELTIBURON-DEL-CRYPTO",
+          "min": "1000000",
+          "max": "4000000",
+          "disponible": "3183.16"
+        },
+        {
+          "precio": 957.0,
+          "comerciante": "Trust-Broker",
+          "min": "2000000",
           "max": "36450000",
-          "disponible": "40534.25"
+          "disponible": "30000.00"
+        },
+        {
+          "precio": 957.0,
+          "comerciante": "calorina sankey",
+          "min": "2000000",
+          "max": "4000000",
+          "disponible": "17913.41"
         }
       ]
     },
     "compra": {
-      "promedio": 957.7394,
-      "minimo": 957.5,
-      "maximo": 957.8,
+      "promedio": 957.3596,
+      "minimo": 957.0,
+      "maximo": 957.499,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 957.5,
-          "comerciante": "BlissMoneyClau",
-          "min": "50000",
-          "max": "4000000",
-          "disponible": "59.05"
+          "precio": 957.0,
+          "comerciante": "Cambioaldia_1",
+          "min": "1000",
+          "max": "117750",
+          "disponible": "105.04"
         },
         {
-          "precio": 957.798,
-          "comerciante": "_TropiCoqueta_",
-          "min": "500000",
-          "max": "10000000",
-          "disponible": "1941.03"
+          "precio": 957.4,
+          "comerciante": "Jorgeluis1999",
+          "min": "90000",
+          "max": "96199",
+          "disponible": "99.75"
         },
         {
-          "precio": 957.799,
-          "comerciante": "ImJustGirl",
-          "min": "3000000",
-          "max": "6000000",
-          "disponible": "4438.57"
+          "precio": 957.4,
+          "comerciante": "CambioVen22",
+          "min": "30000",
+          "max": "90000",
+          "disponible": "39.17"
         },
         {
-          "precio": 957.8,
-          "comerciante": "Much_Dolar",
-          "min": "320000",
-          "max": "400000",
-          "disponible": "349.12"
+          "precio": 957.499,
+          "comerciante": "VelociCambiosMx",
+          "min": "209100",
+          "max": "209101",
+          "disponible": "255.09"
         },
         {
-          "precio": 957.8,
-          "comerciante": "REMESAS_ALZATE",
-          "min": "1500000",
-          "max": "6000000",
-          "disponible": "27620.90"
+          "precio": 957.499,
+          "comerciante": "Keyla_usdt",
+          "min": "3000",
+          "max": "200000",
+          "disponible": "199.50"
         }
       ]
     }
   },
-  "brecha_pct": 15.09
+  "brecha_pct": 15.07
 }
