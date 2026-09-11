@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-11T04:35:54+00:00",
-  "actualizado_ve": "2026-09-11T00:35:54-04:00",
+  "actualizado_utc": "2026-09-11T05:01:36+00:00",
+  "actualizado_ve": "2026-09-11T01:01:36-04:00",
   "bcv": {
     "usd": 832.4883,
     "eur": 968.06734453,
@@ -55,45 +55,45 @@
       ]
     },
     "compra": {
-      "promedio": 962.02,
-      "minimo": 961.0,
-      "maximo": 962.6,
+      "promedio": 962.8194,
+      "minimo": 962.1,
+      "maximo": 963.0,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 961.0,
-          "comerciante": "bethania1991",
-          "min": "48050",
-          "max": "298871",
-          "disponible": "50.02"
-        },
-        {
-          "precio": 961.9,
-          "comerciante": "Satoru_19",
-          "min": "5000",
-          "max": "700000",
-          "disponible": "6.99"
-        },
         {
           "precio": 962.1,
           "comerciante": "CambioAr14",
           "min": "50000",
           "max": "80000",
-          "disponible": "321.86"
+          "disponible": "98.60"
         },
         {
-          "precio": 962.5,
-          "comerciante": "Benvenuty_Bureau",
-          "min": "20000",
-          "max": "100000",
-          "disponible": "30.70"
+          "precio": 962.999,
+          "comerciante": "RappiFlix",
+          "min": "10000",
+          "max": "4000000",
+          "disponible": "23.80"
         },
         {
-          "precio": 962.6,
-          "comerciante": "Royrdgz",
-          "min": "5000000",
+          "precio": 962.999,
+          "comerciante": "trader301",
+          "min": "300000",
+          "max": "2000000",
+          "disponible": "498.75"
+        },
+        {
+          "precio": 962.999,
+          "comerciante": "TheAngelsp2p",
+          "min": "50000",
+          "max": "670680",
+          "disponible": "435.12"
+        },
+        {
+          "precio": 963.0,
+          "comerciante": "zama2004",
+          "min": "10000000",
           "max": "36450000",
-          "disponible": "6925.97"
+          "disponible": "33577.38"
         }
       ]
     }
