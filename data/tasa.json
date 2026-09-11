@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-11T04:01:55+00:00",
-  "actualizado_ve": "2026-09-11T00:01:55-04:00",
+  "actualizado_utc": "2026-09-11T04:35:54+00:00",
+  "actualizado_ve": "2026-09-11T00:35:54-04:00",
   "bcv": {
     "usd": 832.4883,
     "eur": 968.06734453,
@@ -10,33 +10,19 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 961.7458,
+    "referencia": 960.7252,
     "venta": {
-      "promedio": 961.7458,
-      "minimo": 960.619,
-      "maximo": 964.0,
+      "promedio": 960.7252,
+      "minimo": 960.0,
+      "maximo": 962.01,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 964.0,
-          "comerciante": "Trust-Broker",
-          "min": "2000000",
-          "max": "36450000",
-          "disponible": "20000.00"
-        },
         {
           "precio": 962.01,
           "comerciante": "AndresCh99",
           "min": "950000",
           "max": "4000000",
           "disponible": "1750.98"
-        },
-        {
-          "precio": 961.1,
-          "comerciante": "Cristhian Borges",
-          "min": "12000",
-          "max": "2000000",
-          "disponible": "47.36"
         },
         {
           "precio": 961.0,
@@ -46,18 +32,32 @@
           "disponible": "1696.63"
         },
         {
-          "precio": 960.619,
-          "comerciante": "AngelMolinaC",
+          "precio": 960.61,
+          "comerciante": "Quick Payment",
+          "min": "1000000",
+          "max": "3850000",
+          "disponible": "1218.50"
+        },
+        {
+          "precio": 960.006,
+          "comerciante": "arangurenjim",
+          "min": "900000",
+          "max": "4000000",
+          "disponible": "14478.91"
+        },
+        {
+          "precio": 960.0,
+          "comerciante": "rafa",
           "min": "300000",
-          "max": "17732238",
-          "disponible": "14395.28"
+          "max": "4000000",
+          "disponible": "1300.00"
         }
       ]
     },
     "compra": {
-      "promedio": 961.7196,
+      "promedio": 962.02,
       "minimo": 961.0,
-      "maximo": 962.498,
+      "maximo": 962.6,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -65,38 +65,38 @@
           "comerciante": "bethania1991",
           "min": "48050",
           "max": "298871",
-          "disponible": "310.22"
+          "disponible": "50.02"
         },
         {
-          "precio": 961.1,
+          "precio": 961.9,
+          "comerciante": "Satoru_19",
+          "min": "5000",
+          "max": "700000",
+          "disponible": "6.99"
+        },
+        {
+          "precio": 962.1,
           "comerciante": "CambioAr14",
           "min": "50000",
           "max": "80000",
-          "disponible": "321.53"
+          "disponible": "321.86"
         },
         {
-          "precio": 962.0,
-          "comerciante": "Angecrip",
-          "min": "299000",
-          "max": "301000",
-          "disponible": "311.22"
+          "precio": 962.5,
+          "comerciante": "Benvenuty_Bureau",
+          "min": "20000",
+          "max": "100000",
+          "disponible": "30.70"
         },
         {
-          "precio": 962.0,
-          "comerciante": "RacheMoney",
-          "min": "1000000",
-          "max": "1394303",
-          "disponible": "1446.84"
-        },
-        {
-          "precio": 962.498,
-          "comerciante": "SebasUSDT_VE",
-          "min": "1840000",
-          "max": "3850000",
-          "disponible": "3992.01"
+          "precio": 962.6,
+          "comerciante": "Royrdgz",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "6925.97"
         }
       ]
     }
   },
-  "brecha_pct": 15.53
+  "brecha_pct": 15.4
 }
