@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-11T12:02:18+00:00",
-  "actualizado_ve": "2026-09-11T08:02:18-04:00",
+  "actualizado_utc": "2026-09-11T12:39:39+00:00",
+  "actualizado_ve": "2026-09-11T08:39:39-04:00",
   "bcv": {
     "usd": 832.4883,
     "eur": 968.06734453,
@@ -13,37 +13,23 @@
     "referencia": 960.4052,
     "venta": {
       "promedio": 960.4052,
-      "minimo": 960.006,
-      "maximo": 961.0,
+      "minimo": 960.0,
+      "maximo": 962.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 961.0,
-          "comerciante": "TMSat",
-          "min": "19000",
-          "max": "19300",
-          "disponible": "1656.84"
-        },
-        {
-          "precio": 960.5,
-          "comerciante": "Anselmi",
-          "min": "100000",
-          "max": "3321000",
-          "disponible": "1136.79"
-        },
-        {
-          "precio": 960.5,
-          "comerciante": "Blank_Mind",
-          "min": "1000000",
+          "precio": 962.0,
+          "comerciante": "Trust-Broker",
+          "min": "2000000",
           "max": "36450000",
-          "disponible": "31120.12"
+          "disponible": "47900.06"
         },
         {
           "precio": 960.02,
           "comerciante": "AndresCh99",
           "min": "450000",
           "max": "4000000",
-          "disponible": "13437.23"
+          "disponible": "9857.99"
         },
         {
           "precio": 960.006,
@@ -51,49 +37,63 @@
           "min": "900000",
           "max": "4000000",
           "disponible": "14478.91"
+        },
+        {
+          "precio": 960.0,
+          "comerciante": "BlackVaultt",
+          "min": "200000",
+          "max": "4000000",
+          "disponible": "3603.34"
+        },
+        {
+          "precio": 960.0,
+          "comerciante": "Trust-Broker",
+          "min": "2000000",
+          "max": "36450000",
+          "disponible": "9950.00"
         }
       ]
     },
     "compra": {
-      "promedio": 959.568,
-      "minimo": 959.5,
-      "maximo": 959.69,
+      "promedio": 957.5436,
+      "minimo": 957.1,
+      "maximo": 958.24,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 959.5,
-          "comerciante": "x88rising",
-          "min": "2500000",
+          "precio": 957.1,
+          "comerciante": "trade-key",
+          "min": "2000000",
           "max": "36450000",
-          "disponible": "6391.34"
+          "disponible": "3287.58"
         },
         {
-          "precio": 959.5,
-          "comerciante": "卡哈塞克尼奧",
+          "precio": 957.189,
+          "comerciante": "RicoMcPato_3minutos",
           "min": "3000000",
-          "max": "11000000",
-          "disponible": "9887.10"
+          "max": "36000000",
+          "disponible": "19616.94"
         },
         {
-          "precio": 959.55,
-          "comerciante": "Germanctr",
-          "min": "3000000",
-          "max": "36450000",
-          "disponible": "8586.54"
-        },
-        {
-          "precio": 959.6,
-          "comerciante": "LA_GLORIA_DE_DIOS",
+          "precio": 957.19,
+          "comerciante": "WorldTradeinCripto",
           "min": "3000000",
           "max": "36450000",
-          "disponible": "8682.88"
+          "disponible": "14735.94"
         },
         {
-          "precio": 959.69,
-          "comerciante": "Vip_Super_p2p",
-          "min": "5000000",
-          "max": "7800000",
-          "disponible": "7969.66"
+          "precio": 957.999,
+          "comerciante": "StarBusiness2",
+          "min": "2000000",
+          "max": "10000000",
+          "disponible": "6864.32"
+        },
+        {
+          "precio": 958.24,
+          "comerciante": "-ZPro-",
+          "min": "500000",
+          "max": "10000000",
+          "disponible": "14425.22"
         }
       ]
     }
