@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-11T00:02:59+00:00",
-  "actualizado_ve": "2026-09-10T20:02:59-04:00",
+  "actualizado_utc": "2026-09-11T00:39:24+00:00",
+  "actualizado_ve": "2026-09-10T20:39:24-04:00",
   "bcv": {
     "usd": 832.4883,
     "eur": 968.06734453,
@@ -10,13 +10,20 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 960.6612,
+    "referencia": 961.3692,
     "venta": {
-      "promedio": 960.6612,
-      "minimo": 960.0,
-      "maximo": 961.7,
+      "promedio": 961.3692,
+      "minimo": 960.5,
+      "maximo": 962.637,
       "anuncios_usados": 5,
       "anuncios": [
+        {
+          "precio": 962.637,
+          "comerciante": "Omega Fitness Center",
+          "min": "500000",
+          "max": "961000",
+          "disponible": "1000.00"
+        },
         {
           "precio": 961.7,
           "comerciante": "diomedez14",
@@ -29,74 +36,67 @@
           "comerciante": "Blank_Mind",
           "min": "1000000",
           "max": "36450000",
-          "disponible": "34271.97"
+          "disponible": "28697.90"
         },
         {
-          "precio": 960.1,
-          "comerciante": "calorina sankey",
+          "precio": 960.509,
+          "comerciante": "AngelMolinaC",
+          "min": "300000",
+          "max": "17732238",
+          "disponible": "17715.56"
+        },
+        {
+          "precio": 960.5,
+          "comerciante": "Trust-Broker",
           "min": "1000000",
-          "max": "4000000",
-          "disponible": "4005.78"
-        },
-        {
-          "precio": 960.006,
-          "comerciante": "arangurenjim",
-          "min": "900000",
-          "max": "4000000",
-          "disponible": "14478.91"
-        },
-        {
-          "precio": 960.0,
-          "comerciante": "User-6193a",
-          "min": "8036",
-          "max": "8037",
-          "disponible": "100.00"
+          "max": "36450000",
+          "disponible": "10881.79"
         }
       ]
     },
     "compra": {
-      "promedio": 961.2118,
+      "promedio": 961.19,
       "minimo": 961.0,
-      "maximo": 961.38,
+      "maximo": 961.4,
       "anuncios_usados": 5,
       "anuncios": [
         {
           "precio": 961.0,
-          "comerciante": "Rafael-ordaz",
-          "min": "300000",
-          "max": "305000",
-          "disponible": "312.21"
+          "comerciante": "Angeletex",
+          "min": "30000",
+          "max": "600000",
+          "disponible": "99.75"
         },
         {
           "precio": 961.0,
-          "comerciante": "RamonViscaya",
-          "min": "400000",
-          "max": "450000",
-          "disponible": "457.85"
+          "comerciante": "Barbarabms",
+          "min": "141800",
+          "max": "142400",
+          "disponible": "147.63"
+        },
+        {
+          "precio": 961.25,
+          "comerciante": "baot store",
+          "min": "480000",
+          "max": "5000000",
+          "disponible": "514.48"
         },
         {
           "precio": 961.3,
-          "comerciante": " Blessed ",
-          "min": "9000000",
-          "max": "36450000",
-          "disponible": "15000.00"
-        },
-        {
-          "precio": 961.379,
-          "comerciante": "VIPChanges",
-          "min": "2500000",
-          "max": "10000000",
-          "disponible": "3636.27"
-        },
-        {
-          "precio": 961.38,
-          "comerciante": "JDVR_05",
+          "comerciante": "CambioRapido13",
           "min": "2000000",
-          "max": "35000000",
-          "disponible": "5584.20"
+          "max": "4270914",
+          "disponible": "2354.12"
+        },
+        {
+          "precio": 961.4,
+          "comerciante": "Servicios-Criptos-27",
+          "min": "2500000",
+          "max": "14000000",
+          "disponible": "3493.88"
         }
       ]
     }
   },
-  "brecha_pct": 15.4
+  "brecha_pct": 15.48
 }
