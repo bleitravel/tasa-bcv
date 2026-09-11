@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-11T18:02:07+00:00",
-  "actualizado_ve": "2026-09-11T14:02:07-04:00",
+  "actualizado_utc": "2026-09-11T18:37:22+00:00",
+  "actualizado_ve": "2026-09-11T14:37:22-04:00",
   "bcv": {
     "usd": 832.4883,
     "eur": 968.06734453,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 957.965,
+    "referencia": 956.3012,
     "venta": {
-      "promedio": 957.965,
-      "minimo": 957.0,
-      "maximo": 959.0,
+      "promedio": 956.3012,
+      "minimo": 956.0,
+      "maximo": 957.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 959.0,
-          "comerciante": "SureXchanges",
-          "min": "2000000",
-          "max": "36450000",
-          "disponible": "7890.06"
-        },
-        {
-          "precio": 958.6,
-          "comerciante": "Juan Reyes Morales ",
-          "min": "1000000",
-          "max": "4000000",
-          "disponible": "1461.65"
-        },
-        {
-          "precio": 958.225,
-          "comerciante": "ELTIBURON-DEL-CRYPTO",
-          "min": "1000000",
-          "max": "4000000",
-          "disponible": "3183.16"
-        },
-        {
           "precio": 957.0,
+          "comerciante": "PsicoCash",
+          "min": "672000",
+          "max": "672445",
+          "disponible": "702.66"
+        },
+        {
+          "precio": 956.4,
+          "comerciante": "GR_SS",
+          "min": "1000000",
+          "max": "4000000",
+          "disponible": "1070.00"
+        },
+        {
+          "precio": 956.101,
+          "comerciante": "Streams-Net",
+          "min": "20000",
+          "max": "1665000",
+          "disponible": "1740.00"
+        },
+        {
+          "precio": 956.005,
           "comerciante": "Trust-Broker",
           "min": "2000000",
           "max": "36450000",
-          "disponible": "30000.00"
+          "disponible": "24585.02"
         },
         {
-          "precio": 957.0,
-          "comerciante": "calorina sankey",
-          "min": "2000000",
+          "precio": 956.0,
+          "comerciante": "Rich_P2P",
+          "min": "800000",
           "max": "4000000",
-          "disponible": "17913.41"
+          "disponible": "10106.86"
         }
       ]
     },
     "compra": {
-      "promedio": 957.3596,
-      "minimo": 957.0,
-      "maximo": 957.499,
+      "promedio": 956.42,
+      "minimo": 955.0,
+      "maximo": 957.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
+          "precio": 955.0,
+          "comerciante": "Gabrielfoq",
+          "min": "2000000",
+          "max": "2051340",
+          "disponible": "2142.64"
+        },
+        {
+          "precio": 956.1,
+          "comerciante": "tradedenve",
+          "min": "281000",
+          "max": "282000",
+          "disponible": "294.29"
+        },
+        {
           "precio": 957.0,
-          "comerciante": "Cambioaldia_1",
-          "min": "1000",
-          "max": "117750",
-          "disponible": "105.04"
+          "comerciante": "InversionesLuna",
+          "min": "17000",
+          "max": "207000",
+          "disponible": "46.32"
         },
         {
-          "precio": 957.4,
-          "comerciante": "Jorgeluis1999",
-          "min": "90000",
-          "max": "96199",
-          "disponible": "99.75"
+          "precio": 957.0,
+          "comerciante": "Salamanca_",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "0.57"
         },
         {
-          "precio": 957.4,
-          "comerciante": "CambioVen22",
-          "min": "30000",
-          "max": "90000",
-          "disponible": "39.17"
-        },
-        {
-          "precio": 957.499,
-          "comerciante": "VelociCambiosMx",
-          "min": "209100",
-          "max": "209101",
-          "disponible": "255.09"
-        },
-        {
-          "precio": 957.499,
-          "comerciante": "Keyla_usdt",
-          "min": "3000",
-          "max": "200000",
-          "disponible": "199.50"
+          "precio": 957.0,
+          "comerciante": "JAAC0327",
+          "min": "40000",
+          "max": "400000",
+          "disponible": "498.75"
         }
       ]
     }
   },
-  "brecha_pct": 15.07
+  "brecha_pct": 14.87
 }
