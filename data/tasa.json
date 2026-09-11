@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-11T19:33:01+00:00",
-  "actualizado_ve": "2026-09-11T15:33:01-04:00",
+  "actualizado_utc": "2026-09-11T20:01:50+00:00",
+  "actualizado_ve": "2026-09-11T16:01:50-04:00",
   "bcv": {
     "usd": 832.4883,
     "eur": 968.06734453,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 955.8216,
+    "referencia": 955.382,
     "venta": {
-      "promedio": 955.8216,
-      "minimo": 955.108,
-      "maximo": 956.2,
-      "anuncios_usados": 5,
-      "anuncios": [
-        {
-          "precio": 956.2,
-          "comerciante": "Josebat23",
-          "min": "300000",
-          "max": "4000000",
-          "disponible": "700.35"
-        },
-        {
-          "precio": 956.0,
-          "comerciante": "Proca_vnzla",
-          "min": "970000",
-          "max": "4000000",
-          "disponible": "5995.25"
-        },
-        {
-          "precio": 956.0,
-          "comerciante": "Coin_usdt",
-          "min": "5000000",
-          "max": "36450000",
-          "disponible": "70104.72"
-        },
-        {
-          "precio": 955.8,
-          "comerciante": "calorina sankey",
-          "min": "2000000",
-          "max": "4000000",
-          "disponible": "4300.06"
-        },
-        {
-          "precio": 955.108,
-          "comerciante": "Josevalera",
-          "min": "955000",
-          "max": "4000000",
-          "disponible": "1392.12"
-        }
-      ]
-    },
-    "compra": {
-      "promedio": 955.78,
-      "minimo": 955.0,
+      "promedio": 955.382,
+      "minimo": 955.1,
       "maximo": 956.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
+          "precio": 956.0,
+          "comerciante": "Readypay",
+          "min": "2500000",
+          "max": "4500000",
+          "disponible": "6628.86"
+        },
+        {
+          "precio": 955.5,
+          "comerciante": "TPhillips",
+          "min": "3000000",
+          "max": "16000000",
+          "disponible": "16745.15"
+        },
+        {
+          "precio": 955.2,
+          "comerciante": "Vitatech",
+          "min": "5000000",
+          "max": "36000000",
+          "disponible": "33249.59"
+        },
+        {
+          "precio": 955.11,
+          "comerciante": "Bluenew",
+          "min": "3000000",
+          "max": "36000000",
+          "disponible": "23937.29"
+        },
+        {
+          "precio": 955.1,
+          "comerciante": "VZLAMundialista",
+          "min": "3000000",
+          "max": "30000000",
+          "disponible": "51225.75"
+        }
+      ]
+    },
+    "compra": {
+      "promedio": 955.5908,
+      "minimo": 954.999,
+      "maximo": 956.0,
+      "anuncios_usados": 5,
+      "anuncios": [
+        {
+          "precio": 954.999,
+          "comerciante": "Armonymx",
+          "min": "156000",
+          "max": "156001",
+          "disponible": "163.59"
+        },
+        {
           "precio": 955.0,
-          "comerciante": "Confirmado26",
-          "min": "300000",
+          "comerciante": "User-9c642",
+          "min": "15000",
+          "max": "815302",
+          "disponible": "665.41"
+        },
+        {
+          "precio": 955.955,
+          "comerciante": "High-Stakes-Streets2",
+          "min": "955000",
+          "max": "10000000",
+          "disponible": "2836.78"
+        },
+        {
+          "precio": 956.0,
+          "comerciante": "Elturconegro",
+          "min": "300",
+          "max": "129888",
+          "disponible": "6.00"
+        },
+        {
+          "precio": 956.0,
+          "comerciante": "kalactronisorry",
+          "min": "300",
           "max": "4000000",
-          "disponible": "698.25"
-        },
-        {
-          "precio": 955.9,
-          "comerciante": "El familia Dios es bueno ",
-          "min": "148000",
-          "max": "149000",
-          "disponible": "155.61"
-        },
-        {
-          "precio": 956.0,
-          "comerciante": "Jhair lopez",
-          "min": "3000",
-          "max": "200000",
-          "disponible": "5.00"
-        },
-        {
-          "precio": 956.0,
-          "comerciante": "richellm",
-          "min": "217000",
-          "max": "350000",
-          "disponible": "227.83"
-        },
-        {
-          "precio": 956.0,
-          "comerciante": "User-43b08",
-          "min": "50000",
-          "max": "4000000",
-          "disponible": "389.02"
+          "disponible": "0.81"
         }
       ]
     }
   },
-  "brecha_pct": 14.82
+  "brecha_pct": 14.76
 }
