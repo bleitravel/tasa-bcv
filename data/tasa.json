@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-11T23:01:45+00:00",
-  "actualizado_ve": "2026-09-11T19:01:45-04:00",
+  "actualizado_utc": "2026-09-11T23:32:20+00:00",
+  "actualizado_ve": "2026-09-11T19:32:20-04:00",
   "bcv": {
     "usd": 842.2067,
     "eur": 977.8777773,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 961.692,
+    "referencia": 962.1,
     "venta": {
-      "promedio": 961.692,
-      "minimo": 960.21,
+      "promedio": 962.1,
+      "minimo": 960.5,
       "maximo": 965.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -22,7 +22,7 @@
           "comerciante": "LordCambios",
           "min": "900000",
           "max": "24036000",
-          "disponible": "24907.78"
+          "disponible": "21871.64"
         },
         {
           "precio": 962.0,
@@ -32,71 +32,71 @@
           "disponible": "29000.00"
         },
         {
-          "precio": 961.0,
+          "precio": 962.0,
           "comerciante": "Trust-Broker",
           "min": "2000000",
           "max": "36450000",
-          "disponible": "23651.12"
+          "disponible": "11670.93"
         },
         {
-          "precio": 960.25,
-          "comerciante": "Bernaaaaaaa",
-          "min": "800000",
-          "max": "25000000",
-          "disponible": "3188.47"
-        },
-        {
-          "precio": 960.21,
-          "comerciante": "SureXchanges",
+          "precio": 961.0,
+          "comerciante": "Trust-Broker",
           "min": "1000000",
           "max": "36450000",
-          "disponible": "4320.06"
+          "disponible": "27415.06"
+        },
+        {
+          "precio": 960.5,
+          "comerciante": "leomileo2022",
+          "min": "2000000",
+          "max": "30000000",
+          "disponible": "31000.00"
         }
       ]
     },
     "compra": {
-      "promedio": 961.3968,
-      "minimo": 958.998,
-      "maximo": 962.225,
+      "promedio": 961.4978,
+      "minimo": 961.0,
+      "maximo": 961.889,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 958.998,
-          "comerciante": "YoselpZz",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "0.81"
+          "precio": 961.0,
+          "comerciante": "DenisGuerrero",
+          "min": "9000",
+          "max": "420000",
+          "disponible": "20.81"
         },
         {
-          "precio": 961.761,
-          "comerciante": "Capitalnexo",
-          "min": "3000",
-          "max": "159000",
-          "disponible": "56.50"
+          "precio": 961.0,
+          "comerciante": "Lucky--Luciano",
+          "min": "5000000",
+          "max": "22000000",
+          "disponible": "18662.59"
         },
         {
-          "precio": 962.0,
-          "comerciante": "Elturconegro",
-          "min": "300",
-          "max": "322226",
-          "disponible": "17.77"
+          "precio": 961.8,
+          "comerciante": "tico alianza",
+          "min": "100000",
+          "max": "336000",
+          "disponible": "104.79"
         },
         {
-          "precio": 962.0,
-          "comerciante": "YairethOlivares",
-          "min": "201000",
-          "max": "4000000",
-          "disponible": "209.47"
+          "precio": 961.8,
+          "comerciante": "FANSCRIPTO",
+          "min": "3000000",
+          "max": "10000000",
+          "disponible": "5989.51"
         },
         {
-          "precio": 962.225,
-          "comerciante": "Balmorevzla",
-          "min": "30000",
-          "max": "1400000",
-          "disponible": "35.78"
+          "precio": 961.889,
+          "comerciante": "YisusCambios",
+          "min": "3000000",
+          "max": "5000000",
+          "disponible": "7986.02"
         }
       ]
     }
   },
-  "brecha_pct": 14.19
+  "brecha_pct": 14.24
 }
