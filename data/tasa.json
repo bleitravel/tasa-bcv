@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-11T13:35:31+00:00",
-  "actualizado_ve": "2026-09-11T09:35:31-04:00",
+  "actualizado_utc": "2026-09-11T14:02:04+00:00",
+  "actualizado_ve": "2026-09-11T10:02:04-04:00",
   "bcv": {
     "usd": 832.4883,
     "eur": 968.06734453,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 960.5052,
+    "referencia": 956.7612,
     "venta": {
-      "promedio": 960.5052,
-      "minimo": 958.0,
-      "maximo": 964.5,
+      "promedio": 956.7612,
+      "minimo": 955.0,
+      "maximo": 960.006,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 964.5,
-          "comerciante": "EvAlvarez",
-          "min": "9000",
-          "max": "4000000",
-          "disponible": "103.00"
-        },
-        {
-          "precio": 960.02,
-          "comerciante": "AndresCh99",
-          "min": "850000",
-          "max": "4000000",
-          "disponible": "5435.67"
-        },
         {
           "precio": 960.006,
           "comerciante": "arangurenjim",
           "min": "900000",
           "max": "4000000",
-          "disponible": "14478.91"
+          "disponible": "10060.02"
         },
         {
-          "precio": 960.0,
-          "comerciante": "Trust-Broker",
-          "min": "2000000",
-          "max": "36450000",
-          "disponible": "35642.24"
+          "precio": 957.0,
+          "comerciante": "heidytrader",
+          "min": "300",
+          "max": "1000000",
+          "disponible": "0.39"
         },
         {
-          "precio": 958.0,
-          "comerciante": "安全与信任",
-          "min": "3000000",
-          "max": "36000000",
-          "disponible": "23950.00"
+          "precio": 956.5,
+          "comerciante": "CambioGlobal2023",
+          "min": "142000",
+          "max": "143850",
+          "disponible": "150.00"
+        },
+        {
+          "precio": 955.3,
+          "comerciante": "DALITRADER",
+          "min": "190000",
+          "max": "1050000",
+          "disponible": "501.66"
+        },
+        {
+          "precio": 955.0,
+          "comerciante": "Phyloxz",
+          "min": "30000",
+          "max": "4000000",
+          "disponible": "1000.00"
         }
       ]
     },
     "compra": {
-      "promedio": 958.1148,
-      "minimo": 957.999,
-      "maximo": 958.288,
+      "promedio": 955.02,
+      "minimo": 955.0,
+      "maximo": 955.1,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 957.999,
-          "comerciante": "JG-18Dembouz",
-          "min": "2000001",
-          "max": "10000000",
-          "disponible": "6657.33"
-        },
-        {
-          "precio": 958.0,
-          "comerciante": "Elnegrop2p",
-          "min": "3000000",
+          "precio": 955.0,
+          "comerciante": "Herstellerin",
+          "min": "2000000",
           "max": "14000000",
-          "disponible": "7076.85"
+          "disponible": "4194.30"
         },
         {
-          "precio": 958.0,
-          "comerciante": "OPABIANCHI",
-          "min": "1000000",
-          "max": "10000000",
-          "disponible": "8540.91"
+          "precio": 955.0,
+          "comerciante": "MOIMOI-P2P",
+          "min": "95000",
+          "max": "95300",
+          "disponible": "498.92"
         },
         {
-          "precio": 958.287,
-          "comerciante": "_TropiCoqueta_",
-          "min": "1000000",
-          "max": "10000000",
-          "disponible": "15000.01"
+          "precio": 955.0,
+          "comerciante": "Gerson",
+          "min": "95000",
+          "max": "200000",
+          "disponible": "99.75"
         },
         {
-          "precio": 958.288,
-          "comerciante": "我哋要求",
-          "min": "1000000",
-          "max": "20000000",
-          "disponible": "2299.80"
+          "precio": 955.0,
+          "comerciante": "SELOPE1975",
+          "min": "1000001",
+          "max": "6000000",
+          "disponible": "6142.95"
+        },
+        {
+          "precio": 955.1,
+          "comerciante": "AthenaCryptoP2P",
+          "min": "3000000",
+          "max": "8000000",
+          "disponible": "7719.70"
         }
       ]
     }
   },
-  "brecha_pct": 15.38
+  "brecha_pct": 14.93
 }
