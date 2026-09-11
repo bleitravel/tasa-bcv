@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-11T09:35:21+00:00",
-  "actualizado_ve": "2026-09-11T05:35:21-04:00",
+  "actualizado_utc": "2026-09-11T10:01:50+00:00",
+  "actualizado_ve": "2026-09-11T06:01:50-04:00",
   "bcv": {
     "usd": 832.4883,
     "eur": 968.06734453,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 959.7452,
+    "referencia": 959.8612,
     "venta": {
-      "promedio": 959.7452,
-      "minimo": 958.72,
+      "promedio": 959.8612,
+      "minimo": 959.0,
       "maximo": 961.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -39,25 +39,25 @@
           "disponible": "1300.00"
         },
         {
+          "precio": 959.3,
+          "comerciante": "Pabon335",
+          "min": "80000",
+          "max": "4000000",
+          "disponible": "4169.00"
+        },
+        {
           "precio": 959.0,
           "comerciante": "alex",
           "min": "3800000",
           "max": "4000000",
           "disponible": "4200.00"
-        },
-        {
-          "precio": 958.72,
-          "comerciante": "-YAHWEH-",
-          "min": "100000",
-          "max": "4000000",
-          "disponible": "8780.71"
         }
       ]
     },
     "compra": {
-      "promedio": 962.338,
+      "promedio": 962.02,
       "minimo": 962.0,
-      "maximo": 962.8,
+      "maximo": 962.1,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -75,28 +75,28 @@
           "disponible": "6477.58"
         },
         {
+          "precio": 962.0,
+          "comerciante": "GuilleCambios",
+          "min": "100000",
+          "max": "419000",
+          "disponible": "321.65"
+        },
+        {
+          "precio": 962.0,
+          "comerciante": "Franklin",
+          "min": "45000",
+          "max": "49000",
+          "disponible": "99.75"
+        },
+        {
           "precio": 962.1,
           "comerciante": "CambioAr14",
           "min": "50000",
           "max": "80000",
           "disponible": "98.60"
-        },
-        {
-          "precio": 962.79,
-          "comerciante": "Diozp2p",
-          "min": "1000000",
-          "max": "1001000",
-          "disponible": "1043.17"
-        },
-        {
-          "precio": 962.8,
-          "comerciante": "Servicios-Criptos-27",
-          "min": "1000000",
-          "max": "14000000",
-          "disponible": "2055.96"
         }
       ]
     }
   },
-  "brecha_pct": 15.29
+  "brecha_pct": 15.3
 }
