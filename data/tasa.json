@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-11T19:01:44+00:00",
-  "actualizado_ve": "2026-09-11T15:01:44-04:00",
+  "actualizado_utc": "2026-09-11T19:33:01+00:00",
+  "actualizado_ve": "2026-09-11T15:33:01-04:00",
   "bcv": {
     "usd": 832.4883,
     "eur": 968.06734453,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 956.7422,
+    "referencia": 955.8216,
     "venta": {
-      "promedio": 956.7422,
-      "minimo": 955.7,
-      "maximo": 960.006,
+      "promedio": 955.8216,
+      "minimo": 955.108,
+      "maximo": 956.2,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 960.006,
-          "comerciante": "TioRico699",
-          "min": "2000000",
-          "max": "36450000",
-          "disponible": "35546.00"
-        },
-        {
-          "precio": 956.005,
-          "comerciante": "Trust-Broker",
-          "min": "2000000",
-          "max": "36450000",
-          "disponible": "24585.02"
+          "precio": 956.2,
+          "comerciante": "Josebat23",
+          "min": "300000",
+          "max": "4000000",
+          "disponible": "700.35"
         },
         {
           "precio": 956.0,
-          "comerciante": "安全与信任",
-          "min": "3000000",
-          "max": "36000000",
-          "disponible": "25200.06"
+          "comerciante": "Proca_vnzla",
+          "min": "970000",
+          "max": "4000000",
+          "disponible": "5995.25"
         },
         {
           "precio": 956.0,
-          "comerciante": "GAZA_CRIPTO",
-          "min": "10000000",
+          "comerciante": "Coin_usdt",
+          "min": "5000000",
           "max": "36450000",
-          "disponible": "57340.93"
+          "disponible": "70104.72"
         },
         {
-          "precio": 955.7,
-          "comerciante": "TPhillips",
-          "min": "3000000",
-          "max": "28844000",
-          "disponible": "30190.00"
+          "precio": 955.8,
+          "comerciante": "calorina sankey",
+          "min": "2000000",
+          "max": "4000000",
+          "disponible": "4300.06"
+        },
+        {
+          "precio": 955.108,
+          "comerciante": "Josevalera",
+          "min": "955000",
+          "max": "4000000",
+          "disponible": "1392.12"
         }
       ]
     },
     "compra": {
-      "promedio": 957.0,
-      "minimo": 957.0,
-      "maximo": 957.0,
+      "promedio": 955.78,
+      "minimo": 955.0,
+      "maximo": 956.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 957.0,
-          "comerciante": "Salamanca_",
-          "min": "300",
+          "precio": 955.0,
+          "comerciante": "Confirmado26",
+          "min": "300000",
           "max": "4000000",
-          "disponible": "0.57"
+          "disponible": "698.25"
         },
         {
-          "precio": 957.0,
-          "comerciante": "貝斯韋",
-          "min": "3000000",
-          "max": "21000000",
-          "disponible": "8079.45"
+          "precio": 955.9,
+          "comerciante": "El familia Dios es bueno ",
+          "min": "148000",
+          "max": "149000",
+          "disponible": "155.61"
         },
         {
-          "precio": 957.0,
-          "comerciante": "BreMerLo",
-          "min": "100000",
-          "max": "240000",
-          "disponible": "254.36"
+          "precio": 956.0,
+          "comerciante": "Jhair lopez",
+          "min": "3000",
+          "max": "200000",
+          "disponible": "5.00"
         },
         {
-          "precio": 957.0,
-          "comerciante": "The_bestCcs",
-          "min": "300",
-          "max": "95700",
-          "disponible": "10.98"
+          "precio": 956.0,
+          "comerciante": "richellm",
+          "min": "217000",
+          "max": "350000",
+          "disponible": "227.83"
         },
         {
-          "precio": 957.0,
-          "comerciante": "Kirdp2p",
-          "min": "90000",
-          "max": "153000",
-          "disponible": "159.60"
+          "precio": 956.0,
+          "comerciante": "User-43b08",
+          "min": "50000",
+          "max": "4000000",
+          "disponible": "389.02"
         }
       ]
     }
   },
-  "brecha_pct": 14.93
+  "brecha_pct": 14.82
 }
