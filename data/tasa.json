@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-11T05:34:48+00:00",
-  "actualizado_ve": "2026-09-11T01:34:48-04:00",
+  "actualizado_utc": "2026-09-11T06:01:55+00:00",
+  "actualizado_ve": "2026-09-11T02:01:55-04:00",
   "bcv": {
     "usd": 832.4883,
     "eur": 968.06734453,
@@ -55,17 +55,38 @@
       ]
     },
     "compra": {
-      "promedio": 962.3398,
-      "minimo": 962.0,
-      "maximo": 962.999,
+      "promedio": 960.9992,
+      "minimo": 959.999,
+      "maximo": 962.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 962.0,
-          "comerciante": "Vene-trade",
-          "min": "200000",
-          "max": "336000",
-          "disponible": "349.12"
+          "precio": 959.999,
+          "comerciante": "User-e91ec",
+          "min": "1000",
+          "max": "2500",
+          "disponible": "99.75"
+        },
+        {
+          "precio": 960.0,
+          "comerciante": "Cambios24-7-",
+          "min": "300",
+          "max": "451769",
+          "disponible": "9.12"
+        },
+        {
+          "precio": 961.0,
+          "comerciante": "iriance",
+          "min": "300",
+          "max": "280504",
+          "disponible": "106.34"
+        },
+        {
+          "precio": 961.997,
+          "comerciante": "TheAngelsp2p",
+          "min": "50000",
+          "max": "670680",
+          "disponible": "95.47"
         },
         {
           "precio": 962.0,
@@ -73,27 +94,6 @@
           "min": "100000",
           "max": "380000",
           "disponible": "399.00"
-        },
-        {
-          "precio": 962.1,
-          "comerciante": "CambioAr14",
-          "min": "50000",
-          "max": "80000",
-          "disponible": "98.60"
-        },
-        {
-          "precio": 962.6,
-          "comerciante": "Royrdgz",
-          "min": "5000000",
-          "max": "36450000",
-          "disponible": "11362.51"
-        },
-        {
-          "precio": 962.999,
-          "comerciante": "RappiFlix",
-          "min": "10000",
-          "max": "4000000",
-          "disponible": "23.80"
         }
       ]
     }
