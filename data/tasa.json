@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-11T18:37:22+00:00",
-  "actualizado_ve": "2026-09-11T14:37:22-04:00",
+  "actualizado_utc": "2026-09-11T19:01:44+00:00",
+  "actualizado_ve": "2026-09-11T15:01:44-04:00",
   "bcv": {
     "usd": 832.4883,
     "eur": 968.06734453,
@@ -10,33 +10,19 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 956.3012,
+    "referencia": 956.7422,
     "venta": {
-      "promedio": 956.3012,
-      "minimo": 956.0,
-      "maximo": 957.0,
+      "promedio": 956.7422,
+      "minimo": 955.7,
+      "maximo": 960.006,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 957.0,
-          "comerciante": "PsicoCash",
-          "min": "672000",
-          "max": "672445",
-          "disponible": "702.66"
-        },
-        {
-          "precio": 956.4,
-          "comerciante": "GR_SS",
-          "min": "1000000",
-          "max": "4000000",
-          "disponible": "1070.00"
-        },
-        {
-          "precio": 956.101,
-          "comerciante": "Streams-Net",
-          "min": "20000",
-          "max": "1665000",
-          "disponible": "1740.00"
+          "precio": 960.006,
+          "comerciante": "TioRico699",
+          "min": "2000000",
+          "max": "36450000",
+          "disponible": "35546.00"
         },
         {
           "precio": 956.005,
@@ -47,40 +33,33 @@
         },
         {
           "precio": 956.0,
-          "comerciante": "Rich_P2P",
-          "min": "800000",
-          "max": "4000000",
-          "disponible": "10106.86"
+          "comerciante": "安全与信任",
+          "min": "3000000",
+          "max": "36000000",
+          "disponible": "25200.06"
+        },
+        {
+          "precio": 956.0,
+          "comerciante": "GAZA_CRIPTO",
+          "min": "10000000",
+          "max": "36450000",
+          "disponible": "57340.93"
+        },
+        {
+          "precio": 955.7,
+          "comerciante": "TPhillips",
+          "min": "3000000",
+          "max": "28844000",
+          "disponible": "30190.00"
         }
       ]
     },
     "compra": {
-      "promedio": 956.42,
-      "minimo": 955.0,
+      "promedio": 957.0,
+      "minimo": 957.0,
       "maximo": 957.0,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 955.0,
-          "comerciante": "Gabrielfoq",
-          "min": "2000000",
-          "max": "2051340",
-          "disponible": "2142.64"
-        },
-        {
-          "precio": 956.1,
-          "comerciante": "tradedenve",
-          "min": "281000",
-          "max": "282000",
-          "disponible": "294.29"
-        },
-        {
-          "precio": 957.0,
-          "comerciante": "InversionesLuna",
-          "min": "17000",
-          "max": "207000",
-          "disponible": "46.32"
-        },
         {
           "precio": 957.0,
           "comerciante": "Salamanca_",
@@ -90,13 +69,34 @@
         },
         {
           "precio": 957.0,
-          "comerciante": "JAAC0327",
-          "min": "40000",
-          "max": "400000",
-          "disponible": "498.75"
+          "comerciante": "貝斯韋",
+          "min": "3000000",
+          "max": "21000000",
+          "disponible": "8079.45"
+        },
+        {
+          "precio": 957.0,
+          "comerciante": "BreMerLo",
+          "min": "100000",
+          "max": "240000",
+          "disponible": "254.36"
+        },
+        {
+          "precio": 957.0,
+          "comerciante": "The_bestCcs",
+          "min": "300",
+          "max": "95700",
+          "disponible": "10.98"
+        },
+        {
+          "precio": 957.0,
+          "comerciante": "Kirdp2p",
+          "min": "90000",
+          "max": "153000",
+          "disponible": "159.60"
         }
       ]
     }
   },
-  "brecha_pct": 14.87
+  "brecha_pct": 14.93
 }
