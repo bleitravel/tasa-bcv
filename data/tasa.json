@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-11T08:36:53+00:00",
-  "actualizado_ve": "2026-09-11T04:36:53-04:00",
+  "actualizado_utc": "2026-09-11T09:01:41+00:00",
+  "actualizado_ve": "2026-09-11T05:01:41-04:00",
   "bcv": {
     "usd": 832.4883,
     "eur": 968.06734453,
@@ -55,9 +55,9 @@
       ]
     },
     "compra": {
-      "promedio": 961.9998,
+      "promedio": 961.976,
       "minimo": 961.0,
-      "maximo": 962.899,
+      "maximo": 962.78,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -89,11 +89,11 @@
           "disponible": "98.60"
         },
         {
-          "precio": 962.899,
+          "precio": 962.78,
           "comerciante": "Azir-p2p",
           "min": "2000000",
           "max": "15000000",
-          "disponible": "4011.56"
+          "disponible": "4866.38"
         }
       ]
     }
