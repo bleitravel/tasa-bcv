@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-11T02:02:03+00:00",
-  "actualizado_ve": "2026-09-10T22:02:03-04:00",
+  "actualizado_utc": "2026-09-11T02:35:40+00:00",
+  "actualizado_ve": "2026-09-10T22:35:40-04:00",
   "bcv": {
     "usd": 832.4883,
     "eur": 968.06734453,
@@ -10,26 +10,40 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 962.698,
+    "referencia": 964.198,
     "venta": {
-      "promedio": 962.698,
-      "minimo": 961.5,
-      "maximo": 964.0,
+      "promedio": 964.198,
+      "minimo": 962.99,
+      "maximo": 967.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 964.0,
+          "precio": 967.0,
+          "comerciante": "CambiosFM1",
+          "min": "300000",
+          "max": "4000000",
+          "disponible": "4172.71"
+        },
+        {
+          "precio": 964.5,
           "comerciante": "Trust-Broker",
           "min": "2000000",
           "max": "36450000",
-          "disponible": "28232.02"
+          "disponible": "22336.55"
+        },
+        {
+          "precio": 963.5,
+          "comerciante": "Blank_Mind",
+          "min": "1000000",
+          "max": "36450000",
+          "disponible": "24080.44"
         },
         {
           "precio": 963.0,
           "comerciante": "P2P-6b40f0qz",
           "min": "20000",
           "max": "717000",
-          "disponible": "437.38"
+          "disponible": "132.32"
         },
         {
           "precio": 962.99,
@@ -37,66 +51,52 @@
           "min": "28710",
           "max": "334000",
           "disponible": "349.01"
-        },
-        {
-          "precio": 962.0,
-          "comerciante": "Blank_Mind",
-          "min": "1000000",
-          "max": "36450000",
-          "disponible": "25121.97"
-        },
-        {
-          "precio": 961.5,
-          "comerciante": "安全与信任",
-          "min": "1000000",
-          "max": "36000000",
-          "disponible": "35313.13"
         }
       ]
     },
     "compra": {
-      "promedio": 962.278,
-      "minimo": 960.0,
-      "maximo": 962.9,
+      "promedio": 962.9748,
+      "minimo": 962.9,
+      "maximo": 962.998,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 960.0,
-          "comerciante": "Hawkforch",
-          "min": "25000",
-          "max": "4000000",
-          "disponible": "61.14"
-        },
-        {
-          "precio": 962.8,
-          "comerciante": "Business-ExchangeJM",
-          "min": "190000",
-          "max": "400000",
-          "disponible": "199.50"
-        },
-        {
-          "precio": 962.8,
-          "comerciante": "TotalChange",
-          "min": "100000",
-          "max": "170000",
-          "disponible": "177.55"
-        },
-        {
-          "precio": 962.89,
-          "comerciante": "Cambios_fast54",
-          "min": "5000000",
-          "max": "36450000",
-          "disponible": "17977.52"
-        },
-        {
           "precio": 962.9,
-          "comerciante": "Danielajcg",
-          "min": "1000",
-          "max": "81000",
-          "disponible": "1.22"
+          "comerciante": "deiwin871",
+          "min": "300",
+          "max": "375531",
+          "disponible": "0.53"
+        },
+        {
+          "precio": 962.989,
+          "comerciante": "SebasUSDT_VE",
+          "min": "3840000",
+          "max": "3850000",
+          "disponible": "3992.01"
+        },
+        {
+          "precio": 962.99,
+          "comerciante": "Molyflash777",
+          "min": "6000000",
+          "max": "30000000",
+          "disponible": "9213.27"
+        },
+        {
+          "precio": 962.997,
+          "comerciante": "TBOTS",
+          "min": "19200",
+          "max": "96400",
+          "disponible": "38.50"
+        },
+        {
+          "precio": 962.998,
+          "comerciante": "P2P-Seb_asdev",
+          "min": "50000",
+          "max": "418500",
+          "disponible": "434.91"
         }
       ]
     }
   },
-  "brecha_pct": 15.64
+  "brecha_pct": 15.82
 }
