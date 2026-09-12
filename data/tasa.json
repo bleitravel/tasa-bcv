@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-12T11:01:31+00:00",
-  "actualizado_ve": "2026-09-12T07:01:31-04:00",
+  "actualizado_utc": "2026-09-12T11:32:09+00:00",
+  "actualizado_ve": "2026-09-12T07:32:09-04:00",
   "bcv": {
     "usd": 842.2067,
     "eur": 977.8777773,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 960.164,
+    "referencia": 960.442,
     "venta": {
-      "promedio": 960.164,
-      "minimo": 958.61,
+      "promedio": 960.442,
+      "minimo": 960.0,
       "maximo": 962.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -43,60 +43,60 @@
           "comerciante": "In_God-I_trust",
           "min": "1000000",
           "max": "35000000",
-          "disponible": "26205.19"
+          "disponible": "17917.22"
         },
         {
-          "precio": 958.61,
-          "comerciante": "CambioVeloz_15",
-          "min": "1500000",
-          "max": "36450000",
-          "disponible": "12350.00"
+          "precio": 960.0,
+          "comerciante": "HonorYNegocioP2P",
+          "min": "100000",
+          "max": "36000000",
+          "disponible": "12469.63"
         }
       ]
     },
     "compra": {
-      "promedio": 962.5222,
-      "minimo": 961.5,
-      "maximo": 963.111,
+      "promedio": 963.0,
+      "minimo": 963.0,
+      "maximo": 963.0,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 961.5,
-          "comerciante": "Tesorero",
-          "min": "94300",
-          "max": "94305",
-          "disponible": "99.80"
-        },
-        {
-          "precio": 962.0,
-          "comerciante": "Josehrdz15",
-          "min": "50000",
-          "max": "4000000",
-          "disponible": "137.65"
-        },
-        {
-          "precio": 963.0,
-          "comerciante": "Verano_p2P",
-          "min": "100000",
-          "max": "110000",
-          "disponible": "114.71"
-        },
         {
           "precio": 963.0,
           "comerciante": "P2P-522016xl",
           "min": "10000",
           "max": "400000",
-          "disponible": "558.42"
+          "disponible": "33.05"
         },
         {
-          "precio": 963.111,
-          "comerciante": "RapidosFC",
-          "min": "300000",
-          "max": "5500000",
-          "disponible": "2452.58"
+          "precio": 963.0,
+          "comerciante": "P2P-d50cd6ht",
+          "min": "192000",
+          "max": "192600",
+          "disponible": "199.50"
+        },
+        {
+          "precio": 963.0,
+          "comerciante": "Soy-Tu-Trader",
+          "min": "900000",
+          "max": "4000000",
+          "disponible": "2745.19"
+        },
+        {
+          "precio": 963.0,
+          "comerciante": "todofluye",
+          "min": "2000",
+          "max": "10000",
+          "disponible": "134.76"
+        },
+        {
+          "precio": 963.0,
+          "comerciante": "COMERCIO_SEGURO03",
+          "min": "500000",
+          "max": "36450000",
+          "disponible": "1019.44"
         }
       ]
     }
   },
-  "brecha_pct": 14.01
+  "brecha_pct": 14.04
 }
