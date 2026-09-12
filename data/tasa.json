@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-12T16:33:38+00:00",
-  "actualizado_ve": "2026-09-12T12:33:38-04:00",
+  "actualizado_utc": "2026-09-12T17:01:39+00:00",
+  "actualizado_ve": "2026-09-12T13:01:39-04:00",
   "bcv": {
     "usd": 842.2067,
     "eur": 977.8777773,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 960.3314,
+    "referencia": 960.2448,
     "venta": {
-      "promedio": 960.3314,
-      "minimo": 959.817,
+      "promedio": 960.2448,
+      "minimo": 959.504,
       "maximo": 962.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -22,31 +22,31 @@
           "comerciante": "Trust-Broker",
           "min": "2000000",
           "max": "36450000",
-          "disponible": "30000.00"
+          "disponible": "21600.70"
         },
         {
           "precio": 960.005,
           "comerciante": "Trust-Broker",
           "min": "1000000",
           "max": "36450000",
-          "disponible": "7776.31"
+          "disponible": "4441.27"
         },
         {
-          "precio": 960.0,
-          "comerciante": "Hcompa",
-          "min": "500",
-          "max": "36400000",
-          "disponible": "1371.60"
+          "precio": 959.88,
+          "comerciante": "RubenNYC",
+          "min": "4000000",
+          "max": "36000000",
+          "disponible": "6309.06"
         },
         {
           "precio": 959.835,
           "comerciante": "Sillebram",
           "min": "2500000",
           "max": "4000000",
-          "disponible": "27000.06"
+          "disponible": "4530.33"
         },
         {
-          "precio": 959.817,
+          "precio": 959.504,
           "comerciante": "TOPlevelS",
           "min": "10000000",
           "max": "36000000",
@@ -55,48 +55,48 @@
       ]
     },
     "compra": {
-      "promedio": 958.6,
-      "minimo": 958.0,
+      "promedio": 958.5598,
+      "minimo": 958.4,
       "maximo": 959.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 958.0,
-          "comerciante": "JAAC0327",
-          "min": "40000",
-          "max": "400000",
-          "disponible": "296.37"
+          "precio": 958.4,
+          "comerciante": "JOSE-ARAB",
+          "min": "70000",
+          "max": "600000",
+          "disponible": "548.62"
         },
         {
-          "precio": 958.0,
-          "comerciante": "fapay",
-          "min": "10005",
-          "max": "10006",
+          "precio": 958.4,
+          "comerciante": "HermesPay",
+          "min": "300000",
+          "max": "961989",
+          "disponible": "497.44"
+        },
+        {
+          "precio": 958.499,
+          "comerciante": "VelociCambiosMx",
+          "min": "40800",
+          "max": "40801",
           "disponible": "99.75"
         },
         {
-          "precio": 959.0,
-          "comerciante": "Magu08",
+          "precio": 958.5,
+          "comerciante": "ojgu20",
           "min": "300",
-          "max": "300000",
-          "disponible": "0.91"
+          "max": "95850",
+          "disponible": "76.97"
         },
         {
           "precio": 959.0,
           "comerciante": "GrupoEVONUT",
           "min": "10000",
           "max": "11000",
-          "disponible": "345.48"
-        },
-        {
-          "precio": 959.0,
-          "comerciante": "IsamarF2",
-          "min": "3000",
-          "max": "4000000",
-          "disponible": "13.00"
+          "disponible": "334.84"
         }
       ]
     }
   },
-  "brecha_pct": 14.03
+  "brecha_pct": 14.02
 }
