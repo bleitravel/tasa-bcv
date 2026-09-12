@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-12T12:37:38+00:00",
-  "actualizado_ve": "2026-09-12T08:37:38-04:00",
+  "actualizado_utc": "2026-09-12T13:01:38+00:00",
+  "actualizado_ve": "2026-09-12T09:01:38-04:00",
   "bcv": {
     "usd": 842.2067,
     "eur": 977.8777773,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 961.178,
+    "referencia": 961.316,
     "venta": {
-      "promedio": 961.178,
-      "minimo": 960.2,
+      "promedio": 961.316,
+      "minimo": 960.1,
       "maximo": 962.5,
       "anuncios_usados": 5,
       "anuncios": [
@@ -22,21 +22,21 @@
           "comerciante": "LordCambios",
           "min": "400000",
           "max": "3595000",
-          "disponible": "1845.19"
+          "disponible": "1377.66"
         },
         {
-          "precio": 961.21,
-          "comerciante": "agustinS27",
-          "min": "800000",
-          "max": "1000000",
-          "disponible": "3318.12"
+          "precio": 962.0,
+          "comerciante": "Blank_Mind",
+          "min": "2500000",
+          "max": "36450000",
+          "disponible": "26375.06"
         },
         {
           "precio": 961.0,
           "comerciante": "In_God-I_trust",
           "min": "1000000",
           "max": "35000000",
-          "disponible": "11043.88"
+          "disponible": "1451.54"
         },
         {
           "precio": 960.98,
@@ -46,20 +46,27 @@
           "disponible": "29823.78"
         },
         {
-          "precio": 960.2,
-          "comerciante": "caguy",
-          "min": "600000",
-          "max": "36450000",
-          "disponible": "19375.14"
+          "precio": 960.1,
+          "comerciante": "LordCambios",
+          "min": "100000",
+          "max": "2203000",
+          "disponible": "691.65"
         }
       ]
     },
     "compra": {
-      "promedio": 961.3458,
-      "minimo": 960.0,
-      "maximo": 962.0,
+      "promedio": 960.598,
+      "minimo": 959.99,
+      "maximo": 961.0,
       "anuncios_usados": 5,
       "anuncios": [
+        {
+          "precio": 959.99,
+          "comerciante": "GONZATRADER73",
+          "min": "400000",
+          "max": "4000000",
+          "disponible": "468.35"
+        },
         {
           "precio": 960.0,
           "comerciante": "tucambioseguro",
@@ -68,35 +75,28 @@
           "disponible": "299.25"
         },
         {
-          "precio": 960.98,
-          "comerciante": "adrubita",
-          "min": "1352000",
-          "max": "10000000",
-          "disponible": "1407.80"
+          "precio": 961.0,
+          "comerciante": "Inter-Pagos",
+          "min": "200000",
+          "max": "1000000",
+          "disponible": "905.54"
         },
         {
-          "precio": 961.8,
-          "comerciante": "GabyGaby12",
-          "min": "900000",
-          "max": "962000",
-          "disponible": "998.25"
+          "precio": 961.0,
+          "comerciante": "Herly de HIdalgo",
+          "min": "200000",
+          "max": "4000000",
+          "disponible": "209.47"
         },
         {
-          "precio": 961.949,
-          "comerciante": "TuCambioYa_",
-          "min": "1000000",
-          "max": "20000000",
-          "disponible": "14968.76"
-        },
-        {
-          "precio": 962.0,
-          "comerciante": "-TuCambioseguroo-",
-          "min": "400000",
-          "max": "962000",
-          "disponible": "1029.88"
+          "precio": 961.0,
+          "comerciante": "ADANJOSE",
+          "min": "431000",
+          "max": "432450",
+          "disponible": "448.87"
         }
       ]
     }
   },
-  "brecha_pct": 14.13
+  "brecha_pct": 14.14
 }
