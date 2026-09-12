@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-12T18:34:58+00:00",
-  "actualizado_ve": "2026-09-12T14:34:58-04:00",
+  "actualizado_utc": "2026-09-12T19:01:22+00:00",
+  "actualizado_ve": "2026-09-12T15:01:22-04:00",
   "bcv": {
     "usd": 842.2067,
     "eur": 977.8777773,
@@ -10,20 +10,13 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 960.211,
+    "referencia": 958.5008,
     "venta": {
-      "promedio": 960.211,
-      "minimo": 959.005,
-      "maximo": 962.05,
+      "promedio": 958.5008,
+      "minimo": 957.7,
+      "maximo": 960.0,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 962.05,
-          "comerciante": "Anyelo",
-          "min": "493000",
-          "max": "493500",
-          "disponible": "2100.00"
-        },
         {
           "precio": 960.0,
           "comerciante": "Trust-Broker",
@@ -32,71 +25,78 @@
           "disponible": "10949.31"
         },
         {
-          "precio": 960.0,
-          "comerciante": "angelreptilia",
-          "min": "35000",
-          "max": "37000",
-          "disponible": "62.06"
-        },
-        {
-          "precio": 960.0,
-          "comerciante": "User-cb708",
-          "min": "96000",
-          "max": "100000",
-          "disponible": "100.25"
-        },
-        {
           "precio": 959.005,
           "comerciante": "Trust-Broker",
           "min": "1000000",
           "max": "36450000",
-          "disponible": "8734.91"
+          "disponible": "4824.85"
+        },
+        {
+          "precio": 958.0,
+          "comerciante": "User-6193a",
+          "min": "1175",
+          "max": "1176",
+          "disponible": "100.00"
+        },
+        {
+          "precio": 957.799,
+          "comerciante": "Teim2",
+          "min": "1000000",
+          "max": "4000000",
+          "disponible": "11325.45"
+        },
+        {
+          "precio": 957.7,
+          "comerciante": "Brawcoins",
+          "min": "10000000",
+          "max": "36450000",
+          "disponible": "69400.06"
         }
       ]
     },
     "compra": {
-      "promedio": 958.9578,
-      "minimo": 958.799,
+      "promedio": 958.8,
+      "minimo": 958.001,
       "maximo": 959.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 958.799,
-          "comerciante": "VelociCambiosMx",
-          "min": "107100",
-          "max": "107101",
-          "disponible": "167.97"
-        },
-        {
-          "precio": 958.99,
-          "comerciante": "ManzanaExchangeVip",
+          "precio": 958.001,
+          "comerciante": "gelittle1980",
           "min": "10000",
-          "max": "350000",
-          "disponible": "69.27"
+          "max": "30000",
+          "disponible": "119.21"
+        },
+        {
+          "precio": 958.999,
+          "comerciante": "Brayan-Seguro",
+          "min": "20000",
+          "max": "1000000",
+          "disponible": "86.96"
         },
         {
           "precio": 959.0,
-          "comerciante": "GrupoEVONUT",
+          "comerciante": "inversionessofia",
+          "min": "5000",
+          "max": "384000",
+          "disponible": "71.33"
+        },
+        {
+          "precio": 959.0,
+          "comerciante": "User-881a0",
+          "min": "50000",
+          "max": "200000",
+          "disponible": "205.81"
+        },
+        {
+          "precio": 959.0,
+          "comerciante": "Ixof",
           "min": "10000",
-          "max": "11000",
-          "disponible": "55.18"
-        },
-        {
-          "precio": 959.0,
-          "comerciante": "Jrodriguez",
-          "min": "200000",
-          "max": "4000000",
-          "disponible": "775.85"
-        },
-        {
-          "precio": 959.0,
-          "comerciante": "Zockolo",
-          "min": "27000",
-          "max": "28000",
-          "disponible": "99.75"
+          "max": "96000",
+          "disponible": "39.28"
         }
       ]
     }
   },
-  "brecha_pct": 14.01
+  "brecha_pct": 13.81
 }
