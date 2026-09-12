@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-12T22:32:33+00:00",
-  "actualizado_ve": "2026-09-12T18:32:33-04:00",
+  "actualizado_utc": "2026-09-12T23:01:27+00:00",
+  "actualizado_ve": "2026-09-12T19:01:27-04:00",
   "bcv": {
     "usd": 842.2067,
     "eur": 977.8777773,
@@ -10,90 +10,90 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 956.1044,
+    "referencia": 956.0716,
     "venta": {
-      "promedio": 956.1044,
-      "minimo": 956.1,
-      "maximo": 956.112,
+      "promedio": 956.0716,
+      "minimo": 956.005,
+      "maximo": 956.102,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 956.112,
+          "precio": 956.102,
           "comerciante": "TOPlevelS",
           "min": "10000000",
           "max": "36000000",
-          "disponible": "80000.00"
+          "disponible": "68000.06"
         },
         {
-          "precio": 956.11,
-          "comerciante": "Inversiones-ADSC",
-          "min": "7000000",
-          "max": "36450000",
-          "disponible": "80000.00"
-        },
-        {
-          "precio": 956.1,
+          "precio": 956.101,
           "comerciante": "Rapidflorio84",
           "min": "5000000",
           "max": "36000000",
-          "disponible": "28628.18"
-        },
-        {
-          "precio": 956.1,
-          "comerciante": "SmartSoluciones_",
-          "min": "500000",
-          "max": "4000000",
-          "disponible": "2586.27"
+          "disponible": "50000.00"
         },
         {
           "precio": 956.1,
           "comerciante": "Trust-Broker",
           "min": "4000000",
           "max": "36450000",
-          "disponible": "39789.97"
+          "disponible": "32164.03"
+        },
+        {
+          "precio": 956.05,
+          "comerciante": "QueRapido",
+          "min": "3000000",
+          "max": "11970000",
+          "disponible": "12520.27"
+        },
+        {
+          "precio": 956.005,
+          "comerciante": "FlashRaid",
+          "min": "2000000",
+          "max": "15000000",
+          "disponible": "19639.02"
         }
       ]
     },
     "compra": {
-      "promedio": 956.578,
+      "promedio": 956.28,
       "minimo": 956.0,
-      "maximo": 956.99,
+      "maximo": 956.7,
       "anuncios_usados": 5,
       "anuncios": [
         {
           "precio": 956.0,
-          "comerciante": "MAGNO25",
+          "comerciante": "InfinityChangesVzla",
+          "min": "20000",
+          "max": "144000",
+          "disponible": "23.42"
+        },
+        {
+          "precio": 956.0,
+          "comerciante": "FarfallaExchange",
+          "min": "95000",
+          "max": "95600",
+          "disponible": "99.75"
+        },
+        {
+          "precio": 956.2,
+          "comerciante": "Cambios-JMD",
+          "min": "30000",
+          "max": "250000",
+          "disponible": "79.41"
+        },
+        {
+          "precio": 956.5,
+          "comerciante": "ADRIAN1011Z",
           "min": "500",
-          "max": "3000",
-          "disponible": "126.65"
+          "max": "85000",
+          "disponible": "216.70"
         },
         {
-          "precio": 956.5,
-          "comerciante": "trader-jade",
-          "min": "340000",
-          "max": "350000",
-          "disponible": "364.99"
-        },
-        {
-          "precio": 956.5,
-          "comerciante": "tupanal",
-          "min": "20000",
-          "max": "50000",
-          "disponible": "48.37"
-        },
-        {
-          "precio": 956.9,
-          "comerciante": "Alycornia",
-          "min": "10000",
-          "max": "4000000",
-          "disponible": "26.60"
-        },
-        {
-          "precio": 956.99,
-          "comerciante": "CambiosRapid",
-          "min": "20000",
-          "max": "4000000",
-          "disponible": "429.84"
+          "precio": 956.7,
+          "comerciante": "Innoka",
+          "min": "1000",
+          "max": "124000",
+          "disponible": "124.60"
         }
       ]
     }
