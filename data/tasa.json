@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-12T19:01:22+00:00",
-  "actualizado_ve": "2026-09-12T15:01:22-04:00",
+  "actualizado_utc": "2026-09-12T19:32:02+00:00",
+  "actualizado_ve": "2026-09-12T15:32:02-04:00",
   "bcv": {
     "usd": 842.2067,
     "eur": 977.8777773,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 958.5008,
+    "referencia": 958.2258,
     "venta": {
-      "promedio": 958.5008,
-      "minimo": 957.7,
-      "maximo": 960.0,
+      "promedio": 958.2258,
+      "minimo": 958.07,
+      "maximo": 958.5,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 960.0,
-          "comerciante": "Trust-Broker",
+          "precio": 958.5,
+          "comerciante": "Mimosin27",
           "min": "2000000",
-          "max": "36450000",
-          "disponible": "10949.31"
-        },
-        {
-          "precio": 959.005,
-          "comerciante": "Trust-Broker",
-          "min": "1000000",
-          "max": "36450000",
-          "disponible": "4824.85"
-        },
-        {
-          "precio": 958.0,
-          "comerciante": "User-6193a",
-          "min": "1175",
-          "max": "1176",
-          "disponible": "100.00"
-        },
-        {
-          "precio": 957.799,
-          "comerciante": "Teim2",
-          "min": "1000000",
           "max": "4000000",
-          "disponible": "11325.45"
+          "disponible": "10550.00"
         },
         {
-          "precio": 957.7,
+          "precio": 958.2,
           "comerciante": "Brawcoins",
           "min": "10000000",
           "max": "36450000",
-          "disponible": "69400.06"
+          "disponible": "69563.77"
+        },
+        {
+          "precio": 958.199,
+          "comerciante": "CRIPTO-2026",
+          "min": "7000000",
+          "max": "36450000",
+          "disponible": "76432.91"
+        },
+        {
+          "precio": 958.16,
+          "comerciante": "改善ThorFinn改善",
+          "min": "6000000",
+          "max": "36450000",
+          "disponible": "13675.06"
+        },
+        {
+          "precio": 958.07,
+          "comerciante": "All-inCrypto",
+          "min": "3000000",
+          "max": "36000000",
+          "disponible": "65931.68"
         }
       ]
     },
     "compra": {
-      "promedio": 958.8,
-      "minimo": 958.001,
+      "promedio": 958.7956,
+      "minimo": 957.979,
       "maximo": 959.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 958.001,
-          "comerciante": "gelittle1980",
-          "min": "10000",
-          "max": "30000",
-          "disponible": "119.21"
+          "precio": 957.979,
+          "comerciante": "edjaen",
+          "min": "10999",
+          "max": "11000",
+          "disponible": "99.75"
         },
         {
           "precio": 958.999,
-          "comerciante": "Brayan-Seguro",
-          "min": "20000",
-          "max": "1000000",
-          "disponible": "86.96"
+          "comerciante": "Jcastillo18",
+          "min": "50000",
+          "max": "4000000",
+          "disponible": "99.75"
         },
         {
           "precio": 959.0,
           "comerciante": "inversionessofia",
           "min": "5000",
           "max": "384000",
-          "disponible": "71.33"
+          "disponible": "9.15"
         },
         {
           "precio": 959.0,
-          "comerciante": "User-881a0",
-          "min": "50000",
-          "max": "200000",
-          "disponible": "205.81"
+          "comerciante": "Kennt_26",
+          "min": "2910",
+          "max": "4000000",
+          "disponible": "12.61"
         },
         {
           "precio": 959.0,
-          "comerciante": "Ixof",
-          "min": "10000",
-          "max": "96000",
-          "disponible": "39.28"
+          "comerciante": "GK Solutions Group",
+          "min": "20000",
+          "max": "30000",
+          "disponible": "73.69"
         }
       ]
     }
   },
-  "brecha_pct": 13.81
+  "brecha_pct": 13.78
 }
