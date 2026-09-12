@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-12T08:34:23+00:00",
-  "actualizado_ve": "2026-09-12T04:34:23-04:00",
+  "actualizado_utc": "2026-09-12T09:01:54+00:00",
+  "actualizado_ve": "2026-09-12T05:01:54-04:00",
   "bcv": {
     "usd": 842.2067,
     "eur": 977.8777773,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 959.2638,
+    "referencia": 959.24,
     "venta": {
-      "promedio": 959.2638,
-      "minimo": 958.099,
+      "promedio": 959.24,
+      "minimo": 958.001,
       "maximo": 962.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -32,18 +32,11 @@
           "disponible": "28000.00"
         },
         {
-          "precio": 958.12,
-          "comerciante": "ReadyToTrade_",
-          "min": "1000000",
-          "max": "36400000",
-          "disponible": "75512.84"
-        },
-        {
           "precio": 958.1,
           "comerciante": "-Ledger-",
           "min": "200000",
           "max": "36450000",
-          "disponible": "48904.87"
+          "disponible": "47389.27"
         },
         {
           "precio": 958.099,
@@ -51,21 +44,35 @@
           "min": "300000",
           "max": "36450000",
           "disponible": "11400.12"
+        },
+        {
+          "precio": 958.001,
+          "comerciante": "fastecu",
+          "min": "12000",
+          "max": "12500",
+          "disponible": "87.06"
         }
       ]
     },
     "compra": {
-      "promedio": 963.7956,
-      "minimo": 963.0,
-      "maximo": 963.999,
+      "promedio": 963.8758,
+      "minimo": 963.5,
+      "maximo": 964.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 963.0,
-          "comerciante": "PROFESlONAL",
+          "precio": 963.5,
+          "comerciante": "Maranatha09",
+          "min": "25000",
+          "max": "10000000",
+          "disponible": "27.04"
+        },
+        {
+          "precio": 963.89,
+          "comerciante": "DG_Trading_",
           "min": "190000",
-          "max": "5000000",
-          "disponible": "455.91"
+          "max": "10000000",
+          "disponible": "509.52"
         },
         {
           "precio": 963.99,
@@ -75,25 +82,18 @@
           "disponible": "498.75"
         },
         {
-          "precio": 963.99,
-          "comerciante": "DG_Trading_",
-          "min": "190000",
-          "max": "10000000",
-          "disponible": "1321.22"
-        },
-        {
-          "precio": 963.999,
-          "comerciante": "JesCrypto-P2P",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "0.51"
-        },
-        {
           "precio": 963.999,
           "comerciante": "DOBBY_CHANGE_P2P",
           "min": "50000",
           "max": "1892937",
-          "disponible": "659.49"
+          "disponible": "78.96"
+        },
+        {
+          "precio": 964.0,
+          "comerciante": "CambiosFacil",
+          "min": "400000",
+          "max": "5000000",
+          "disponible": "1954.66"
         }
       ]
     }
