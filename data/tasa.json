@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-12T04:01:50+00:00",
-  "actualizado_ve": "2026-09-12T00:01:50-04:00",
+  "actualizado_utc": "2026-09-12T04:34:48+00:00",
+  "actualizado_ve": "2026-09-12T00:34:48-04:00",
   "bcv": {
     "usd": 842.2067,
     "eur": 977.8777773,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 961.1404,
+    "referencia": 960.6,
     "venta": {
-      "promedio": 961.1404,
-      "minimo": 960.6,
+      "promedio": 960.6,
+      "minimo": 960.0,
       "maximo": 962.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -25,20 +25,6 @@
           "disponible": "6000.00"
         },
         {
-          "precio": 961.101,
-          "comerciante": "Ducati86",
-          "min": "3999999",
-          "max": "4000000",
-          "disponible": "30000.00"
-        },
-        {
-          "precio": 961.001,
-          "comerciante": "F_A_I_R",
-          "min": "200000",
-          "max": "3000000",
-          "disponible": "2276.00"
-        },
-        {
           "precio": 961.0,
           "comerciante": "安全与信任",
           "min": "10000000",
@@ -46,57 +32,71 @@
           "disponible": "30250.00"
         },
         {
-          "precio": 960.6,
-          "comerciante": "SuperDuko",
+          "precio": 960.0,
+          "comerciante": "王冠__你们的头",
           "min": "500000",
-          "max": "7000000",
-          "disponible": "5538.20"
+          "max": "36450000",
+          "disponible": "28000.00"
+        },
+        {
+          "precio": 960.0,
+          "comerciante": "rafa",
+          "min": "482000",
+          "max": "4000000",
+          "disponible": "503.00"
+        },
+        {
+          "precio": 960.0,
+          "comerciante": "FUERZA_ELITE",
+          "min": "800000",
+          "max": "36000000",
+          "disponible": "22256.97"
         }
       ]
     },
     "compra": {
-      "promedio": 962.74,
-      "minimo": 961.0,
-      "maximo": 963.7,
+      "promedio": 963.2178,
+      "minimo": 962.999,
+      "maximo": 963.4,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 961.0,
-          "comerciante": "Ronaldelectro",
-          "min": "1690000",
-          "max": "1690000",
-          "disponible": "1995.01"
+          "precio": 962.999,
+          "comerciante": "Tonytrade27",
+          "min": "100000",
+          "max": "10000000",
+          "disponible": "217.34"
         },
         {
-          "precio": 962.0,
-          "comerciante": "elfantasma7",
-          "min": "317460",
-          "max": "4000000",
-          "disponible": "330.00"
+          "precio": 963.0,
+          "comerciante": "CAMBIOS-SERVICIOS-ED",
+          "min": "176000",
+          "max": "10000000",
+          "disponible": "183.12"
         },
         {
-          "precio": 963.5,
-          "comerciante": "nene",
-          "min": "189000",
+          "precio": 963.3,
+          "comerciante": "ChihiroXchanges",
+          "min": "300000",
+          "max": "3000000",
+          "disponible": "1456.91"
+        },
+        {
+          "precio": 963.39,
+          "comerciante": "SatoruEXchange",
+          "min": "100000",
           "max": "1000000",
-          "disponible": "197.23"
+          "disponible": "1049.24"
         },
         {
-          "precio": 963.5,
-          "comerciante": "Much_Dolar",
-          "min": "360000",
-          "max": "400000",
-          "disponible": "379.05"
-        },
-        {
-          "precio": 963.7,
-          "comerciante": "Cripto-Mendigo",
-          "min": "200000",
-          "max": "2089984",
-          "disponible": "300.06"
+          "precio": 963.4,
+          "comerciante": "thiash",
+          "min": "100000",
+          "max": "36450000",
+          "disponible": "463.53"
         }
       ]
     }
   },
-  "brecha_pct": 14.12
+  "brecha_pct": 14.06
 }
