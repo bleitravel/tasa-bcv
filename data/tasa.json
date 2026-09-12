@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-12T09:01:54+00:00",
-  "actualizado_ve": "2026-09-12T05:01:54-04:00",
+  "actualizado_utc": "2026-09-12T09:33:44+00:00",
+  "actualizado_ve": "2026-09-12T05:33:44-04:00",
   "bcv": {
     "usd": 842.2067,
     "eur": 977.8777773,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 959.24,
+    "referencia": 959.39,
     "venta": {
-      "promedio": 959.24,
-      "minimo": 958.001,
+      "promedio": 959.39,
+      "minimo": 958.1,
       "maximo": 962.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -32,48 +32,34 @@
           "disponible": "28000.00"
         },
         {
+          "precio": 958.5,
+          "comerciante": "DG_Trading_",
+          "min": "47000",
+          "max": "4000000",
+          "disponible": "51.53"
+        },
+        {
+          "precio": 958.35,
+          "comerciante": "Transvmlca",
+          "min": "300000",
+          "max": "36450000",
+          "disponible": "5000.00"
+        },
+        {
           "precio": 958.1,
           "comerciante": "-Ledger-",
           "min": "200000",
           "max": "36450000",
-          "disponible": "47389.27"
-        },
-        {
-          "precio": 958.099,
-          "comerciante": "NewtScamander",
-          "min": "300000",
-          "max": "36450000",
-          "disponible": "11400.12"
-        },
-        {
-          "precio": 958.001,
-          "comerciante": "fastecu",
-          "min": "12000",
-          "max": "12500",
-          "disponible": "87.06"
+          "disponible": "39338.42"
         }
       ]
     },
     "compra": {
-      "promedio": 963.8758,
-      "minimo": 963.5,
-      "maximo": 964.0,
+      "promedio": 964.0964,
+      "minimo": 963.99,
+      "maximo": 964.203,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 963.5,
-          "comerciante": "Maranatha09",
-          "min": "25000",
-          "max": "10000000",
-          "disponible": "27.04"
-        },
-        {
-          "precio": 963.89,
-          "comerciante": "DG_Trading_",
-          "min": "190000",
-          "max": "10000000",
-          "disponible": "509.52"
-        },
         {
           "precio": 963.99,
           "comerciante": "JOSE-ARAB",
@@ -83,20 +69,34 @@
         },
         {
           "precio": 963.999,
-          "comerciante": "DOBBY_CHANGE_P2P",
-          "min": "50000",
-          "max": "1892937",
-          "disponible": "78.96"
+          "comerciante": "WilhelmPay",
+          "min": "40000",
+          "max": "452260",
+          "disponible": "467.98"
         },
         {
-          "precio": 964.0,
-          "comerciante": "CambiosFacil",
-          "min": "400000",
-          "max": "5000000",
-          "disponible": "1954.66"
+          "precio": 964.09,
+          "comerciante": "EKExpress",
+          "min": "3000000",
+          "max": "36450000",
+          "disponible": "18948.66"
+        },
+        {
+          "precio": 964.2,
+          "comerciante": "User-95450",
+          "min": "5000000",
+          "max": "25000000",
+          "disponible": "20894.05"
+        },
+        {
+          "precio": 964.203,
+          "comerciante": "Karly_Guevara",
+          "min": "96000",
+          "max": "100000",
+          "disponible": "99.75"
         }
       ]
     }
   },
-  "brecha_pct": 13.9
+  "brecha_pct": 13.91
 }
