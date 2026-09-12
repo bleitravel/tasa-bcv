@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-12T18:02:06+00:00",
-  "actualizado_ve": "2026-09-12T14:02:06-04:00",
+  "actualizado_utc": "2026-09-12T18:34:58+00:00",
+  "actualizado_ve": "2026-09-12T14:34:58-04:00",
   "bcv": {
     "usd": 842.2067,
     "eur": 977.8777773,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 958.9328,
+    "referencia": 960.211,
     "venta": {
-      "promedio": 958.9328,
-      "minimo": 958.159,
-      "maximo": 960.0,
+      "promedio": 960.211,
+      "minimo": 959.005,
+      "maximo": 962.05,
       "anuncios_usados": 5,
       "anuncios": [
+        {
+          "precio": 962.05,
+          "comerciante": "Anyelo",
+          "min": "493000",
+          "max": "493500",
+          "disponible": "2100.00"
+        },
         {
           "precio": 960.0,
           "comerciante": "Trust-Broker",
           "min": "2000000",
           "max": "36450000",
-          "disponible": "19400.76"
+          "disponible": "10949.31"
+        },
+        {
+          "precio": 960.0,
+          "comerciante": "angelreptilia",
+          "min": "35000",
+          "max": "37000",
+          "disponible": "62.06"
+        },
+        {
+          "precio": 960.0,
+          "comerciante": "User-cb708",
+          "min": "96000",
+          "max": "100000",
+          "disponible": "100.25"
         },
         {
           "precio": 959.005,
           "comerciante": "Trust-Broker",
           "min": "1000000",
           "max": "36450000",
-          "disponible": "10000.00"
-        },
-        {
-          "precio": 959.0,
-          "comerciante": "SasukeTrader",
-          "min": "10000000",
-          "max": "36450000",
-          "disponible": "80000.00"
-        },
-        {
-          "precio": 958.5,
-          "comerciante": "CambiosEl",
-          "min": "2000000",
-          "max": "36450000",
-          "disponible": "10441.18"
-        },
-        {
-          "precio": 958.159,
-          "comerciante": "TOPlevelS",
-          "min": "7000000",
-          "max": "36000000",
-          "disponible": "22374.27"
+          "disponible": "8734.91"
         }
       ]
     },
     "compra": {
-      "promedio": 956.76,
-      "minimo": 950.0,
+      "promedio": 958.9578,
+      "minimo": 958.799,
       "maximo": 959.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 950.0,
-          "comerciante": "RapidXpay",
-          "min": "26050",
-          "max": "26060",
-          "disponible": "72.37"
+          "precio": 958.799,
+          "comerciante": "VelociCambiosMx",
+          "min": "107100",
+          "max": "107101",
+          "disponible": "167.97"
         },
         {
-          "precio": 957.9,
-          "comerciante": "JOSE-ARAB",
-          "min": "70000",
-          "max": "600000",
-          "disponible": "342.44"
-        },
-        {
-          "precio": 958.0,
-          "comerciante": "Yousberth2907",
-          "min": "230300",
-          "max": "230400",
-          "disponible": "309.58"
-        },
-        {
-          "precio": 958.9,
-          "comerciante": "WeSm23",
+          "precio": 958.99,
+          "comerciante": "ManzanaExchangeVip",
           "min": "10000",
-          "max": "4000000",
-          "disponible": "386.94"
+          "max": "350000",
+          "disponible": "69.27"
         },
         {
           "precio": 959.0,
           "comerciante": "GrupoEVONUT",
           "min": "10000",
           "max": "11000",
-          "disponible": "112.41"
+          "disponible": "55.18"
+        },
+        {
+          "precio": 959.0,
+          "comerciante": "Jrodriguez",
+          "min": "200000",
+          "max": "4000000",
+          "disponible": "775.85"
+        },
+        {
+          "precio": 959.0,
+          "comerciante": "Zockolo",
+          "min": "27000",
+          "max": "28000",
+          "disponible": "99.75"
         }
       ]
     }
   },
-  "brecha_pct": 13.86
+  "brecha_pct": 14.01
 }
