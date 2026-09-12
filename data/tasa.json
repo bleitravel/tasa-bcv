@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-12T23:01:27+00:00",
-  "actualizado_ve": "2026-09-12T19:01:27-04:00",
+  "actualizado_utc": "2026-09-12T23:31:43+00:00",
+  "actualizado_ve": "2026-09-12T19:31:43-04:00",
   "bcv": {
     "usd": 842.2067,
     "eur": 977.8777773,
@@ -10,90 +10,90 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 956.0716,
+    "referencia": 956.1136,
     "venta": {
-      "promedio": 956.0716,
-      "minimo": 956.005,
-      "maximo": 956.102,
+      "promedio": 956.1136,
+      "minimo": 955.855,
+      "maximo": 957.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 956.102,
+          "precio": 957.0,
+          "comerciante": "CROMOSOMA-21",
+          "min": "15000000",
+          "max": "36450000",
+          "disponible": "80000.00"
+        },
+        {
+          "precio": 955.908,
           "comerciante": "TOPlevelS",
           "min": "10000000",
           "max": "36000000",
-          "disponible": "68000.06"
+          "disponible": "56000.12"
         },
         {
-          "precio": 956.101,
+          "precio": 955.905,
+          "comerciante": "-Tyrion-Lannister-",
+          "min": "2000000",
+          "max": "36450000",
+          "disponible": "6100.00"
+        },
+        {
+          "precio": 955.9,
+          "comerciante": "Trust-Broker",
+          "min": "3000000",
+          "max": "36450000",
+          "disponible": "50000.00"
+        },
+        {
+          "precio": 955.855,
           "comerciante": "Rapidflorio84",
           "min": "5000000",
           "max": "36000000",
           "disponible": "50000.00"
-        },
-        {
-          "precio": 956.1,
-          "comerciante": "Trust-Broker",
-          "min": "4000000",
-          "max": "36450000",
-          "disponible": "32164.03"
-        },
-        {
-          "precio": 956.05,
-          "comerciante": "QueRapido",
-          "min": "3000000",
-          "max": "11970000",
-          "disponible": "12520.27"
-        },
-        {
-          "precio": 956.005,
-          "comerciante": "FlashRaid",
-          "min": "2000000",
-          "max": "15000000",
-          "disponible": "19639.02"
         }
       ]
     },
     "compra": {
-      "promedio": 956.28,
-      "minimo": 956.0,
-      "maximo": 956.7,
+      "promedio": 956.8168,
+      "minimo": 956.49,
+      "maximo": 956.918,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 956.0,
-          "comerciante": "InfinityChangesVzla",
-          "min": "20000",
-          "max": "144000",
-          "disponible": "23.42"
+          "precio": 956.49,
+          "comerciante": "Bluehouse03",
+          "min": "350000",
+          "max": "1100000",
+          "disponible": "590.82"
         },
         {
-          "precio": 956.0,
-          "comerciante": "FarfallaExchange",
-          "min": "95000",
-          "max": "95600",
-          "disponible": "99.75"
-        },
-        {
-          "precio": 956.2,
-          "comerciante": "Cambios-JMD",
-          "min": "30000",
+          "precio": 956.877,
+          "comerciante": "Cambio-Ideal",
+          "min": "5000",
           "max": "250000",
-          "disponible": "79.41"
+          "disponible": "64.37"
         },
         {
-          "precio": 956.5,
-          "comerciante": "ADRIAN1011Z",
-          "min": "500",
-          "max": "85000",
-          "disponible": "216.70"
+          "precio": 956.899,
+          "comerciante": "VelociCambiosMx",
+          "min": "255000",
+          "max": "255001",
+          "disponible": "329.09"
         },
         {
-          "precio": 956.7,
-          "comerciante": "Innoka",
-          "min": "1000",
-          "max": "124000",
-          "disponible": "124.60"
+          "precio": 956.9,
+          "comerciante": "Wil-Master",
+          "min": "500000",
+          "max": "600000",
+          "disponible": "734.98"
+        },
+        {
+          "precio": 956.918,
+          "comerciante": "adrubita",
+          "min": "853000",
+          "max": "10000000",
+          "disponible": "893.81"
         }
       ]
     }
