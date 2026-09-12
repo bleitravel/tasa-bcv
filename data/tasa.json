@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-12T03:01:47+00:00",
-  "actualizado_ve": "2026-09-11T23:01:47-04:00",
+  "actualizado_utc": "2026-09-12T03:35:13+00:00",
+  "actualizado_ve": "2026-09-11T23:35:13-04:00",
   "bcv": {
     "usd": 842.2067,
     "eur": 977.8777773,
@@ -10,13 +10,20 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 961.7616,
+    "referencia": 962.1212,
     "venta": {
-      "promedio": 961.7616,
-      "minimo": 961.1,
-      "maximo": 963.005,
+      "promedio": 962.1212,
+      "minimo": 961.0,
+      "maximo": 963.5,
       "anuncios_usados": 5,
       "anuncios": [
+        {
+          "precio": 963.5,
+          "comerciante": "PepiLLC",
+          "min": "500000",
+          "max": "4000000",
+          "disponible": "30000.00"
+        },
         {
           "precio": 963.005,
           "comerciante": "Trust-Broker",
@@ -25,18 +32,11 @@
           "disponible": "21540.20"
         },
         {
-          "precio": 962.5,
-          "comerciante": "PepiLLC",
-          "min": "500000",
-          "max": "4000000",
-          "disponible": "30000.00"
-        },
-        {
-          "precio": 961.102,
-          "comerciante": "Marquez25",
-          "min": "120000",
-          "max": "1500000",
-          "disponible": "6820.32"
+          "precio": 962.0,
+          "comerciante": "CoorpLogistic",
+          "min": "5000000",
+          "max": "32623368",
+          "disponible": "6000.00"
         },
         {
           "precio": 961.101,
@@ -46,57 +46,57 @@
           "disponible": "30000.00"
         },
         {
-          "precio": 961.1,
-          "comerciante": "calorina sankey",
-          "min": "2000000",
-          "max": "4000000",
-          "disponible": "11206.11"
+          "precio": 961.0,
+          "comerciante": "安全与信任",
+          "min": "10000000",
+          "max": "36000000",
+          "disponible": "30250.00"
         }
       ]
     },
     "compra": {
-      "promedio": 962.4598,
-      "minimo": 961.0,
-      "maximo": 963.799,
+      "promedio": 962.746,
+      "minimo": 959.0,
+      "maximo": 963.83,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 961.0,
+          "precio": 959.0,
           "comerciante": "Ronaldelectro",
           "min": "1690000",
           "max": "1690000",
           "disponible": "1995.01"
         },
         {
-          "precio": 962.0,
-          "comerciante": "fapay",
-          "min": "23957",
-          "max": "23958",
-          "disponible": "100.74"
-        },
-        {
-          "precio": 962.5,
-          "comerciante": "User-6045a8yh",
-          "min": "300",
-          "max": "97263",
-          "disponible": "0.51"
-        },
-        {
-          "precio": 963.0,
-          "comerciante": "Joseal1",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "1.93"
-        },
-        {
-          "precio": 963.799,
-          "comerciante": "KSTAKE77",
+          "precio": 963.6,
+          "comerciante": "CambiosFacil",
           "min": "400000",
-          "max": "13000000",
-          "disponible": "3207.30"
+          "max": "5000000",
+          "disponible": "439.72"
+        },
+        {
+          "precio": 963.6,
+          "comerciante": "JM2026",
+          "min": "168000",
+          "max": "36450000",
+          "disponible": "176.38"
+        },
+        {
+          "precio": 963.7,
+          "comerciante": "Cripto-Mendigo",
+          "min": "200000",
+          "max": "2089984",
+          "disponible": "1825.00"
+        },
+        {
+          "precio": 963.83,
+          "comerciante": "JRNBRAVO",
+          "min": "30000",
+          "max": "4000000",
+          "disponible": "243.39"
         }
       ]
     }
   },
-  "brecha_pct": 14.2
+  "brecha_pct": 14.24
 }
