@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-12T17:32:02+00:00",
-  "actualizado_ve": "2026-09-12T13:32:02-04:00",
+  "actualizado_utc": "2026-09-12T18:02:06+00:00",
+  "actualizado_ve": "2026-09-12T14:02:06-04:00",
   "bcv": {
     "usd": 842.2067,
     "eur": 977.8777773,
@@ -10,56 +10,63 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 959.2258,
+    "referencia": 958.9328,
     "venta": {
-      "promedio": 959.2258,
-      "minimo": 958.001,
-      "maximo": 962.0,
+      "promedio": 958.9328,
+      "minimo": 958.159,
+      "maximo": 960.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 962.0,
+          "precio": 960.0,
           "comerciante": "Trust-Broker",
           "min": "2000000",
           "max": "36450000",
-          "disponible": "21600.70"
+          "disponible": "19400.76"
         },
         {
-          "precio": 960.005,
+          "precio": 959.005,
           "comerciante": "Trust-Broker",
           "min": "1000000",
           "max": "36450000",
-          "disponible": "2117.39"
+          "disponible": "10000.00"
         },
         {
-          "precio": 958.1,
-          "comerciante": "RapidPago94",
-          "min": "1500000",
-          "max": "4000000",
-          "disponible": "27976.75"
+          "precio": 959.0,
+          "comerciante": "SasukeTrader",
+          "min": "10000000",
+          "max": "36450000",
+          "disponible": "80000.00"
         },
         {
-          "precio": 958.023,
-          "comerciante": "Ducati86",
-          "min": "3999999",
-          "max": "4000000",
-          "disponible": "30000.00"
+          "precio": 958.5,
+          "comerciante": "CambiosEl",
+          "min": "2000000",
+          "max": "36450000",
+          "disponible": "10441.18"
         },
         {
-          "precio": 958.001,
-          "comerciante": "YGinversiones",
-          "min": "5000000",
-          "max": "36350000",
-          "disponible": "36102.18"
+          "precio": 958.159,
+          "comerciante": "TOPlevelS",
+          "min": "7000000",
+          "max": "36000000",
+          "disponible": "22374.27"
         }
       ]
     },
     "compra": {
-      "promedio": 958.78,
-      "minimo": 957.9,
+      "promedio": 956.76,
+      "minimo": 950.0,
       "maximo": 959.0,
       "anuncios_usados": 5,
       "anuncios": [
+        {
+          "precio": 950.0,
+          "comerciante": "RapidXpay",
+          "min": "26050",
+          "max": "26060",
+          "disponible": "72.37"
+        },
         {
           "precio": 957.9,
           "comerciante": "JOSE-ARAB",
@@ -68,35 +75,28 @@
           "disponible": "342.44"
         },
         {
-          "precio": 959.0,
-          "comerciante": "makalex123",
-          "min": "300",
-          "max": "394800",
-          "disponible": "0.94"
+          "precio": 958.0,
+          "comerciante": "Yousberth2907",
+          "min": "230300",
+          "max": "230400",
+          "disponible": "309.58"
+        },
+        {
+          "precio": 958.9,
+          "comerciante": "WeSm23",
+          "min": "10000",
+          "max": "4000000",
+          "disponible": "386.94"
         },
         {
           "precio": 959.0,
-          "comerciante": "rafa crack ",
-          "min": "50000",
-          "max": "200000",
-          "disponible": "537.14"
-        },
-        {
-          "precio": 959.0,
-          "comerciante": "Mag96",
-          "min": "1500",
-          "max": "55000",
-          "disponible": "16.34"
-        },
-        {
-          "precio": 959.0,
-          "comerciante": "JOHANNUITER",
-          "min": "300",
-          "max": "100000",
-          "disponible": "3.97"
+          "comerciante": "GrupoEVONUT",
+          "min": "10000",
+          "max": "11000",
+          "disponible": "112.41"
         }
       ]
     }
   },
-  "brecha_pct": 13.89
+  "brecha_pct": 13.86
 }
