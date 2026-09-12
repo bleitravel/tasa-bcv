@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-12T10:33:10+00:00",
-  "actualizado_ve": "2026-09-12T06:33:10-04:00",
+  "actualizado_utc": "2026-09-12T11:01:31+00:00",
+  "actualizado_ve": "2026-09-12T07:01:31-04:00",
   "bcv": {
     "usd": 842.2067,
     "eur": 977.8777773,
@@ -10,26 +10,26 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 961.9802,
+    "referencia": 960.164,
     "venta": {
-      "promedio": 961.9802,
-      "minimo": 958.101,
-      "maximo": 969.8,
+      "promedio": 960.164,
+      "minimo": 958.61,
+      "maximo": 962.0,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 969.8,
-          "comerciante": "User-d48b3",
-          "min": "275000",
-          "max": "280000",
-          "disponible": "288.00"
-        },
         {
           "precio": 962.0,
           "comerciante": "CoorpLogistic",
           "min": "5000000",
           "max": "32623368",
           "disponible": "6000.00"
+        },
+        {
+          "precio": 960.21,
+          "comerciante": "agustinS27",
+          "min": "800000",
+          "max": "1000000",
+          "disponible": "5000.00"
         },
         {
           "precio": 960.0,
@@ -43,23 +43,30 @@
           "comerciante": "In_God-I_trust",
           "min": "1000000",
           "max": "35000000",
-          "disponible": "30194.13"
+          "disponible": "26205.19"
         },
         {
-          "precio": 958.101,
-          "comerciante": "NewtScamander",
-          "min": "300000",
+          "precio": 958.61,
+          "comerciante": "CambioVeloz_15",
+          "min": "1500000",
           "max": "36450000",
-          "disponible": "6727.37"
+          "disponible": "12350.00"
         }
       ]
     },
     "compra": {
-      "promedio": 963.1596,
-      "minimo": 962.0,
-      "maximo": 963.8,
+      "promedio": 962.5222,
+      "minimo": 961.5,
+      "maximo": 963.111,
       "anuncios_usados": 5,
       "anuncios": [
+        {
+          "precio": 961.5,
+          "comerciante": "Tesorero",
+          "min": "94300",
+          "max": "94305",
+          "disponible": "99.80"
+        },
         {
           "precio": 962.0,
           "comerciante": "Josehrdz15",
@@ -70,33 +77,26 @@
         {
           "precio": 963.0,
           "comerciante": "Verano_p2P",
-          "min": "49000",
-          "max": "49001",
-          "disponible": "99.75"
+          "min": "100000",
+          "max": "110000",
+          "disponible": "114.71"
         },
         {
-          "precio": 963.498,
-          "comerciante": "Cambios_seguros1",
-          "min": "1000000",
-          "max": "3500000",
-          "disponible": "2994.75"
+          "precio": 963.0,
+          "comerciante": "P2P-522016xl",
+          "min": "10000",
+          "max": "400000",
+          "disponible": "558.42"
         },
         {
-          "precio": 963.5,
-          "comerciante": "_cambioBTC",
-          "min": "600000",
-          "max": "36450000",
-          "disponible": "6259.63"
-        },
-        {
-          "precio": 963.8,
-          "comerciante": "rapidoscambiosA",
-          "min": "50000",
-          "max": "4000000",
-          "disponible": "440.02"
+          "precio": 963.111,
+          "comerciante": "RapidosFC",
+          "min": "300000",
+          "max": "5500000",
+          "disponible": "2452.58"
         }
       ]
     }
   },
-  "brecha_pct": 14.22
+  "brecha_pct": 14.01
 }
