@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-12T01:32:42+00:00",
-  "actualizado_ve": "2026-09-11T21:32:42-04:00",
+  "actualizado_utc": "2026-09-12T02:02:06+00:00",
+  "actualizado_ve": "2026-09-11T22:02:06-04:00",
   "bcv": {
     "usd": 842.2067,
     "eur": 977.8777773,
@@ -10,9 +10,9 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 962.8026,
+    "referencia": 962.802,
     "venta": {
-      "promedio": 962.8026,
+      "promedio": 962.802,
       "minimo": 962.0,
       "maximo": 965.0,
       "anuncios_usados": 5,
@@ -22,14 +22,14 @@
           "comerciante": "LordCambios",
           "min": "900000",
           "max": "6425000",
-          "disponible": "4725.46"
+          "disponible": "3725.52"
         },
         {
           "precio": 963.005,
           "comerciante": "Trust-Broker",
           "min": "2000000",
           "max": "36450000",
-          "disponible": "21305.61"
+          "disponible": "27000.06"
         },
         {
           "precio": 962.005,
@@ -39,61 +39,61 @@
           "disponible": "19552.56"
         },
         {
-          "precio": 962.003,
-          "comerciante": "CROMOSOMA-21",
-          "min": "10000000",
-          "max": "36450000",
-          "disponible": "53518.03"
-        },
-        {
           "precio": 962.0,
           "comerciante": "CoorpLogistic",
           "min": "5000000",
           "max": "32623368",
           "disponible": "6000.00"
+        },
+        {
+          "precio": 962.0,
+          "comerciante": "LordCambios",
+          "min": "100000",
+          "max": "3184000",
+          "disponible": "2394.57"
         }
       ]
     },
     "compra": {
-      "promedio": 961.6598,
-      "minimo": 960.0,
-      "maximo": 962.299,
+      "promedio": 962.9398,
+      "minimo": 962.5,
+      "maximo": 963.499,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 960.0,
-          "comerciante": "EJ7194",
-          "min": "40000",
-          "max": "96800",
+          "precio": 962.5,
+          "comerciante": "User-6045a8yh",
+          "min": "300",
+          "max": "97263",
+          "disponible": "3.17"
+        },
+        {
+          "precio": 962.7,
+          "comerciante": "KRYSM10",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "0.64"
+        },
+        {
+          "precio": 963.0,
+          "comerciante": "alexa1809",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "0.59"
+        },
+        {
+          "precio": 963.0,
+          "comerciante": "ELGOCHITO",
+          "min": "95000",
+          "max": "97000",
           "disponible": "99.75"
         },
         {
-          "precio": 962.0,
-          "comerciante": "StarVzla",
-          "min": "10000",
-          "max": "96000",
-          "disponible": "87.98"
-        },
-        {
-          "precio": 962.0,
-          "comerciante": "karim1608",
-          "min": "50000",
+          "precio": 963.499,
+          "comerciante": "Ashton Cordiero MlVk",
+          "min": "300",
           "max": "4000000",
-          "disponible": "199.50"
-        },
-        {
-          "precio": 962.0,
-          "comerciante": "Diegoalexandergarcia",
-          "min": "96000",
-          "max": "1000000",
-          "disponible": "99.83"
-        },
-        {
-          "precio": 962.299,
-          "comerciante": "VelociCambiosMx",
-          "min": "180767",
-          "max": "180768",
-          "disponible": "303.36"
+          "disponible": "30.73"
         }
       ]
     }
