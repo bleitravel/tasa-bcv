@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-12T16:02:05+00:00",
-  "actualizado_ve": "2026-09-12T12:02:05-04:00",
+  "actualizado_utc": "2026-09-12T16:33:38+00:00",
+  "actualizado_ve": "2026-09-12T12:33:38-04:00",
   "bcv": {
     "usd": 842.2067,
     "eur": 977.8777773,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 960.168,
+    "referencia": 960.3314,
     "venta": {
-      "promedio": 960.168,
-      "minimo": 959.3,
+      "promedio": 960.3314,
+      "minimo": 959.817,
       "maximo": 962.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -22,81 +22,81 @@
           "comerciante": "Trust-Broker",
           "min": "2000000",
           "max": "36450000",
-          "disponible": "9621.24"
+          "disponible": "30000.00"
         },
         {
           "precio": 960.005,
           "comerciante": "Trust-Broker",
           "min": "1000000",
           "max": "36450000",
-          "disponible": "9877.91"
+          "disponible": "7776.31"
+        },
+        {
+          "precio": 960.0,
+          "comerciante": "Hcompa",
+          "min": "500",
+          "max": "36400000",
+          "disponible": "1371.60"
         },
         {
           "precio": 959.835,
           "comerciante": "Sillebram",
           "min": "2500000",
           "max": "4000000",
-          "disponible": "18846.02"
+          "disponible": "27000.06"
         },
         {
-          "precio": 959.7,
-          "comerciante": "RubenNYC",
-          "min": "5000000",
+          "precio": 959.817,
+          "comerciante": "TOPlevelS",
+          "min": "10000000",
           "max": "36000000",
-          "disponible": "14568.58"
-        },
-        {
-          "precio": 959.3,
-          "comerciante": "YGinversiones",
-          "min": "5000000",
-          "max": "36350000",
-          "disponible": "22848.30"
+          "disponible": "50000.00"
         }
       ]
     },
     "compra": {
-      "promedio": 959.0582,
-      "minimo": 959.0,
-      "maximo": 959.29,
+      "promedio": 958.6,
+      "minimo": 958.0,
+      "maximo": 959.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
+          "precio": 958.0,
+          "comerciante": "JAAC0327",
+          "min": "40000",
+          "max": "400000",
+          "disponible": "296.37"
+        },
+        {
+          "precio": 958.0,
+          "comerciante": "fapay",
+          "min": "10005",
+          "max": "10006",
+          "disponible": "99.75"
+        },
+        {
           "precio": 959.0,
-          "comerciante": "gabo0105",
-          "min": "5000",
+          "comerciante": "Magu08",
+          "min": "300",
+          "max": "300000",
+          "disponible": "0.91"
+        },
+        {
+          "precio": 959.0,
+          "comerciante": "GrupoEVONUT",
+          "min": "10000",
+          "max": "11000",
+          "disponible": "345.48"
+        },
+        {
+          "precio": 959.0,
+          "comerciante": "IsamarF2",
+          "min": "3000",
           "max": "4000000",
-          "disponible": "13.56"
-        },
-        {
-          "precio": 959.0,
-          "comerciante": "ELIRIPAOLA",
-          "min": "9589",
-          "max": "9590",
-          "disponible": "99.75"
-        },
-        {
-          "precio": 959.0,
-          "comerciante": "MzVentasCripto",
-          "min": "427600",
-          "max": "427601",
-          "disponible": "445.88"
-        },
-        {
-          "precio": 959.001,
-          "comerciante": "P2P-VenGe",
-          "min": "8000",
-          "max": "20000",
-          "disponible": "86.62"
-        },
-        {
-          "precio": 959.29,
-          "comerciante": "Fabvsm",
-          "min": "59000",
-          "max": "59100",
-          "disponible": "99.75"
+          "disponible": "13.00"
         }
       ]
     }
   },
-  "brecha_pct": 14.01
+  "brecha_pct": 14.03
 }
