@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-12T21:01:28+00:00",
-  "actualizado_ve": "2026-09-12T17:01:28-04:00",
+  "actualizado_utc": "2026-09-12T21:32:54+00:00",
+  "actualizado_ve": "2026-09-12T17:32:54-04:00",
   "bcv": {
     "usd": 842.2067,
     "eur": 977.8777773,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 956.27,
+    "referencia": 956.35,
     "venta": {
-      "promedio": 956.27,
-      "minimo": 955.75,
+      "promedio": 956.35,
+      "minimo": 955.9,
       "maximo": 958.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -26,77 +26,77 @@
         },
         {
           "precio": 956.0,
-          "comerciante": "Brawcoins",
+          "comerciante": "-TSxRV-",
           "min": "10000000",
           "max": "36450000",
-          "disponible": "80000.00"
+          "disponible": "71085.12"
         },
         {
-          "precio": 955.8,
-          "comerciante": "CRIPTO-2026",
-          "min": "3000000",
+          "precio": 955.93,
+          "comerciante": "angelchacon",
+          "min": "7000000",
           "max": "36450000",
-          "disponible": "16158.51"
+          "disponible": "29600.06"
         },
         {
-          "precio": 955.8,
-          "comerciante": "REMESASBARINAS",
-          "min": "1000000",
-          "max": "15000000",
-          "disponible": "3724.02"
+          "precio": 955.92,
+          "comerciante": "YGinversiones",
+          "min": "5000000",
+          "max": "36350000",
+          "disponible": "43000.00"
         },
         {
-          "precio": 955.75,
-          "comerciante": "All-inCrypto",
-          "min": "2000000",
+          "precio": 955.9,
+          "comerciante": "Rapidflorio84",
+          "min": "5000000",
           "max": "36000000",
-          "disponible": "53250.53"
+          "disponible": "43000.06"
         }
       ]
     },
     "compra": {
-      "promedio": 957.74,
+      "promedio": 957.338,
       "minimo": 957.0,
-      "maximo": 958.0,
+      "maximo": 957.5,
       "anuncios_usados": 5,
       "anuncios": [
         {
           "precio": 957.0,
-          "comerciante": "MKambios",
-          "min": "95000",
+          "comerciante": "Crisoseas",
+          "min": "100000",
           "max": "4000000",
+          "disponible": "1289.10"
+        },
+        {
+          "precio": 957.2,
+          "comerciante": "GlobalBusinessmx",
+          "min": "82080",
+          "max": "82081",
           "disponible": "99.75"
         },
         {
-          "precio": 957.8,
-          "comerciante": "ADANJOSE",
-          "min": "286500",
-          "max": "287340",
-          "disponible": "299.25"
+          "precio": 957.49,
+          "comerciante": "ChillRemesas",
+          "min": "50000",
+          "max": "124000",
+          "disponible": "129.67"
         },
         {
-          "precio": 957.9,
-          "comerciante": "adrubita",
-          "min": "1532000",
-          "max": "10000000",
-          "disponible": "1612.37"
+          "precio": 957.5,
+          "comerciante": "BreMerLo",
+          "min": "100000",
+          "max": "244000",
+          "disponible": "133.80"
         },
         {
-          "precio": 958.0,
-          "comerciante": "User-0b057erx",
-          "min": "95000",
+          "precio": 957.5,
+          "comerciante": "TU_CAMBIO_GCL",
+          "min": "100000",
           "max": "4000000",
-          "disponible": "99.75"
-        },
-        {
-          "precio": 958.0,
-          "comerciante": "Yamv032000",
-          "min": "900000",
-          "max": "4000000",
-          "disponible": "998.80"
+          "disponible": "115.96"
         }
       ]
     }
   },
-  "brecha_pct": 13.54
+  "brecha_pct": 13.55
 }
