@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-12T10:01:41+00:00",
-  "actualizado_ve": "2026-09-12T06:01:41-04:00",
+  "actualizado_utc": "2026-09-12T10:33:10+00:00",
+  "actualizado_ve": "2026-09-12T06:33:10-04:00",
   "bcv": {
     "usd": 842.2067,
     "eur": 977.8777773,
@@ -10,13 +10,20 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 959.2102,
+    "referencia": 961.9802,
     "venta": {
-      "promedio": 959.2102,
-      "minimo": 957.7,
-      "maximo": 962.0,
+      "promedio": 961.9802,
+      "minimo": 958.101,
+      "maximo": 969.8,
       "anuncios_usados": 5,
       "anuncios": [
+        {
+          "precio": 969.8,
+          "comerciante": "User-d48b3",
+          "min": "275000",
+          "max": "280000",
+          "disponible": "288.00"
+        },
         {
           "precio": 962.0,
           "comerciante": "CoorpLogistic",
@@ -32,71 +39,64 @@
           "disponible": "28000.00"
         },
         {
-          "precio": 958.35,
-          "comerciante": "Transvmlca",
+          "precio": 960.0,
+          "comerciante": "In_God-I_trust",
+          "min": "1000000",
+          "max": "35000000",
+          "disponible": "30194.13"
+        },
+        {
+          "precio": 958.101,
+          "comerciante": "NewtScamander",
           "min": "300000",
           "max": "36450000",
-          "disponible": "863.03"
-        },
-        {
-          "precio": 958.001,
-          "comerciante": "fastecu",
-          "min": "12000",
-          "max": "12500",
-          "disponible": "87.06"
-        },
-        {
-          "precio": 957.7,
-          "comerciante": "pysdfun",
-          "min": "92000",
-          "max": "94700",
-          "disponible": "100.00"
+          "disponible": "6727.37"
         }
       ]
     },
     "compra": {
-      "promedio": 963.9946,
-      "minimo": 963.5,
-      "maximo": 964.2,
+      "promedio": 963.1596,
+      "minimo": 962.0,
+      "maximo": 963.8,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 963.5,
-          "comerciante": "Maranatha09",
-          "min": "25000",
-          "max": "10000000",
-          "disponible": "43.44"
+          "precio": 962.0,
+          "comerciante": "Josehrdz15",
+          "min": "50000",
+          "max": "4000000",
+          "disponible": "137.65"
         },
         {
-          "precio": 963.99,
-          "comerciante": "JOSE-ARAB",
-          "min": "70000",
-          "max": "600000",
-          "disponible": "498.75"
-        },
-        {
-          "precio": 964.09,
-          "comerciante": "EKExpress",
-          "min": "3000000",
-          "max": "36450000",
-          "disponible": "18948.66"
-        },
-        {
-          "precio": 964.193,
-          "comerciante": "Karly_Guevara",
-          "min": "96000",
-          "max": "100000",
+          "precio": 963.0,
+          "comerciante": "Verano_p2P",
+          "min": "49000",
+          "max": "49001",
           "disponible": "99.75"
         },
         {
-          "precio": 964.2,
-          "comerciante": "User-95450",
-          "min": "5000000",
-          "max": "25000000",
-          "disponible": "20894.05"
+          "precio": 963.498,
+          "comerciante": "Cambios_seguros1",
+          "min": "1000000",
+          "max": "3500000",
+          "disponible": "2994.75"
+        },
+        {
+          "precio": 963.5,
+          "comerciante": "_cambioBTC",
+          "min": "600000",
+          "max": "36450000",
+          "disponible": "6259.63"
+        },
+        {
+          "precio": 963.8,
+          "comerciante": "rapidoscambiosA",
+          "min": "50000",
+          "max": "4000000",
+          "disponible": "440.02"
         }
       ]
     }
   },
-  "brecha_pct": 13.89
+  "brecha_pct": 14.22
 }
