@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-12T07:32:34+00:00",
-  "actualizado_ve": "2026-09-12T03:32:34-04:00",
+  "actualizado_utc": "2026-09-12T08:02:02+00:00",
+  "actualizado_ve": "2026-09-12T04:02:02-04:00",
   "bcv": {
     "usd": 842.2067,
     "eur": 977.8777773,
@@ -43,7 +43,7 @@
           "comerciante": "-Ledger-",
           "min": "200000",
           "max": "36450000",
-          "disponible": "51100.86"
+          "disponible": "49948.60"
         },
         {
           "precio": 958.099,
@@ -55,11 +55,18 @@
       ]
     },
     "compra": {
-      "promedio": 963.9958,
-      "minimo": 963.99,
-      "maximo": 964.0,
+      "promedio": 963.951,
+      "minimo": 963.777,
+      "maximo": 963.999,
       "anuncios_usados": 5,
       "anuncios": [
+        {
+          "precio": 963.777,
+          "comerciante": "PROFESlONAL",
+          "min": "90000",
+          "max": "5000000",
+          "disponible": "388.30"
+        },
         {
           "precio": 963.99,
           "comerciante": "JOSE-ARAB",
@@ -69,10 +76,10 @@
         },
         {
           "precio": 963.99,
-          "comerciante": "Puertblue",
-          "min": "19000",
-          "max": "192578",
-          "disponible": "199.50"
+          "comerciante": "DG_Trading_",
+          "min": "190000",
+          "max": "10000000",
+          "disponible": "1197.93"
         },
         {
           "precio": 963.999,
@@ -82,18 +89,11 @@
           "disponible": "0.51"
         },
         {
-          "precio": 964.0,
-          "comerciante": "jessicagallardo",
-          "min": "20000",
-          "max": "4000000",
-          "disponible": "166.58"
-        },
-        {
-          "precio": 964.0,
-          "comerciante": "VelocePay",
-          "min": "300000",
-          "max": "1200000",
-          "disponible": "1734.83"
+          "precio": 963.999,
+          "comerciante": "DOBBY_CHANGE_P2P",
+          "min": "50000",
+          "max": "1892937",
+          "disponible": "712.95"
         }
       ]
     }
