@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-12T00:02:06+00:00",
-  "actualizado_ve": "2026-09-11T20:02:06-04:00",
+  "actualizado_utc": "2026-09-12T00:38:56+00:00",
+  "actualizado_ve": "2026-09-11T20:38:56-04:00",
   "bcv": {
     "usd": 842.2067,
     "eur": 977.8777773,
@@ -10,9 +10,9 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 962.2,
+    "referencia": 962.38,
     "venta": {
-      "promedio": 962.2,
+      "promedio": 962.38,
       "minimo": 961.0,
       "maximo": 965.0,
       "anuncios_usados": 5,
@@ -22,14 +22,14 @@
           "comerciante": "LordCambios",
           "min": "900000",
           "max": "16620000",
-          "disponible": "17222.80"
+          "disponible": "10961.28"
         },
         {
           "precio": 962.0,
           "comerciante": "Blank_Mind",
           "min": "2500000",
           "max": "36450000",
-          "disponible": "29000.00"
+          "disponible": "26375.06"
         },
         {
           "precio": 962.0,
@@ -39,64 +39,64 @@
           "disponible": "30000.00"
         },
         {
+          "precio": 961.9,
+          "comerciante": "GalaxyRose",
+          "min": "1500",
+          "max": "1600",
+          "disponible": "195.36"
+        },
+        {
           "precio": 961.0,
           "comerciante": "Trust-Broker",
           "min": "1000000",
           "max": "36450000",
-          "disponible": "26353.12"
-        },
-        {
-          "precio": 961.0,
-          "comerciante": "elianderm792",
-          "min": "1000000",
-          "max": "4000000",
-          "disponible": "4222.00"
+          "disponible": "22104.44"
         }
       ]
     },
     "compra": {
-      "promedio": 960.3376,
+      "promedio": 960.1558,
       "minimo": 960.0,
-      "maximo": 960.491,
+      "maximo": 960.54,
       "anuncios_usados": 5,
       "anuncios": [
         {
           "precio": 960.0,
-          "comerciante": "GABITOP2P",
+          "comerciante": "kalactronisorry",
           "min": "300",
-          "max": "999999",
+          "max": "4000000",
+          "disponible": "3.42"
+        },
+        {
+          "precio": 960.0,
+          "comerciante": "Lisss28",
+          "min": "18800",
+          "max": "19000",
           "disponible": "99.75"
         },
         {
-          "precio": 960.398,
-          "comerciante": "rParadas",
-          "min": "2000000",
-          "max": "15000000",
-          "disponible": "2469.65"
+          "precio": 960.0,
+          "comerciante": "Susann Columbo h3Ge",
+          "min": "150000",
+          "max": "500000",
+          "disponible": "376.05"
         },
         {
-          "precio": 960.399,
-          "comerciante": "MANTEQUILLAA",
-          "min": "4400000",
-          "max": "30000000",
-          "disponible": "18583.47"
+          "precio": 960.239,
+          "comerciante": "VelociCambiosMx",
+          "min": "76500",
+          "max": "76501",
+          "disponible": "109.58"
         },
         {
-          "precio": 960.4,
-          "comerciante": "EXCHANGE-PRO",
-          "min": "2000000",
-          "max": "36450000",
-          "disponible": "16479.40"
-        },
-        {
-          "precio": 960.491,
-          "comerciante": "BOLIVARES_BS",
-          "min": "3000000",
-          "max": "36450000",
-          "disponible": "5076.88"
+          "precio": 960.54,
+          "comerciante": "User-40410",
+          "min": "10000",
+          "max": "18000",
+          "disponible": "62.64"
         }
       ]
     }
   },
-  "brecha_pct": 14.25
+  "brecha_pct": 14.27
 }
