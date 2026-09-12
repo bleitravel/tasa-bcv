@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-12T20:01:59+00:00",
-  "actualizado_ve": "2026-09-12T16:01:59-04:00",
+  "actualizado_utc": "2026-09-12T20:37:31+00:00",
+  "actualizado_ve": "2026-09-12T16:37:31-04:00",
   "bcv": {
     "usd": 842.2067,
     "eur": 977.8777773,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 957.61,
+    "referencia": 956.98,
     "venta": {
-      "promedio": 957.61,
-      "minimo": 957.5,
-      "maximo": 957.8,
+      "promedio": 956.98,
+      "minimo": 956.7,
+      "maximo": 957.4,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 957.8,
-          "comerciante": "RapidPago94",
-          "min": "1500000",
+          "precio": 957.4,
+          "comerciante": "SnakeHorse",
+          "min": "500000",
           "max": "4000000",
-          "disponible": "25828.87"
+          "disponible": "3776.28"
         },
         {
-          "precio": 957.65,
+          "precio": 957.1,
           "comerciante": "Brawcoins",
           "min": "10000000",
           "max": "36450000",
-          "disponible": "58963.83"
+          "disponible": "46488.68"
         },
         {
-          "precio": 957.6,
-          "comerciante": "All-inCrypto",
-          "min": "3000000",
+          "precio": 957.0,
+          "comerciante": "Rapidflorio84",
+          "min": "5000000",
           "max": "36000000",
-          "disponible": "56221.57"
+          "disponible": "33875.52"
         },
         {
-          "precio": 957.5,
-          "comerciante": "PerdomoFintech",
-          "min": "1000000",
-          "max": "4000000",
-          "disponible": "4395.87"
-        },
-        {
-          "precio": 957.5,
-          "comerciante": "CRIPTO-2026",
+          "precio": 956.7,
+          "comerciante": "RapidPago94",
           "min": "1500000",
-          "max": "36450000",
-          "disponible": "31442.41"
+          "max": "4000000",
+          "disponible": "21594.66"
+        },
+        {
+          "precio": 956.7,
+          "comerciante": "SangetsuTrader",
+          "min": "1000000",
+          "max": "36000000",
+          "disponible": "2036.15"
         }
       ]
     },
     "compra": {
-      "promedio": 932.3118,
-      "minimo": 830.76,
-      "maximo": 958.0,
+      "promedio": 958.3342,
+      "minimo": 958.0,
+      "maximo": 958.87,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 830.76,
-          "comerciante": "frander88",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "103.28"
-        },
-        {
-          "precio": 957.0,
-          "comerciante": "FrankieFigs",
-          "min": "121000",
-          "max": "700000",
-          "disponible": "127.78"
-        },
-        {
-          "precio": 957.8,
-          "comerciante": "tucambioseguro",
-          "min": "100000",
-          "max": "4000000",
-          "disponible": "715.56"
-        },
-        {
-          "precio": 957.999,
-          "comerciante": "suicidancianas",
-          "min": "18000",
-          "max": "20001",
-          "disponible": "324.17"
+          "precio": 958.0,
+          "comerciante": "DanielBlancoE",
+          "min": "2820000",
+          "max": "2826100",
+          "disponible": "2944.11"
         },
         {
           "precio": 958.0,
-          "comerciante": "P2P-103c6abl",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "8.77"
+          "comerciante": "CambiosRocaFuerte",
+          "min": "190000",
+          "max": "191900",
+          "disponible": "199.50"
+        },
+        {
+          "precio": 958.001,
+          "comerciante": "gelittle1980",
+          "min": "10000",
+          "max": "10001",
+          "disponible": "91.21"
+        },
+        {
+          "precio": 958.8,
+          "comerciante": "Mr Day Leo",
+          "min": "250000",
+          "max": "1500000",
+          "disponible": "1796.85"
+        },
+        {
+          "precio": 958.87,
+          "comerciante": "Rubenpercu",
+          "min": "80000",
+          "max": "36450000",
+          "disponible": "84.05"
         }
       ]
     }
   },
-  "brecha_pct": 13.7
+  "brecha_pct": 13.63
 }
