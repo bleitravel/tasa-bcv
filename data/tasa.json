@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-12T02:34:32+00:00",
-  "actualizado_ve": "2026-09-11T22:34:32-04:00",
+  "actualizado_utc": "2026-09-12T03:01:47+00:00",
+  "actualizado_ve": "2026-09-11T23:01:47-04:00",
   "bcv": {
     "usd": 842.2067,
     "eur": 977.8777773,
@@ -10,9 +10,9 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 961.8422,
+    "referencia": 961.7616,
     "venta": {
-      "promedio": 961.8422,
+      "promedio": 961.7616,
       "minimo": 961.1,
       "maximo": 963.005,
       "anuncios_usados": 5,
@@ -25,18 +25,18 @@
           "disponible": "21540.20"
         },
         {
-          "precio": 962.005,
-          "comerciante": "Trust-Broker",
-          "min": "1000000",
-          "max": "36450000",
-          "disponible": "19552.56"
+          "precio": 962.5,
+          "comerciante": "PepiLLC",
+          "min": "500000",
+          "max": "4000000",
+          "disponible": "30000.00"
         },
         {
-          "precio": 962.0,
-          "comerciante": "PepiLLC",
-          "min": "100000",
-          "max": "4000000",
-          "disponible": "25015.10"
+          "precio": 961.102,
+          "comerciante": "Marquez25",
+          "min": "120000",
+          "max": "1500000",
+          "disponible": "6820.32"
         },
         {
           "precio": 961.101,
@@ -50,16 +50,30 @@
           "comerciante": "calorina sankey",
           "min": "2000000",
           "max": "4000000",
-          "disponible": "15000.53"
+          "disponible": "11206.11"
         }
       ]
     },
     "compra": {
-      "promedio": 963.5396,
-      "minimo": 962.5,
-      "maximo": 963.998,
+      "promedio": 962.4598,
+      "minimo": 961.0,
+      "maximo": 963.799,
       "anuncios_usados": 5,
       "anuncios": [
+        {
+          "precio": 961.0,
+          "comerciante": "Ronaldelectro",
+          "min": "1690000",
+          "max": "1690000",
+          "disponible": "1995.01"
+        },
+        {
+          "precio": 962.0,
+          "comerciante": "fapay",
+          "min": "23957",
+          "max": "23958",
+          "disponible": "100.74"
+        },
         {
           "precio": 962.5,
           "comerciante": "User-6045a8yh",
@@ -68,35 +82,21 @@
           "disponible": "0.51"
         },
         {
-          "precio": 963.5,
-          "comerciante": "yordanys1",
-          "min": "450000",
-          "max": "500000",
-          "disponible": "492.26"
-        },
-        {
-          "precio": 963.8,
-          "comerciante": "Universal__Cash",
-          "min": "80000",
-          "max": "380000",
-          "disponible": "99.75"
-        },
-        {
-          "precio": 963.9,
-          "comerciante": "nene",
-          "min": "109000",
-          "max": "1000000",
-          "disponible": "114.36"
-        },
-        {
-          "precio": 963.998,
-          "comerciante": "SmOokP2p",
+          "precio": 963.0,
+          "comerciante": "Joseal1",
           "min": "300",
-          "max": "172000",
-          "disponible": "1.48"
+          "max": "4000000",
+          "disponible": "1.93"
+        },
+        {
+          "precio": 963.799,
+          "comerciante": "KSTAKE77",
+          "min": "400000",
+          "max": "13000000",
+          "disponible": "3207.30"
         }
       ]
     }
   },
-  "brecha_pct": 14.21
+  "brecha_pct": 14.2
 }
