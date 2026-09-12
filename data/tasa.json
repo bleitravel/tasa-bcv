@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-12T06:02:07+00:00",
-  "actualizado_ve": "2026-09-12T02:02:07-04:00",
+  "actualizado_utc": "2026-09-12T06:37:51+00:00",
+  "actualizado_ve": "2026-09-12T02:37:51-04:00",
   "bcv": {
     "usd": 842.2067,
     "eur": 977.8777773,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 960.056,
+    "referencia": 959.696,
     "venta": {
-      "promedio": 960.056,
-      "minimo": 958.78,
+      "promedio": 959.696,
+      "minimo": 958.2,
       "maximo": 962.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -32,13 +32,6 @@
           "disponible": "28000.00"
         },
         {
-          "precio": 960.0,
-          "comerciante": "rafa",
-          "min": "482000",
-          "max": "4000000",
-          "disponible": "503.00"
-        },
-        {
           "precio": 959.5,
           "comerciante": "Jin-Woo-Sung",
           "min": "4000000",
@@ -51,22 +44,22 @@
           "min": "1000000",
           "max": "36400000",
           "disponible": "78414.70"
+        },
+        {
+          "precio": 958.2,
+          "comerciante": "UltraEnvioJM",
+          "min": "20000",
+          "max": "4000000",
+          "disponible": "8177.72"
         }
       ]
     },
     "compra": {
-      "promedio": 963.9778,
-      "minimo": 963.9,
-      "maximo": 964.0,
+      "promedio": 964.0558,
+      "minimo": 963.99,
+      "maximo": 964.2,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 963.9,
-          "comerciante": "S3bss_Exchang3",
-          "min": "2000000",
-          "max": "10000000",
-          "disponible": "6420.69"
-        },
         {
           "precio": 963.99,
           "comerciante": "JOSE-ARAB",
@@ -83,20 +76,27 @@
         },
         {
           "precio": 964.0,
-          "comerciante": "AENETEACHEOENEYE",
-          "min": "3000000",
-          "max": "8500000",
-          "disponible": "9196.56"
+          "comerciante": "P2P-18b62ey5",
+          "min": "300",
+          "max": "97000",
+          "disponible": "8.09"
         },
         {
-          "precio": 964.0,
-          "comerciante": "Samirrrrrrr",
-          "min": "800000",
-          "max": "14000000",
-          "disponible": "1000.00"
+          "precio": 964.09,
+          "comerciante": "EKExpress",
+          "min": "3000000",
+          "max": "36450000",
+          "disponible": "18948.66"
+        },
+        {
+          "precio": 964.2,
+          "comerciante": "User-95450",
+          "min": "5000000",
+          "max": "25000000",
+          "disponible": "20894.05"
         }
       ]
     }
   },
-  "brecha_pct": 13.99
+  "brecha_pct": 13.95
 }
