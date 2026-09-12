@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-12T21:32:54+00:00",
-  "actualizado_ve": "2026-09-12T17:32:54-04:00",
+  "actualizado_utc": "2026-09-12T22:01:57+00:00",
+  "actualizado_ve": "2026-09-12T18:01:57-04:00",
   "bcv": {
     "usd": 842.2067,
     "eur": 977.8777773,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 956.35,
+    "referencia": 956.044,
     "venta": {
-      "promedio": 956.35,
-      "minimo": 955.9,
-      "maximo": 958.0,
+      "promedio": 956.044,
+      "minimo": 956.001,
+      "maximo": 956.107,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 958.0,
-          "comerciante": "calorina sankey",
-          "min": "1000000",
-          "max": "4000000",
-          "disponible": "8400.00"
-        },
-        {
-          "precio": 956.0,
-          "comerciante": "-TSxRV-",
+          "precio": 956.107,
+          "comerciante": "TOPlevelS",
           "min": "10000000",
-          "max": "36450000",
-          "disponible": "71085.12"
+          "max": "36000000",
+          "disponible": "80000.00"
         },
         {
-          "precio": 955.93,
-          "comerciante": "angelchacon",
-          "min": "7000000",
-          "max": "36450000",
-          "disponible": "29600.06"
-        },
-        {
-          "precio": 955.92,
-          "comerciante": "YGinversiones",
-          "min": "5000000",
-          "max": "36350000",
-          "disponible": "43000.00"
-        },
-        {
-          "precio": 955.9,
+          "precio": 956.1,
           "comerciante": "Rapidflorio84",
           "min": "5000000",
           "max": "36000000",
           "disponible": "43000.06"
+        },
+        {
+          "precio": 956.01,
+          "comerciante": "-TSxRV-",
+          "min": "1500000",
+          "max": "36450000",
+          "disponible": "41431.54"
+        },
+        {
+          "precio": 956.002,
+          "comerciante": "All-inCrypto",
+          "min": "3000000",
+          "max": "36000000",
+          "disponible": "27041.80"
+        },
+        {
+          "precio": 956.001,
+          "comerciante": "FlashRaid",
+          "min": "2000000",
+          "max": "15000000",
+          "disponible": "30068.72"
         }
       ]
     },
     "compra": {
-      "promedio": 957.338,
-      "minimo": 957.0,
-      "maximo": 957.5,
+      "promedio": 956.9796,
+      "minimo": 956.898,
+      "maximo": 957.1,
       "anuncios_usados": 5,
       "anuncios": [
         {
+          "precio": 956.898,
+          "comerciante": "ChandeNQ",
+          "min": "300000",
+          "max": "4000000",
+          "disponible": "1880.17"
+        },
+        {
+          "precio": 956.9,
+          "comerciante": "JOSE-ARAB",
+          "min": "70000",
+          "max": "600000",
+          "disponible": "299.25"
+        },
+        {
           "precio": 957.0,
-          "comerciante": "Crisoseas",
-          "min": "100000",
-          "max": "4000000",
-          "disponible": "1289.10"
+          "comerciante": "Ixof",
+          "min": "10000",
+          "max": "96000",
+          "disponible": "42.30"
         },
         {
-          "precio": 957.2,
-          "comerciante": "GlobalBusinessmx",
-          "min": "82080",
-          "max": "82081",
+          "precio": 957.0,
+          "comerciante": "HenderMC",
+          "min": "30000",
+          "max": "400000",
+          "disponible": "128.78"
+        },
+        {
+          "precio": 957.1,
+          "comerciante": "Carmen Ceciliac4",
+          "min": "4785",
+          "max": "28710",
           "disponible": "99.75"
-        },
-        {
-          "precio": 957.49,
-          "comerciante": "ChillRemesas",
-          "min": "50000",
-          "max": "124000",
-          "disponible": "129.67"
-        },
-        {
-          "precio": 957.5,
-          "comerciante": "BreMerLo",
-          "min": "100000",
-          "max": "244000",
-          "disponible": "133.80"
-        },
-        {
-          "precio": 957.5,
-          "comerciante": "TU_CAMBIO_GCL",
-          "min": "100000",
-          "max": "4000000",
-          "disponible": "115.96"
         }
       ]
     }
   },
-  "brecha_pct": 13.55
+  "brecha_pct": 13.52
 }
