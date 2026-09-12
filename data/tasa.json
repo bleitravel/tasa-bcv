@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-12T07:01:36+00:00",
-  "actualizado_ve": "2026-09-12T03:01:36-04:00",
+  "actualizado_utc": "2026-09-12T07:32:34+00:00",
+  "actualizado_ve": "2026-09-12T03:32:34-04:00",
   "bcv": {
     "usd": 842.2067,
     "eur": 977.8777773,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 959.696,
+    "referencia": 959.3958,
     "venta": {
-      "promedio": 959.696,
-      "minimo": 958.2,
+      "promedio": 959.3958,
+      "minimo": 958.099,
       "maximo": 962.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -32,13 +32,6 @@
           "disponible": "28000.00"
         },
         {
-          "precio": 959.5,
-          "comerciante": "Jin-Woo-Sung",
-          "min": "4000000",
-          "max": "36450000",
-          "disponible": "50000.00"
-        },
-        {
           "precio": 958.78,
           "comerciante": "ReadyToTrade_",
           "min": "1000000",
@@ -46,16 +39,23 @@
           "disponible": "78414.70"
         },
         {
-          "precio": 958.2,
-          "comerciante": "UltraEnvioJM",
-          "min": "20000",
-          "max": "4000000",
-          "disponible": "7842.77"
+          "precio": 958.1,
+          "comerciante": "-Ledger-",
+          "min": "200000",
+          "max": "36450000",
+          "disponible": "51100.86"
+        },
+        {
+          "precio": 958.099,
+          "comerciante": "NewtScamander",
+          "min": "300000",
+          "max": "36450000",
+          "disponible": "11400.12"
         }
       ]
     },
     "compra": {
-      "promedio": 963.9978,
+      "promedio": 963.9958,
       "minimo": 963.99,
       "maximo": 964.0,
       "anuncios_usados": 5,
@@ -68,6 +68,13 @@
           "disponible": "498.75"
         },
         {
+          "precio": 963.99,
+          "comerciante": "Puertblue",
+          "min": "19000",
+          "max": "192578",
+          "disponible": "199.50"
+        },
+        {
           "precio": 963.999,
           "comerciante": "JesCrypto-P2P",
           "min": "300",
@@ -76,27 +83,20 @@
         },
         {
           "precio": 964.0,
-          "comerciante": "P2P-18b62ey5",
-          "min": "300",
-          "max": "97000",
-          "disponible": "3.04"
-        },
-        {
-          "precio": 964.0,
-          "comerciante": "AlejandrojP2P",
-          "min": "400000",
-          "max": "36450000",
-          "disponible": "977.22"
-        },
-        {
-          "precio": 964.0,
           "comerciante": "jessicagallardo",
           "min": "20000",
           "max": "4000000",
           "disponible": "166.58"
+        },
+        {
+          "precio": 964.0,
+          "comerciante": "VelocePay",
+          "min": "300000",
+          "max": "1200000",
+          "disponible": "1734.83"
         }
       ]
     }
   },
-  "brecha_pct": 13.95
+  "brecha_pct": 13.91
 }
