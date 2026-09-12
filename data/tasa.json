@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-12T19:32:02+00:00",
-  "actualizado_ve": "2026-09-12T15:32:02-04:00",
+  "actualizado_utc": "2026-09-12T20:01:59+00:00",
+  "actualizado_ve": "2026-09-12T16:01:59-04:00",
   "bcv": {
     "usd": 842.2067,
     "eur": 977.8777773,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 958.2258,
+    "referencia": 957.61,
     "venta": {
-      "promedio": 958.2258,
-      "minimo": 958.07,
-      "maximo": 958.5,
+      "promedio": 957.61,
+      "minimo": 957.5,
+      "maximo": 957.8,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 958.5,
-          "comerciante": "Mimosin27",
-          "min": "2000000",
+          "precio": 957.8,
+          "comerciante": "RapidPago94",
+          "min": "1500000",
           "max": "4000000",
-          "disponible": "10550.00"
+          "disponible": "25828.87"
         },
         {
-          "precio": 958.2,
+          "precio": 957.65,
           "comerciante": "Brawcoins",
           "min": "10000000",
           "max": "36450000",
-          "disponible": "69563.77"
+          "disponible": "58963.83"
         },
         {
-          "precio": 958.199,
-          "comerciante": "CRIPTO-2026",
-          "min": "7000000",
-          "max": "36450000",
-          "disponible": "76432.91"
-        },
-        {
-          "precio": 958.16,
-          "comerciante": "改善ThorFinn改善",
-          "min": "6000000",
-          "max": "36450000",
-          "disponible": "13675.06"
-        },
-        {
-          "precio": 958.07,
+          "precio": 957.6,
           "comerciante": "All-inCrypto",
           "min": "3000000",
           "max": "36000000",
-          "disponible": "65931.68"
+          "disponible": "56221.57"
+        },
+        {
+          "precio": 957.5,
+          "comerciante": "PerdomoFintech",
+          "min": "1000000",
+          "max": "4000000",
+          "disponible": "4395.87"
+        },
+        {
+          "precio": 957.5,
+          "comerciante": "CRIPTO-2026",
+          "min": "1500000",
+          "max": "36450000",
+          "disponible": "31442.41"
         }
       ]
     },
     "compra": {
-      "promedio": 958.7956,
-      "minimo": 957.979,
-      "maximo": 959.0,
+      "promedio": 932.3118,
+      "minimo": 830.76,
+      "maximo": 958.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 957.979,
-          "comerciante": "edjaen",
-          "min": "10999",
-          "max": "11000",
-          "disponible": "99.75"
-        },
-        {
-          "precio": 958.999,
-          "comerciante": "Jcastillo18",
-          "min": "50000",
+          "precio": 830.76,
+          "comerciante": "frander88",
+          "min": "300",
           "max": "4000000",
-          "disponible": "99.75"
+          "disponible": "103.28"
         },
         {
-          "precio": 959.0,
-          "comerciante": "inversionessofia",
-          "min": "5000",
-          "max": "384000",
-          "disponible": "9.15"
+          "precio": 957.0,
+          "comerciante": "FrankieFigs",
+          "min": "121000",
+          "max": "700000",
+          "disponible": "127.78"
         },
         {
-          "precio": 959.0,
-          "comerciante": "Kennt_26",
-          "min": "2910",
+          "precio": 957.8,
+          "comerciante": "tucambioseguro",
+          "min": "100000",
           "max": "4000000",
-          "disponible": "12.61"
+          "disponible": "715.56"
         },
         {
-          "precio": 959.0,
-          "comerciante": "GK Solutions Group",
-          "min": "20000",
-          "max": "30000",
-          "disponible": "73.69"
+          "precio": 957.999,
+          "comerciante": "suicidancianas",
+          "min": "18000",
+          "max": "20001",
+          "disponible": "324.17"
+        },
+        {
+          "precio": 958.0,
+          "comerciante": "P2P-103c6abl",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "8.77"
         }
       ]
     }
   },
-  "brecha_pct": 13.78
+  "brecha_pct": 13.7
 }
