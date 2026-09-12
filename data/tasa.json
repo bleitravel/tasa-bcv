@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-12T06:37:51+00:00",
-  "actualizado_ve": "2026-09-12T02:37:51-04:00",
+  "actualizado_utc": "2026-09-12T07:01:36+00:00",
+  "actualizado_ve": "2026-09-12T03:01:36-04:00",
   "bcv": {
     "usd": 842.2067,
     "eur": 977.8777773,
@@ -50,14 +50,14 @@
           "comerciante": "UltraEnvioJM",
           "min": "20000",
           "max": "4000000",
-          "disponible": "8177.72"
+          "disponible": "7842.77"
         }
       ]
     },
     "compra": {
-      "promedio": 964.0558,
+      "promedio": 963.9978,
       "minimo": 963.99,
-      "maximo": 964.2,
+      "maximo": 964.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -79,21 +79,21 @@
           "comerciante": "P2P-18b62ey5",
           "min": "300",
           "max": "97000",
-          "disponible": "8.09"
+          "disponible": "3.04"
         },
         {
-          "precio": 964.09,
-          "comerciante": "EKExpress",
-          "min": "3000000",
+          "precio": 964.0,
+          "comerciante": "AlejandrojP2P",
+          "min": "400000",
           "max": "36450000",
-          "disponible": "18948.66"
+          "disponible": "977.22"
         },
         {
-          "precio": 964.2,
-          "comerciante": "User-95450",
-          "min": "5000000",
-          "max": "25000000",
-          "disponible": "20894.05"
+          "precio": 964.0,
+          "comerciante": "jessicagallardo",
+          "min": "20000",
+          "max": "4000000",
+          "disponible": "166.58"
         }
       ]
     }
