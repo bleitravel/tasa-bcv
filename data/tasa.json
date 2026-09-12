@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-12T15:32:44+00:00",
-  "actualizado_ve": "2026-09-12T11:32:44-04:00",
+  "actualizado_utc": "2026-09-12T16:02:05+00:00",
+  "actualizado_ve": "2026-09-12T12:02:05-04:00",
   "bcv": {
     "usd": 842.2067,
     "eur": 977.8777773,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 960.074,
+    "referencia": 960.168,
     "venta": {
-      "promedio": 960.074,
-      "minimo": 959.33,
+      "promedio": 960.168,
+      "minimo": 959.3,
       "maximo": 962.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -22,81 +22,81 @@
           "comerciante": "Trust-Broker",
           "min": "2000000",
           "max": "36450000",
-          "disponible": "17700.18"
+          "disponible": "9621.24"
         },
         {
           "precio": 960.005,
           "comerciante": "Trust-Broker",
           "min": "1000000",
           "max": "36450000",
-          "disponible": "12169.56"
+          "disponible": "9877.91"
         },
         {
-          "precio": 959.535,
+          "precio": 959.835,
           "comerciante": "Sillebram",
           "min": "2500000",
           "max": "4000000",
-          "disponible": "11049.82"
+          "disponible": "18846.02"
         },
         {
-          "precio": 959.5,
-          "comerciante": "王冠__你们的头",
-          "min": "500000",
-          "max": "36450000",
-          "disponible": "26326.26"
-        },
-        {
-          "precio": 959.33,
-          "comerciante": "TOPlevelS",
-          "min": "10000000",
+          "precio": 959.7,
+          "comerciante": "RubenNYC",
+          "min": "5000000",
           "max": "36000000",
-          "disponible": "39158.68"
+          "disponible": "14568.58"
+        },
+        {
+          "precio": 959.3,
+          "comerciante": "YGinversiones",
+          "min": "5000000",
+          "max": "36350000",
+          "disponible": "22848.30"
         }
       ]
     },
     "compra": {
-      "promedio": 958.998,
-      "minimo": 958.99,
-      "maximo": 959.0,
+      "promedio": 959.0582,
+      "minimo": 959.0,
+      "maximo": 959.29,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 958.99,
-          "comerciante": "CANH16",
-          "min": "400",
-          "max": "95000",
-          "disponible": "10.13"
-        },
-        {
           "precio": 959.0,
-          "comerciante": "Leon",
-          "min": "300",
+          "comerciante": "gabo0105",
+          "min": "5000",
           "max": "4000000",
-          "disponible": "6.44"
+          "disponible": "13.56"
         },
         {
           "precio": 959.0,
-          "comerciante": "ROYEXCHANGE1",
-          "min": "1000",
-          "max": "10000",
-          "disponible": "89.33"
+          "comerciante": "ELIRIPAOLA",
+          "min": "9589",
+          "max": "9590",
+          "disponible": "99.75"
         },
         {
           "precio": 959.0,
-          "comerciante": "NGORDO_20-20",
-          "min": "100000",
-          "max": "148000",
-          "disponible": "154.16"
+          "comerciante": "MzVentasCripto",
+          "min": "427600",
+          "max": "427601",
+          "disponible": "445.88"
         },
         {
-          "precio": 959.0,
-          "comerciante": "MrBitkoin",
-          "min": "145000",
-          "max": "191800",
-          "disponible": "199.50"
+          "precio": 959.001,
+          "comerciante": "P2P-VenGe",
+          "min": "8000",
+          "max": "20000",
+          "disponible": "86.62"
+        },
+        {
+          "precio": 959.29,
+          "comerciante": "Fabvsm",
+          "min": "59000",
+          "max": "59100",
+          "disponible": "99.75"
         }
       ]
     }
   },
-  "brecha_pct": 14.0
+  "brecha_pct": 14.01
 }
