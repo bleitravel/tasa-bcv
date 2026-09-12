@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-12T14:34:46+00:00",
-  "actualizado_ve": "2026-09-12T10:34:46-04:00",
+  "actualizado_utc": "2026-09-12T15:01:40+00:00",
+  "actualizado_ve": "2026-09-12T11:01:40-04:00",
   "bcv": {
     "usd": 842.2067,
     "eur": 977.8777773,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 961.0,
+    "referencia": 960.901,
     "venta": {
-      "promedio": 961.0,
+      "promedio": 960.901,
       "minimo": 960.0,
       "maximo": 962.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
           "precio": 962.0,
-          "comerciante": "Blank_Mind",
+          "comerciante": "Trust-Broker",
           "min": "2000000",
           "max": "36450000",
-          "disponible": "13475.30"
+          "disponible": "27900.06"
         },
         {
           "precio": 962.0,
-          "comerciante": "Trust-Broker",
+          "comerciante": "Blank_Mind",
           "min": "2000000",
           "max": "36450000",
-          "disponible": "30000.00"
+          "disponible": "4900.00"
         },
         {
-          "precio": 961.0,
+          "precio": 960.5,
+          "comerciante": "Toptradedog",
+          "min": "1000000",
+          "max": "4000000",
+          "disponible": "8886.86"
+        },
+        {
+          "precio": 960.005,
           "comerciante": "Trust-Broker",
           "min": "1000000",
           "max": "36450000",
-          "disponible": "17440.68"
-        },
-        {
-          "precio": 960.0,
-          "comerciante": "John-Deere",
-          "min": "15000000",
-          "max": "36450000",
-          "disponible": "20429.32"
+          "disponible": "12169.56"
         },
         {
           "precio": 960.0,
           "comerciante": "王冠__你们的头",
           "min": "500000",
           "max": "36450000",
-          "disponible": "28989.59"
+          "disponible": "27462.71"
         }
       ]
     },
     "compra": {
-      "promedio": 960.5876,
-      "minimo": 959.0,
-      "maximo": 960.999,
+      "promedio": 959.9978,
+      "minimo": 959.99,
+      "maximo": 960.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 959.0,
-          "comerciante": "SnixCryptoFinance",
+          "precio": 959.99,
+          "comerciante": "FJDC_P2Pfx",
+          "min": "5000",
+          "max": "289000",
+          "disponible": "24.47"
+        },
+        {
+          "precio": 959.999,
+          "comerciante": "juanmv91",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "99.75"
+        },
+        {
+          "precio": 960.0,
+          "comerciante": "Vcambios-14",
+          "min": "20000",
+          "max": "254000",
+          "disponible": "53.20"
+        },
+        {
+          "precio": 960.0,
+          "comerciante": "tineoc0301",
           "min": "10000",
-          "max": "30000",
-          "disponible": "99.82"
+          "max": "200000",
+          "disponible": "139.44"
         },
         {
-          "precio": 960.95,
-          "comerciante": "正直高尚的人",
-          "min": "90000",
-          "max": "4000000",
-          "disponible": "104.98"
-        },
-        {
-          "precio": 960.99,
-          "comerciante": "CriptoFlass",
-          "min": "100000",
-          "max": "4000000",
-          "disponible": "258.17"
-        },
-        {
-          "precio": 960.999,
-          "comerciante": "AndressDuo",
-          "min": "3000",
-          "max": "100000",
-          "disponible": "68.39"
-        },
-        {
-          "precio": 960.999,
-          "comerciante": "Alex2027",
-          "min": "26000",
-          "max": "85000",
-          "disponible": "99.80"
+          "precio": 960.0,
+          "comerciante": "ServiLider",
+          "min": "70000",
+          "max": "800000",
+          "disponible": "95.84"
         }
       ]
     }
   },
-  "brecha_pct": 14.11
+  "brecha_pct": 14.09
 }
