@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-12T08:02:02+00:00",
-  "actualizado_ve": "2026-09-12T04:02:02-04:00",
+  "actualizado_utc": "2026-09-12T08:34:23+00:00",
+  "actualizado_ve": "2026-09-12T04:34:23-04:00",
   "bcv": {
     "usd": 842.2067,
     "eur": 977.8777773,
@@ -10,9 +10,9 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 959.3958,
+    "referencia": 959.2638,
     "venta": {
-      "promedio": 959.3958,
+      "promedio": 959.2638,
       "minimo": 958.099,
       "maximo": 962.0,
       "anuncios_usados": 5,
@@ -32,18 +32,18 @@
           "disponible": "28000.00"
         },
         {
-          "precio": 958.78,
+          "precio": 958.12,
           "comerciante": "ReadyToTrade_",
           "min": "1000000",
           "max": "36400000",
-          "disponible": "78414.70"
+          "disponible": "75512.84"
         },
         {
           "precio": 958.1,
           "comerciante": "-Ledger-",
           "min": "200000",
           "max": "36450000",
-          "disponible": "49948.60"
+          "disponible": "48904.87"
         },
         {
           "precio": 958.099,
@@ -55,17 +55,17 @@
       ]
     },
     "compra": {
-      "promedio": 963.951,
-      "minimo": 963.777,
+      "promedio": 963.7956,
+      "minimo": 963.0,
       "maximo": 963.999,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 963.777,
+          "precio": 963.0,
           "comerciante": "PROFESlONAL",
-          "min": "90000",
+          "min": "190000",
           "max": "5000000",
-          "disponible": "388.30"
+          "disponible": "455.91"
         },
         {
           "precio": 963.99,
@@ -79,7 +79,7 @@
           "comerciante": "DG_Trading_",
           "min": "190000",
           "max": "10000000",
-          "disponible": "1197.93"
+          "disponible": "1321.22"
         },
         {
           "precio": 963.999,
@@ -93,10 +93,10 @@
           "comerciante": "DOBBY_CHANGE_P2P",
           "min": "50000",
           "max": "1892937",
-          "disponible": "712.95"
+          "disponible": "659.49"
         }
       ]
     }
   },
-  "brecha_pct": 13.91
+  "brecha_pct": 13.9
 }
