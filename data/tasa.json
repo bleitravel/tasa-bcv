@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-12T23:31:43+00:00",
-  "actualizado_ve": "2026-09-12T19:31:43-04:00",
+  "actualizado_utc": "2026-09-13T00:02:17+00:00",
+  "actualizado_ve": "2026-09-12T20:02:17-04:00",
   "bcv": {
     "usd": 842.2067,
     "eur": 977.8777773,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 956.1136,
+    "referencia": 956.1856,
     "venta": {
-      "promedio": 956.1136,
-      "minimo": 955.855,
+      "promedio": 956.1856,
+      "minimo": 955.921,
       "maximo": 957.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
           "precio": 957.0,
-          "comerciante": "CROMOSOMA-21",
+          "comerciante": "Cross-26",
           "min": "15000000",
-          "max": "36450000",
+          "max": "36000000",
           "disponible": "80000.00"
         },
         {
-          "precio": 955.908,
+          "precio": 956.008,
           "comerciante": "TOPlevelS",
           "min": "10000000",
           "max": "36000000",
           "disponible": "56000.12"
         },
         {
-          "precio": 955.905,
-          "comerciante": "-Tyrion-Lannister-",
-          "min": "2000000",
-          "max": "36450000",
-          "disponible": "6100.00"
+          "precio": 956.0,
+          "comerciante": "Srexchanges",
+          "min": "500000",
+          "max": "24644000",
+          "disponible": "13920.12"
         },
         {
-          "precio": 955.9,
-          "comerciante": "Trust-Broker",
-          "min": "3000000",
+          "precio": 955.999,
+          "comerciante": "NewtScamander",
+          "min": "400000",
           "max": "36450000",
-          "disponible": "50000.00"
+          "disponible": "40000.00"
         },
         {
-          "precio": 955.855,
-          "comerciante": "Rapidflorio84",
-          "min": "5000000",
-          "max": "36000000",
-          "disponible": "50000.00"
+          "precio": 955.921,
+          "comerciante": "CRIPTO-2026",
+          "min": "6000000",
+          "max": "36450000",
+          "disponible": "80000.00"
         }
       ]
     },
     "compra": {
-      "promedio": 956.8168,
-      "minimo": 956.49,
-      "maximo": 956.918,
+      "promedio": 956.3834,
+      "minimo": 956.0,
+      "maximo": 956.718,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 956.49,
-          "comerciante": "Bluehouse03",
-          "min": "350000",
-          "max": "1100000",
-          "disponible": "590.82"
+          "precio": 956.0,
+          "comerciante": "andry0212",
+          "min": "28890",
+          "max": "28891",
+          "disponible": "99.75"
         },
         {
-          "precio": 956.877,
-          "comerciante": "Cambio-Ideal",
-          "min": "5000",
-          "max": "250000",
-          "disponible": "64.37"
+          "precio": 956.3,
+          "comerciante": "tineoc0301",
+          "min": "10000",
+          "max": "200000",
+          "disponible": "113.22"
         },
         {
-          "precio": 956.899,
+          "precio": 956.399,
           "comerciante": "VelociCambiosMx",
-          "min": "255000",
-          "max": "255001",
-          "disponible": "329.09"
+          "min": "51000",
+          "max": "51001",
+          "disponible": "103.54"
         },
         {
-          "precio": 956.9,
-          "comerciante": "Wil-Master",
-          "min": "500000",
-          "max": "600000",
-          "disponible": "734.98"
+          "precio": 956.5,
+          "comerciante": "CriptoJAS2",
+          "min": "30000",
+          "max": "250000",
+          "disponible": "86.92"
         },
         {
-          "precio": 956.918,
+          "precio": 956.718,
           "comerciante": "adrubita",
-          "min": "853000",
+          "min": "1543000",
           "max": "10000000",
-          "disponible": "893.81"
+          "disponible": "1613.23"
         }
       ]
     }
   },
-  "brecha_pct": 13.52
+  "brecha_pct": 13.53
 }
