@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-13T01:34:41+00:00",
-  "actualizado_ve": "2026-09-12T21:34:41-04:00",
+  "actualizado_utc": "2026-09-13T02:01:50+00:00",
+  "actualizado_ve": "2026-09-12T22:01:50-04:00",
   "bcv": {
     "usd": 842.2067,
     "eur": 977.8777773,
@@ -10,54 +10,54 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 956.8364,
+    "referencia": 957.8406,
     "venta": {
-      "promedio": 956.8364,
-      "minimo": 956.72,
-      "maximo": 957.0,
+      "promedio": 957.8406,
+      "minimo": 957.3,
+      "maximo": 958.6,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 957.0,
-          "comerciante": "FromVillage",
-          "min": "3000000",
-          "max": "36450000",
-          "disponible": "15176.40"
+          "precio": 958.6,
+          "comerciante": "Avatar_Roku",
+          "min": "800000",
+          "max": "36000000",
+          "disponible": "18700.57"
         },
         {
-          "precio": 957.0,
-          "comerciante": "carolinacwf",
-          "min": "2000000",
-          "max": "4000000",
-          "disponible": "30000.00"
+          "precio": 958.5,
+          "comerciante": "JMCrip26",
+          "min": "1000000",
+          "max": "18237000",
+          "disponible": "19086.00"
         },
         {
-          "precio": 956.732,
+          "precio": 957.5,
+          "comerciante": "Ma2317",
+          "min": "8323",
+          "max": "8325",
+          "disponible": "100.00"
+        },
+        {
+          "precio": 957.303,
           "comerciante": "TOPlevelS",
           "min": "10000000",
           "max": "36000000",
           "disponible": "42396.06"
         },
         {
-          "precio": 956.73,
-          "comerciante": "EverCryptoUSDT ",
-          "min": "1000000",
-          "max": "22198219",
-          "disponible": "22173.54"
-        },
-        {
-          "precio": 956.72,
-          "comerciante": "MolinetCoin",
-          "min": "600000",
-          "max": "9100000",
-          "disponible": "4593.06"
+          "precio": 957.3,
+          "comerciante": "SpaceX_Trader",
+          "min": "1500000",
+          "max": "36400000",
+          "disponible": "48000.06"
         }
       ]
     },
     "compra": {
-      "promedio": 958.0998,
+      "promedio": 958.7576,
       "minimo": 956.999,
-      "maximo": 959.0,
+      "maximo": 959.899,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,18 +68,11 @@
           "disponible": "0.98"
         },
         {
-          "precio": 957.5,
-          "comerciante": "tupanal",
-          "min": "20000",
-          "max": "50000",
-          "disponible": "49.72"
-        },
-        {
           "precio": 958.0,
-          "comerciante": "hiran_abi_cordero",
-          "min": "300",
-          "max": "25000",
-          "disponible": "0.43"
+          "comerciante": "Giros y Cambios RP",
+          "min": "289930",
+          "max": "292190",
+          "disponible": "304.23"
         },
         {
           "precio": 959.0,
@@ -89,14 +82,21 @@
           "disponible": "1.97"
         },
         {
-          "precio": 959.0,
-          "comerciante": "x88rising",
-          "min": "3000000",
-          "max": "36450000",
-          "disponible": "3890.60"
+          "precio": 959.89,
+          "comerciante": "SatoruEXchange",
+          "min": "600000",
+          "max": "1000000",
+          "disponible": "1418.10"
+        },
+        {
+          "precio": 959.899,
+          "comerciante": "CryptoMendoza--",
+          "min": "1000000",
+          "max": "15000000",
+          "disponible": "3240.59"
         }
       ]
     }
   },
-  "brecha_pct": 13.61
+  "brecha_pct": 13.73
 }
