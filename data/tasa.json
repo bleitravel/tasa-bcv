@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-13T18:36:23+00:00",
-  "actualizado_ve": "2026-09-13T14:36:23-04:00",
+  "actualizado_utc": "2026-09-13T19:01:40+00:00",
+  "actualizado_ve": "2026-09-13T15:01:40-04:00",
   "bcv": {
     "usd": 842.2067,
     "eur": 977.8777773,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 961.4202,
+    "referencia": 961.3704,
     "venta": {
-      "promedio": 961.4202,
-      "minimo": 960.501,
+      "promedio": 961.3704,
+      "minimo": 960.702,
       "maximo": 963.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -22,57 +22,71 @@
           "comerciante": "Trust-Broker",
           "min": "1000000",
           "max": "36450000",
-          "disponible": "16659.66"
+          "disponible": "13067.51"
         },
         {
-          "precio": 962.0,
-          "comerciante": "GAZA_CRIPTO",
-          "min": "36450000",
-          "max": "775452400",
-          "disponible": "150000.00"
+          "precio": 961.1,
+          "comerciante": "CRIPTO-2026",
+          "min": "2344798",
+          "max": "36450000",
+          "disponible": "2439.71"
+        },
+        {
+          "precio": 961.05,
+          "comerciante": "JoseParedez",
+          "min": "7000000",
+          "max": "36450000",
+          "disponible": "61799.48"
         },
         {
           "precio": 961.0,
-          "comerciante": "PEJAGOBLA",
-          "min": "2000000",
-          "max": "36450000",
-          "disponible": "49514.32"
+          "comerciante": "Infiniti_Ronin",
+          "min": "3000000",
+          "max": "36000000",
+          "disponible": "69570.97"
         },
         {
-          "precio": 960.6,
-          "comerciante": "CRIPTO-2026",
-          "min": "7000000",
+          "precio": 960.702,
+          "comerciante": "GAZA_CRIPTO",
+          "min": "1500000",
           "max": "36450000",
-          "disponible": "80000.00"
-        },
-        {
-          "precio": 960.501,
-          "comerciante": "DOCTOR_CAMBIO",
-          "min": "5000000",
-          "max": "36450000",
-          "disponible": "54794.39"
+          "disponible": "38768.94"
         }
       ]
     },
     "compra": {
-      "promedio": 959.8838,
-      "minimo": 959.57,
-      "maximo": 960.0,
+      "promedio": 959.47,
+      "minimo": 959.0,
+      "maximo": 959.95,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 959.57,
-          "comerciante": "RemesaMorrocoy",
-          "min": "31000",
-          "max": "32000",
-          "disponible": "99.75"
+          "precio": 959.0,
+          "comerciante": "José Gabrieljc",
+          "min": "30000",
+          "max": "192000",
+          "disponible": "168.25"
+        },
+        {
+          "precio": 959.0,
+          "comerciante": "Specione",
+          "min": "60000",
+          "max": "60001",
+          "disponible": "99.80"
+        },
+        {
+          "precio": 959.5,
+          "comerciante": "FVGlobal",
+          "min": "334800",
+          "max": "3999998",
+          "disponible": "349.12"
         },
         {
           "precio": 959.9,
           "comerciante": "Danielajcg",
           "min": "1000",
           "max": "81000",
-          "disponible": "4.16"
+          "disponible": "2.37"
         },
         {
           "precio": 959.95,
@@ -80,20 +94,6 @@
           "min": "47500",
           "max": "47501",
           "disponible": "99.75"
-        },
-        {
-          "precio": 959.999,
-          "comerciante": "Tu_Cambio_Luis",
-          "min": "300",
-          "max": "435717",
-          "disponible": "0.75"
-        },
-        {
-          "precio": 960.0,
-          "comerciante": "Zuly1760",
-          "min": "300",
-          "max": "300000",
-          "disponible": "0.37"
         }
       ]
     }
