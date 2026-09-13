@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-13T17:32:37+00:00",
-  "actualizado_ve": "2026-09-13T13:32:37-04:00",
+  "actualizado_utc": "2026-09-13T18:02:03+00:00",
+  "actualizado_ve": "2026-09-13T14:02:03-04:00",
   "bcv": {
     "usd": 842.2067,
     "eur": 977.8777773,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 960.1422,
+    "referencia": 960.06,
     "venta": {
-      "promedio": 960.1422,
-      "minimo": 959.21,
+      "promedio": 960.06,
+      "minimo": 959.3,
       "maximo": 962.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -22,81 +22,81 @@
           "comerciante": "Trust-Broker",
           "min": "1000000",
           "max": "36450000",
-          "disponible": "13591.01"
-        },
-        {
-          "precio": 960.001,
-          "comerciante": "DOCTOR_CAMBIO",
-          "min": "5000000",
-          "max": "36450000",
-          "disponible": "60000.00"
+          "disponible": "8372.63"
         },
         {
           "precio": 960.0,
           "comerciante": "PEJAGOBLA",
           "min": "5000000",
           "max": "36450000",
-          "disponible": "57563.80"
+          "disponible": "26917.63"
         },
         {
           "precio": 959.5,
           "comerciante": "Bestseller",
-          "min": "5000000",
+          "min": "2951959",
           "max": "36450000",
-          "disponible": "10100.00"
+          "disponible": "3076.56"
         },
         {
-          "precio": 959.21,
-          "comerciante": "Twix",
+          "precio": 959.5,
+          "comerciante": "CAMBIOSLAMR_",
           "min": "2000000",
-          "max": "36000000",
-          "disponible": "30000.00"
+          "max": "4000000",
+          "disponible": "16000.00"
+        },
+        {
+          "precio": 959.3,
+          "comerciante": "calorina sankey",
+          "min": "1500000",
+          "max": "4000000",
+          "disponible": "6436.42"
         }
       ]
     },
     "compra": {
-      "promedio": 959.5,
+      "promedio": 959.24,
       "minimo": 959.0,
-      "maximo": 959.9,
+      "maximo": 959.5,
       "anuncios_usados": 5,
       "anuncios": [
         {
           "precio": 959.0,
-          "comerciante": "luistradexchage2024",
-          "min": "3000",
-          "max": "96293",
-          "disponible": "85.57"
+          "comerciante": "Zockolo",
+          "min": "16000",
+          "max": "17000",
+          "disponible": "99.75"
+        },
+        {
+          "precio": 959.0,
+          "comerciante": "Specione",
+          "min": "60000",
+          "max": "60001",
+          "disponible": "99.80"
         },
         {
           "precio": 959.2,
           "comerciante": "GrupoEVONUT",
           "min": "9400",
           "max": "11000",
-          "disponible": "56.49"
+          "disponible": "33.71"
         },
         {
           "precio": 959.5,
-          "comerciante": "javi_0812",
-          "min": "300",
-          "max": "105000",
-          "disponible": "2.38"
+          "comerciante": "el_ poller-obispo",
+          "min": "95000",
+          "max": "96000",
+          "disponible": "100.42"
         },
         {
-          "precio": 959.9,
-          "comerciante": "Danielajcg",
-          "min": "1000",
-          "max": "81000",
-          "disponible": "195.01"
-        },
-        {
-          "precio": 959.9,
-          "comerciante": "Bel3n",
-          "min": "50000",
-          "max": "4000000",
-          "disponible": "116.16"
+          "precio": 959.5,
+          "comerciante": "RocaBit100",
+          "min": "94000",
+          "max": "95000",
+          "disponible": "99.75"
         }
       ]
     }
   },
-  "brecha_pct": 14.0
+  "brecha_pct": 13.99
 }
