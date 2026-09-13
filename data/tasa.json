@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-13T21:51:56+00:00",
-  "actualizado_ve": "2026-09-13T17:51:56-04:00",
+  "actualizado_utc": "2026-09-13T23:43:08+00:00",
+  "actualizado_ve": "2026-09-13T19:43:08-04:00",
   "bcv": {
     "usd": 842.2067,
     "eur": 977.8777773,
@@ -10,54 +10,54 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 960.1008,
+    "referencia": 961.9256,
     "venta": {
-      "promedio": 960.1008,
-      "minimo": 959.8,
-      "maximo": 960.5,
+      "promedio": 961.9256,
+      "minimo": 961.75,
+      "maximo": 962.068,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 960.5,
-          "comerciante": "LAZER1406",
-          "min": "223220",
-          "max": "223300",
-          "disponible": "232.40"
+          "precio": 962.068,
+          "comerciante": "TOPlevelS",
+          "min": "10000000",
+          "max": "36000000",
+          "disponible": "80000.00"
         },
         {
-          "precio": 960.2,
-          "comerciante": "Rich_P2P",
+          "precio": 962.01,
+          "comerciante": "Brawcoins",
+          "min": "7000000",
+          "max": "36450000",
+          "disponible": "80000.00"
+        },
+        {
+          "precio": 962.0,
+          "comerciante": "安全与信任",
           "min": "1000000",
-          "max": "4000000",
-          "disponible": "5771.09"
+          "max": "36000000",
+          "disponible": "30780.50"
         },
         {
-          "precio": 960.004,
-          "comerciante": "HenryCryptob",
-          "min": "26277",
-          "max": "26278",
-          "disponible": "3715.55"
+          "precio": 961.8,
+          "comerciante": "CRIPTO-2026",
+          "min": "4000000",
+          "max": "36450000",
+          "disponible": "60983.76"
         },
         {
-          "precio": 960.0,
-          "comerciante": "ADRRCHANGES",
-          "min": "1000",
-          "max": "1100",
-          "disponible": "100.00"
-        },
-        {
-          "precio": 959.8,
-          "comerciante": "jxsosa",
-          "min": "2000000",
-          "max": "34000000",
-          "disponible": "16300.00"
+          "precio": 961.75,
+          "comerciante": "angelchacon",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "43300.06"
         }
       ]
     },
     "compra": {
-      "promedio": 960.786,
+      "promedio": 960.86,
       "minimo": 960.0,
-      "maximo": 961.0,
+      "maximo": 961.3,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -65,38 +65,38 @@
           "comerciante": "JairGOVA佳尔",
           "min": "38000",
           "max": "860000",
-          "disponible": "546.72"
-        },
-        {
-          "precio": 960.93,
-          "comerciante": "JRNBRAVO",
-          "min": "30000",
-          "max": "4000000",
-          "disponible": "199.50"
+          "disponible": "382.09"
         },
         {
           "precio": 961.0,
-          "comerciante": "Zarai2010",
-          "min": "15000",
+          "comerciante": "tucambio-jfmv",
+          "min": "300",
           "max": "4000000",
-          "disponible": "16.70"
+          "disponible": "0.51"
         },
         {
           "precio": 961.0,
-          "comerciante": "P2P-b4810a9c",
-          "min": "350000",
-          "max": "4000000",
-          "disponible": "399.00"
+          "comerciante": "Fabvsm",
+          "min": "7350",
+          "max": "7400",
+          "disponible": "99.75"
         },
         {
           "precio": 961.0,
-          "comerciante": "Trader_FGP",
-          "min": "700000",
-          "max": "3000000",
-          "disponible": "945.33"
+          "comerciante": "Susann Columbo h3Ge",
+          "min": "50000",
+          "max": "500000",
+          "disponible": "149.62"
+        },
+        {
+          "precio": 961.3,
+          "comerciante": "KratosVnz",
+          "min": "500",
+          "max": "50000",
+          "disponible": "52.94"
         }
       ]
     }
   },
-  "brecha_pct": 14.0
+  "brecha_pct": 14.21
 }
