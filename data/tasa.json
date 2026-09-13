@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-13T08:35:40+00:00",
-  "actualizado_ve": "2026-09-13T04:35:40-04:00",
+  "actualizado_utc": "2026-09-13T09:23:09+00:00",
+  "actualizado_ve": "2026-09-13T05:23:09-04:00",
   "bcv": {
     "usd": 842.2067,
     "eur": 977.8777773,
@@ -10,19 +10,26 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 956.0262,
+    "referencia": 955.9954,
     "venta": {
-      "promedio": 956.0262,
-      "minimo": 955.8,
-      "maximo": 956.191,
+      "promedio": 955.9954,
+      "minimo": 955.6,
+      "maximo": 956.194,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 956.191,
+          "precio": 956.194,
           "comerciante": "Royrdgz",
           "min": "280000",
           "max": "36450000",
-          "disponible": "8343.42"
+          "disponible": "4438.58"
+        },
+        {
+          "precio": 956.193,
+          "comerciante": "Jendry03",
+          "min": "300000",
+          "max": "9900000",
+          "disponible": "7544.15"
         },
         {
           "precio": 956.19,
@@ -32,68 +39,61 @@
           "disponible": "16116.96"
         },
         {
-          "precio": 956.0,
-          "comerciante": "Strader_14",
-          "min": "1000000",
-          "max": "36450000",
-          "disponible": "18800.06"
-        },
-        {
-          "precio": 955.95,
-          "comerciante": "Jendry03",
-          "min": "300000",
-          "max": "9900000",
-          "disponible": "7544.15"
-        },
-        {
           "precio": 955.8,
           "comerciante": "NewtScamander",
           "min": "300000",
           "max": "36450000",
-          "disponible": "29199.36"
+          "disponible": "28199.42"
+        },
+        {
+          "precio": 955.6,
+          "comerciante": "AmigoTrading",
+          "min": "1500000",
+          "max": "36000000",
+          "disponible": "36291.80"
         }
       ]
     },
     "compra": {
-      "promedio": 960.676,
-      "minimo": 960.0,
-      "maximo": 960.99,
+      "promedio": 959.5398,
+      "minimo": 958.9,
+      "maximo": 959.999,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 960.0,
-          "comerciante": "TraderMasterrr",
-          "min": "50000",
-          "max": "400000",
-          "disponible": "1185.99"
+          "precio": 958.9,
+          "comerciante": "DIEGOPIMENZ",
+          "min": "30000",
+          "max": "269000",
+          "disponible": "229.38"
         },
         {
-          "precio": 960.7,
-          "comerciante": "YersonCapital",
-          "min": "800000",
-          "max": "10000000",
-          "disponible": "3697.74"
+          "precio": 959.4,
+          "comerciante": "Tumonedavirtual",
+          "min": "500000",
+          "max": "14000000",
+          "disponible": "1090.44"
         },
         {
-          "precio": 960.8,
-          "comerciante": "Yosedg",
-          "min": "3000000",
-          "max": "36450000",
-          "disponible": "9502.18"
+          "precio": 959.5,
+          "comerciante": "Rappid0",
+          "min": "500000",
+          "max": "33810000",
+          "disponible": "3712.41"
         },
         {
-          "precio": 960.89,
-          "comerciante": "Atraderspkj",
-          "min": "6000000",
-          "max": "18000000",
-          "disponible": "12579.25"
+          "precio": 959.9,
+          "comerciante": "CambiosFacil",
+          "min": "400000",
+          "max": "5000000",
+          "disponible": "2059.78"
         },
         {
-          "precio": 960.99,
-          "comerciante": "--FLASH--",
-          "min": "80000",
-          "max": "5300000",
-          "disponible": "818.78"
+          "precio": 959.999,
+          "comerciante": "Dxvid Exchange",
+          "min": "500000",
+          "max": "8000000",
+          "disponible": "3283.32"
         }
       ]
     }
