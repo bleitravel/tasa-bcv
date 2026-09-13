@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-13T11:01:43+00:00",
-  "actualizado_ve": "2026-09-13T07:01:43-04:00",
+  "actualizado_utc": "2026-09-13T11:32:52+00:00",
+  "actualizado_ve": "2026-09-13T07:32:52-04:00",
   "bcv": {
     "usd": 842.2067,
     "eur": 977.8777773,
@@ -10,52 +10,52 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 956.0366,
+    "referencia": 957.16,
     "venta": {
-      "promedio": 956.0366,
-      "minimo": 955.6,
-      "maximo": 956.2,
+      "promedio": 957.16,
+      "minimo": 956.2,
+      "maximo": 958.0,
       "anuncios_usados": 5,
       "anuncios": [
+        {
+          "precio": 958.0,
+          "comerciante": "LuxuryBusiness",
+          "min": "300000",
+          "max": "4000000",
+          "disponible": "850.12"
+        },
+        {
+          "precio": 958.0,
+          "comerciante": "CambiosRubio2026",
+          "min": "10000",
+          "max": "4000000",
+          "disponible": "117.33"
+        },
+        {
+          "precio": 957.0,
+          "comerciante": "Avatar_Roku",
+          "min": "500000",
+          "max": "36000000",
+          "disponible": "13944.89"
+        },
+        {
+          "precio": 956.6,
+          "comerciante": "Capital_Carreno",
+          "min": "400000",
+          "max": "36000000",
+          "disponible": "20530.06"
+        },
         {
           "precio": 956.2,
           "comerciante": "CambioVeloz_15",
           "min": "1000000",
           "max": "36450000",
-          "disponible": "8250.00"
-        },
-        {
-          "precio": 956.193,
-          "comerciante": "Jendry03",
-          "min": "300000",
-          "max": "9900000",
-          "disponible": "5492.78"
-        },
-        {
-          "precio": 956.19,
-          "comerciante": "Principe Drácula ",
-          "min": "1000000",
-          "max": "36000000",
-          "disponible": "16116.96"
-        },
-        {
-          "precio": 956.0,
-          "comerciante": "Dynamo_A",
-          "min": "500000",
-          "max": "36000000",
-          "disponible": "9760.12"
-        },
-        {
-          "precio": 955.6,
-          "comerciante": "AmigoTrading",
-          "min": "1500000",
-          "max": "36000000",
-          "disponible": "36291.80"
+          "disponible": "7274.40"
         }
       ]
     },
     "compra": {
-      "promedio": 959.761,
+      "promedio": 959.78,
       "minimo": 959.0,
       "maximo": 960.0,
       "anuncios_usados": 5,
@@ -68,35 +68,35 @@
           "disponible": "49.69"
         },
         {
-          "precio": 959.805,
-          "comerciante": "Mr_Nasdaq",
-          "min": "300000",
-          "max": "800000",
-          "disponible": "1966.55"
-        },
-        {
-          "precio": 960.0,
-          "comerciante": "RoCripto22",
-          "min": "40000",
+          "precio": 959.9,
+          "comerciante": "jesus3203 ",
+          "min": "143000",
           "max": "4000000",
-          "disponible": "83.80"
+          "disponible": "149.63"
         },
         {
           "precio": 960.0,
-          "comerciante": "Yosedg",
-          "min": "3000000",
-          "max": "36450000",
-          "disponible": "8691.53"
+          "comerciante": "maryhanV",
+          "min": "95600",
+          "max": "96000",
+          "disponible": "119.70"
         },
         {
           "precio": 960.0,
-          "comerciante": "lazonacrypto",
-          "min": "19000",
-          "max": "2000000",
-          "disponible": "143.76"
+          "comerciante": "Mauspeed",
+          "min": "950000",
+          "max": "4000000",
+          "disponible": "997.50"
+        },
+        {
+          "precio": 960.0,
+          "comerciante": "Plines",
+          "min": "80000",
+          "max": "200000",
+          "disponible": "299.25"
         }
       ]
     }
   },
-  "brecha_pct": 13.52
+  "brecha_pct": 13.65
 }
