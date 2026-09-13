@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-13T14:01:56+00:00",
-  "actualizado_ve": "2026-09-13T10:01:56-04:00",
+  "actualizado_utc": "2026-09-13T14:33:26+00:00",
+  "actualizado_ve": "2026-09-13T10:33:26-04:00",
   "bcv": {
     "usd": 842.2067,
     "eur": 977.8777773,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 957.3598,
+    "referencia": 957.764,
     "venta": {
-      "promedio": 957.3598,
-      "minimo": 956.5,
-      "maximo": 958.0,
+      "promedio": 957.764,
+      "minimo": 957.0,
+      "maximo": 958.42,
       "anuncios_usados": 5,
       "anuncios": [
+        {
+          "precio": 958.42,
+          "comerciante": "Datobns",
+          "min": "1000000",
+          "max": "1100000",
+          "disponible": "1100.00"
+        },
         {
           "precio": 958.0,
           "comerciante": "Trust-Broker",
           "min": "1000000",
           "max": "36450000",
-          "disponible": "25579.34"
+          "disponible": "21475.62"
         },
         {
           "precio": 958.0,
-          "comerciante": "M41C",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "189.57"
-        },
-        {
-          "precio": 957.299,
-          "comerciante": "Teim2",
-          "min": "800000",
-          "max": "4000000",
-          "disponible": "11369.22"
-        },
-        {
-          "precio": 957.0,
-          "comerciante": "GAZA_CRIPTO",
+          "comerciante": "IsaBTC-",
           "min": "10000000",
           "max": "36450000",
-          "disponible": "55000.06"
+          "disponible": "80000.00"
         },
         {
-          "precio": 956.5,
+          "precio": 957.4,
           "comerciante": "User-b9036",
           "min": "2000000",
           "max": "4000000",
           "disponible": "12440.33"
+        },
+        {
+          "precio": 957.0,
+          "comerciante": "GAZA_CRIPTO",
+          "min": "1000000",
+          "max": "36450000",
+          "disponible": "27065.41"
         }
       ]
     },
     "compra": {
-      "promedio": 957.838,
+      "promedio": 957.74,
       "minimo": 957.0,
-      "maximo": 958.19,
+      "maximo": 958.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
           "precio": 957.0,
-          "comerciante": "Yousberth2907",
-          "min": "94900",
-          "max": "95000",
-          "disponible": "99.75"
-        },
-        {
-          "precio": 958.0,
-          "comerciante": "Crisoseas",
-          "min": "3000",
-          "max": "4000000",
-          "disponible": "99.75"
-        },
-        {
-          "precio": 958.0,
-          "comerciante": "Rapi_Pay",
+          "comerciante": "Nikko621",
           "min": "300",
+          "max": "8000",
+          "disponible": "99.75"
+        },
+        {
+          "precio": 957.7,
+          "comerciante": "Wijacas2011",
+          "min": "1000",
           "max": "4000000",
-          "disponible": "4.72"
+          "disponible": "1.55"
         },
         {
           "precio": 958.0,
-          "comerciante": "Inter-Pagos",
-          "min": "200000",
-          "max": "1000000",
-          "disponible": "2130.53"
+          "comerciante": "figueroajac",
+          "min": "22000",
+          "max": "100000",
+          "disponible": "70.61"
         },
         {
-          "precio": 958.19,
-          "comerciante": "VentasJP",
-          "min": "150000",
-          "max": "1400000",
-          "disponible": "478.80"
+          "precio": 958.0,
+          "comerciante": "Zhellys",
+          "min": "20000",
+          "max": "200000",
+          "disponible": "997.50"
+        },
+        {
+          "precio": 958.0,
+          "comerciante": "cambia_ya21",
+          "min": "50000",
+          "max": "51000",
+          "disponible": "99.75"
         }
       ]
     }
   },
-  "brecha_pct": 13.67
+  "brecha_pct": 13.72
 }
