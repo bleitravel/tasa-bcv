@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-13T17:01:33+00:00",
-  "actualizado_ve": "2026-09-13T13:01:33-04:00",
+  "actualizado_utc": "2026-09-13T17:32:37+00:00",
+  "actualizado_ve": "2026-09-13T13:32:37-04:00",
   "bcv": {
     "usd": 842.2067,
     "eur": 977.8777773,
@@ -10,26 +10,19 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 960.4002,
+    "referencia": 960.1422,
     "venta": {
-      "promedio": 960.4002,
-      "minimo": 960.0,
-      "maximo": 961.0,
+      "promedio": 960.1422,
+      "minimo": 959.21,
+      "maximo": 962.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 961.0,
+          "precio": 962.0,
           "comerciante": "Trust-Broker",
           "min": "1000000",
           "max": "36450000",
-          "disponible": "18924.25"
-        },
-        {
-          "precio": 961.0,
-          "comerciante": "Smolder-",
-          "min": "10000000",
-          "max": "36450000",
-          "disponible": "68640.00"
+          "disponible": "13591.01"
         },
         {
           "precio": 960.001,
@@ -43,60 +36,67 @@
           "comerciante": "PEJAGOBLA",
           "min": "5000000",
           "max": "36450000",
-          "disponible": "80000.00"
+          "disponible": "57563.80"
         },
         {
-          "precio": 960.0,
-          "comerciante": "EleguaOshun",
-          "min": "371469",
-          "max": "371470",
-          "disponible": "400.00"
+          "precio": 959.5,
+          "comerciante": "Bestseller",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "10100.00"
+        },
+        {
+          "precio": 959.21,
+          "comerciante": "Twix",
+          "min": "2000000",
+          "max": "36000000",
+          "disponible": "30000.00"
         }
       ]
     },
     "compra": {
-      "promedio": 958.4,
-      "minimo": 958.0,
-      "maximo": 959.0,
+      "promedio": 959.5,
+      "minimo": 959.0,
+      "maximo": 959.9,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 958.0,
-          "comerciante": "Much_Dolar",
-          "min": "110000",
-          "max": "400000",
-          "disponible": "159.60"
-        },
-        {
-          "precio": 958.0,
-          "comerciante": "cambioswillfashion",
-          "min": "855000",
-          "max": "859999",
-          "disponible": "895.46"
-        },
-        {
-          "precio": 958.0,
-          "comerciante": "SPAICER",
-          "min": "320",
-          "max": "877000",
-          "disponible": "99.75"
-        },
-        {
           "precio": 959.0,
-          "comerciante": "Trebo777",
-          "min": "12000",
-          "max": "4000000",
-          "disponible": "57.32"
+          "comerciante": "luistradexchage2024",
+          "min": "3000",
+          "max": "96293",
+          "disponible": "85.57"
         },
         {
-          "precio": 959.0,
-          "comerciante": "Leaisx",
-          "min": "20000",
+          "precio": 959.2,
+          "comerciante": "GrupoEVONUT",
+          "min": "9400",
+          "max": "11000",
+          "disponible": "56.49"
+        },
+        {
+          "precio": 959.5,
+          "comerciante": "javi_0812",
+          "min": "300",
+          "max": "105000",
+          "disponible": "2.38"
+        },
+        {
+          "precio": 959.9,
+          "comerciante": "Danielajcg",
+          "min": "1000",
+          "max": "81000",
+          "disponible": "195.01"
+        },
+        {
+          "precio": 959.9,
+          "comerciante": "Bel3n",
+          "min": "50000",
           "max": "4000000",
-          "disponible": "99.75"
+          "disponible": "116.16"
         }
       ]
     }
   },
-  "brecha_pct": 14.03
+  "brecha_pct": 14.0
 }
