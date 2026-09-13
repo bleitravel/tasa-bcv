@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-13T09:23:09+00:00",
-  "actualizado_ve": "2026-09-13T05:23:09-04:00",
+  "actualizado_utc": "2026-09-13T10:01:06+00:00",
+  "actualizado_ve": "2026-09-13T06:01:06-04:00",
   "bcv": {
     "usd": 842.2067,
     "eur": 977.8777773,
@@ -10,19 +10,26 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 955.9954,
+    "referencia": 958.0566,
     "venta": {
-      "promedio": 955.9954,
-      "minimo": 955.6,
-      "maximo": 956.194,
+      "promedio": 958.0566,
+      "minimo": 955.8,
+      "maximo": 965.8,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 956.194,
-          "comerciante": "Royrdgz",
-          "min": "280000",
-          "max": "36450000",
-          "disponible": "4438.58"
+          "precio": 965.8,
+          "comerciante": "User-d48b3",
+          "min": "300000",
+          "max": "810000",
+          "disponible": "838.00"
+        },
+        {
+          "precio": 956.3,
+          "comerciante": "Dynamo_A",
+          "min": "700000",
+          "max": "36000000",
+          "disponible": "15000.00"
         },
         {
           "precio": 956.193,
@@ -44,42 +51,28 @@
           "min": "300000",
           "max": "36450000",
           "disponible": "28199.42"
-        },
-        {
-          "precio": 955.6,
-          "comerciante": "AmigoTrading",
-          "min": "1500000",
-          "max": "36000000",
-          "disponible": "36291.80"
         }
       ]
     },
     "compra": {
-      "promedio": 959.5398,
-      "minimo": 958.9,
-      "maximo": 959.999,
+      "promedio": 959.8398,
+      "minimo": 959.5,
+      "maximo": 960.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 958.9,
+          "precio": 959.5,
           "comerciante": "DIEGOPIMENZ",
           "min": "30000",
           "max": "269000",
-          "disponible": "229.38"
+          "disponible": "147.02"
         },
         {
-          "precio": 959.4,
-          "comerciante": "Tumonedavirtual",
-          "min": "500000",
-          "max": "14000000",
-          "disponible": "1090.44"
-        },
-        {
-          "precio": 959.5,
-          "comerciante": "Rappid0",
-          "min": "500000",
-          "max": "33810000",
-          "disponible": "3712.41"
+          "precio": 959.8,
+          "comerciante": "Bruce-Wayne-93",
+          "min": "200000",
+          "max": "1050000",
+          "disponible": "6570.34"
         },
         {
           "precio": 959.9,
@@ -94,9 +87,16 @@
           "min": "500000",
           "max": "8000000",
           "disponible": "3283.32"
+        },
+        {
+          "precio": 960.0,
+          "comerciante": "ELGRANG",
+          "min": "100000",
+          "max": "900000",
+          "disponible": "1070.54"
         }
       ]
     }
   },
-  "brecha_pct": 13.51
+  "brecha_pct": 13.76
 }
