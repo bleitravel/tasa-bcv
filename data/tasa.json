@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-13T02:34:18+00:00",
-  "actualizado_ve": "2026-09-12T22:34:18-04:00",
+  "actualizado_utc": "2026-09-13T03:01:38+00:00",
+  "actualizado_ve": "2026-09-12T23:01:38-04:00",
   "bcv": {
     "usd": 842.2067,
     "eur": 977.8777773,
@@ -10,34 +10,13 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 958.7798,
+    "referencia": 957.6798,
     "venta": {
-      "promedio": 958.7798,
-      "minimo": 957.599,
-      "maximo": 961.2,
+      "promedio": 957.6798,
+      "minimo": 957.4,
+      "maximo": 958.0,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 961.2,
-          "comerciante": "MonkyCrypto33",
-          "min": "300",
-          "max": "5000",
-          "disponible": "100.00"
-        },
-        {
-          "precio": 958.6,
-          "comerciante": "Avatar_Roku",
-          "min": "800000",
-          "max": "36000000",
-          "disponible": "16979.32"
-        },
-        {
-          "precio": 958.5,
-          "comerciante": "JMCrip26",
-          "min": "1000000",
-          "max": "18237000",
-          "disponible": "15042.77"
-        },
         {
           "precio": 958.0,
           "comerciante": "-AMATERATSU-",
@@ -46,57 +25,78 @@
           "disponible": "50000.00"
         },
         {
+          "precio": 958.0,
+          "comerciante": "CambiosFlashSEVEN",
+          "min": "500000",
+          "max": "4000000",
+          "disponible": "1216.00"
+        },
+        {
           "precio": 957.599,
           "comerciante": "Teim2",
           "min": "800000",
           "max": "4000000",
           "disponible": "2088.50"
+        },
+        {
+          "precio": 957.4,
+          "comerciante": "CambioConfiable1",
+          "min": "300000",
+          "max": "4000000",
+          "disponible": "8392.13"
+        },
+        {
+          "precio": 957.4,
+          "comerciante": "LeymusCoin",
+          "min": "500000",
+          "max": "15000000",
+          "disponible": "2433.82"
         }
       ]
     },
     "compra": {
-      "promedio": 959.2274,
-      "minimo": 956.999,
-      "maximo": 959.999,
+      "promedio": 933.658,
+      "minimo": 830.6,
+      "maximo": 959.89,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 956.999,
-          "comerciante": "Jairo camacho123",
+          "precio": 830.6,
+          "comerciante": "Gp-activos",
           "min": "300",
-          "max": "250000",
-          "disponible": "0.98"
-        },
-        {
-          "precio": 959.2,
-          "comerciante": "BHT13",
-          "min": "50000",
-          "max": "50001",
+          "max": "40000",
           "disponible": "99.75"
         },
         {
-          "precio": 959.949,
-          "comerciante": "Cambios-Vargas",
-          "min": "50000",
+          "precio": 959.0,
+          "comerciante": "AngelesP2P",
+          "min": "1500000",
+          "max": "1600000",
+          "disponible": "1995.01"
+        },
+        {
+          "precio": 959.0,
+          "comerciante": "Rgranados",
+          "min": "80000",
           "max": "4000000",
-          "disponible": "420.63"
+          "disponible": "99.75"
         },
         {
-          "precio": 959.99,
-          "comerciante": "CambiosMacQueen",
-          "min": "50000",
-          "max": "400000",
-          "disponible": "498.75"
+          "precio": 959.8,
+          "comerciante": "tavo_0126",
+          "min": "300",
+          "max": "6900",
+          "disponible": "99.75"
         },
         {
-          "precio": 959.999,
-          "comerciante": "Masterven",
-          "min": "400000",
-          "max": "14000000",
-          "disponible": "499.00"
+          "precio": 959.89,
+          "comerciante": "SatoruEXchange",
+          "min": "300000",
+          "max": "1000000",
+          "disponible": "343.27"
         }
       ]
     }
   },
-  "brecha_pct": 13.84
+  "brecha_pct": 13.71
 }
