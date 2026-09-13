@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-13T00:40:36+00:00",
-  "actualizado_ve": "2026-09-12T20:40:36-04:00",
+  "actualizado_utc": "2026-09-13T01:01:32+00:00",
+  "actualizado_ve": "2026-09-12T21:01:32-04:00",
   "bcv": {
     "usd": 842.2067,
     "eur": 977.8777773,
@@ -10,54 +10,54 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 957.4266,
+    "referencia": 957.5924,
     "venta": {
-      "promedio": 957.4266,
-      "minimo": 957.031,
-      "maximo": 959.0,
+      "promedio": 957.5924,
+      "minimo": 957.427,
+      "maximo": 958.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 959.0,
-          "comerciante": "IsaBTC-",
-          "min": "10000000",
+          "precio": 958.0,
+          "comerciante": "THE_BOSS_962",
+          "min": "7000000",
           "max": "36450000",
-          "disponible": "80000.00"
+          "disponible": "50000.00"
         },
         {
-          "precio": 957.038,
+          "precio": 957.6,
+          "comerciante": "NG_Evangelion",
+          "min": "1000000",
+          "max": "36450000",
+          "disponible": "8863.79"
+        },
+        {
+          "precio": 957.5,
+          "comerciante": "CRIPTO-2026",
+          "min": "3000000",
+          "max": "36450000",
+          "disponible": "14014.90"
+        },
+        {
+          "precio": 957.435,
           "comerciante": "TOPlevelS",
           "min": "10000000",
           "max": "36000000",
           "disponible": "80000.00"
         },
         {
-          "precio": 957.033,
-          "comerciante": "Trust-Broker",
-          "min": "5000000",
-          "max": "36450000",
-          "disponible": "50000.00"
-        },
-        {
-          "precio": 957.031,
-          "comerciante": "Cachy13Usdt",
-          "min": "3000000",
-          "max": "36450000",
-          "disponible": "20526.45"
-        },
-        {
-          "precio": 957.031,
-          "comerciante": "NG_Evangelion",
+          "precio": 957.427,
+          "comerciante": "x-Maverick-x",
           "min": "2000000",
-          "max": "36450000",
-          "disponible": "14448.54"
+          "max": "30000000",
+          "disponible": "27954.65"
         }
       ]
     },
     "compra": {
-      "promedio": 956.9998,
+      "promedio": 957.4316,
       "minimo": 956.999,
-      "maximo": 957.0,
+      "maximo": 957.99,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "0.98"
         },
         {
-          "precio": 957.0,
-          "comerciante": "User-e6b0d",
-          "min": "300",
-          "max": "400000",
-          "disponible": "4.00"
+          "precio": 956.999,
+          "comerciante": "REMIX2786",
+          "min": "4000",
+          "max": "5000",
+          "disponible": "94.53"
         },
         {
-          "precio": 957.0,
-          "comerciante": "InfinityChangesVzla",
+          "precio": 957.3,
+          "comerciante": "ElreyVes01",
+          "min": "18300",
+          "max": "18400",
+          "disponible": "99.75"
+        },
+        {
+          "precio": 957.87,
+          "comerciante": "YXS_Exchange",
           "min": "20000",
-          "max": "96000",
-          "disponible": "99.75"
+          "max": "204000",
+          "disponible": "31.92"
         },
         {
-          "precio": 957.0,
-          "comerciante": "Jassielaj92",
+          "precio": 957.99,
+          "comerciante": "caizalezk",
           "min": "40000",
-          "max": "95700",
-          "disponible": "99.75"
-        },
-        {
-          "precio": 957.0,
-          "comerciante": "EnciscoRodriguez",
-          "min": "100000",
           "max": "4000000",
-          "disponible": "329.66"
+          "disponible": "401.91"
         }
       ]
     }
   },
-  "brecha_pct": 13.68
+  "brecha_pct": 13.7
 }
