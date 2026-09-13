@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-13T02:01:50+00:00",
-  "actualizado_ve": "2026-09-12T22:01:50-04:00",
+  "actualizado_utc": "2026-09-13T02:34:18+00:00",
+  "actualizado_ve": "2026-09-12T22:34:18-04:00",
   "bcv": {
     "usd": 842.2067,
     "eur": 977.8777773,
@@ -10,54 +10,54 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 957.8406,
+    "referencia": 958.7798,
     "venta": {
-      "promedio": 957.8406,
-      "minimo": 957.3,
-      "maximo": 958.6,
+      "promedio": 958.7798,
+      "minimo": 957.599,
+      "maximo": 961.2,
       "anuncios_usados": 5,
       "anuncios": [
+        {
+          "precio": 961.2,
+          "comerciante": "MonkyCrypto33",
+          "min": "300",
+          "max": "5000",
+          "disponible": "100.00"
+        },
         {
           "precio": 958.6,
           "comerciante": "Avatar_Roku",
           "min": "800000",
           "max": "36000000",
-          "disponible": "18700.57"
+          "disponible": "16979.32"
         },
         {
           "precio": 958.5,
           "comerciante": "JMCrip26",
           "min": "1000000",
           "max": "18237000",
-          "disponible": "19086.00"
+          "disponible": "15042.77"
         },
         {
-          "precio": 957.5,
-          "comerciante": "Ma2317",
-          "min": "8323",
-          "max": "8325",
-          "disponible": "100.00"
+          "precio": 958.0,
+          "comerciante": "-AMATERATSU-",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "50000.00"
         },
         {
-          "precio": 957.303,
-          "comerciante": "TOPlevelS",
-          "min": "10000000",
-          "max": "36000000",
-          "disponible": "42396.06"
-        },
-        {
-          "precio": 957.3,
-          "comerciante": "SpaceX_Trader",
-          "min": "1500000",
-          "max": "36400000",
-          "disponible": "48000.06"
+          "precio": 957.599,
+          "comerciante": "Teim2",
+          "min": "800000",
+          "max": "4000000",
+          "disponible": "2088.50"
         }
       ]
     },
     "compra": {
-      "promedio": 958.7576,
+      "promedio": 959.2274,
       "minimo": 956.999,
-      "maximo": 959.899,
+      "maximo": 959.999,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "0.98"
         },
         {
-          "precio": 958.0,
-          "comerciante": "Giros y Cambios RP",
-          "min": "289930",
-          "max": "292190",
-          "disponible": "304.23"
+          "precio": 959.2,
+          "comerciante": "BHT13",
+          "min": "50000",
+          "max": "50001",
+          "disponible": "99.75"
         },
         {
-          "precio": 959.0,
-          "comerciante": "Ashton Cordiero MlVk",
-          "min": "300",
+          "precio": 959.949,
+          "comerciante": "Cambios-Vargas",
+          "min": "50000",
           "max": "4000000",
-          "disponible": "1.97"
+          "disponible": "420.63"
         },
         {
-          "precio": 959.89,
-          "comerciante": "SatoruEXchange",
-          "min": "600000",
-          "max": "1000000",
-          "disponible": "1418.10"
+          "precio": 959.99,
+          "comerciante": "CambiosMacQueen",
+          "min": "50000",
+          "max": "400000",
+          "disponible": "498.75"
         },
         {
-          "precio": 959.899,
-          "comerciante": "CryptoMendoza--",
-          "min": "1000000",
-          "max": "15000000",
-          "disponible": "3240.59"
+          "precio": 959.999,
+          "comerciante": "Masterven",
+          "min": "400000",
+          "max": "14000000",
+          "disponible": "499.00"
         }
       ]
     }
   },
-  "brecha_pct": 13.73
+  "brecha_pct": 13.84
 }
