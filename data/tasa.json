@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-13T06:40:51+00:00",
-  "actualizado_ve": "2026-09-13T02:40:51-04:00",
+  "actualizado_utc": "2026-09-13T07:01:57+00:00",
+  "actualizado_ve": "2026-09-13T03:01:57-04:00",
   "bcv": {
     "usd": 842.2067,
     "eur": 977.8777773,
@@ -10,13 +10,20 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 957.14,
+    "referencia": 957.7002,
     "venta": {
-      "promedio": 957.14,
-      "minimo": 956.2,
-      "maximo": 958.0,
+      "promedio": 957.7002,
+      "minimo": 956.5,
+      "maximo": 960.0,
       "anuncios_usados": 5,
       "anuncios": [
+        {
+          "precio": 960.0,
+          "comerciante": "fcracco",
+          "min": "7999",
+          "max": "8000",
+          "disponible": "6281.70"
+        },
         {
           "precio": 958.0,
           "comerciante": "Trust-Broker",
@@ -25,18 +32,18 @@
           "disponible": "30000.00"
         },
         {
-          "precio": 958.0,
+          "precio": 957.001,
           "comerciante": "Royrdgz",
           "min": "400000",
           "max": "36450000",
-          "disponible": "11186.68"
+          "disponible": "10648.83"
         },
         {
           "precio": 957.0,
           "comerciante": "SpaceX_Trader",
-          "min": "350000",
+          "min": "100000",
           "max": "36400000",
-          "disponible": "46500.12"
+          "disponible": "45628.23"
         },
         {
           "precio": 956.5,
@@ -44,35 +51,42 @@
           "min": "2000000",
           "max": "36450000",
           "disponible": "38100.06"
-        },
-        {
-          "precio": 956.2,
-          "comerciante": "NewtScamander",
-          "min": "400000",
-          "max": "36450000",
-          "disponible": "25660.37"
         }
       ]
     },
     "compra": {
-      "promedio": 960.6958,
-      "minimo": 960.0,
-      "maximo": 961.089,
+      "promedio": 959.4598,
+      "minimo": 955.0,
+      "maximo": 960.8,
       "anuncios_usados": 5,
       "anuncios": [
         {
+          "precio": 955.0,
+          "comerciante": "luigicar",
+          "min": "90000",
+          "max": "96000",
+          "disponible": "99.75"
+        },
+        {
           "precio": 960.0,
-          "comerciante": "Maranatha09",
-          "min": "25000",
-          "max": "10000000",
-          "disponible": "104.79"
+          "comerciante": "User-0f740",
+          "min": "50000",
+          "max": "135000",
+          "disponible": "59.02"
         },
         {
           "precio": 960.7,
           "comerciante": "YersonCapital",
           "min": "800000",
           "max": "10000000",
-          "disponible": "3697.74"
+          "disponible": "2344.58"
+        },
+        {
+          "precio": 960.799,
+          "comerciante": "Dxvid Exchange",
+          "min": "500000",
+          "max": "8000000",
+          "disponible": "3283.32"
         },
         {
           "precio": 960.8,
@@ -80,23 +94,9 @@
           "min": "3000000",
           "max": "36450000",
           "disponible": "13436.12"
-        },
-        {
-          "precio": 960.89,
-          "comerciante": "Atraderspkj",
-          "min": "6000000",
-          "max": "18000000",
-          "disponible": "12579.25"
-        },
-        {
-          "precio": 961.089,
-          "comerciante": "User-328d1",
-          "min": "300000",
-          "max": "4000000",
-          "disponible": "498.75"
         }
       ]
     }
   },
-  "brecha_pct": 13.65
+  "brecha_pct": 13.71
 }
