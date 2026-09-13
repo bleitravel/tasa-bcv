@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-13T08:01:51+00:00",
-  "actualizado_ve": "2026-09-13T04:01:51-04:00",
+  "actualizado_utc": "2026-09-13T08:35:40+00:00",
+  "actualizado_ve": "2026-09-13T04:35:40-04:00",
   "bcv": {
     "usd": 842.2067,
     "eur": 977.8777773,
@@ -10,13 +10,20 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 955.848,
+    "referencia": 956.0262,
     "venta": {
-      "promedio": 955.848,
-      "minimo": 955.5,
-      "maximo": 956.19,
+      "promedio": 956.0262,
+      "minimo": 955.8,
+      "maximo": 956.191,
       "anuncios_usados": 5,
       "anuncios": [
+        {
+          "precio": 956.191,
+          "comerciante": "Royrdgz",
+          "min": "280000",
+          "max": "36450000",
+          "disponible": "8343.42"
+        },
         {
           "precio": 956.19,
           "comerciante": "Principe Drácula ",
@@ -26,10 +33,10 @@
         },
         {
           "precio": 956.0,
-          "comerciante": "NewtScamander",
-          "min": "400000",
+          "comerciante": "Strader_14",
+          "min": "1000000",
           "max": "36450000",
-          "disponible": "29199.36"
+          "disponible": "18800.06"
         },
         {
           "precio": 955.95,
@@ -39,27 +46,27 @@
           "disponible": "7544.15"
         },
         {
-          "precio": 955.6,
-          "comerciante": "AmigoTrading",
-          "min": "1500000",
-          "max": "36000000",
-          "disponible": "36291.80"
-        },
-        {
-          "precio": 955.5,
-          "comerciante": "securitylc",
-          "min": "1000000",
+          "precio": 955.8,
+          "comerciante": "NewtScamander",
+          "min": "300000",
           "max": "36450000",
-          "disponible": "1250.00"
+          "disponible": "29199.36"
         }
       ]
     },
     "compra": {
-      "promedio": 960.878,
-      "minimo": 960.7,
-      "maximo": 961.0,
+      "promedio": 960.676,
+      "minimo": 960.0,
+      "maximo": 960.99,
       "anuncios_usados": 5,
       "anuncios": [
+        {
+          "precio": 960.0,
+          "comerciante": "TraderMasterrr",
+          "min": "50000",
+          "max": "400000",
+          "disponible": "1185.99"
+        },
         {
           "precio": 960.7,
           "comerciante": "YersonCapital",
@@ -82,21 +89,14 @@
           "disponible": "12579.25"
         },
         {
-          "precio": 961.0,
-          "comerciante": "PROFESlONAL",
-          "min": "190000",
-          "max": "5000000",
-          "disponible": "217.86"
-        },
-        {
-          "precio": 961.0,
-          "comerciante": "CambiosFacil",
-          "min": "400000",
-          "max": "5000000",
-          "disponible": "1198.82"
+          "precio": 960.99,
+          "comerciante": "--FLASH--",
+          "min": "80000",
+          "max": "5300000",
+          "disponible": "818.78"
         }
       ]
     }
   },
-  "brecha_pct": 13.49
+  "brecha_pct": 13.51
 }
