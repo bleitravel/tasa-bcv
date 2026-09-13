@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-13T15:33:55+00:00",
-  "actualizado_ve": "2026-09-13T11:33:55-04:00",
+  "actualizado_utc": "2026-09-13T16:01:57+00:00",
+  "actualizado_ve": "2026-09-13T12:01:57-04:00",
   "bcv": {
     "usd": 842.2067,
     "eur": 977.8777773,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 958.22,
+    "referencia": 958.21,
     "venta": {
-      "promedio": 958.22,
-      "minimo": 958.0,
+      "promedio": 958.21,
+      "minimo": 957.8,
       "maximo": 959.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -25,75 +25,75 @@
           "disponible": "80000.00"
         },
         {
-          "precio": 958.1,
+          "precio": 958.2,
+          "comerciante": "tradecryp11",
+          "min": "862380",
+          "max": "4000000",
+          "disponible": "900.00"
+        },
+        {
+          "precio": 958.05,
           "comerciante": "Jorge",
-          "min": "1000000",
+          "min": "500000",
+          "max": "823000",
+          "disponible": "850.00"
+        },
+        {
+          "precio": 958.0,
+          "comerciante": "Iverson76",
+          "min": "500000",
           "max": "4000000",
-          "disponible": "3690.00"
+          "disponible": "2846.32"
         },
         {
-          "precio": 958.0,
-          "comerciante": "calorina sankey",
-          "min": "1500000",
-          "max": "4000000",
-          "disponible": "8276.02"
-        },
-        {
-          "precio": 958.0,
-          "comerciante": "Bestseller",
-          "min": "3457096",
-          "max": "36450000",
-          "disponible": "3608.66"
-        },
-        {
-          "precio": 958.0,
-          "comerciante": "Sabrilusuarez",
+          "precio": 957.8,
+          "comerciante": "User-28e56",
           "min": "350000",
-          "max": "520000",
-          "disponible": "500.00"
+          "max": "3000000",
+          "disponible": "4477.98"
         }
       ]
     },
     "compra": {
-      "promedio": 958.1738,
-      "minimo": 957.9,
-      "maximo": 958.969,
+      "promedio": 958.6598,
+      "minimo": 958.0,
+      "maximo": 959.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 957.9,
-          "comerciante": "Cryptopepex",
-          "min": "10000",
-          "max": "100000",
-          "disponible": "12.46"
+          "precio": 958.0,
+          "comerciante": "Carissa Sarnes yBZk",
+          "min": "300",
+          "max": "188151",
+          "disponible": "1.09"
         },
         {
-          "precio": 958.0,
-          "comerciante": "tupanal",
-          "min": "20000",
-          "max": "50000",
-          "disponible": "22.38"
-        },
-        {
-          "precio": 958.0,
-          "comerciante": "Albert-VsqzZ",
-          "min": "50000",
-          "max": "4000000",
+          "precio": 958.4,
+          "comerciante": "Yrebetero",
+          "min": "90000",
+          "max": "2000000",
           "disponible": "99.75"
         },
         {
-          "precio": 958.0,
-          "comerciante": "AyLR",
-          "min": "1000",
-          "max": "4000",
-          "disponible": "97.98"
+          "precio": 958.9,
+          "comerciante": "CambiosRapid",
+          "min": "20000",
+          "max": "4000000",
+          "disponible": "132.02"
         },
         {
-          "precio": 958.969,
-          "comerciante": "Cliptoxx",
+          "precio": 958.999,
+          "comerciante": "CambioZzz",
+          "min": "30000",
+          "max": "60000",
+          "disponible": "131.56"
+        },
+        {
+          "precio": 959.0,
+          "comerciante": "Jeec2007",
           "min": "1000",
-          "max": "20000",
-          "disponible": "85.35"
+          "max": "19300",
+          "disponible": "1.24"
         }
       ]
     }
