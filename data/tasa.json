@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-13T16:34:30+00:00",
-  "actualizado_ve": "2026-09-13T12:34:30-04:00",
+  "actualizado_utc": "2026-09-13T17:01:33+00:00",
+  "actualizado_ve": "2026-09-13T13:01:33-04:00",
   "bcv": {
     "usd": 842.2067,
     "eur": 977.8777773,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 958.9602,
+    "referencia": 960.4002,
     "venta": {
-      "promedio": 958.9602,
-      "minimo": 958.1,
-      "maximo": 960.0,
+      "promedio": 960.4002,
+      "minimo": 960.0,
+      "maximo": 961.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 960.0,
+          "precio": 961.0,
           "comerciante": "Trust-Broker",
           "min": "1000000",
           "max": "36450000",
-          "disponible": "21475.62"
+          "disponible": "18924.25"
         },
         {
-          "precio": 960.0,
+          "precio": 961.0,
           "comerciante": "Smolder-",
           "min": "10000000",
           "max": "36450000",
-          "disponible": "69400.06"
+          "disponible": "68640.00"
         },
         {
-          "precio": 958.5,
-          "comerciante": "Bianchiplus",
-          "min": "1200000",
-          "max": "2629000",
-          "disponible": "2747.00"
-        },
-        {
-          "precio": 958.201,
-          "comerciante": "Servic-Karyguz",
-          "min": "800000",
-          "max": "8000000",
-          "disponible": "4384.00"
-        },
-        {
-          "precio": 958.1,
-          "comerciante": "DIOSESTODOPARAMI",
-          "min": "1500000",
+          "precio": 960.001,
+          "comerciante": "DOCTOR_CAMBIO",
+          "min": "5000000",
           "max": "36450000",
-          "disponible": "12934.57"
+          "disponible": "60000.00"
+        },
+        {
+          "precio": 960.0,
+          "comerciante": "PEJAGOBLA",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "80000.00"
+        },
+        {
+          "precio": 960.0,
+          "comerciante": "EleguaOshun",
+          "min": "371469",
+          "max": "371470",
+          "disponible": "400.00"
         }
       ]
     },
     "compra": {
-      "promedio": 958.8,
+      "promedio": 958.4,
       "minimo": 958.0,
       "maximo": 959.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
           "precio": 958.0,
-          "comerciante": "jhoan54",
-          "min": "90000",
-          "max": "95800",
-          "disponible": "99.75"
-        },
-        {
-          "precio": 959.0,
           "comerciante": "Much_Dolar",
           "min": "110000",
           "max": "400000",
           "disponible": "159.60"
         },
         {
-          "precio": 959.0,
+          "precio": 958.0,
           "comerciante": "cambioswillfashion",
           "min": "855000",
           "max": "859999",
           "disponible": "895.46"
         },
         {
-          "precio": 959.0,
-          "comerciante": "LAPAZO Original",
-          "min": "300",
-          "max": "144204",
-          "disponible": "0.60"
+          "precio": 958.0,
+          "comerciante": "SPAICER",
+          "min": "320",
+          "max": "877000",
+          "disponible": "99.75"
         },
         {
           "precio": 959.0,
-          "comerciante": "KevinR",
-          "min": "48000",
-          "max": "48200",
+          "comerciante": "Trebo777",
+          "min": "12000",
+          "max": "4000000",
+          "disponible": "57.32"
+        },
+        {
+          "precio": 959.0,
+          "comerciante": "Leaisx",
+          "min": "20000",
+          "max": "4000000",
           "disponible": "99.75"
         }
       ]
     }
   },
-  "brecha_pct": 13.86
+  "brecha_pct": 14.03
 }
