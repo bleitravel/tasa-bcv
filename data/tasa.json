@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-13T14:33:26+00:00",
-  "actualizado_ve": "2026-09-13T10:33:26-04:00",
+  "actualizado_utc": "2026-09-13T15:01:38+00:00",
+  "actualizado_ve": "2026-09-13T11:01:38-04:00",
   "bcv": {
     "usd": 842.2067,
     "eur": 977.8777773,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 957.764,
+    "referencia": 957.974,
     "venta": {
-      "promedio": 957.764,
-      "minimo": 957.0,
+      "promedio": 957.974,
+      "minimo": 957.4,
       "maximo": 958.42,
       "anuncios_usados": 5,
       "anuncios": [
@@ -25,18 +25,25 @@
           "disponible": "1100.00"
         },
         {
-          "precio": 958.0,
-          "comerciante": "Trust-Broker",
-          "min": "1000000",
-          "max": "36450000",
-          "disponible": "21475.62"
+          "precio": 958.05,
+          "comerciante": "FUERZA_ELITE",
+          "min": "800000",
+          "max": "35000000",
+          "disponible": "4920.00"
         },
         {
           "precio": 958.0,
           "comerciante": "IsaBTC-",
           "min": "10000000",
           "max": "36450000",
-          "disponible": "80000.00"
+          "disponible": "62998.13"
+        },
+        {
+          "precio": 958.0,
+          "comerciante": "JMCrip26",
+          "min": "800000",
+          "max": "18237000",
+          "disponible": "19086.00"
         },
         {
           "precio": 957.4,
@@ -44,59 +51,52 @@
           "min": "2000000",
           "max": "4000000",
           "disponible": "12440.33"
-        },
-        {
-          "precio": 957.0,
-          "comerciante": "GAZA_CRIPTO",
-          "min": "1000000",
-          "max": "36450000",
-          "disponible": "27065.41"
         }
       ]
     },
     "compra": {
-      "promedio": 957.74,
-      "minimo": 957.0,
-      "maximo": 958.0,
+      "promedio": 957.9272,
+      "minimo": 956.0,
+      "maximo": 958.636,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 957.0,
-          "comerciante": "Nikko621",
-          "min": "300",
-          "max": "8000",
-          "disponible": "99.75"
-        },
-        {
-          "precio": 957.7,
-          "comerciante": "Wijacas2011",
-          "min": "1000",
-          "max": "4000000",
-          "disponible": "1.55"
-        },
-        {
-          "precio": 958.0,
-          "comerciante": "figueroajac",
-          "min": "22000",
-          "max": "100000",
-          "disponible": "70.61"
-        },
-        {
-          "precio": 958.0,
-          "comerciante": "Zhellys",
+          "precio": 956.0,
+          "comerciante": "tupanal",
           "min": "20000",
-          "max": "200000",
-          "disponible": "997.50"
+          "max": "50000",
+          "disponible": "54.24"
         },
         {
-          "precio": 958.0,
+          "precio": 957.9,
           "comerciante": "cambia_ya21",
-          "min": "50000",
-          "max": "51000",
+          "min": "10000",
+          "max": "11000",
+          "disponible": "88.27"
+        },
+        {
+          "precio": 958.5,
+          "comerciante": "el_ poller-obispo",
+          "min": "196000",
+          "max": "197000",
+          "disponible": "205.35"
+        },
+        {
+          "precio": 958.6,
+          "comerciante": "DNTrade2221",
+          "min": "20000",
+          "max": "4000000",
+          "disponible": "83.45"
+        },
+        {
+          "precio": 958.636,
+          "comerciante": "Neo_Cambios",
+          "min": "17500",
+          "max": "18000",
           "disponible": "99.75"
         }
       ]
     }
   },
-  "brecha_pct": 13.72
+  "brecha_pct": 13.75
 }
