@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-13T03:01:38+00:00",
-  "actualizado_ve": "2026-09-12T23:01:38-04:00",
+  "actualizado_utc": "2026-09-13T03:35:07+00:00",
+  "actualizado_ve": "2026-09-12T23:35:07-04:00",
   "bcv": {
     "usd": 842.2067,
     "eur": 977.8777773,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 957.6798,
+    "referencia": 957.7998,
     "venta": {
-      "promedio": 957.6798,
+      "promedio": 957.7998,
       "minimo": 957.4,
-      "maximo": 958.0,
+      "maximo": 958.199,
       "anuncios_usados": 5,
       "anuncios": [
+        {
+          "precio": 958.199,
+          "comerciante": "Teim2",
+          "min": "800000",
+          "max": "4000000",
+          "disponible": "19411.00"
+        },
         {
           "precio": 958.0,
           "comerciante": "-AMATERATSU-",
           "min": "5000000",
           "max": "36450000",
-          "disponible": "50000.00"
+          "disponible": "21703.69"
         },
         {
           "precio": 958.0,
-          "comerciante": "CambiosFlashSEVEN",
+          "comerciante": "SmartSoluciones_",
           "min": "500000",
           "max": "4000000",
-          "disponible": "1216.00"
-        },
-        {
-          "precio": 957.599,
-          "comerciante": "Teim2",
-          "min": "800000",
-          "max": "4000000",
-          "disponible": "2088.50"
+          "disponible": "8630.58"
         },
         {
           "precio": 957.4,
           "comerciante": "CambioConfiable1",
           "min": "300000",
           "max": "4000000",
-          "disponible": "8392.13"
+          "disponible": "5936.73"
         },
         {
           "precio": 957.4,
-          "comerciante": "LeymusCoin",
-          "min": "500000",
-          "max": "15000000",
-          "disponible": "2433.82"
+          "comerciante": "MOON_94",
+          "min": "300000",
+          "max": "36450000",
+          "disponible": "7549.52"
         }
       ]
     },
     "compra": {
-      "promedio": 933.658,
-      "minimo": 830.6,
-      "maximo": 959.89,
+      "promedio": 959.9116,
+      "minimo": 959.71,
+      "maximo": 960.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 830.6,
-          "comerciante": "Gp-activos",
-          "min": "300",
-          "max": "40000",
-          "disponible": "99.75"
+          "precio": 959.71,
+          "comerciante": "adrubita",
+          "min": "1328000",
+          "max": "10000000",
+          "disponible": "1388.28"
         },
         {
-          "precio": 959.0,
-          "comerciante": "AngelesP2P",
-          "min": "1500000",
-          "max": "1600000",
-          "disponible": "1995.01"
+          "precio": 959.9,
+          "comerciante": "nene",
+          "min": "134000",
+          "max": "1000000",
+          "disponible": "140.58"
         },
         {
-          "precio": 959.0,
-          "comerciante": "Rgranados",
-          "min": "80000",
+          "precio": 959.949,
+          "comerciante": "Cambios-Vargas",
+          "min": "50000",
           "max": "4000000",
-          "disponible": "99.75"
+          "disponible": "299.25"
         },
         {
-          "precio": 959.8,
-          "comerciante": "tavo_0126",
-          "min": "300",
-          "max": "6900",
-          "disponible": "99.75"
-        },
-        {
-          "precio": 959.89,
+          "precio": 959.999,
           "comerciante": "SatoruEXchange",
           "min": "300000",
           "max": "1000000",
-          "disponible": "343.27"
+          "disponible": "530.69"
+        },
+        {
+          "precio": 960.0,
+          "comerciante": "Yogil",
+          "min": "50000",
+          "max": "4000000",
+          "disponible": "268.82"
         }
       ]
     }
   },
-  "brecha_pct": 13.71
+  "brecha_pct": 13.73
 }
