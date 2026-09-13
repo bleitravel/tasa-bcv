@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-13T13:01:25+00:00",
-  "actualizado_ve": "2026-09-13T09:01:25-04:00",
+  "actualizado_utc": "2026-09-13T13:32:36+00:00",
+  "actualizado_ve": "2026-09-13T09:32:36-04:00",
   "bcv": {
     "usd": 842.2067,
     "eur": 977.8777773,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 957.6908,
+    "referencia": 956.55,
     "venta": {
-      "promedio": 957.6908,
-      "minimo": 957.303,
-      "maximo": 958.0,
+      "promedio": 956.55,
+      "minimo": 956.15,
+      "maximo": 956.8,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 958.0,
-          "comerciante": "azulexchange",
-          "min": "100000",
-          "max": "4000000",
-          "disponible": "1403.35"
+          "precio": 956.8,
+          "comerciante": "CRIPTO-2026",
+          "min": "1500000",
+          "max": "36450000",
+          "disponible": "12331.70"
         },
         {
-          "precio": 957.75,
-          "comerciante": "FUERZA_ELITE",
-          "min": "500000",
+          "precio": 956.6,
+          "comerciante": "Capital_Carreno",
+          "min": "400000",
           "max": "36000000",
-          "disponible": "5361.04"
+          "disponible": "13962.82"
         },
         {
-          "precio": 957.701,
-          "comerciante": "Capital_VES_P2P",
-          "min": "500000",
-          "max": "36450000",
-          "disponible": "4750.00"
+          "precio": 956.6,
+          "comerciante": "OLDesk",
+          "min": "800000",
+          "max": "4000000",
+          "disponible": "12800.18"
         },
         {
-          "precio": 957.7,
-          "comerciante": "CryptosVzla",
-          "min": "300000",
-          "max": "36450000",
-          "disponible": "5342.88"
+          "precio": 956.6,
+          "comerciante": "Dubaiusdt",
+          "min": "900000",
+          "max": "9000000",
+          "disponible": "11843.88"
         },
         {
-          "precio": 957.303,
-          "comerciante": "raParadas-31",
-          "min": "201000",
-          "max": "10000000",
-          "disponible": "1555.16"
+          "precio": 956.15,
+          "comerciante": "User-95450",
+          "min": "600000",
+          "max": "25000000",
+          "disponible": "10355.34"
         }
       ]
     },
     "compra": {
-      "promedio": 958.7776,
-      "minimo": 957.0,
-      "maximo": 959.478,
+      "promedio": 958.7994,
+      "minimo": 958.0,
+      "maximo": 959.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 957.0,
-          "comerciante": "Daniel Rodenas",
-          "min": "100000",
-          "max": "239000",
-          "disponible": "144.88"
+          "precio": 958.0,
+          "comerciante": "cambiosrrr111",
+          "min": "20000",
+          "max": "1577759",
+          "disponible": "29.74"
+        },
+        {
+          "precio": 958.998,
+          "comerciante": "todoexchange",
+          "min": "86310",
+          "max": "86311",
+          "disponible": "99.75"
+        },
+        {
+          "precio": 958.999,
+          "comerciante": "fastmoneyanderson",
+          "min": "56500",
+          "max": "57000",
+          "disponible": "99.75"
         },
         {
           "precio": 959.0,
-          "comerciante": "Krypto-Handeln",
-          "min": "2000000",
-          "max": "9300000",
-          "disponible": "2120.06"
+          "comerciante": "tucambioseguro",
+          "min": "100000",
+          "max": "4000000",
+          "disponible": "443.24"
         },
         {
-          "precio": 959.2,
-          "comerciante": "LanaCattleya",
-          "min": "1500000",
-          "max": "1850000",
-          "disponible": "1697.03"
-        },
-        {
-          "precio": 959.21,
-          "comerciante": "adrubita",
-          "min": "1470000",
-          "max": "10000000",
-          "disponible": "1534.53"
-        },
-        {
-          "precio": 959.478,
-          "comerciante": "Ed Money",
-          "min": "300000",
-          "max": "1600000",
-          "disponible": "956.87"
+          "precio": 959.0,
+          "comerciante": "C4stor06",
+          "min": "70000",
+          "max": "1500000",
+          "disponible": "329.17"
         }
       ]
     }
   },
-  "brecha_pct": 13.71
+  "brecha_pct": 13.58
 }
