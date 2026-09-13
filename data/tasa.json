@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-13T00:02:17+00:00",
-  "actualizado_ve": "2026-09-12T20:02:17-04:00",
+  "actualizado_utc": "2026-09-13T00:40:36+00:00",
+  "actualizado_ve": "2026-09-12T20:40:36-04:00",
   "bcv": {
     "usd": 842.2067,
     "eur": 977.8777773,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 956.1856,
+    "referencia": 957.4266,
     "venta": {
-      "promedio": 956.1856,
-      "minimo": 955.921,
-      "maximo": 957.0,
+      "promedio": 957.4266,
+      "minimo": 957.031,
+      "maximo": 959.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 957.0,
-          "comerciante": "Cross-26",
-          "min": "15000000",
-          "max": "36000000",
+          "precio": 959.0,
+          "comerciante": "IsaBTC-",
+          "min": "10000000",
+          "max": "36450000",
           "disponible": "80000.00"
         },
         {
-          "precio": 956.008,
+          "precio": 957.038,
           "comerciante": "TOPlevelS",
           "min": "10000000",
           "max": "36000000",
-          "disponible": "56000.12"
-        },
-        {
-          "precio": 956.0,
-          "comerciante": "Srexchanges",
-          "min": "500000",
-          "max": "24644000",
-          "disponible": "13920.12"
-        },
-        {
-          "precio": 955.999,
-          "comerciante": "NewtScamander",
-          "min": "400000",
-          "max": "36450000",
-          "disponible": "40000.00"
-        },
-        {
-          "precio": 955.921,
-          "comerciante": "CRIPTO-2026",
-          "min": "6000000",
-          "max": "36450000",
           "disponible": "80000.00"
+        },
+        {
+          "precio": 957.033,
+          "comerciante": "Trust-Broker",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "50000.00"
+        },
+        {
+          "precio": 957.031,
+          "comerciante": "Cachy13Usdt",
+          "min": "3000000",
+          "max": "36450000",
+          "disponible": "20526.45"
+        },
+        {
+          "precio": 957.031,
+          "comerciante": "NG_Evangelion",
+          "min": "2000000",
+          "max": "36450000",
+          "disponible": "14448.54"
         }
       ]
     },
     "compra": {
-      "promedio": 956.3834,
-      "minimo": 956.0,
-      "maximo": 956.718,
+      "promedio": 956.9998,
+      "minimo": 956.999,
+      "maximo": 957.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 956.0,
-          "comerciante": "andry0212",
-          "min": "28890",
-          "max": "28891",
+          "precio": 956.999,
+          "comerciante": "Jairo camacho123",
+          "min": "300",
+          "max": "250000",
+          "disponible": "0.98"
+        },
+        {
+          "precio": 957.0,
+          "comerciante": "User-e6b0d",
+          "min": "300",
+          "max": "400000",
+          "disponible": "4.00"
+        },
+        {
+          "precio": 957.0,
+          "comerciante": "InfinityChangesVzla",
+          "min": "20000",
+          "max": "96000",
           "disponible": "99.75"
         },
         {
-          "precio": 956.3,
-          "comerciante": "tineoc0301",
-          "min": "10000",
-          "max": "200000",
-          "disponible": "113.22"
+          "precio": 957.0,
+          "comerciante": "Jassielaj92",
+          "min": "40000",
+          "max": "95700",
+          "disponible": "99.75"
         },
         {
-          "precio": 956.399,
-          "comerciante": "VelociCambiosMx",
-          "min": "51000",
-          "max": "51001",
-          "disponible": "103.54"
-        },
-        {
-          "precio": 956.5,
-          "comerciante": "CriptoJAS2",
-          "min": "30000",
-          "max": "250000",
-          "disponible": "86.92"
-        },
-        {
-          "precio": 956.718,
-          "comerciante": "adrubita",
-          "min": "1543000",
-          "max": "10000000",
-          "disponible": "1613.23"
+          "precio": 957.0,
+          "comerciante": "EnciscoRodriguez",
+          "min": "100000",
+          "max": "4000000",
+          "disponible": "329.66"
         }
       ]
     }
   },
-  "brecha_pct": 13.53
+  "brecha_pct": 13.68
 }
