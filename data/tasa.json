@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-13T10:34:54+00:00",
-  "actualizado_ve": "2026-09-13T06:34:54-04:00",
+  "actualizado_utc": "2026-09-13T11:01:43+00:00",
+  "actualizado_ve": "2026-09-13T07:01:43-04:00",
   "bcv": {
     "usd": 842.2067,
     "eur": 977.8777773,
@@ -10,33 +10,26 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 956.1666,
+    "referencia": 956.0366,
     "venta": {
-      "promedio": 956.1666,
-      "minimo": 955.8,
-      "maximo": 956.35,
+      "promedio": 956.0366,
+      "minimo": 955.6,
+      "maximo": 956.2,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 956.35,
-          "comerciante": "jcblack12",
-          "min": "238000",
-          "max": "239000",
-          "disponible": "251.58"
-        },
-        {
-          "precio": 956.3,
-          "comerciante": "Dynamo_A",
-          "min": "700000",
-          "max": "36000000",
-          "disponible": "10500.06"
+          "precio": 956.2,
+          "comerciante": "CambioVeloz_15",
+          "min": "1000000",
+          "max": "36450000",
+          "disponible": "8250.00"
         },
         {
           "precio": 956.193,
           "comerciante": "Jendry03",
           "min": "300000",
           "max": "9900000",
-          "disponible": "6640.06"
+          "disponible": "5492.78"
         },
         {
           "precio": 956.19,
@@ -46,57 +39,64 @@
           "disponible": "16116.96"
         },
         {
-          "precio": 955.8,
-          "comerciante": "NewtScamander",
-          "min": "300000",
-          "max": "36450000",
-          "disponible": "27385.97"
+          "precio": 956.0,
+          "comerciante": "Dynamo_A",
+          "min": "500000",
+          "max": "36000000",
+          "disponible": "9760.12"
+        },
+        {
+          "precio": 955.6,
+          "comerciante": "AmigoTrading",
+          "min": "1500000",
+          "max": "36000000",
+          "disponible": "36291.80"
         }
       ]
     },
     "compra": {
-      "promedio": 959.0,
+      "promedio": 959.761,
       "minimo": 959.0,
-      "maximo": 959.0,
+      "maximo": 960.0,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 959.0,
-          "comerciante": "JJcambiosUSD",
-          "min": "100000",
-          "max": "36450000",
-          "disponible": "390.41"
-        },
-        {
-          "precio": 959.0,
-          "comerciante": "JDCAPITAL-HOLDING",
-          "min": "100000",
-          "max": "7000000",
-          "disponible": "392.07"
-        },
         {
           "precio": 959.0,
           "comerciante": "luistradexchage2024",
           "min": "11000",
           "max": "95900",
-          "disponible": "99.75"
+          "disponible": "49.69"
         },
         {
-          "precio": 959.0,
-          "comerciante": "CambiosFacil",
-          "min": "400000",
-          "max": "5000000",
-          "disponible": "2059.78"
+          "precio": 959.805,
+          "comerciante": "Mr_Nasdaq",
+          "min": "300000",
+          "max": "800000",
+          "disponible": "1966.55"
         },
         {
-          "precio": 959.0,
-          "comerciante": "MFX_Exchange",
-          "min": "100000",
-          "max": "1500000",
-          "disponible": "457.72"
+          "precio": 960.0,
+          "comerciante": "RoCripto22",
+          "min": "40000",
+          "max": "4000000",
+          "disponible": "83.80"
+        },
+        {
+          "precio": 960.0,
+          "comerciante": "Yosedg",
+          "min": "3000000",
+          "max": "36450000",
+          "disponible": "8691.53"
+        },
+        {
+          "precio": 960.0,
+          "comerciante": "lazonacrypto",
+          "min": "19000",
+          "max": "2000000",
+          "disponible": "143.76"
         }
       ]
     }
   },
-  "brecha_pct": 13.53
+  "brecha_pct": 13.52
 }
