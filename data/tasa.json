@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-13T12:37:49+00:00",
-  "actualizado_ve": "2026-09-13T08:37:49-04:00",
+  "actualizado_utc": "2026-09-13T13:01:25+00:00",
+  "actualizado_ve": "2026-09-13T09:01:25-04:00",
   "bcv": {
     "usd": 842.2067,
     "eur": 977.8777773,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 957.1914,
+    "referencia": 957.6908,
     "venta": {
-      "promedio": 957.1914,
-      "minimo": 957.1,
-      "maximo": 957.45,
+      "promedio": 957.6908,
+      "minimo": 957.303,
+      "maximo": 958.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 957.45,
+          "precio": 958.0,
+          "comerciante": "azulexchange",
+          "min": "100000",
+          "max": "4000000",
+          "disponible": "1403.35"
+        },
+        {
+          "precio": 957.75,
+          "comerciante": "FUERZA_ELITE",
+          "min": "500000",
+          "max": "36000000",
+          "disponible": "5361.04"
+        },
+        {
+          "precio": 957.701,
+          "comerciante": "Capital_VES_P2P",
+          "min": "500000",
+          "max": "36450000",
+          "disponible": "4750.00"
+        },
+        {
+          "precio": 957.7,
           "comerciante": "CryptosVzla",
           "min": "300000",
           "max": "36450000",
-          "disponible": "10613.44"
+          "disponible": "5342.88"
         },
         {
-          "precio": 957.2,
-          "comerciante": "NabiGo",
-          "min": "100000",
-          "max": "4000000",
-          "disponible": "498.00"
-        },
-        {
-          "precio": 957.105,
-          "comerciante": "FUERZA_ELITE",
-          "min": "800000",
-          "max": "36000000",
-          "disponible": "10828.00"
-        },
-        {
-          "precio": 957.102,
-          "comerciante": "Alternojr",
-          "min": "15000",
-          "max": "524000",
-          "disponible": "431.32"
-        },
-        {
-          "precio": 957.1,
-          "comerciante": "Tachira2008",
-          "min": "500000",
-          "max": "36450000",
-          "disponible": "12000.00"
+          "precio": 957.303,
+          "comerciante": "raParadas-31",
+          "min": "201000",
+          "max": "10000000",
+          "disponible": "1555.16"
         }
       ]
     },
     "compra": {
-      "promedio": 959.38,
-      "minimo": 959.0,
-      "maximo": 959.5,
+      "promedio": 958.7776,
+      "minimo": 957.0,
+      "maximo": 959.478,
       "anuncios_usados": 5,
       "anuncios": [
         {
+          "precio": 957.0,
+          "comerciante": "Daniel Rodenas",
+          "min": "100000",
+          "max": "239000",
+          "disponible": "144.88"
+        },
+        {
           "precio": 959.0,
-          "comerciante": "ContrerasNA",
-          "min": "3800000",
-          "max": "36450000",
-          "disponible": "4000.00"
-        },
-        {
-          "precio": 959.4,
-          "comerciante": "PortuCambios",
-          "min": "400000",
-          "max": "800000",
-          "disponible": "900.42"
-        },
-        {
-          "precio": 959.5,
-          "comerciante": "CambiosSegurosLB20",
-          "min": "1000000",
-          "max": "10000000",
-          "disponible": "6709.25"
-        },
-        {
-          "precio": 959.5,
-          "comerciante": "CAMBIOS-BENDECIDOS",
-          "min": "500000",
-          "max": "700000",
-          "disponible": "1497.37"
-        },
-        {
-          "precio": 959.5,
-          "comerciante": "Herstellerin",
+          "comerciante": "Krypto-Handeln",
           "min": "2000000",
-          "max": "14000000",
-          "disponible": "9982.56"
+          "max": "9300000",
+          "disponible": "2120.06"
+        },
+        {
+          "precio": 959.2,
+          "comerciante": "LanaCattleya",
+          "min": "1500000",
+          "max": "1850000",
+          "disponible": "1697.03"
+        },
+        {
+          "precio": 959.21,
+          "comerciante": "adrubita",
+          "min": "1470000",
+          "max": "10000000",
+          "disponible": "1534.53"
+        },
+        {
+          "precio": 959.478,
+          "comerciante": "Ed Money",
+          "min": "300000",
+          "max": "1600000",
+          "disponible": "956.87"
         }
       ]
     }
   },
-  "brecha_pct": 13.65
+  "brecha_pct": 13.71
 }
