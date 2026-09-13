@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-13T11:32:52+00:00",
-  "actualizado_ve": "2026-09-13T07:32:52-04:00",
+  "actualizado_utc": "2026-09-13T12:02:03+00:00",
+  "actualizado_ve": "2026-09-13T08:02:03-04:00",
   "bcv": {
     "usd": 842.2067,
     "eur": 977.8777773,
@@ -10,54 +10,54 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 957.16,
+    "referencia": 955.886,
     "venta": {
-      "promedio": 957.16,
-      "minimo": 956.2,
-      "maximo": 958.0,
+      "promedio": 955.886,
+      "minimo": 955.6,
+      "maximo": 956.22,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 958.0,
-          "comerciante": "LuxuryBusiness",
-          "min": "300000",
-          "max": "4000000",
-          "disponible": "850.12"
+          "precio": 956.22,
+          "comerciante": "EverCryptoUSDT ",
+          "min": "200000",
+          "max": "2688000",
+          "disponible": "1502.64"
         },
         {
-          "precio": 958.0,
-          "comerciante": "CambiosRubio2026",
-          "min": "10000",
-          "max": "4000000",
-          "disponible": "117.33"
+          "precio": 956.21,
+          "comerciante": "ミReinaPepiadaCoinミ",
+          "min": "700000",
+          "max": "36450000",
+          "disponible": "830.06"
         },
         {
-          "precio": 957.0,
-          "comerciante": "Avatar_Roku",
+          "precio": 955.7,
+          "comerciante": "wizard",
+          "min": "410000",
+          "max": "4000000",
+          "disponible": "4181.00"
+        },
+        {
+          "precio": 955.7,
+          "comerciante": "Capital_Carreno",
           "min": "500000",
           "max": "36000000",
-          "disponible": "13944.89"
+          "disponible": "19296.65"
         },
         {
-          "precio": 956.6,
-          "comerciante": "Capital_Carreno",
-          "min": "400000",
+          "precio": 955.6,
+          "comerciante": "AmigoTrading",
+          "min": "1500000",
           "max": "36000000",
-          "disponible": "20530.06"
-        },
-        {
-          "precio": 956.2,
-          "comerciante": "CambioVeloz_15",
-          "min": "1000000",
-          "max": "36450000",
-          "disponible": "7274.40"
+          "disponible": "36291.80"
         }
       ]
     },
     "compra": {
-      "promedio": 959.78,
+      "promedio": 959.6558,
       "minimo": 959.0,
-      "maximo": 960.0,
+      "maximo": 959.88,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "49.69"
         },
         {
-          "precio": 959.9,
-          "comerciante": "jesus3203 ",
-          "min": "143000",
-          "max": "4000000",
-          "disponible": "149.63"
+          "precio": 959.799,
+          "comerciante": "VIPChanges",
+          "min": "2000000",
+          "max": "36450000",
+          "disponible": "3724.12"
         },
         {
-          "precio": 960.0,
-          "comerciante": "maryhanV",
-          "min": "95600",
-          "max": "96000",
-          "disponible": "119.70"
+          "precio": 959.8,
+          "comerciante": "EL-PODER-ES-DE-DIOS",
+          "min": "1000000",
+          "max": "8000000",
+          "disponible": "7147.82"
         },
         {
-          "precio": 960.0,
-          "comerciante": "Mauspeed",
-          "min": "950000",
-          "max": "4000000",
-          "disponible": "997.50"
+          "precio": 959.8,
+          "comerciante": "cambiosIA",
+          "min": "1000000",
+          "max": "6000000",
+          "disponible": "5938.54"
         },
         {
-          "precio": 960.0,
-          "comerciante": "Plines",
-          "min": "80000",
-          "max": "200000",
-          "disponible": "299.25"
+          "precio": 959.88,
+          "comerciante": "CoinGonzo",
+          "min": "1350000",
+          "max": "9999999",
+          "disponible": "5073.89"
         }
       ]
     }
   },
-  "brecha_pct": 13.65
+  "brecha_pct": 13.5
 }
