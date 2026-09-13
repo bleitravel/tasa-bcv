@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-13T07:34:26+00:00",
-  "actualizado_ve": "2026-09-13T03:34:26-04:00",
+  "actualizado_utc": "2026-09-13T08:01:51+00:00",
+  "actualizado_ve": "2026-09-13T04:01:51-04:00",
   "bcv": {
     "usd": 842.2067,
     "eur": 977.8777773,
@@ -10,33 +10,26 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 957.1482,
+    "referencia": 955.848,
     "venta": {
-      "promedio": 957.1482,
-      "minimo": 955.6,
-      "maximo": 959.001,
+      "promedio": 955.848,
+      "minimo": 955.5,
+      "maximo": 956.19,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 959.001,
-          "comerciante": "Royrdgz",
-          "min": "280000",
-          "max": "36450000",
-          "disponible": "11592.12"
-        },
-        {
-          "precio": 959.0,
-          "comerciante": "NewtScamander",
-          "min": "280000",
-          "max": "36450000",
-          "disponible": "25140.40"
-        },
         {
           "precio": 956.19,
           "comerciante": "Principe Drácula ",
           "min": "1000000",
           "max": "36000000",
           "disponible": "16116.96"
+        },
+        {
+          "precio": 956.0,
+          "comerciante": "NewtScamander",
+          "min": "400000",
+          "max": "36450000",
+          "disponible": "29199.36"
         },
         {
           "precio": 955.95,
@@ -51,22 +44,22 @@
           "min": "1500000",
           "max": "36000000",
           "disponible": "36291.80"
+        },
+        {
+          "precio": 955.5,
+          "comerciante": "securitylc",
+          "min": "1000000",
+          "max": "36450000",
+          "disponible": "1250.00"
         }
       ]
     },
     "compra": {
-      "promedio": 960.778,
-      "minimo": 960.6,
+      "promedio": 960.878,
+      "minimo": 960.7,
       "maximo": 961.0,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 960.6,
-          "comerciante": "Yosedg",
-          "min": "3000000",
-          "max": "36450000",
-          "disponible": "13436.12"
-        },
         {
           "precio": 960.7,
           "comerciante": "YersonCapital",
@@ -75,11 +68,11 @@
           "disponible": "3697.74"
         },
         {
-          "precio": 960.7,
-          "comerciante": "THEBOSSTRADER",
-          "min": "2000000",
-          "max": "30000000",
-          "disponible": "25099.42"
+          "precio": 960.8,
+          "comerciante": "Yosedg",
+          "min": "3000000",
+          "max": "36450000",
+          "disponible": "9502.18"
         },
         {
           "precio": 960.89,
@@ -91,12 +84,19 @@
         {
           "precio": 961.0,
           "comerciante": "PROFESlONAL",
-          "min": "90000",
+          "min": "190000",
           "max": "5000000",
-          "disponible": "161.69"
+          "disponible": "217.86"
+        },
+        {
+          "precio": 961.0,
+          "comerciante": "CambiosFacil",
+          "min": "400000",
+          "max": "5000000",
+          "disponible": "1198.82"
         }
       ]
     }
   },
-  "brecha_pct": 13.65
+  "brecha_pct": 13.49
 }
