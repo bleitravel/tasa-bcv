@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-13T01:01:32+00:00",
-  "actualizado_ve": "2026-09-12T21:01:32-04:00",
+  "actualizado_utc": "2026-09-13T01:34:41+00:00",
+  "actualizado_ve": "2026-09-12T21:34:41-04:00",
   "bcv": {
     "usd": 842.2067,
     "eur": 977.8777773,
@@ -10,54 +10,54 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 957.5924,
+    "referencia": 956.8364,
     "venta": {
-      "promedio": 957.5924,
-      "minimo": 957.427,
-      "maximo": 958.0,
+      "promedio": 956.8364,
+      "minimo": 956.72,
+      "maximo": 957.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 958.0,
-          "comerciante": "THE_BOSS_962",
-          "min": "7000000",
-          "max": "36450000",
-          "disponible": "50000.00"
-        },
-        {
-          "precio": 957.6,
-          "comerciante": "NG_Evangelion",
-          "min": "1000000",
-          "max": "36450000",
-          "disponible": "8863.79"
-        },
-        {
-          "precio": 957.5,
-          "comerciante": "CRIPTO-2026",
+          "precio": 957.0,
+          "comerciante": "FromVillage",
           "min": "3000000",
           "max": "36450000",
-          "disponible": "14014.90"
+          "disponible": "15176.40"
         },
         {
-          "precio": 957.435,
+          "precio": 957.0,
+          "comerciante": "carolinacwf",
+          "min": "2000000",
+          "max": "4000000",
+          "disponible": "30000.00"
+        },
+        {
+          "precio": 956.732,
           "comerciante": "TOPlevelS",
           "min": "10000000",
           "max": "36000000",
-          "disponible": "80000.00"
+          "disponible": "42396.06"
         },
         {
-          "precio": 957.427,
-          "comerciante": "x-Maverick-x",
-          "min": "2000000",
-          "max": "30000000",
-          "disponible": "27954.65"
+          "precio": 956.73,
+          "comerciante": "EverCryptoUSDT ",
+          "min": "1000000",
+          "max": "22198219",
+          "disponible": "22173.54"
+        },
+        {
+          "precio": 956.72,
+          "comerciante": "MolinetCoin",
+          "min": "600000",
+          "max": "9100000",
+          "disponible": "4593.06"
         }
       ]
     },
     "compra": {
-      "promedio": 957.4316,
+      "promedio": 958.0998,
       "minimo": 956.999,
-      "maximo": 957.99,
+      "maximo": 959.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "0.98"
         },
         {
-          "precio": 956.999,
-          "comerciante": "REMIX2786",
-          "min": "4000",
-          "max": "5000",
-          "disponible": "94.53"
-        },
-        {
-          "precio": 957.3,
-          "comerciante": "ElreyVes01",
-          "min": "18300",
-          "max": "18400",
-          "disponible": "99.75"
-        },
-        {
-          "precio": 957.87,
-          "comerciante": "YXS_Exchange",
+          "precio": 957.5,
+          "comerciante": "tupanal",
           "min": "20000",
-          "max": "204000",
-          "disponible": "31.92"
+          "max": "50000",
+          "disponible": "49.72"
         },
         {
-          "precio": 957.99,
-          "comerciante": "caizalezk",
-          "min": "40000",
+          "precio": 958.0,
+          "comerciante": "hiran_abi_cordero",
+          "min": "300",
+          "max": "25000",
+          "disponible": "0.43"
+        },
+        {
+          "precio": 959.0,
+          "comerciante": "Ashton Cordiero MlVk",
+          "min": "300",
           "max": "4000000",
-          "disponible": "401.91"
+          "disponible": "1.97"
+        },
+        {
+          "precio": 959.0,
+          "comerciante": "x88rising",
+          "min": "3000000",
+          "max": "36450000",
+          "disponible": "3890.60"
         }
       ]
     }
   },
-  "brecha_pct": 13.7
+  "brecha_pct": 13.61
 }
