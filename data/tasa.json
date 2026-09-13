@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-13T06:02:12+00:00",
-  "actualizado_ve": "2026-09-13T02:02:12-04:00",
+  "actualizado_utc": "2026-09-13T06:40:51+00:00",
+  "actualizado_ve": "2026-09-13T02:40:51-04:00",
   "bcv": {
     "usd": 842.2067,
     "eur": 977.8777773,
@@ -10,26 +10,33 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 957.0178,
+    "referencia": 957.14,
     "venta": {
-      "promedio": 957.0178,
-      "minimo": 956.19,
-      "maximo": 958.199,
+      "promedio": 957.14,
+      "minimo": 956.2,
+      "maximo": 958.0,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 958.199,
-          "comerciante": "Teim2",
-          "min": "800000",
-          "max": "4000000",
-          "disponible": "14261.12"
-        },
         {
           "precio": 958.0,
           "comerciante": "Trust-Broker",
           "min": "2000000",
           "max": "36450000",
           "disponible": "30000.00"
+        },
+        {
+          "precio": 958.0,
+          "comerciante": "Royrdgz",
+          "min": "400000",
+          "max": "36450000",
+          "disponible": "11186.68"
+        },
+        {
+          "precio": 957.0,
+          "comerciante": "SpaceX_Trader",
+          "min": "350000",
+          "max": "36400000",
+          "disponible": "46500.12"
         },
         {
           "precio": 956.5,
@@ -40,32 +47,25 @@
         },
         {
           "precio": 956.2,
-          "comerciante": "Royrdgz",
+          "comerciante": "NewtScamander",
           "min": "400000",
           "max": "36450000",
-          "disponible": "11186.68"
-        },
-        {
-          "precio": 956.19,
-          "comerciante": "Principe Drácula ",
-          "min": "1000000",
-          "max": "36000000",
-          "disponible": "16116.96"
+          "disponible": "25660.37"
         }
       ]
     },
     "compra": {
-      "promedio": 960.6378,
+      "promedio": 960.6958,
       "minimo": 960.0,
-      "maximo": 960.89,
+      "maximo": 961.089,
       "anuncios_usados": 5,
       "anuncios": [
         {
           "precio": 960.0,
-          "comerciante": "Alivergara7",
-          "min": "90000",
-          "max": "283495",
-          "disponible": "189.20"
+          "comerciante": "Maranatha09",
+          "min": "25000",
+          "max": "10000000",
+          "disponible": "104.79"
         },
         {
           "precio": 960.7,
@@ -73,13 +73,6 @@
           "min": "800000",
           "max": "10000000",
           "disponible": "3697.74"
-        },
-        {
-          "precio": 960.799,
-          "comerciante": "rParadas",
-          "min": "2000000",
-          "max": "15000000",
-          "disponible": "2215.60"
         },
         {
           "precio": 960.8,
@@ -94,9 +87,16 @@
           "min": "6000000",
           "max": "18000000",
           "disponible": "12579.25"
+        },
+        {
+          "precio": 961.089,
+          "comerciante": "User-328d1",
+          "min": "300000",
+          "max": "4000000",
+          "disponible": "498.75"
         }
       ]
     }
   },
-  "brecha_pct": 13.63
+  "brecha_pct": 13.65
 }
