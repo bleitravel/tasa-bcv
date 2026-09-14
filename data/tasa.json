@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-14T14:30:01+00:00",
-  "actualizado_ve": "2026-09-14T10:30:01-04:00",
+  "actualizado_utc": "2026-09-14T19:32:18+00:00",
+  "actualizado_ve": "2026-09-14T15:32:18-04:00",
   "bcv": {
     "usd": 842.2067,
     "eur": 977.8777773,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 958.576,
+    "referencia": 959.408,
     "venta": {
-      "promedio": 958.576,
-      "minimo": 958.28,
-      "maximo": 959.0,
+      "promedio": 959.408,
+      "minimo": 955.0,
+      "maximo": 970.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 959.0,
-          "comerciante": "caguy",
-          "min": "1000000",
-          "max": "36450000",
-          "disponible": "18071.04"
-        },
-        {
-          "precio": 958.6,
-          "comerciante": "calorina sankey",
-          "min": "1500000",
+          "precio": 970.0,
+          "comerciante": "Kryptos",
+          "min": "500",
           "max": "4000000",
-          "disponible": "7827.31"
+          "disponible": "75.27"
         },
         {
-          "precio": 958.5,
-          "comerciante": "ViG_Express732",
+          "precio": 959.04,
+          "comerciante": "ReloaderTED",
           "min": "1000000",
-          "max": "3900000",
-          "disponible": "18619.18"
+          "max": "1253324",
+          "disponible": "1250.00"
         },
         {
-          "precio": 958.5,
-          "comerciante": "TPhillips",
-          "min": "3000000",
-          "max": "36450000",
-          "disponible": "26529.99"
+          "precio": 957.0,
+          "comerciante": "adiaz1406",
+          "min": "900000",
+          "max": "1900000",
+          "disponible": "1003.06"
         },
         {
-          "precio": 958.28,
-          "comerciante": "FUERZA_ELITE",
-          "min": "1400000",
-          "max": "36000000",
-          "disponible": "19998.49"
+          "precio": 956.0,
+          "comerciante": "Arshit_6",
+          "min": "3500000",
+          "max": "4000000",
+          "disponible": "30000.00"
+        },
+        {
+          "precio": 955.0,
+          "comerciante": "joselopezbusiness8",
+          "min": "2000000",
+          "max": "4000000",
+          "disponible": "2905.76"
         }
       ]
     },
     "compra": {
-      "promedio": 959.2,
-      "minimo": 959.0,
-      "maximo": 959.5,
+      "promedio": 954.8772,
+      "minimo": 954.0,
+      "maximo": 955.188,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 959.0,
-          "comerciante": "meken13",
-          "min": "35000",
-          "max": "49000",
+          "precio": 954.0,
+          "comerciante": "Cambios_ESC",
+          "min": "95160",
+          "max": "95161",
           "disponible": "99.75"
         },
         {
-          "precio": 959.0,
-          "comerciante": "MaiLopez1094",
-          "min": "50000",
-          "max": "4000000",
-          "disponible": "149.62"
+          "precio": 954.999,
+          "comerciante": "TradEr2025_Drjgh",
+          "min": "2000000",
+          "max": "9000000",
+          "disponible": "7418.56"
         },
         {
-          "precio": 959.0,
-          "comerciante": "Bayridge",
-          "min": "325000",
-          "max": "326393",
-          "disponible": "339.15"
+          "precio": 955.099,
+          "comerciante": "_Cyber_Glup_Matrix_-",
+          "min": "500000",
+          "max": "2000000",
+          "disponible": "856.19"
         },
         {
-          "precio": 959.5,
-          "comerciante": "_DemoCambios_",
-          "min": "300000",
-          "max": "3000000",
-          "disponible": "498.75"
+          "precio": 955.1,
+          "comerciante": "KittyTrader16",
+          "min": "1000000",
+          "max": "5000000",
+          "disponible": "3020.05"
         },
         {
-          "precio": 959.5,
-          "comerciante": "Luisoxx01",
-          "min": "80000",
-          "max": "500000",
-          "disponible": "199.50"
+          "precio": 955.188,
+          "comerciante": "StarBusiness2",
+          "min": "2000000",
+          "max": "10000000",
+          "disponible": "8929.31"
         }
       ]
     }
   },
-  "brecha_pct": 13.82
+  "brecha_pct": 13.92
 }
