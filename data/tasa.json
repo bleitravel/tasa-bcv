@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-14T07:34:02+00:00",
-  "actualizado_ve": "2026-09-14T03:34:02-04:00",
+  "actualizado_utc": "2026-09-14T14:30:01+00:00",
+  "actualizado_ve": "2026-09-14T10:30:01-04:00",
   "bcv": {
     "usd": 842.2067,
     "eur": 977.8777773,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 963.2032,
+    "referencia": 958.576,
     "venta": {
-      "promedio": 963.2032,
-      "minimo": 962.6,
-      "maximo": 965.113,
+      "promedio": 958.576,
+      "minimo": 958.28,
+      "maximo": 959.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 965.113,
-          "comerciante": "Karly_Guevara",
-          "min": "2850000",
-          "max": "4000000",
-          "disponible": "3010.00"
-        },
-        {
-          "precio": 963.0,
-          "comerciante": "TradeCookingOil",
-          "min": "400000",
-          "max": "500000",
-          "disponible": "6700.00"
-        },
-        {
-          "precio": 962.7,
-          "comerciante": "上帝Cambios處女RyL聖靈",
-          "min": "200000",
-          "max": "9160000",
-          "disponible": "353.43"
-        },
-        {
-          "precio": 962.603,
-          "comerciante": "-Ledger-",
-          "min": "300000",
+          "precio": 959.0,
+          "comerciante": "caguy",
+          "min": "1000000",
           "max": "36450000",
-          "disponible": "52915.89"
+          "disponible": "18071.04"
         },
         {
-          "precio": 962.6,
-          "comerciante": "AlexGrecCambiosyReme",
-          "min": "100001",
-          "max": "9998999",
-          "disponible": "211.32"
+          "precio": 958.6,
+          "comerciante": "calorina sankey",
+          "min": "1500000",
+          "max": "4000000",
+          "disponible": "7827.31"
+        },
+        {
+          "precio": 958.5,
+          "comerciante": "ViG_Express732",
+          "min": "1000000",
+          "max": "3900000",
+          "disponible": "18619.18"
+        },
+        {
+          "precio": 958.5,
+          "comerciante": "TPhillips",
+          "min": "3000000",
+          "max": "36450000",
+          "disponible": "26529.99"
+        },
+        {
+          "precio": 958.28,
+          "comerciante": "FUERZA_ELITE",
+          "min": "1400000",
+          "max": "36000000",
+          "disponible": "19998.49"
         }
       ]
     },
     "compra": {
-      "promedio": 964.9376,
-      "minimo": 962.2,
-      "maximo": 965.899,
+      "promedio": 959.2,
+      "minimo": 959.0,
+      "maximo": 959.5,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 962.2,
-          "comerciante": "AntoRd",
-          "min": "300",
-          "max": "400000",
-          "disponible": "3.45"
+          "precio": 959.0,
+          "comerciante": "meken13",
+          "min": "35000",
+          "max": "49000",
+          "disponible": "99.75"
         },
         {
-          "precio": 965.3,
-          "comerciante": "Vtp2p",
-          "min": "300",
-          "max": "250013",
-          "disponible": "0.36"
+          "precio": 959.0,
+          "comerciante": "MaiLopez1094",
+          "min": "50000",
+          "max": "4000000",
+          "disponible": "149.62"
         },
         {
-          "precio": 965.489,
-          "comerciante": "Kyojuro-Rengoku-Vzla",
-          "min": "790000",
-          "max": "800000",
-          "disponible": "1595.21"
+          "precio": 959.0,
+          "comerciante": "Bayridge",
+          "min": "325000",
+          "max": "326393",
+          "disponible": "339.15"
         },
         {
-          "precio": 965.8,
-          "comerciante": "Samirrrrrrr",
-          "min": "800000",
-          "max": "14000000",
-          "disponible": "1000.00"
+          "precio": 959.5,
+          "comerciante": "_DemoCambios_",
+          "min": "300000",
+          "max": "3000000",
+          "disponible": "498.75"
         },
         {
-          "precio": 965.899,
-          "comerciante": "Sr_____Trader",
-          "min": "3500000",
-          "max": "7000000",
-          "disponible": "7312.20"
+          "precio": 959.5,
+          "comerciante": "Luisoxx01",
+          "min": "80000",
+          "max": "500000",
+          "disponible": "199.50"
         }
       ]
     }
   },
-  "brecha_pct": 14.37
+  "brecha_pct": 13.82
 }
