@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-14T19:32:18+00:00",
-  "actualizado_ve": "2026-09-14T15:32:18-04:00",
+  "actualizado_utc": "2026-09-14T22:49:24+00:00",
+  "actualizado_ve": "2026-09-14T18:49:24-04:00",
   "bcv": {
     "usd": 842.2067,
     "eur": 977.8777773,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 959.408,
+    "referencia": 952.34,
     "venta": {
-      "promedio": 959.408,
-      "minimo": 955.0,
-      "maximo": 970.0,
-      "anuncios_usados": 5,
-      "anuncios": [
-        {
-          "precio": 970.0,
-          "comerciante": "Kryptos",
-          "min": "500",
-          "max": "4000000",
-          "disponible": "75.27"
-        },
-        {
-          "precio": 959.04,
-          "comerciante": "ReloaderTED",
-          "min": "1000000",
-          "max": "1253324",
-          "disponible": "1250.00"
-        },
-        {
-          "precio": 957.0,
-          "comerciante": "adiaz1406",
-          "min": "900000",
-          "max": "1900000",
-          "disponible": "1003.06"
-        },
-        {
-          "precio": 956.0,
-          "comerciante": "Arshit_6",
-          "min": "3500000",
-          "max": "4000000",
-          "disponible": "30000.00"
-        },
-        {
-          "precio": 955.0,
-          "comerciante": "joselopezbusiness8",
-          "min": "2000000",
-          "max": "4000000",
-          "disponible": "2905.76"
-        }
-      ]
-    },
-    "compra": {
-      "promedio": 954.8772,
-      "minimo": 954.0,
-      "maximo": 955.188,
+      "promedio": 952.34,
+      "minimo": 951.2,
+      "maximo": 954.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
           "precio": 954.0,
-          "comerciante": "Cambios_ESC",
-          "min": "95160",
-          "max": "95161",
-          "disponible": "99.75"
-        },
-        {
-          "precio": 954.999,
-          "comerciante": "TradEr2025_Drjgh",
+          "comerciante": "Blank_Mind",
           "min": "2000000",
-          "max": "9000000",
-          "disponible": "7418.56"
+          "max": "36450000",
+          "disponible": "54821.36"
         },
         {
-          "precio": 955.099,
-          "comerciante": "_Cyber_Glup_Matrix_-",
+          "precio": 953.3,
+          "comerciante": "remPro",
+          "min": "30000",
+          "max": "850000",
+          "disponible": "2304.78"
+        },
+        {
+          "precio": 952.0,
+          "comerciante": "LuxuryBusiness",
+          "min": "2000000",
+          "max": "8000000",
+          "disponible": "26000.06"
+        },
+        {
+          "precio": 951.2,
+          "comerciante": "arturo2493",
           "min": "500000",
-          "max": "2000000",
-          "disponible": "856.19"
+          "max": "4000000",
+          "disponible": "12235.84"
         },
         {
-          "precio": 955.1,
-          "comerciante": "KittyTrader16",
-          "min": "1000000",
-          "max": "5000000",
-          "disponible": "3020.05"
+          "precio": 951.2,
+          "comerciante": "Bianchiplus",
+          "min": "1950000",
+          "max": "1959000",
+          "disponible": "2061.00"
+        }
+      ]
+    },
+    "compra": {
+      "promedio": 952.8036,
+      "minimo": 952.4,
+      "maximo": 952.99,
+      "anuncios_usados": 5,
+      "anuncios": [
+        {
+          "precio": 952.4,
+          "comerciante": "Cambios251",
+          "min": "20000",
+          "max": "100000",
+          "disponible": "245.76"
         },
         {
-          "precio": 955.188,
-          "comerciante": "StarBusiness2",
-          "min": "2000000",
-          "max": "10000000",
-          "disponible": "8929.31"
+          "precio": 952.7,
+          "comerciante": "Lucho_365",
+          "min": "285000",
+          "max": "285001",
+          "disponible": "299.25"
+        },
+        {
+          "precio": 952.948,
+          "comerciante": "VelociCambiosMx",
+          "min": "116150",
+          "max": "116151",
+          "disponible": "132.43"
+        },
+        {
+          "precio": 952.98,
+          "comerciante": "CuartoCambio",
+          "min": "20000",
+          "max": "4000000",
+          "disponible": "45.36"
+        },
+        {
+          "precio": 952.99,
+          "comerciante": "SpaceX_Trader",
+          "min": "3000000",
+          "max": "20000000",
+          "disponible": "32797.11"
         }
       ]
     }
   },
-  "brecha_pct": 13.92
+  "brecha_pct": 13.08
 }
