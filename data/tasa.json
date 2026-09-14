@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-14T01:59:00+00:00",
-  "actualizado_ve": "2026-09-13T21:59:00-04:00",
+  "actualizado_utc": "2026-09-14T07:34:02+00:00",
+  "actualizado_ve": "2026-09-14T03:34:02-04:00",
   "bcv": {
     "usd": 842.2067,
     "eur": 977.8777773,
@@ -10,54 +10,54 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 962.5232,
+    "referencia": 963.2032,
     "venta": {
-      "promedio": 962.5232,
-      "minimo": 962.36,
-      "maximo": 962.6,
+      "promedio": 963.2032,
+      "minimo": 962.6,
+      "maximo": 965.113,
       "anuncios_usados": 5,
       "anuncios": [
         {
+          "precio": 965.113,
+          "comerciante": "Karly_Guevara",
+          "min": "2850000",
+          "max": "4000000",
+          "disponible": "3010.00"
+        },
+        {
+          "precio": 963.0,
+          "comerciante": "TradeCookingOil",
+          "min": "400000",
+          "max": "500000",
+          "disponible": "6700.00"
+        },
+        {
+          "precio": 962.7,
+          "comerciante": "上帝Cambios處女RyL聖靈",
+          "min": "200000",
+          "max": "9160000",
+          "disponible": "353.43"
+        },
+        {
+          "precio": 962.603,
+          "comerciante": "-Ledger-",
+          "min": "300000",
+          "max": "36450000",
+          "disponible": "52915.89"
+        },
+        {
           "precio": 962.6,
-          "comerciante": "-Tyrion-Lannister-",
-          "min": "1000000",
-          "max": "36450000",
-          "disponible": "3990.04"
-        },
-        {
-          "precio": 962.555,
-          "comerciante": "TOPlevelS",
-          "min": "10000000",
-          "max": "36000000",
-          "disponible": "69613.14"
-        },
-        {
-          "precio": 962.551,
-          "comerciante": "活着的价值",
-          "min": "2000000",
-          "max": "36450000",
-          "disponible": "50000.00"
-        },
-        {
-          "precio": 962.55,
-          "comerciante": "Brawcoins",
-          "min": "5000000",
-          "max": "36450000",
-          "disponible": "73611.72"
-        },
-        {
-          "precio": 962.36,
-          "comerciante": "永不放棄",
-          "min": "1000000",
-          "max": "14720000",
-          "disponible": "9298.38"
+          "comerciante": "AlexGrecCambiosyReme",
+          "min": "100001",
+          "max": "9998999",
+          "disponible": "211.32"
         }
       ]
     },
     "compra": {
-      "promedio": 963.5998,
+      "promedio": 964.9376,
       "minimo": 962.2,
-      "maximo": 964.489,
+      "maximo": 965.899,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "3.45"
         },
         {
-          "precio": 963.0,
-          "comerciante": "User-90185",
-          "min": "10000",
-          "max": "145423",
-          "disponible": "150.63"
-        },
-        {
-          "precio": 964.0,
-          "comerciante": "User-32d54",
+          "precio": 965.3,
+          "comerciante": "Vtp2p",
           "min": "300",
-          "max": "200000",
-          "disponible": "1.61"
+          "max": "250013",
+          "disponible": "0.36"
         },
         {
-          "precio": 964.31,
-          "comerciante": "adrubita",
-          "min": "1318000",
-          "max": "10000000",
-          "disponible": "1372.32"
-        },
-        {
-          "precio": 964.489,
+          "precio": 965.489,
           "comerciante": "Kyojuro-Rengoku-Vzla",
           "min": "790000",
           "max": "800000",
           "disponible": "1595.21"
+        },
+        {
+          "precio": 965.8,
+          "comerciante": "Samirrrrrrr",
+          "min": "800000",
+          "max": "14000000",
+          "disponible": "1000.00"
+        },
+        {
+          "precio": 965.899,
+          "comerciante": "Sr_____Trader",
+          "min": "3500000",
+          "max": "7000000",
+          "disponible": "7312.20"
         }
       ]
     }
   },
-  "brecha_pct": 14.29
+  "brecha_pct": 14.37
 }
