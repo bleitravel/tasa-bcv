@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-14T22:49:24+00:00",
-  "actualizado_ve": "2026-09-14T18:49:24-04:00",
+  "actualizado_utc": "2026-09-15T01:02:11+00:00",
+  "actualizado_ve": "2026-09-14T21:02:11-04:00",
   "bcv": {
     "usd": 842.2067,
     "eur": 977.8777773,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 952.34,
+    "referencia": 951.3362,
     "venta": {
-      "promedio": 952.34,
-      "minimo": 951.2,
-      "maximo": 954.0,
+      "promedio": 951.3362,
+      "minimo": 950.7,
+      "maximo": 953.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 954.0,
+          "precio": 953.0,
           "comerciante": "Blank_Mind",
           "min": "2000000",
           "max": "36450000",
-          "disponible": "54821.36"
-        },
-        {
-          "precio": 953.3,
-          "comerciante": "remPro",
-          "min": "30000",
-          "max": "850000",
-          "disponible": "2304.78"
-        },
-        {
-          "precio": 952.0,
-          "comerciante": "LuxuryBusiness",
-          "min": "2000000",
-          "max": "8000000",
-          "disponible": "26000.06"
+          "disponible": "52001.73"
         },
         {
           "precio": 951.2,
-          "comerciante": "arturo2493",
-          "min": "500000",
-          "max": "4000000",
-          "disponible": "12235.84"
+          "comerciante": "John-Deere",
+          "min": "4000000",
+          "max": "28000000",
+          "disponible": "29470.08"
         },
         {
-          "precio": 951.2,
+          "precio": 951.08,
           "comerciante": "Bianchiplus",
-          "min": "1950000",
-          "max": "1959000",
-          "disponible": "2061.00"
+          "min": "2000000",
+          "max": "21200000",
+          "disponible": "12489.31"
+        },
+        {
+          "precio": 950.701,
+          "comerciante": "MANTEQUILLAA",
+          "min": "800000",
+          "max": "27302000",
+          "disponible": "20362.07"
+        },
+        {
+          "precio": 950.7,
+          "comerciante": "Cachy13Usdt",
+          "min": "2000000",
+          "max": "19912000",
+          "disponible": "5204.15"
         }
       ]
     },
     "compra": {
-      "promedio": 952.8036,
-      "minimo": 952.4,
-      "maximo": 952.99,
+      "promedio": 950.5996,
+      "minimo": 949.999,
+      "maximo": 951.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 952.4,
-          "comerciante": "Cambios251",
-          "min": "20000",
-          "max": "100000",
-          "disponible": "245.76"
+          "precio": 949.999,
+          "comerciante": "GlobalBusinessmx",
+          "min": "99450",
+          "max": "99451",
+          "disponible": "104.73"
         },
         {
-          "precio": 952.7,
-          "comerciante": "Lucho_365",
-          "min": "285000",
-          "max": "285001",
-          "disponible": "299.25"
-        },
-        {
-          "precio": 952.948,
-          "comerciante": "VelociCambiosMx",
-          "min": "116150",
-          "max": "116151",
-          "disponible": "132.43"
-        },
-        {
-          "precio": 952.98,
-          "comerciante": "CuartoCambio",
-          "min": "20000",
+          "precio": 950.0,
+          "comerciante": "RamonNG7",
+          "min": "300",
           "max": "4000000",
-          "disponible": "45.36"
+          "disponible": "0.95"
         },
         {
-          "precio": 952.99,
-          "comerciante": "SpaceX_Trader",
-          "min": "3000000",
-          "max": "20000000",
-          "disponible": "32797.11"
+          "precio": 950.999,
+          "comerciante": "cambio_veloces",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "0.65"
+        },
+        {
+          "precio": 951.0,
+          "comerciante": "lilianadhi",
+          "min": "300",
+          "max": "95000",
+          "disponible": "0.57"
+        },
+        {
+          "precio": 951.0,
+          "comerciante": "Osman User-630d9",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "1.64"
         }
       ]
     }
   },
-  "brecha_pct": 13.08
+  "brecha_pct": 12.96
 }
