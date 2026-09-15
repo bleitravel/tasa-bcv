@@ -1,102 +1,102 @@
 {
-  "actualizado_utc": "2026-09-15T19:19:32+00:00",
-  "actualizado_ve": "2026-09-15T15:19:32-04:00",
+  "actualizado_utc": "2026-09-15T22:21:37+00:00",
+  "actualizado_ve": "2026-09-15T18:21:37-04:00",
   "bcv": {
-    "usd": 842.2067,
-    "eur": 977.8777773,
-    "fecha_valor": "2026-09-15T00:00:00-04:00"
+    "usd": 846.5131,
+    "eur": 977.18086211,
+    "fecha_valor": "2026-09-16T00:00:00-04:00"
   },
   "binance_p2p": {
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 957.912,
+    "referencia": 956.821,
     "venta": {
-      "promedio": 957.912,
-      "minimo": 957.76,
+      "promedio": 956.821,
+      "minimo": 956.005,
       "maximo": 958.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
           "precio": 958.0,
-          "comerciante": "Umbrella2503",
-          "min": "957000",
-          "max": "4000000",
-          "disponible": "3622.40"
+          "comerciante": "-Tyrion-Lannister-",
+          "min": "6000000",
+          "max": "36450000",
+          "disponible": "31418.80"
         },
         {
-          "precio": 958.0,
-          "comerciante": "Moplay08",
-          "min": "100000",
-          "max": "429480",
-          "disponible": "150.86"
+          "precio": 957.0,
+          "comerciante": "Trust-Broker",
+          "min": "4000000",
+          "max": "36450000",
+          "disponible": "50000.00"
         },
         {
-          "precio": 958.0,
-          "comerciante": "-Akopan-",
+          "precio": 956.6,
+          "comerciante": "GAZA_CRIPTO",
           "min": "10000000",
           "max": "36450000",
-          "disponible": "80000.00"
+          "disponible": "65467.25"
         },
         {
-          "precio": 957.8,
-          "comerciante": "CRIPTO-2026",
-          "min": "3161000",
-          "max": "36450000",
-          "disponible": "3300.31"
-        },
-        {
-          "precio": 957.76,
-          "comerciante": "angelchacon",
+          "precio": 956.5,
+          "comerciante": "IsaBTC-",
           "min": "7000000",
           "max": "36450000",
-          "disponible": "65000.06"
+          "disponible": "72176.77"
+        },
+        {
+          "precio": 956.005,
+          "comerciante": "Gustavo129",
+          "min": "2000000",
+          "max": "36450000",
+          "disponible": "80000.00"
         }
       ]
     },
     "compra": {
-      "promedio": 958.745,
-      "minimo": 956.999,
-      "maximo": 959.99,
+      "promedio": 957.48,
+      "minimo": 957.0,
+      "maximo": 957.8,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 956.999,
-          "comerciante": "Innoka",
-          "min": "3600",
-          "max": "3601",
-          "disponible": "99.75"
-        },
-        {
           "precio": 957.0,
-          "comerciante": "escalonacambio",
-          "min": "300",
+          "comerciante": "CriptoFlyy",
+          "min": "2000",
+          "max": "600000",
+          "disponible": "1392.18"
+        },
+        {
+          "precio": 957.5,
+          "comerciante": "Trader_FGP",
+          "min": "700000",
+          "max": "3000000",
+          "disponible": "985.62"
+        },
+        {
+          "precio": 957.5,
+          "comerciante": "Justcrip18",
+          "min": "2000000",
+          "max": "36450000",
+          "disponible": "16981.17"
+        },
+        {
+          "precio": 957.6,
+          "comerciante": "BratzDiners",
+          "min": "200000",
           "max": "4000000",
-          "disponible": "0.42"
+          "disponible": "216.80"
         },
         {
-          "precio": 959.8,
-          "comerciante": "enyergomez",
-          "min": "10000",
-          "max": "150000",
-          "disponible": "329.82"
-        },
-        {
-          "precio": 959.936,
-          "comerciante": "cjr10",
-          "min": "9600",
-          "max": "9601",
-          "disponible": "99.75"
-        },
-        {
-          "precio": 959.99,
-          "comerciante": "WJ_AL16",
-          "min": "10000",
-          "max": "142241",
-          "disponible": "12.56"
+          "precio": 957.8,
+          "comerciante": "Vip_Super_p2p",
+          "min": "5000000",
+          "max": "7800000",
+          "disponible": "7986.02"
         }
       ]
     }
   },
-  "brecha_pct": 13.74
+  "brecha_pct": 13.03
 }
