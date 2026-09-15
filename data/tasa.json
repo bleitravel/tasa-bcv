@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-15T06:14:41+00:00",
-  "actualizado_ve": "2026-09-15T02:14:41-04:00",
+  "actualizado_utc": "2026-09-15T11:54:48+00:00",
+  "actualizado_ve": "2026-09-15T07:54:48-04:00",
   "bcv": {
     "usd": 842.2067,
     "eur": 977.8777773,
@@ -10,19 +10,33 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 948.4,
+    "referencia": 951.56,
     "venta": {
-      "promedio": 948.4,
+      "promedio": 951.56,
       "minimo": 947.0,
-      "maximo": 950.0,
+      "maximo": 961.8,
       "anuncios_usados": 5,
       "anuncios": [
+        {
+          "precio": 961.8,
+          "comerciante": "Word-Traiding",
+          "min": "500000",
+          "max": "4000000",
+          "disponible": "2686.50"
+        },
         {
           "precio": 950.0,
           "comerciante": "Verele",
           "min": "100000",
           "max": "4000000",
-          "disponible": "6000.00"
+          "disponible": "5000.92"
+        },
+        {
+          "precio": 950.0,
+          "comerciante": "CAMBIOBEMOVIL",
+          "min": "300",
+          "max": "6000",
+          "disponible": "188.38"
         },
         {
           "precio": 949.0,
@@ -32,71 +46,57 @@
           "disponible": "1003.06"
         },
         {
-          "precio": 948.0,
-          "comerciante": "Karlitalamejor",
-          "min": "500000",
-          "max": "1999999",
-          "disponible": "1525.95"
-        },
-        {
-          "precio": 948.0,
-          "comerciante": "arturo2493",
-          "min": "300000",
-          "max": "4000000",
-          "disponible": "404.55"
-        },
-        {
           "precio": 947.0,
-          "comerciante": "KingCambioJS",
-          "min": "300000",
-          "max": "4000000",
-          "disponible": "8946.34"
+          "comerciante": "Blank_Mind",
+          "min": "2000000",
+          "max": "36450000",
+          "disponible": "77096.10"
         }
       ]
     },
     "compra": {
-      "promedio": 950.878,
-      "minimo": 950.6,
-      "maximo": 951.1,
+      "promedio": 944.1998,
+      "minimo": 944.0,
+      "maximo": 944.5,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 950.6,
-          "comerciante": "Melani_sublimascione",
-          "min": "3000000",
-          "max": "17080224",
-          "disponible": "14751.56"
+          "precio": 944.0,
+          "comerciante": "P2PJDK",
+          "min": "4720",
+          "max": "4000000",
+          "disponible": "75.89"
         },
         {
-          "precio": 950.7,
-          "comerciante": "Royrdgz",
-          "min": "5000000",
-          "max": "36450000",
-          "disponible": "12476.47"
+          "precio": 944.0,
+          "comerciante": "KRAXON",
+          "min": "1000",
+          "max": "130000",
+          "disponible": "16.92"
         },
         {
-          "precio": 950.99,
-          "comerciante": "JmExchanges14",
-          "min": "500000",
-          "max": "36450000",
-          "disponible": "1488.72"
+          "precio": 944.0,
+          "comerciante": "lopezbinance",
+          "min": "50000",
+          "max": "400000",
+          "disponible": "333.67"
         },
         {
-          "precio": 951.0,
-          "comerciante": "DavDoug",
-          "min": "180000",
-          "max": "220000",
-          "disponible": "199.60"
+          "precio": 944.499,
+          "comerciante": "Caraotacash",
+          "min": "300",
+          "max": "6000",
+          "disponible": "113.11"
         },
         {
-          "precio": 951.1,
-          "comerciante": "Ruzcallahk_p2p07",
-          "min": "1500000",
-          "max": "36450000",
-          "disponible": "8478.35"
+          "precio": 944.5,
+          "comerciante": "corajecoinvnzla",
+          "min": "500",
+          "max": "535000",
+          "disponible": "161.86"
         }
       ]
     }
   },
-  "brecha_pct": 12.61
+  "brecha_pct": 12.98
 }
