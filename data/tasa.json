@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-15T11:54:48+00:00",
-  "actualizado_ve": "2026-09-15T07:54:48-04:00",
+  "actualizado_utc": "2026-09-15T15:47:44+00:00",
+  "actualizado_ve": "2026-09-15T11:47:44-04:00",
   "bcv": {
     "usd": 842.2067,
     "eur": 977.8777773,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 951.56,
+    "referencia": 950.3842,
     "venta": {
-      "promedio": 951.56,
-      "minimo": 947.0,
-      "maximo": 961.8,
+      "promedio": 950.3842,
+      "minimo": 949.0,
+      "maximo": 952.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 961.8,
-          "comerciante": "Word-Traiding",
-          "min": "500000",
-          "max": "4000000",
-          "disponible": "2686.50"
-        },
-        {
-          "precio": 950.0,
-          "comerciante": "Verele",
-          "min": "100000",
-          "max": "4000000",
-          "disponible": "5000.92"
-        },
-        {
-          "precio": 950.0,
-          "comerciante": "CAMBIOBEMOVIL",
-          "min": "300",
-          "max": "6000",
-          "disponible": "188.38"
-        },
-        {
-          "precio": 949.0,
-          "comerciante": "adiaz1406",
-          "min": "900000",
-          "max": "1900000",
-          "disponible": "1003.06"
-        },
-        {
-          "precio": 947.0,
+          "precio": 952.0,
           "comerciante": "Blank_Mind",
           "min": "2000000",
           "max": "36450000",
-          "disponible": "77096.10"
+          "disponible": "42460.22"
+        },
+        {
+          "precio": 950.991,
+          "comerciante": "OLA-cHANGE",
+          "min": "20000",
+          "max": "36450000",
+          "disponible": "5656.00"
+        },
+        {
+          "precio": 950.005,
+          "comerciante": "Gustavo129",
+          "min": "700000",
+          "max": "36450000",
+          "disponible": "16964.32"
+        },
+        {
+          "precio": 949.925,
+          "comerciante": "BMVF_",
+          "min": "300000",
+          "max": "36450000",
+          "disponible": "21000.00"
+        },
+        {
+          "precio": 949.0,
+          "comerciante": "-Tyrion-Lannister-",
+          "min": "3000000",
+          "max": "36450000",
+          "disponible": "35623.29"
         }
       ]
     },
     "compra": {
-      "promedio": 944.1998,
-      "minimo": 944.0,
-      "maximo": 944.5,
+      "promedio": 949.3508,
+      "minimo": 948.0,
+      "maximo": 949.999,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 944.0,
-          "comerciante": "P2PJDK",
-          "min": "4720",
+          "precio": 948.0,
+          "comerciante": "Specione",
+          "min": "60000",
+          "max": "60001",
+          "disponible": "66.45"
+        },
+        {
+          "precio": 949.0,
+          "comerciante": "Inver2022",
+          "min": "121000",
+          "max": "122000",
+          "disponible": "129.11"
+        },
+        {
+          "precio": 949.855,
+          "comerciante": "GRTCOIN",
+          "min": "60000",
           "max": "4000000",
-          "disponible": "75.89"
+          "disponible": "1511.23"
         },
         {
-          "precio": 944.0,
-          "comerciante": "KRAXON",
-          "min": "1000",
-          "max": "130000",
-          "disponible": "16.92"
+          "precio": 949.9,
+          "comerciante": "Cryptopepex",
+          "min": "10000",
+          "max": "100000",
+          "disponible": "13.54"
         },
         {
-          "precio": 944.0,
-          "comerciante": "lopezbinance",
-          "min": "50000",
-          "max": "400000",
-          "disponible": "333.67"
-        },
-        {
-          "precio": 944.499,
-          "comerciante": "Caraotacash",
-          "min": "300",
-          "max": "6000",
-          "disponible": "113.11"
-        },
-        {
-          "precio": 944.5,
-          "comerciante": "corajecoinvnzla",
-          "min": "500",
-          "max": "535000",
-          "disponible": "161.86"
+          "precio": 949.999,
+          "comerciante": "TucambiosYavzl",
+          "min": "90000",
+          "max": "95000",
+          "disponible": "99.75"
         }
       ]
     }
   },
-  "brecha_pct": 12.98
+  "brecha_pct": 12.84
 }
