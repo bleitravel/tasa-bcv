@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-15T15:47:44+00:00",
-  "actualizado_ve": "2026-09-15T11:47:44-04:00",
+  "actualizado_utc": "2026-09-15T19:19:32+00:00",
+  "actualizado_ve": "2026-09-15T15:19:32-04:00",
   "bcv": {
     "usd": 842.2067,
     "eur": 977.8777773,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 950.3842,
+    "referencia": 957.912,
     "venta": {
-      "promedio": 950.3842,
-      "minimo": 949.0,
-      "maximo": 952.0,
+      "promedio": 957.912,
+      "minimo": 957.76,
+      "maximo": 958.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 952.0,
-          "comerciante": "Blank_Mind",
-          "min": "2000000",
-          "max": "36450000",
-          "disponible": "42460.22"
+          "precio": 958.0,
+          "comerciante": "Umbrella2503",
+          "min": "957000",
+          "max": "4000000",
+          "disponible": "3622.40"
         },
         {
-          "precio": 950.991,
-          "comerciante": "OLA-cHANGE",
-          "min": "20000",
-          "max": "36450000",
-          "disponible": "5656.00"
+          "precio": 958.0,
+          "comerciante": "Moplay08",
+          "min": "100000",
+          "max": "429480",
+          "disponible": "150.86"
         },
         {
-          "precio": 950.005,
-          "comerciante": "Gustavo129",
-          "min": "700000",
+          "precio": 958.0,
+          "comerciante": "-Akopan-",
+          "min": "10000000",
           "max": "36450000",
-          "disponible": "16964.32"
+          "disponible": "80000.00"
         },
         {
-          "precio": 949.925,
-          "comerciante": "BMVF_",
-          "min": "300000",
+          "precio": 957.8,
+          "comerciante": "CRIPTO-2026",
+          "min": "3161000",
           "max": "36450000",
-          "disponible": "21000.00"
+          "disponible": "3300.31"
         },
         {
-          "precio": 949.0,
-          "comerciante": "-Tyrion-Lannister-",
-          "min": "3000000",
+          "precio": 957.76,
+          "comerciante": "angelchacon",
+          "min": "7000000",
           "max": "36450000",
-          "disponible": "35623.29"
+          "disponible": "65000.06"
         }
       ]
     },
     "compra": {
-      "promedio": 949.3508,
-      "minimo": 948.0,
-      "maximo": 949.999,
+      "promedio": 958.745,
+      "minimo": 956.999,
+      "maximo": 959.99,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 948.0,
-          "comerciante": "Specione",
-          "min": "60000",
-          "max": "60001",
-          "disponible": "66.45"
-        },
-        {
-          "precio": 949.0,
-          "comerciante": "Inver2022",
-          "min": "121000",
-          "max": "122000",
-          "disponible": "129.11"
-        },
-        {
-          "precio": 949.855,
-          "comerciante": "GRTCOIN",
-          "min": "60000",
-          "max": "4000000",
-          "disponible": "1511.23"
-        },
-        {
-          "precio": 949.9,
-          "comerciante": "Cryptopepex",
-          "min": "10000",
-          "max": "100000",
-          "disponible": "13.54"
-        },
-        {
-          "precio": 949.999,
-          "comerciante": "TucambiosYavzl",
-          "min": "90000",
-          "max": "95000",
+          "precio": 956.999,
+          "comerciante": "Innoka",
+          "min": "3600",
+          "max": "3601",
           "disponible": "99.75"
+        },
+        {
+          "precio": 957.0,
+          "comerciante": "escalonacambio",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "0.42"
+        },
+        {
+          "precio": 959.8,
+          "comerciante": "enyergomez",
+          "min": "10000",
+          "max": "150000",
+          "disponible": "329.82"
+        },
+        {
+          "precio": 959.936,
+          "comerciante": "cjr10",
+          "min": "9600",
+          "max": "9601",
+          "disponible": "99.75"
+        },
+        {
+          "precio": 959.99,
+          "comerciante": "WJ_AL16",
+          "min": "10000",
+          "max": "142241",
+          "disponible": "12.56"
         }
       ]
     }
   },
-  "brecha_pct": 12.84
+  "brecha_pct": 13.74
 }
