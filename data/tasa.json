@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-16T15:03:32+00:00",
-  "actualizado_ve": "2026-09-16T11:03:32-04:00",
+  "actualizado_utc": "2026-09-16T18:57:12+00:00",
+  "actualizado_ve": "2026-09-16T14:57:12-04:00",
   "bcv": {
     "usd": 846.5131,
     "eur": 977.18086211,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 956.5102,
+    "referencia": 958.0126,
     "venta": {
-      "promedio": 956.5102,
-      "minimo": 956.5,
-      "maximo": 956.55,
+      "promedio": 958.0126,
+      "minimo": 957.262,
+      "maximo": 959.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 956.55,
-          "comerciante": "Comercializadora_MAC",
-          "min": "4000000",
+          "precio": 959.0,
+          "comerciante": "securitylc",
+          "min": "5000000",
           "max": "36450000",
-          "disponible": "50000.00"
+          "disponible": "28479.06"
         },
         {
-          "precio": 956.501,
-          "comerciante": "CambiosMZ",
-          "min": "2000000",
-          "max": "23887500",
-          "disponible": "20736.47"
-        },
-        {
-          "precio": 956.5,
+          "precio": 958.001,
           "comerciante": "Trust-Broker",
-          "min": "3000000",
+          "min": "2000000",
           "max": "36450000",
-          "disponible": "17058.03"
+          "disponible": "30000.00"
         },
         {
-          "precio": 956.5,
-          "comerciante": "John-Deere",
-          "min": "1000000",
+          "precio": 958.0,
+          "comerciante": "GOMEZTUSOLUCION",
+          "min": "10000000",
           "max": "36450000",
-          "disponible": "37254.57"
+          "disponible": "80000.00"
         },
         {
-          "precio": 956.5,
-          "comerciante": "-Syria1264-",
-          "min": "1000000",
+          "precio": 957.8,
+          "comerciante": "2020EXCHANGEVIP",
+          "min": "8000000",
           "max": "36450000",
-          "disponible": "10447.34"
+          "disponible": "71642.73"
+        },
+        {
+          "precio": 957.262,
+          "comerciante": "User-fdcbf8mw",
+          "min": "3900000",
+          "max": "4000000",
+          "disponible": "4178.00"
         }
       ]
     },
     "compra": {
-      "promedio": 955.0396,
-      "minimo": 950.0,
-      "maximo": 957.0,
+      "promedio": 958.7998,
+      "minimo": 958.599,
+      "maximo": 959.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 950.0,
-          "comerciante": "Cambios_Cooper",
-          "min": "300",
-          "max": "301",
-          "disponible": "99.75"
+          "precio": 958.599,
+          "comerciante": "VelociCambiosMx",
+          "min": "100000",
+          "max": "100001",
+          "disponible": "106.95"
         },
         {
-          "precio": 954.2,
-          "comerciante": "CODE-30_IA",
-          "min": "300",
-          "max": "3000",
-          "disponible": "99.75"
+          "precio": 958.6,
+          "comerciante": "JOSE-ARAB",
+          "min": "70000",
+          "max": "650000",
+          "disponible": "274.80"
         },
         {
-          "precio": 956.998,
-          "comerciante": "Vaneandreina7",
-          "min": "599000",
-          "max": "600000",
-          "disponible": "1268.30"
+          "precio": 958.8,
+          "comerciante": "ADRIANPC",
+          "min": "250000",
+          "max": "360000",
+          "disponible": "598.46"
         },
         {
-          "precio": 957.0,
-          "comerciante": "DIEGOMOTORCYCLE65",
-          "min": "62400",
-          "max": "62400",
-          "disponible": "99.75"
+          "precio": 959.0,
+          "comerciante": "JL Exchange",
+          "min": "100000",
+          "max": "10000000",
+          "disponible": "144.62"
         },
         {
-          "precio": 957.0,
-          "comerciante": "ADRIAN1011Z",
-          "min": "500",
-          "max": "85000",
-          "disponible": "90.17"
+          "precio": 959.0,
+          "comerciante": "User-92d9f",
+          "min": "1500",
+          "max": "4000000",
+          "disponible": "1.67"
         }
       ]
     }
   },
-  "brecha_pct": 12.99
+  "brecha_pct": 13.17
 }
