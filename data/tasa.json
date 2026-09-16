@@ -1,102 +1,102 @@
 {
-  "actualizado_utc": "2026-09-16T18:57:12+00:00",
-  "actualizado_ve": "2026-09-16T14:57:12-04:00",
+  "actualizado_utc": "2026-09-16T21:50:04+00:00",
+  "actualizado_ve": "2026-09-16T17:50:04-04:00",
   "bcv": {
-    "usd": 846.5131,
-    "eur": 977.18086211,
-    "fecha_valor": "2026-09-16T00:00:00-04:00"
+    "usd": 847.4442,
+    "eur": 977.67942465,
+    "fecha_valor": "2026-09-17T00:00:00-04:00"
   },
   "binance_p2p": {
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 958.0126,
+    "referencia": 959.6146,
     "venta": {
-      "promedio": 958.0126,
-      "minimo": 957.262,
-      "maximo": 959.0,
+      "promedio": 959.6146,
+      "minimo": 958.5,
+      "maximo": 963.01,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 959.0,
-          "comerciante": "securitylc",
-          "min": "5000000",
-          "max": "36450000",
-          "disponible": "28479.06"
+          "precio": 963.01,
+          "comerciante": "CarGangaP2Psafe_",
+          "min": "5000",
+          "max": "80000",
+          "disponible": "100.00"
         },
         {
-          "precio": 958.001,
+          "precio": 959.008,
           "comerciante": "Trust-Broker",
-          "min": "2000000",
+          "min": "1000000",
           "max": "36450000",
-          "disponible": "30000.00"
+          "disponible": "14605.58"
         },
         {
-          "precio": 958.0,
+          "precio": 959.0,
           "comerciante": "GOMEZTUSOLUCION",
-          "min": "10000000",
+          "min": "15000000",
           "max": "36450000",
-          "disponible": "80000.00"
+          "disponible": "79000.00"
         },
         {
-          "precio": 957.8,
-          "comerciante": "2020EXCHANGEVIP",
-          "min": "8000000",
-          "max": "36450000",
-          "disponible": "71642.73"
+          "precio": 958.555,
+          "comerciante": "TuCambioYa_",
+          "min": "400000",
+          "max": "6150965",
+          "disponible": "6419.62"
         },
         {
-          "precio": 957.262,
-          "comerciante": "User-fdcbf8mw",
-          "min": "3900000",
-          "max": "4000000",
-          "disponible": "4178.00"
+          "precio": 958.5,
+          "comerciante": "Old Parr",
+          "min": "500000",
+          "max": "36450000",
+          "disponible": "5451.09"
         }
       ]
     },
     "compra": {
-      "promedio": 958.7998,
-      "minimo": 958.599,
-      "maximo": 959.0,
+      "promedio": 959.9,
+      "minimo": 959.0,
+      "maximo": 960.5,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 958.599,
-          "comerciante": "VelociCambiosMx",
-          "min": "100000",
-          "max": "100001",
-          "disponible": "106.95"
-        },
-        {
-          "precio": 958.6,
-          "comerciante": "JOSE-ARAB",
-          "min": "70000",
-          "max": "650000",
-          "disponible": "274.80"
-        },
-        {
-          "precio": 958.8,
-          "comerciante": "ADRIANPC",
-          "min": "250000",
-          "max": "360000",
-          "disponible": "598.46"
-        },
-        {
           "precio": 959.0,
-          "comerciante": "JL Exchange",
-          "min": "100000",
-          "max": "10000000",
-          "disponible": "144.62"
+          "comerciante": "MDV__",
+          "min": "300",
+          "max": "5000",
+          "disponible": "92.75"
         },
         {
-          "precio": 959.0,
-          "comerciante": "User-92d9f",
-          "min": "1500",
+          "precio": 960.0,
+          "comerciante": "Masterven",
+          "min": "1000000",
+          "max": "14000000",
+          "disponible": "1097.80"
+        },
+        {
+          "precio": 960.0,
+          "comerciante": "iamjose9",
+          "min": "300",
           "max": "4000000",
-          "disponible": "1.67"
+          "disponible": "1.04"
+        },
+        {
+          "precio": 960.0,
+          "comerciante": "CLGG",
+          "min": "384000",
+          "max": "384960",
+          "disponible": "400.00"
+        },
+        {
+          "precio": 960.5,
+          "comerciante": "CastllCoins",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "11466.14"
         }
       ]
     }
   },
-  "brecha_pct": 13.17
+  "brecha_pct": 13.24
 }
