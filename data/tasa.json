@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-16T10:06:22+00:00",
-  "actualizado_ve": "2026-09-16T06:06:22-04:00",
+  "actualizado_utc": "2026-09-16T15:03:32+00:00",
+  "actualizado_ve": "2026-09-16T11:03:32-04:00",
   "bcv": {
     "usd": 846.5131,
     "eur": 977.18086211,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 954.0076,
+    "referencia": 956.5102,
     "venta": {
-      "promedio": 954.0076,
-      "minimo": 953.668,
-      "maximo": 954.5,
+      "promedio": 956.5102,
+      "minimo": 956.5,
+      "maximo": 956.55,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 954.5,
-          "comerciante": "Gustavo129",
+          "precio": 956.55,
+          "comerciante": "Comercializadora_MAC",
+          "min": "4000000",
+          "max": "36450000",
+          "disponible": "50000.00"
+        },
+        {
+          "precio": 956.501,
+          "comerciante": "CambiosMZ",
+          "min": "2000000",
+          "max": "23887500",
+          "disponible": "20736.47"
+        },
+        {
+          "precio": 956.5,
+          "comerciante": "Trust-Broker",
+          "min": "3000000",
+          "max": "36450000",
+          "disponible": "17058.03"
+        },
+        {
+          "precio": 956.5,
+          "comerciante": "John-Deere",
           "min": "1000000",
           "max": "36450000",
-          "disponible": "80000.00"
+          "disponible": "37254.57"
         },
         {
-          "precio": 954.1,
-          "comerciante": "贝HarveySpecter贝",
+          "precio": 956.5,
+          "comerciante": "-Syria1264-",
           "min": "1000000",
-          "max": "36000000",
-          "disponible": "32555.08"
-        },
-        {
-          "precio": 954.0,
-          "comerciante": "S3bss_Exchang3",
-          "min": "500000",
-          "max": "20000000",
-          "disponible": "6901.89"
-        },
-        {
-          "precio": 953.77,
-          "comerciante": "luismi14",
-          "min": "125897",
-          "max": "4000000",
-          "disponible": "132.00"
-        },
-        {
-          "precio": 953.668,
-          "comerciante": "ESTEFANY-P2P",
-          "min": "4500",
-          "max": "4600",
-          "disponible": "95.18"
+          "max": "36450000",
+          "disponible": "10447.34"
         }
       ]
     },
     "compra": {
-      "promedio": 957.6418,
-      "minimo": 957.0,
-      "maximo": 957.9,
+      "promedio": 955.0396,
+      "minimo": 950.0,
+      "maximo": 957.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
+          "precio": 950.0,
+          "comerciante": "Cambios_Cooper",
+          "min": "300",
+          "max": "301",
+          "disponible": "99.75"
+        },
+        {
+          "precio": 954.2,
+          "comerciante": "CODE-30_IA",
+          "min": "300",
+          "max": "3000",
+          "disponible": "99.75"
+        },
+        {
+          "precio": 956.998,
+          "comerciante": "Vaneandreina7",
+          "min": "599000",
+          "max": "600000",
+          "disponible": "1268.30"
+        },
+        {
           "precio": 957.0,
-          "comerciante": "EVENCORP",
-          "min": "400000",
-          "max": "955000",
-          "disponible": "1047.38"
+          "comerciante": "DIEGOMOTORCYCLE65",
+          "min": "62400",
+          "max": "62400",
+          "disponible": "99.75"
         },
         {
-          "precio": 957.71,
-          "comerciante": "adrubita",
-          "min": "1218000",
-          "max": "10000000",
-          "disponible": "1277.70"
-        },
-        {
-          "precio": 957.799,
-          "comerciante": "Newton_TraderFast",
-          "min": "4500000",
-          "max": "25000000",
-          "disponible": "20000.00"
-        },
-        {
-          "precio": 957.8,
-          "comerciante": "Melani_sublimascione",
-          "min": "3000000",
-          "max": "13878685",
-          "disponible": "14460.45"
-        },
-        {
-          "precio": 957.9,
-          "comerciante": "CambioVeloz_15",
-          "min": "1500000",
-          "max": "36450000",
-          "disponible": "33741.71"
+          "precio": 957.0,
+          "comerciante": "ADRIAN1011Z",
+          "min": "500",
+          "max": "85000",
+          "disponible": "90.17"
         }
       ]
     }
   },
-  "brecha_pct": 12.7
+  "brecha_pct": 12.99
 }
