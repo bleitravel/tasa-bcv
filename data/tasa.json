@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-16T00:33:28+00:00",
-  "actualizado_ve": "2026-09-15T20:33:28-04:00",
+  "actualizado_utc": "2026-09-16T05:24:39+00:00",
+  "actualizado_ve": "2026-09-16T01:24:39-04:00",
   "bcv": {
     "usd": 846.5131,
     "eur": 977.18086211,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 956.701,
+    "referencia": 955.2696,
     "venta": {
-      "promedio": 956.701,
-      "minimo": 956.0,
-      "maximo": 958.5,
+      "promedio": 955.2696,
+      "minimo": 955.0,
+      "maximo": 955.931,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 958.5,
-          "comerciante": "godthisgoodoff ",
-          "min": "44000",
-          "max": "44361",
-          "disponible": "100.00"
+          "precio": 955.931,
+          "comerciante": "P2P-a779b0nq",
+          "min": "300",
+          "max": "101000",
+          "disponible": "1.41"
         },
         {
-          "precio": 956.5,
-          "comerciante": "Trust-Broker",
-          "min": "3000000",
-          "max": "36450000",
-          "disponible": "23575.18"
+          "precio": 955.2,
+          "comerciante": "Thefiurerth",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "0.61"
         },
         {
-          "precio": 956.5,
-          "comerciante": "GAZA_CRIPTO",
-          "min": "10000000",
-          "max": "36450000",
-          "disponible": "36007.45"
+          "precio": 955.15,
+          "comerciante": "Marcos",
+          "min": "5000",
+          "max": "500000",
+          "disponible": "130.06"
         },
         {
-          "precio": 956.005,
-          "comerciante": "Gustavo129",
+          "precio": 955.067,
+          "comerciante": "Ojedas-Cambios_",
+          "min": "90000",
+          "max": "765000",
+          "disponible": "100.20"
+        },
+        {
+          "precio": 955.0,
+          "comerciante": "SAAC1991",
           "min": "1000000",
-          "max": "36450000",
-          "disponible": "78953.99"
-        },
-        {
-          "precio": 956.0,
-          "comerciante": "不知道你",
-          "min": "7000000",
-          "max": "36450000",
-          "disponible": "53337.73"
+          "max": "4000000",
+          "disponible": "4100.00"
         }
       ]
     },
     "compra": {
-      "promedio": 957.2856,
-      "minimo": 957.1,
-      "maximo": 957.439,
+      "promedio": 958.376,
+      "minimo": 957.0,
+      "maximo": 958.99,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 957.1,
-          "comerciante": "CAMBIOS-SERVICIOS-ED",
-          "min": "155000",
+          "precio": 957.0,
+          "comerciante": "Zess709",
+          "min": "95000",
+          "max": "95600",
+          "disponible": "99.75"
+        },
+        {
+          "precio": 958.0,
+          "comerciante": "jhoan54",
+          "min": "90000",
+          "max": "95000",
+          "disponible": "99.75"
+        },
+        {
+          "precio": 958.9,
+          "comerciante": "DG_Trading_",
+          "min": "390000",
           "max": "10000000",
-          "disponible": "162.49"
+          "disponible": "1285.74"
         },
         {
-          "precio": 957.29,
-          "comerciante": "Cambios_fast54",
-          "min": "5000000",
-          "max": "36450000",
-          "disponible": "10000.49"
+          "precio": 958.99,
+          "comerciante": "ldma",
+          "min": "80000",
+          "max": "80100",
+          "disponible": "99.75"
         },
         {
-          "precio": 957.299,
-          "comerciante": "VelociCambiosMx",
-          "min": "50000",
-          "max": "50001",
-          "disponible": "107.13"
-        },
-        {
-          "precio": 957.3,
-          "comerciante": "Royrdgz",
-          "min": "5000000",
-          "max": "36450000",
-          "disponible": "5572.89"
-        },
-        {
-          "precio": 957.439,
-          "comerciante": "JGIL1",
-          "min": "900000",
-          "max": "4000000",
-          "disponible": "2074.81"
+          "precio": 958.99,
+          "comerciante": "Rapid_Cambios",
+          "min": "10000",
+          "max": "274271",
+          "disponible": "240.97"
         }
       ]
     }
   },
-  "brecha_pct": 13.02
+  "brecha_pct": 12.85
 }
