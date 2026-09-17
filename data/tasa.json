@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-17T13:37:41+00:00",
-  "actualizado_ve": "2026-09-17T09:37:41-04:00",
+  "actualizado_utc": "2026-09-17T17:47:07+00:00",
+  "actualizado_ve": "2026-09-17T13:47:07-04:00",
   "bcv": {
     "usd": 847.4442,
     "eur": 977.67942465,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 950.58,
+    "referencia": 950.6706,
     "venta": {
-      "promedio": 950.58,
-      "minimo": 949.4,
+      "promedio": 950.6706,
+      "minimo": 950.0,
       "maximo": 952.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
           "precio": 952.0,
-          "comerciante": "EstelarExchange",
-          "min": "300",
-          "max": "301",
-          "disponible": "2000.00"
+          "comerciante": "上天保佑",
+          "min": "500000",
+          "max": "4000000",
+          "disponible": "842.29"
         },
         {
-          "precio": 952.0,
-          "comerciante": "被放逐的狐狸",
-          "min": "5000000",
-          "max": "34000000",
-          "disponible": "59561.69"
+          "precio": 950.803,
+          "comerciante": "agustinS27",
+          "min": "500000",
+          "max": "1000000",
+          "disponible": "3660.28"
+        },
+        {
+          "precio": 950.55,
+          "comerciante": "calorina sankey",
+          "min": "1000000",
+          "max": "4000000",
+          "disponible": "1840.06"
         },
         {
           "precio": 950.0,
-          "comerciante": "EllaTradea",
-          "min": "300",
-          "max": "117867",
-          "disponible": "1.56"
+          "comerciante": "Josetoro88",
+          "min": "600000",
+          "max": "4000000",
+          "disponible": "8800.00"
         },
         {
-          "precio": 949.5,
-          "comerciante": "TPhillips",
-          "min": "3000000",
-          "max": "36450000",
-          "disponible": "74247.00"
-        },
-        {
-          "precio": 949.4,
-          "comerciante": "EXCHANGE-PRO",
-          "min": "900000",
-          "max": "14000000",
-          "disponible": "5018.51"
+          "precio": 950.0,
+          "comerciante": "Yg-1999",
+          "min": "191995",
+          "max": "192000",
+          "disponible": "202.10"
         }
       ]
     },
     "compra": {
-      "promedio": 950.2676,
-      "minimo": 950.0,
-      "maximo": 950.467,
+      "promedio": 949.9392,
+      "minimo": 948.0,
+      "maximo": 950.8,
       "anuncios_usados": 5,
       "anuncios": [
         {
+          "precio": 948.0,
+          "comerciante": "JeanF",
+          "min": "300",
+          "max": "406000",
+          "disponible": "0.36"
+        },
+        {
           "precio": 950.0,
-          "comerciante": "Frnvnzl",
-          "min": "15000",
+          "comerciante": "RocaBit100",
+          "min": "94000",
+          "max": "94500",
+          "disponible": "99.75"
+        },
+        {
+          "precio": 950.446,
+          "comerciante": "Luishein",
+          "min": "5000000",
+          "max": "14358747",
+          "disponible": "15000.85"
+        },
+        {
+          "precio": 950.45,
+          "comerciante": "Royrdgz",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "12021.95"
+        },
+        {
+          "precio": 950.8,
+          "comerciante": "CryptoDrift",
+          "min": "800000",
           "max": "4000000",
-          "disponible": "252.88"
-        },
-        {
-          "precio": 950.0,
-          "comerciante": "DOCTOR_CAMBIO",
-          "min": "36450000",
-          "max": "1400000000",
-          "disponible": "150000.00"
-        },
-        {
-          "precio": 950.435,
-          "comerciante": "_TropiCoqueta_",
-          "min": "500000",
-          "max": "10000000",
-          "disponible": "15143.69"
-        },
-        {
-          "precio": 950.436,
-          "comerciante": "-Ledger-",
-          "min": "36450000",
-          "max": "300000000",
-          "disponible": "100000.00"
-        },
-        {
-          "precio": 950.467,
-          "comerciante": "TioRico699",
-          "min": "36450000",
-          "max": "420000000",
-          "disponible": "89338.46"
+          "disponible": "3629.21"
         }
       ]
     }
   },
-  "brecha_pct": 12.17
+  "brecha_pct": 12.18
 }
