@@ -1,102 +1,102 @@
 {
-  "actualizado_utc": "2026-09-17T17:47:07+00:00",
-  "actualizado_ve": "2026-09-17T13:47:07-04:00",
+  "actualizado_utc": "2026-09-17T20:38:44+00:00",
+  "actualizado_ve": "2026-09-17T16:38:44-04:00",
   "bcv": {
-    "usd": 847.4442,
-    "eur": 977.67942465,
-    "fecha_valor": "2026-09-17T00:00:00-04:00"
+    "usd": 848.5458,
+    "eur": 974.41908397,
+    "fecha_valor": "2026-09-18T00:00:00-04:00"
   },
   "binance_p2p": {
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 950.6706,
+    "referencia": 953.83,
     "venta": {
-      "promedio": 950.6706,
-      "minimo": 950.0,
-      "maximo": 952.0,
+      "promedio": 953.83,
+      "minimo": 953.25,
+      "maximo": 955.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 952.0,
+          "precio": 955.0,
           "comerciante": "上天保佑",
           "min": "500000",
           "max": "4000000",
-          "disponible": "842.29"
+          "disponible": "10026.65"
         },
         {
-          "precio": 950.803,
-          "comerciante": "agustinS27",
-          "min": "500000",
-          "max": "1000000",
-          "disponible": "3660.28"
+          "precio": 954.0,
+          "comerciante": "GOMEZTUSOLUCION",
+          "min": "10000000",
+          "max": "36450000",
+          "disponible": "80000.00"
         },
         {
-          "precio": 950.55,
-          "comerciante": "calorina sankey",
-          "min": "1000000",
-          "max": "4000000",
-          "disponible": "1840.06"
+          "precio": 953.5,
+          "comerciante": "CRIPTO-2026",
+          "min": "7000000",
+          "max": "36450000",
+          "disponible": "80000.00"
         },
         {
-          "precio": 950.0,
-          "comerciante": "Josetoro88",
-          "min": "600000",
-          "max": "4000000",
-          "disponible": "8800.00"
+          "precio": 953.4,
+          "comerciante": "Frankovsk",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "21480.32"
         },
         {
-          "precio": 950.0,
-          "comerciante": "Yg-1999",
-          "min": "191995",
-          "max": "192000",
-          "disponible": "202.10"
+          "precio": 953.25,
+          "comerciante": "JoseParedez",
+          "min": "3000000",
+          "max": "36450000",
+          "disponible": "39718.05"
         }
       ]
     },
     "compra": {
-      "promedio": 949.9392,
-      "minimo": 948.0,
-      "maximo": 950.8,
+      "promedio": 953.9,
+      "minimo": 953.5,
+      "maximo": 954.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 948.0,
-          "comerciante": "JeanF",
-          "min": "300",
-          "max": "406000",
-          "disponible": "0.36"
-        },
-        {
-          "precio": 950.0,
-          "comerciante": "RocaBit100",
-          "min": "94000",
-          "max": "94500",
-          "disponible": "99.75"
-        },
-        {
-          "precio": 950.446,
-          "comerciante": "Luishein",
-          "min": "5000000",
-          "max": "14358747",
-          "disponible": "15000.85"
-        },
-        {
-          "precio": 950.45,
-          "comerciante": "Royrdgz",
-          "min": "5000000",
+          "precio": 953.5,
+          "comerciante": "你就变得更强",
+          "min": "4000000",
           "max": "36450000",
-          "disponible": "12021.95"
+          "disponible": "5815.19"
         },
         {
-          "precio": 950.8,
-          "comerciante": "CryptoDrift",
-          "min": "800000",
+          "precio": 954.0,
+          "comerciante": "kalamardo",
+          "min": "90000",
+          "max": "36450000",
+          "disponible": "100.06"
+        },
+        {
+          "precio": 954.0,
+          "comerciante": "ServexSDT",
+          "min": "380600",
+          "max": "381600",
+          "disponible": "399.00"
+        },
+        {
+          "precio": 954.0,
+          "comerciante": "MariaCoins",
+          "min": "190000",
           "max": "4000000",
-          "disponible": "3629.21"
+          "disponible": "199.50"
+        },
+        {
+          "precio": 954.0,
+          "comerciante": "ChangerExpress",
+          "min": "2000000",
+          "max": "6000000",
+          "disponible": "3896.05"
         }
       ]
     }
   },
-  "brecha_pct": 12.18
+  "brecha_pct": 12.41
 }
