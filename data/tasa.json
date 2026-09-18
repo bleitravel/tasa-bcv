@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-18T15:19:11+00:00",
-  "actualizado_ve": "2026-09-18T11:19:11-04:00",
+  "actualizado_utc": "2026-09-18T18:34:06+00:00",
+  "actualizado_ve": "2026-09-18T14:34:06-04:00",
   "bcv": {
     "usd": 848.5458,
     "eur": 974.41908397,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 949.032,
+    "referencia": 949.97,
     "venta": {
-      "promedio": 949.032,
-      "minimo": 945.0,
-      "maximo": 960.16,
+      "promedio": 949.97,
+      "minimo": 949.5,
+      "maximo": 950.75,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 960.16,
-          "comerciante": "Buy_-and-_Sell",
-          "min": "300",
-          "max": "301",
-          "disponible": "102.28"
+          "precio": 950.75,
+          "comerciante": "上天保佑",
+          "min": "700000",
+          "max": "4000000",
+          "disponible": "5209.51"
         },
         {
           "precio": 950.0,
-          "comerciante": "Angecrip",
-          "min": "200000",
-          "max": "3000000",
-          "disponible": "3000.00"
-        },
-        {
-          "precio": 945.0,
-          "comerciante": "GARD_13",
-          "min": "2000000",
+          "comerciante": "User-0445e",
+          "min": "300",
           "max": "4000000",
-          "disponible": "10000.00"
+          "disponible": "25.41"
         },
         {
-          "precio": 945.0,
-          "comerciante": "novatecno",
-          "min": "1000000",
-          "max": "8000000",
-          "disponible": "7141.80"
+          "precio": 950.0,
+          "comerciante": "HonorYNegocioP2P",
+          "min": "300000",
+          "max": "36000000",
+          "disponible": "4340.00"
         },
         {
-          "precio": 945.0,
-          "comerciante": "Holy_Spirit_",
-          "min": "1000000",
-          "max": "36450000",
-          "disponible": "50158.74"
+          "precio": 949.6,
+          "comerciante": "-维克多-",
+          "min": "5000000",
+          "max": "36000000",
+          "disponible": "61011.75"
+        },
+        {
+          "precio": 949.5,
+          "comerciante": "heinsenbergs",
+          "min": "10000",
+          "max": "10001",
+          "disponible": "311.34"
         }
       ]
     },
     "compra": {
-      "promedio": 945.4552,
-      "minimo": 945.0,
-      "maximo": 946.0,
+      "promedio": 950.2818,
+      "minimo": 950.0,
+      "maximo": 950.709,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 945.0,
-          "comerciante": "DaniCambios100",
-          "min": "300",
-          "max": "400000",
-          "disponible": "0.56"
-        },
-        {
-          "precio": 945.0,
-          "comerciante": "Comanche2910",
-          "min": "88955",
-          "max": "88960",
-          "disponible": "99.75"
-        },
-        {
-          "precio": 945.499,
-          "comerciante": "Gerald94",
-          "min": "65000",
-          "max": "4000000",
-          "disponible": "99.75"
-        },
-        {
-          "precio": 945.777,
-          "comerciante": "Rey_Fast777",
-          "min": "300",
-          "max": "339000",
-          "disponible": "2.71"
-        },
-        {
-          "precio": 946.0,
-          "comerciante": "TodoRefrigeracion",
+          "precio": 950.0,
+          "comerciante": "CambioAr14",
           "min": "30000",
-          "max": "200000",
-          "disponible": "199.50"
+          "max": "4000000",
+          "disponible": "43.49"
+        },
+        {
+          "precio": 950.0,
+          "comerciante": "rausseol",
+          "min": "180000",
+          "max": "36450000",
+          "disponible": "199.60"
+        },
+        {
+          "precio": 950.0,
+          "comerciante": "ALTOVALORCL",
+          "min": "199000",
+          "max": "10000000",
+          "disponible": "210.18"
+        },
+        {
+          "precio": 950.7,
+          "comerciante": "Deswicripto",
+          "min": "186700",
+          "max": "187497",
+          "disponible": "196.72"
+        },
+        {
+          "precio": 950.709,
+          "comerciante": "VelociCambiosMx",
+          "min": "150000",
+          "max": "150001",
+          "disponible": "160.41"
         }
       ]
     }
   },
-  "brecha_pct": 11.84
+  "brecha_pct": 11.95
 }
