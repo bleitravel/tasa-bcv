@@ -1,102 +1,102 @@
 {
-  "actualizado_utc": "2026-09-18T18:34:06+00:00",
-  "actualizado_ve": "2026-09-18T14:34:06-04:00",
+  "actualizado_utc": "2026-09-18T21:19:06+00:00",
+  "actualizado_ve": "2026-09-18T17:19:06-04:00",
   "bcv": {
-    "usd": 848.5458,
-    "eur": 974.41908397,
-    "fecha_valor": "2026-09-18T00:00:00-04:00"
+    "usd": 849.564,
+    "eur": 974.09309112,
+    "fecha_valor": "2026-09-21T00:00:00-04:00"
   },
   "binance_p2p": {
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 949.97,
+    "referencia": 950.642,
     "venta": {
-      "promedio": 949.97,
-      "minimo": 949.5,
-      "maximo": 950.75,
+      "promedio": 950.642,
+      "minimo": 950.2,
+      "maximo": 952.01,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 950.75,
-          "comerciante": "上天保佑",
-          "min": "700000",
-          "max": "4000000",
-          "disponible": "5209.51"
-        },
-        {
-          "precio": 950.0,
-          "comerciante": "User-0445e",
+          "precio": 952.01,
+          "comerciante": "Xenon54_",
           "min": "300",
+          "max": "500",
+          "disponible": "99.54"
+        },
+        {
+          "precio": 950.5,
+          "comerciante": "PEJAGOBLA",
+          "min": "10000000",
+          "max": "36400000",
+          "disponible": "27643.15"
+        },
+        {
+          "precio": 950.25,
+          "comerciante": "不知道你",
+          "min": "7000000",
+          "max": "36450000",
+          "disponible": "58590.12"
+        },
+        {
+          "precio": 950.25,
+          "comerciante": "上天保佑",
+          "min": "1000000",
           "max": "4000000",
-          "disponible": "25.41"
+          "disponible": "9518.52"
         },
         {
-          "precio": 950.0,
-          "comerciante": "HonorYNegocioP2P",
-          "min": "300000",
-          "max": "36000000",
-          "disponible": "4340.00"
-        },
-        {
-          "precio": 949.6,
-          "comerciante": "-维克多-",
+          "precio": 950.2,
+          "comerciante": "Cambioscorleone",
           "min": "5000000",
-          "max": "36000000",
-          "disponible": "61011.75"
-        },
-        {
-          "precio": 949.5,
-          "comerciante": "heinsenbergs",
-          "min": "10000",
-          "max": "10001",
-          "disponible": "311.34"
+          "max": "36450000",
+          "disponible": "48349.07"
         }
       ]
     },
     "compra": {
-      "promedio": 950.2818,
+      "promedio": 950.9798,
       "minimo": 950.0,
-      "maximo": 950.709,
+      "maximo": 951.9,
       "anuncios_usados": 5,
       "anuncios": [
         {
           "precio": 950.0,
-          "comerciante": "CambioAr14",
-          "min": "30000",
+          "comerciante": "kekeleon",
+          "min": "50000",
           "max": "4000000",
-          "disponible": "43.49"
+          "disponible": "149.62"
         },
         {
-          "precio": 950.0,
-          "comerciante": "rausseol",
-          "min": "180000",
-          "max": "36450000",
-          "disponible": "199.60"
+          "precio": 950.999,
+          "comerciante": "Chemavia",
+          "min": "23000",
+          "max": "23100",
+          "disponible": "99.75"
         },
         {
-          "precio": 950.0,
-          "comerciante": "ALTOVALORCL",
-          "min": "199000",
-          "max": "10000000",
-          "disponible": "210.18"
+          "precio": 951.0,
+          "comerciante": "Jon_Sup",
+          "min": "3500000",
+          "max": "4000000",
+          "disponible": "5768.97"
         },
         {
-          "precio": 950.7,
-          "comerciante": "Deswicripto",
-          "min": "186700",
-          "max": "187497",
-          "disponible": "196.72"
+          "precio": 951.0,
+          "comerciante": "Business-ExchangeJM",
+          "min": "110000",
+          "max": "4000000",
+          "disponible": "149.62"
         },
         {
-          "precio": 950.709,
-          "comerciante": "VelociCambiosMx",
-          "min": "150000",
-          "max": "150001",
-          "disponible": "160.41"
+          "precio": 951.9,
+          "comerciante": "GOD-FIRST-",
+          "min": "100000",
+          "max": "4000000",
+          "disponible": "630.98"
         }
       ]
     }
   },
-  "brecha_pct": 11.95
+  "brecha_pct": 11.9
 }
