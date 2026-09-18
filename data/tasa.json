@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-18T01:19:45+00:00",
-  "actualizado_ve": "2026-09-17T21:19:45-04:00",
+  "actualizado_utc": "2026-09-18T06:04:49+00:00",
+  "actualizado_ve": "2026-09-18T02:04:49-04:00",
   "bcv": {
     "usd": 848.5458,
     "eur": 974.41908397,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 951.16,
+    "referencia": 946.2,
     "venta": {
-      "promedio": 951.16,
-      "minimo": 950.87,
-      "maximo": 952.05,
+      "promedio": 946.2,
+      "minimo": 946.0,
+      "maximo": 947.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 952.05,
-          "comerciante": "Anyelo",
-          "min": "474000",
-          "max": "474200",
-          "disponible": "3011.93"
+          "precio": 947.0,
+          "comerciante": "Mimosin27",
+          "min": "1000000",
+          "max": "4000000",
+          "disponible": "1250.00"
         },
         {
-          "precio": 951.0,
-          "comerciante": "Gustavo129",
-          "min": "4000000",
-          "max": "36450000",
-          "disponible": "20232.76"
+          "precio": 946.0,
+          "comerciante": "EstelarExchange",
+          "min": "300",
+          "max": "301",
+          "disponible": "2000.00"
         },
         {
-          "precio": 951.0,
-          "comerciante": "fcracco",
-          "min": "21999",
-          "max": "22000",
-          "disponible": "5579.88"
+          "precio": 946.0,
+          "comerciante": "deikko24",
+          "min": "500000",
+          "max": "4000000",
+          "disponible": "3495.44"
         },
         {
-          "precio": 950.88,
-          "comerciante": "Trust-Broker",
-          "min": "2000000",
-          "max": "36450000",
-          "disponible": "23860.86"
+          "precio": 946.0,
+          "comerciante": "Thefiurerth",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "31.94"
         },
         {
-          "precio": 950.87,
-          "comerciante": "AmigoTrading",
-          "min": "2000000",
-          "max": "36000000",
-          "disponible": "27943.61"
+          "precio": 946.0,
+          "comerciante": "Barbie_123",
+          "min": "20000",
+          "max": "4000000",
+          "disponible": "558.66"
         }
       ]
     },
     "compra": {
-      "promedio": 951.265,
-      "minimo": 950.999,
-      "maximo": 951.496,
+      "promedio": 947.9988,
+      "minimo": 947.997,
+      "maximo": 948.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 950.999,
-          "comerciante": "CODE-30_IA",
+          "precio": 947.997,
+          "comerciante": "Kikiexchanges06",
+          "min": "500000",
+          "max": "852800",
+          "disponible": "894.76"
+        },
+        {
+          "precio": 947.998,
+          "comerciante": "Darklord008",
+          "min": "100000",
+          "max": "3000000",
+          "disponible": "204.63"
+        },
+        {
+          "precio": 947.999,
+          "comerciante": "r1cardogonza",
           "min": "300",
-          "max": "3000",
-          "disponible": "191.78"
-        },
-        {
-          "precio": 951.0,
-          "comerciante": "Farru7",
-          "min": "30000",
           "max": "4000000",
-          "disponible": "32.15"
+          "disponible": "210.81"
         },
         {
-          "precio": 951.38,
-          "comerciante": "JDVR_05",
-          "min": "2500000",
-          "max": "36450000",
-          "disponible": "5969.36"
+          "precio": 948.0,
+          "comerciante": "JoseMcontrerasS",
+          "min": "50000",
+          "max": "852800",
+          "disponible": "54.02"
         },
         {
-          "precio": 951.45,
-          "comerciante": "LaCondesa13",
-          "min": "3000000",
-          "max": "4000000",
-          "disponible": "4182.68"
-        },
-        {
-          "precio": 951.496,
-          "comerciante": "Luishein",
-          "min": "4000000",
-          "max": "14696262",
-          "disponible": "15418.02"
+          "precio": 948.0,
+          "comerciante": "User-01016",
+          "min": "94800",
+          "max": "655759",
+          "disponible": "689.53"
         }
       ]
     }
   },
-  "brecha_pct": 12.09
+  "brecha_pct": 11.51
 }
