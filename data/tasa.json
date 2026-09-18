@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-18T06:04:49+00:00",
-  "actualizado_ve": "2026-09-18T02:04:49-04:00",
+  "actualizado_utc": "2026-09-18T11:30:20+00:00",
+  "actualizado_ve": "2026-09-18T07:30:20-04:00",
   "bcv": {
     "usd": 848.5458,
     "eur": 974.41908397,
@@ -10,20 +10,13 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 946.2,
+    "referencia": 945.4194,
     "venta": {
-      "promedio": 946.2,
-      "minimo": 946.0,
-      "maximo": 947.0,
+      "promedio": 945.4194,
+      "minimo": 944.097,
+      "maximo": 946.0,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 947.0,
-          "comerciante": "Mimosin27",
-          "min": "1000000",
-          "max": "4000000",
-          "disponible": "1250.00"
-        },
         {
           "precio": 946.0,
           "comerciante": "EstelarExchange",
@@ -33,70 +26,77 @@
         },
         {
           "precio": 946.0,
-          "comerciante": "deikko24",
-          "min": "500000",
-          "max": "4000000",
-          "disponible": "3495.44"
+          "comerciante": "Blank_Mind",
+          "min": "2000000",
+          "max": "36450000",
+          "disponible": "32069.60"
         },
         {
           "precio": 946.0,
-          "comerciante": "Thefiurerth",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "31.94"
-        },
-        {
-          "precio": 946.0,
-          "comerciante": "Barbie_123",
+          "comerciante": "P2P-INV_JG",
           "min": "20000",
-          "max": "4000000",
-          "disponible": "558.66"
+          "max": "186400",
+          "disponible": "520.00"
+        },
+        {
+          "precio": 945.0,
+          "comerciante": "WolfMan1998",
+          "min": "20000",
+          "max": "84000",
+          "disponible": "75.67"
+        },
+        {
+          "precio": 944.097,
+          "comerciante": "el_jose_jose",
+          "min": "400000",
+          "max": "6743345",
+          "disponible": "1582.52"
         }
       ]
     },
     "compra": {
-      "promedio": 947.9988,
-      "minimo": 947.997,
-      "maximo": 948.0,
+      "promedio": 944.788,
+      "minimo": 944.0,
+      "maximo": 945.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 947.997,
-          "comerciante": "Kikiexchanges06",
-          "min": "500000",
-          "max": "852800",
-          "disponible": "894.76"
-        },
-        {
-          "precio": 947.998,
-          "comerciante": "Darklord008",
-          "min": "100000",
-          "max": "3000000",
-          "disponible": "204.63"
-        },
-        {
-          "precio": 947.999,
-          "comerciante": "r1cardogonza",
-          "min": "300",
+          "precio": 944.0,
+          "comerciante": "P2P-7378496d",
+          "min": "300000",
           "max": "4000000",
-          "disponible": "210.81"
+          "disponible": "579.97"
         },
         {
-          "precio": 948.0,
-          "comerciante": "JoseMcontrerasS",
-          "min": "50000",
-          "max": "852800",
-          "disponible": "54.02"
+          "precio": 944.94,
+          "comerciante": "xescalibu2",
+          "min": "80000",
+          "max": "4000000",
+          "disponible": "168.19"
         },
         {
-          "precio": 948.0,
-          "comerciante": "User-01016",
-          "min": "94800",
-          "max": "655759",
-          "disponible": "689.53"
+          "precio": 945.0,
+          "comerciante": "SunCry24",
+          "min": "300",
+          "max": "90000",
+          "disponible": "47.87"
+        },
+        {
+          "precio": 945.0,
+          "comerciante": "P4P4L3T4",
+          "min": "30000",
+          "max": "94000",
+          "disponible": "68.01"
+        },
+        {
+          "precio": 945.0,
+          "comerciante": "Estefaniabc",
+          "min": "10000",
+          "max": "81336",
+          "disponible": "99.75"
         }
       ]
     }
   },
-  "brecha_pct": 11.51
+  "brecha_pct": 11.42
 }
