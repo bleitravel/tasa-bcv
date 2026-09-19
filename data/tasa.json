@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-19T01:18:27+00:00",
-  "actualizado_ve": "2026-09-18T21:18:27-04:00",
+  "actualizado_utc": "2026-09-19T06:04:14+00:00",
+  "actualizado_ve": "2026-09-19T02:04:14-04:00",
   "bcv": {
     "usd": 849.564,
     "eur": 974.09309112,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 951.7902,
+    "referencia": 951.7206,
     "venta": {
-      "promedio": 951.7902,
-      "minimo": 951.7,
-      "maximo": 952.0,
+      "promedio": 951.7206,
+      "minimo": 951.001,
+      "maximo": 953.1,
       "anuncios_usados": 5,
       "anuncios": [
         {
+          "precio": 953.1,
+          "comerciante": "CambiosOjed4",
+          "min": "5000000",
+          "max": "14337815",
+          "disponible": "19000.00"
+        },
+        {
           "precio": 952.0,
-          "comerciante": "GOMEZTUSOLUCION",
-          "min": "10000000",
-          "max": "36450000",
-          "disponible": "16516.49"
-        },
-        {
-          "precio": 951.8,
-          "comerciante": "MoralesCorp",
-          "min": "300000",
-          "max": "36000000",
-          "disponible": "2983.42"
-        },
-        {
-          "precio": 951.75,
-          "comerciante": "上天保佑",
+          "comerciante": "CambiosMZ",
           "min": "1000000",
-          "max": "4000000",
-          "disponible": "3354.35"
+          "max": "6000000",
+          "disponible": "6302.52"
         },
         {
-          "precio": 951.701,
-          "comerciante": "PAGOSYAAA",
-          "min": "300000",
-          "max": "9000000",
-          "disponible": "10000.00"
-        },
-        {
-          "precio": 951.7,
-          "comerciante": "Qwer77",
-          "min": "450000",
+          "precio": 951.5,
+          "comerciante": "VISÓN CRIPTØ",
+          "min": "500000",
           "max": "36450000",
-          "disponible": "2274.85"
+          "disponible": "9600.30"
+        },
+        {
+          "precio": 951.002,
+          "comerciante": "Royrdgz",
+          "min": "310000",
+          "max": "36450000",
+          "disponible": "6224.03"
+        },
+        {
+          "precio": 951.001,
+          "comerciante": "Molyflash777",
+          "min": "200000",
+          "max": "19433000",
+          "disponible": "1807.69"
         }
       ]
     },
     "compra": {
-      "promedio": 952.18,
-      "minimo": 950.0,
-      "maximo": 953.0,
+      "promedio": 955.0188,
+      "minimo": 954.0,
+      "maximo": 955.494,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 950.0,
-          "comerciante": "edgard6828",
-          "min": "95000",
-          "max": "95001",
-          "disponible": "100.74"
-        },
-        {
-          "precio": 952.0,
-          "comerciante": "DarwinDs",
-          "min": "100000",
-          "max": "4000000",
-          "disponible": "782.32"
-        },
-        {
-          "precio": 952.9,
-          "comerciante": "TuCambioRapidoVE",
-          "min": "1300000",
-          "max": "1337000",
-          "disponible": "1400.59"
-        },
-        {
-          "precio": 953.0,
-          "comerciante": "LadyCapitalP2P",
-          "min": "5000000",
-          "max": "8298682",
-          "disponible": "8692.52"
-        },
-        {
-          "precio": 953.0,
-          "comerciante": "gelittle1980",
-          "min": "5000",
-          "max": "10000",
+          "precio": 954.0,
+          "comerciante": "100_comercio",
+          "min": "20000",
+          "max": "29440",
           "disponible": "99.75"
+        },
+        {
+          "precio": 955.0,
+          "comerciante": "Atumanocambio",
+          "min": "800000",
+          "max": "14000000",
+          "disponible": "2392.89"
+        },
+        {
+          "precio": 955.25,
+          "comerciante": "不會不會他不會",
+          "min": "1000000",
+          "max": "9990000",
+          "disponible": "10652.13"
+        },
+        {
+          "precio": 955.35,
+          "comerciante": "Peliasp",
+          "min": "250000",
+          "max": "4000000",
+          "disponible": "2992.51"
+        },
+        {
+          "precio": 955.494,
+          "comerciante": "CriptoTraderHub",
+          "min": "999000",
+          "max": "3000000",
+          "disponible": "2911.00"
         }
       ]
     }
   },
-  "brecha_pct": 12.03
+  "brecha_pct": 12.02
 }
