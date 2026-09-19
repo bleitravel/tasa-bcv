@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-19T17:32:45+00:00",
-  "actualizado_ve": "2026-09-19T13:32:45-04:00",
+  "actualizado_utc": "2026-09-19T19:41:00+00:00",
+  "actualizado_ve": "2026-09-19T15:41:00-04:00",
   "bcv": {
     "usd": 849.564,
     "eur": 974.09309112,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 948.24,
+    "referencia": 948.5402,
     "venta": {
-      "promedio": 948.24,
-      "minimo": 947.8,
-      "maximo": 948.9,
+      "promedio": 948.5402,
+      "minimo": 948.1,
+      "maximo": 949.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 948.9,
-          "comerciante": "Lacomercializadora",
-          "min": "500000",
-          "max": "4000000",
-          "disponible": "6068.20"
+          "precio": 949.0,
+          "comerciante": "Blank_Mind",
+          "min": "2000000",
+          "max": "36450000",
+          "disponible": "47162.17"
+        },
+        {
+          "precio": 948.601,
+          "comerciante": "Servic-Karyguz",
+          "min": "3000000",
+          "max": "15000000",
+          "disponible": "26010.83"
         },
         {
           "precio": 948.5,
           "comerciante": "calorina sankey",
           "min": "1500000",
           "max": "4000000",
-          "disponible": "16082.25"
+          "disponible": "10551.44"
         },
         {
-          "precio": 948.0,
-          "comerciante": "Blank_Mind",
-          "min": "2000000",
-          "max": "36450000",
-          "disponible": "60000.00"
+          "precio": 948.5,
+          "comerciante": "REMESASBARINAS",
+          "min": "1500000",
+          "max": "30000000",
+          "disponible": "33417.73"
         },
         {
-          "precio": 948.0,
-          "comerciante": "Capi",
-          "min": "116000",
-          "max": "116300",
-          "disponible": "122.67"
-        },
-        {
-          "precio": 947.8,
-          "comerciante": "Cambio_Ganador",
-          "min": "1000000",
-          "max": "4000000",
-          "disponible": "13679.08"
+          "precio": 948.1,
+          "comerciante": "famerica",
+          "min": "2500000",
+          "max": "5000000",
+          "disponible": "14638.51"
         }
       ]
     },
     "compra": {
-      "promedio": 946.8542,
-      "minimo": 940.0,
-      "maximo": 948.666,
+      "promedio": 949.2602,
+      "minimo": 948.6,
+      "maximo": 949.699,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 940.0,
-          "comerciante": "RapidXpay",
-          "min": "25400",
-          "max": "25410",
-          "disponible": "72.78"
-        },
-        {
-          "precio": 948.35,
-          "comerciante": "卡哈塞克尼奧",
-          "min": "3000000",
-          "max": "11000000",
-          "disponible": "10858.37"
-        },
-        {
           "precio": 948.6,
-          "comerciante": "StarBusiness2",
-          "min": "2000000",
-          "max": "10000000",
-          "disponible": "6905.30"
+          "comerciante": "Danielajcg",
+          "min": "1000",
+          "max": "81000",
+          "disponible": "1.72"
         },
         {
-          "precio": 948.655,
-          "comerciante": "Theking_11",
-          "min": "3000000",
-          "max": "15000000",
-          "disponible": "6674.88"
+          "precio": 949.0,
+          "comerciante": "Lubernuflo",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "0.44"
         },
         {
-          "precio": 948.666,
-          "comerciante": "我哋要求",
-          "min": "1000000",
-          "max": "20000000",
-          "disponible": "9827.62"
+          "precio": 949.5,
+          "comerciante": "Corporate Solutions",
+          "min": "30000",
+          "max": "4000000",
+          "disponible": "32.38"
+        },
+        {
+          "precio": 949.502,
+          "comerciante": "Thelordd",
+          "min": "10000",
+          "max": "4000000",
+          "disponible": "199.50"
+        },
+        {
+          "precio": 949.699,
+          "comerciante": "makalex123",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "0.46"
         }
       ]
     }
   },
-  "brecha_pct": 11.61
+  "brecha_pct": 11.65
 }
