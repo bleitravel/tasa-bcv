@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-19T19:41:00+00:00",
-  "actualizado_ve": "2026-09-19T15:41:00-04:00",
+  "actualizado_utc": "2026-09-19T21:51:01+00:00",
+  "actualizado_ve": "2026-09-19T17:51:01-04:00",
   "bcv": {
     "usd": 849.564,
     "eur": 974.09309112,
@@ -10,26 +10,19 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 948.5402,
+    "referencia": 948.541,
     "venta": {
-      "promedio": 948.5402,
-      "minimo": 948.1,
-      "maximo": 949.0,
+      "promedio": 948.541,
+      "minimo": 948.0,
+      "maximo": 950.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 949.0,
-          "comerciante": "Blank_Mind",
-          "min": "2000000",
-          "max": "36450000",
-          "disponible": "47162.17"
-        },
-        {
-          "precio": 948.601,
-          "comerciante": "Servic-Karyguz",
-          "min": "3000000",
-          "max": "15000000",
-          "disponible": "26010.83"
+          "precio": 950.0,
+          "comerciante": "User-6193a",
+          "min": "5338",
+          "max": "5339",
+          "disponible": "100.00"
         },
         {
           "precio": 948.5,
@@ -39,61 +32,68 @@
           "disponible": "10551.44"
         },
         {
-          "precio": 948.5,
-          "comerciante": "REMESASBARINAS",
-          "min": "1500000",
-          "max": "30000000",
-          "disponible": "33417.73"
+          "precio": 948.105,
+          "comerciante": "CAMBIOSyREMESAS10",
+          "min": "500000",
+          "max": "4000000",
+          "disponible": "530.00"
         },
         {
           "precio": 948.1,
-          "comerciante": "famerica",
-          "min": "2500000",
-          "max": "5000000",
-          "disponible": "14638.51"
+          "comerciante": "TrustyRetriever",
+          "min": "500000",
+          "max": "36450000",
+          "disponible": "9820.23"
+        },
+        {
+          "precio": 948.0,
+          "comerciante": "Blank_Mind",
+          "min": "2000000",
+          "max": "36450000",
+          "disponible": "60000.00"
         }
       ]
     },
     "compra": {
-      "promedio": 949.2602,
-      "minimo": 948.6,
-      "maximo": 949.699,
+      "promedio": 949.26,
+      "minimo": 949.0,
+      "maximo": 949.5,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 948.6,
-          "comerciante": "Danielajcg",
-          "min": "1000",
-          "max": "81000",
-          "disponible": "1.72"
+          "precio": 949.0,
+          "comerciante": "LG-EXCHANGE",
+          "min": "20000",
+          "max": "20500",
+          "disponible": "78.15"
         },
         {
-          "precio": 949.0,
-          "comerciante": "Lubernuflo",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "0.44"
+          "precio": 949.1,
+          "comerciante": "jag7583",
+          "min": "90000",
+          "max": "94000",
+          "disponible": "99.75"
+        },
+        {
+          "precio": 949.2,
+          "comerciante": "SoloCambiosSiuu",
+          "min": "93000",
+          "max": "96000",
+          "disponible": "100.14"
         },
         {
           "precio": 949.5,
-          "comerciante": "Corporate Solutions",
-          "min": "30000",
-          "max": "4000000",
-          "disponible": "32.38"
+          "comerciante": "rockzr",
+          "min": "5000",
+          "max": "94950",
+          "disponible": "9.63"
         },
         {
-          "precio": 949.502,
-          "comerciante": "Thelordd",
-          "min": "10000",
+          "precio": 949.5,
+          "comerciante": "sjas",
+          "min": "80000",
           "max": "4000000",
-          "disponible": "199.50"
-        },
-        {
-          "precio": 949.699,
-          "comerciante": "makalex123",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "0.46"
+          "disponible": "109.72"
         }
       ]
     }
