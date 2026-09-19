@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-19T11:14:19+00:00",
-  "actualizado_ve": "2026-09-19T07:14:19-04:00",
+  "actualizado_utc": "2026-09-19T14:32:39+00:00",
+  "actualizado_ve": "2026-09-19T10:32:39-04:00",
   "bcv": {
     "usd": 849.564,
     "eur": 974.09309112,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 952.017,
+    "referencia": 951.2822,
     "venta": {
-      "promedio": 952.017,
-      "minimo": 950.99,
-      "maximo": 954.0,
+      "promedio": 951.2822,
+      "minimo": 951.2,
+      "maximo": 951.5,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 954.0,
-          "comerciante": "Bulk_P2P",
-          "min": "80000",
-          "max": "650000",
-          "disponible": "320.00"
-        },
-        {
-          "precio": 953.1,
+          "precio": 951.5,
           "comerciante": "CambiosOjed4",
           "min": "5000000",
           "max": "14337815",
-          "disponible": "19000.00"
+          "disponible": "19500.00"
         },
         {
-          "precio": 951.0,
-          "comerciante": "EL-PODER-ES-DE-DIOS",
-          "min": "800000",
-          "max": "1734522",
-          "disponible": "6355.85"
+          "precio": 951.251,
+          "comerciante": "-TSxRV-",
+          "min": "7000000",
+          "max": "36450000",
+          "disponible": "50000.00"
         },
         {
-          "precio": 950.995,
-          "comerciante": "AndradeGasconTITULAR",
-          "min": "500000",
-          "max": "5000000",
-          "disponible": "1109.54"
+          "precio": 951.25,
+          "comerciante": "securitylc",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "50000.00"
         },
         {
-          "precio": 950.99,
-          "comerciante": "MoralesCorp",
-          "min": "700000",
-          "max": "36000000",
-          "disponible": "16000.00"
+          "precio": 951.21,
+          "comerciante": "Kingjvl",
+          "min": "3000000",
+          "max": "36450000",
+          "disponible": "70707.90"
+        },
+        {
+          "precio": 951.2,
+          "comerciante": "EXCHANGE-PRO",
+          "min": "900000",
+          "max": "14000000",
+          "disponible": "4444.46"
         }
       ]
     },
     "compra": {
-      "promedio": 955.0996,
-      "minimo": 954.0,
-      "maximo": 955.4,
+      "promedio": 952.2,
+      "minimo": 952.0,
+      "maximo": 952.5,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 954.0,
-          "comerciante": "100_comercio",
+          "precio": 952.0,
+          "comerciante": "MOIMOI-P2P",
+          "min": "94000",
+          "max": "95200",
+          "disponible": "100.00"
+        },
+        {
+          "precio": 952.0,
+          "comerciante": "falg87",
+          "min": "10000",
+          "max": "50000",
+          "disponible": "73.51"
+        },
+        {
+          "precio": 952.0,
+          "comerciante": "Diegosanpac",
           "min": "20000",
-          "max": "29440",
+          "max": "117000",
+          "disponible": "122.69"
+        },
+        {
+          "precio": 952.5,
+          "comerciante": "TeamV_V",
+          "min": "20000",
+          "max": "185000",
+          "disponible": "51.08"
+        },
+        {
+          "precio": 952.5,
+          "comerciante": "jehovaproveera",
+          "min": "300",
+          "max": "400000",
           "disponible": "99.75"
-        },
-        {
-          "precio": 955.3,
-          "comerciante": "Trading_professional",
-          "min": "3000000",
-          "max": "36450000",
-          "disponible": "20000.00"
-        },
-        {
-          "precio": 955.398,
-          "comerciante": "AlejandrinhoP2P",
-          "min": "3000000",
-          "max": "30000000",
-          "disponible": "8009.98"
-        },
-        {
-          "precio": 955.4,
-          "comerciante": "Jaed_crp",
-          "min": "1000000",
-          "max": "2000000",
-          "disponible": "1678.49"
-        },
-        {
-          "precio": 955.4,
-          "comerciante": "CambioVeloz_15",
-          "min": "1400000",
-          "max": "36450000",
-          "disponible": "26023.27"
         }
       ]
     }
   },
-  "brecha_pct": 12.06
+  "brecha_pct": 11.97
 }
