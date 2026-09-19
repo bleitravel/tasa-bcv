@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-19T21:51:01+00:00",
-  "actualizado_ve": "2026-09-19T17:51:01-04:00",
+  "actualizado_utc": "2026-09-19T23:43:11+00:00",
+  "actualizado_ve": "2026-09-19T19:43:11-04:00",
   "bcv": {
     "usd": 849.564,
     "eur": 974.09309112,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 948.541,
+    "referencia": 950.3202,
     "venta": {
-      "promedio": 948.541,
-      "minimo": 948.0,
-      "maximo": 950.0,
+      "promedio": 950.3202,
+      "minimo": 950.0,
+      "maximo": 951.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 950.0,
-          "comerciante": "User-6193a",
-          "min": "5338",
-          "max": "5339",
-          "disponible": "100.00"
-        },
-        {
-          "precio": 948.5,
-          "comerciante": "calorina sankey",
-          "min": "1500000",
+          "precio": 951.0,
+          "comerciante": "Khaleed2",
+          "min": "100000",
           "max": "4000000",
-          "disponible": "10551.44"
+          "disponible": "850.00"
         },
         {
-          "precio": 948.105,
-          "comerciante": "CAMBIOSyREMESAS10",
-          "min": "500000",
-          "max": "4000000",
-          "disponible": "530.00"
-        },
-        {
-          "precio": 948.1,
-          "comerciante": "TrustyRetriever",
-          "min": "500000",
-          "max": "36450000",
-          "disponible": "9820.23"
-        },
-        {
-          "precio": 948.0,
+          "precio": 950.5,
           "comerciante": "Blank_Mind",
           "min": "2000000",
           "max": "36450000",
-          "disponible": "60000.00"
+          "disponible": "56803.51"
+        },
+        {
+          "precio": 950.1,
+          "comerciante": "Josebat23",
+          "min": "271800",
+          "max": "272802",
+          "disponible": "287.12"
+        },
+        {
+          "precio": 950.001,
+          "comerciante": "GAMBINO-",
+          "min": "20000000",
+          "max": "36450000",
+          "disponible": "76000.00"
+        },
+        {
+          "precio": 950.0,
+          "comerciante": "JordanBelfort-",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "17684.41"
         }
       ]
     },
     "compra": {
-      "promedio": 949.26,
-      "minimo": 949.0,
-      "maximo": 949.5,
+      "promedio": 949.18,
+      "minimo": 947.0,
+      "maximo": 950.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 949.0,
-          "comerciante": "LG-EXCHANGE",
-          "min": "20000",
-          "max": "20500",
-          "disponible": "78.15"
-        },
-        {
-          "precio": 949.1,
-          "comerciante": "jag7583",
-          "min": "90000",
-          "max": "94000",
-          "disponible": "99.75"
-        },
-        {
-          "precio": 949.2,
-          "comerciante": "SoloCambiosSiuu",
-          "min": "93000",
-          "max": "96000",
-          "disponible": "100.14"
-        },
-        {
-          "precio": 949.5,
-          "comerciante": "rockzr",
-          "min": "5000",
-          "max": "94950",
-          "disponible": "9.63"
-        },
-        {
-          "precio": 949.5,
-          "comerciante": "sjas",
-          "min": "80000",
+          "precio": 947.0,
+          "comerciante": "Eltitumartinz",
+          "min": "300",
           "max": "4000000",
-          "disponible": "109.72"
+          "disponible": "108.12"
+        },
+        {
+          "precio": 949.0,
+          "comerciante": "Vaneandreina7",
+          "min": "698000",
+          "max": "700000",
+          "disponible": "2194.51"
+        },
+        {
+          "precio": 949.9,
+          "comerciante": "ADLRExpress",
+          "min": "100000",
+          "max": "3400000",
+          "disponible": "262.68"
+        },
+        {
+          "precio": 950.0,
+          "comerciante": "P2P-c7671eiz",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "0.42"
+        },
+        {
+          "precio": 950.0,
+          "comerciante": "User-fbd3a6u1",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "0.50"
         }
       ]
     }
   },
-  "brecha_pct": 11.65
+  "brecha_pct": 11.86
 }
