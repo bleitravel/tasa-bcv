@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-18T23:23:55+00:00",
-  "actualizado_ve": "2026-09-18T19:23:55-04:00",
+  "actualizado_utc": "2026-09-19T01:18:27+00:00",
+  "actualizado_ve": "2026-09-18T21:18:27-04:00",
   "bcv": {
     "usd": 849.564,
     "eur": 974.09309112,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 950.5082,
+    "referencia": 951.7902,
     "venta": {
-      "promedio": 950.5082,
-      "minimo": 950.01,
-      "maximo": 951.0,
-      "anuncios_usados": 5,
-      "anuncios": [
-        {
-          "precio": 951.0,
-          "comerciante": "Gustavo129",
-          "min": "1000000",
-          "max": "36450000",
-          "disponible": "60000.00"
-        },
-        {
-          "precio": 950.531,
-          "comerciante": "TOPlevelS",
-          "min": "7000000",
-          "max": "36000000",
-          "disponible": "29000.00"
-        },
-        {
-          "precio": 950.5,
-          "comerciante": "TekaTrade",
-          "min": "1000000",
-          "max": "20000000",
-          "disponible": "42973.99"
-        },
-        {
-          "precio": 950.5,
-          "comerciante": "PEJAGOBLA",
-          "min": "5000000",
-          "max": "36400000",
-          "disponible": "80000.00"
-        },
-        {
-          "precio": 950.01,
-          "comerciante": "wallmons",
-          "min": "35000",
-          "max": "1000000",
-          "disponible": "1050.00"
-        }
-      ]
-    },
-    "compra": {
-      "promedio": 950.998,
-      "minimo": 949.0,
+      "promedio": 951.7902,
+      "minimo": 951.7,
       "maximo": 952.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 949.0,
-          "comerciante": "rausseol",
-          "min": "89000",
-          "max": "36450000",
-          "disponible": "99.80"
-        },
-        {
-          "precio": 950.0,
-          "comerciante": "Jon_Sup",
-          "min": "3500000",
-          "max": "4000000",
-          "disponible": "5764.54"
-        },
-        {
-          "precio": 951.99,
-          "comerciante": "Wil-Master",
-          "min": "500000",
-          "max": "600000",
-          "disponible": "1496.25"
-        },
-        {
           "precio": 952.0,
-          "comerciante": "-CASA_MONEY-",
+          "comerciante": "GOMEZTUSOLUCION",
           "min": "10000000",
           "max": "36450000",
-          "disponible": "40986.30"
+          "disponible": "16516.49"
+        },
+        {
+          "precio": 951.8,
+          "comerciante": "MoralesCorp",
+          "min": "300000",
+          "max": "36000000",
+          "disponible": "2983.42"
+        },
+        {
+          "precio": 951.75,
+          "comerciante": "上天保佑",
+          "min": "1000000",
+          "max": "4000000",
+          "disponible": "3354.35"
+        },
+        {
+          "precio": 951.701,
+          "comerciante": "PAGOSYAAA",
+          "min": "300000",
+          "max": "9000000",
+          "disponible": "10000.00"
+        },
+        {
+          "precio": 951.7,
+          "comerciante": "Qwer77",
+          "min": "450000",
+          "max": "36450000",
+          "disponible": "2274.85"
+        }
+      ]
+    },
+    "compra": {
+      "promedio": 952.18,
+      "minimo": 950.0,
+      "maximo": 953.0,
+      "anuncios_usados": 5,
+      "anuncios": [
+        {
+          "precio": 950.0,
+          "comerciante": "edgard6828",
+          "min": "95000",
+          "max": "95001",
+          "disponible": "100.74"
         },
         {
           "precio": 952.0,
-          "comerciante": "cambiosRenji",
-          "min": "39000",
-          "max": "40000",
+          "comerciante": "DarwinDs",
+          "min": "100000",
+          "max": "4000000",
+          "disponible": "782.32"
+        },
+        {
+          "precio": 952.9,
+          "comerciante": "TuCambioRapidoVE",
+          "min": "1300000",
+          "max": "1337000",
+          "disponible": "1400.59"
+        },
+        {
+          "precio": 953.0,
+          "comerciante": "LadyCapitalP2P",
+          "min": "5000000",
+          "max": "8298682",
+          "disponible": "8692.52"
+        },
+        {
+          "precio": 953.0,
+          "comerciante": "gelittle1980",
+          "min": "5000",
+          "max": "10000",
           "disponible": "99.75"
         }
       ]
     }
   },
-  "brecha_pct": 11.88
+  "brecha_pct": 12.03
 }
