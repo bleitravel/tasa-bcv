@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-19T06:04:14+00:00",
-  "actualizado_ve": "2026-09-19T02:04:14-04:00",
+  "actualizado_utc": "2026-09-19T11:14:19+00:00",
+  "actualizado_ve": "2026-09-19T07:14:19-04:00",
   "bcv": {
     "usd": 849.564,
     "eur": 974.09309112,
@@ -10,13 +10,20 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 951.7206,
+    "referencia": 952.017,
     "venta": {
-      "promedio": 951.7206,
-      "minimo": 951.001,
-      "maximo": 953.1,
+      "promedio": 952.017,
+      "minimo": 950.99,
+      "maximo": 954.0,
       "anuncios_usados": 5,
       "anuncios": [
+        {
+          "precio": 954.0,
+          "comerciante": "Bulk_P2P",
+          "min": "80000",
+          "max": "650000",
+          "disponible": "320.00"
+        },
         {
           "precio": 953.1,
           "comerciante": "CambiosOjed4",
@@ -25,39 +32,32 @@
           "disponible": "19000.00"
         },
         {
-          "precio": 952.0,
-          "comerciante": "CambiosMZ",
-          "min": "1000000",
-          "max": "6000000",
-          "disponible": "6302.52"
+          "precio": 951.0,
+          "comerciante": "EL-PODER-ES-DE-DIOS",
+          "min": "800000",
+          "max": "1734522",
+          "disponible": "6355.85"
         },
         {
-          "precio": 951.5,
-          "comerciante": "VISÓN CRIPTØ",
+          "precio": 950.995,
+          "comerciante": "AndradeGasconTITULAR",
           "min": "500000",
-          "max": "36450000",
-          "disponible": "9600.30"
+          "max": "5000000",
+          "disponible": "1109.54"
         },
         {
-          "precio": 951.002,
-          "comerciante": "Royrdgz",
-          "min": "310000",
-          "max": "36450000",
-          "disponible": "6224.03"
-        },
-        {
-          "precio": 951.001,
-          "comerciante": "Molyflash777",
-          "min": "200000",
-          "max": "19433000",
-          "disponible": "1807.69"
+          "precio": 950.99,
+          "comerciante": "MoralesCorp",
+          "min": "700000",
+          "max": "36000000",
+          "disponible": "16000.00"
         }
       ]
     },
     "compra": {
-      "promedio": 955.0188,
+      "promedio": 955.0996,
       "minimo": 954.0,
-      "maximo": 955.494,
+      "maximo": 955.4,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "99.75"
         },
         {
-          "precio": 955.0,
-          "comerciante": "Atumanocambio",
-          "min": "800000",
-          "max": "14000000",
-          "disponible": "2392.89"
+          "precio": 955.3,
+          "comerciante": "Trading_professional",
+          "min": "3000000",
+          "max": "36450000",
+          "disponible": "20000.00"
         },
         {
-          "precio": 955.25,
-          "comerciante": "不會不會他不會",
+          "precio": 955.398,
+          "comerciante": "AlejandrinhoP2P",
+          "min": "3000000",
+          "max": "30000000",
+          "disponible": "8009.98"
+        },
+        {
+          "precio": 955.4,
+          "comerciante": "Jaed_crp",
           "min": "1000000",
-          "max": "9990000",
-          "disponible": "10652.13"
+          "max": "2000000",
+          "disponible": "1678.49"
         },
         {
-          "precio": 955.35,
-          "comerciante": "Peliasp",
-          "min": "250000",
-          "max": "4000000",
-          "disponible": "2992.51"
-        },
-        {
-          "precio": 955.494,
-          "comerciante": "CriptoTraderHub",
-          "min": "999000",
-          "max": "3000000",
-          "disponible": "2911.00"
+          "precio": 955.4,
+          "comerciante": "CambioVeloz_15",
+          "min": "1400000",
+          "max": "36450000",
+          "disponible": "26023.27"
         }
       ]
     }
   },
-  "brecha_pct": 12.02
+  "brecha_pct": 12.06
 }
