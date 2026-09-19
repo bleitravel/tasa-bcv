@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-19T14:32:39+00:00",
-  "actualizado_ve": "2026-09-19T10:32:39-04:00",
+  "actualizado_utc": "2026-09-19T17:32:45+00:00",
+  "actualizado_ve": "2026-09-19T13:32:45-04:00",
   "bcv": {
     "usd": 849.564,
     "eur": 974.09309112,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 951.2822,
+    "referencia": 948.24,
     "venta": {
-      "promedio": 951.2822,
-      "minimo": 951.2,
-      "maximo": 951.5,
+      "promedio": 948.24,
+      "minimo": 947.8,
+      "maximo": 948.9,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 951.5,
-          "comerciante": "CambiosOjed4",
-          "min": "5000000",
-          "max": "14337815",
-          "disponible": "19500.00"
+          "precio": 948.9,
+          "comerciante": "Lacomercializadora",
+          "min": "500000",
+          "max": "4000000",
+          "disponible": "6068.20"
         },
         {
-          "precio": 951.251,
-          "comerciante": "-TSxRV-",
-          "min": "7000000",
+          "precio": 948.5,
+          "comerciante": "calorina sankey",
+          "min": "1500000",
+          "max": "4000000",
+          "disponible": "16082.25"
+        },
+        {
+          "precio": 948.0,
+          "comerciante": "Blank_Mind",
+          "min": "2000000",
           "max": "36450000",
-          "disponible": "50000.00"
+          "disponible": "60000.00"
         },
         {
-          "precio": 951.25,
-          "comerciante": "securitylc",
-          "min": "5000000",
-          "max": "36450000",
-          "disponible": "50000.00"
+          "precio": 948.0,
+          "comerciante": "Capi",
+          "min": "116000",
+          "max": "116300",
+          "disponible": "122.67"
         },
         {
-          "precio": 951.21,
-          "comerciante": "Kingjvl",
-          "min": "3000000",
-          "max": "36450000",
-          "disponible": "70707.90"
-        },
-        {
-          "precio": 951.2,
-          "comerciante": "EXCHANGE-PRO",
-          "min": "900000",
-          "max": "14000000",
-          "disponible": "4444.46"
+          "precio": 947.8,
+          "comerciante": "Cambio_Ganador",
+          "min": "1000000",
+          "max": "4000000",
+          "disponible": "13679.08"
         }
       ]
     },
     "compra": {
-      "promedio": 952.2,
-      "minimo": 952.0,
-      "maximo": 952.5,
+      "promedio": 946.8542,
+      "minimo": 940.0,
+      "maximo": 948.666,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 952.0,
-          "comerciante": "MOIMOI-P2P",
-          "min": "94000",
-          "max": "95200",
-          "disponible": "100.00"
+          "precio": 940.0,
+          "comerciante": "RapidXpay",
+          "min": "25400",
+          "max": "25410",
+          "disponible": "72.78"
         },
         {
-          "precio": 952.0,
-          "comerciante": "falg87",
-          "min": "10000",
-          "max": "50000",
-          "disponible": "73.51"
+          "precio": 948.35,
+          "comerciante": "卡哈塞克尼奧",
+          "min": "3000000",
+          "max": "11000000",
+          "disponible": "10858.37"
         },
         {
-          "precio": 952.0,
-          "comerciante": "Diegosanpac",
-          "min": "20000",
-          "max": "117000",
-          "disponible": "122.69"
+          "precio": 948.6,
+          "comerciante": "StarBusiness2",
+          "min": "2000000",
+          "max": "10000000",
+          "disponible": "6905.30"
         },
         {
-          "precio": 952.5,
-          "comerciante": "TeamV_V",
-          "min": "20000",
-          "max": "185000",
-          "disponible": "51.08"
+          "precio": 948.655,
+          "comerciante": "Theking_11",
+          "min": "3000000",
+          "max": "15000000",
+          "disponible": "6674.88"
         },
         {
-          "precio": 952.5,
-          "comerciante": "jehovaproveera",
-          "min": "300",
-          "max": "400000",
-          "disponible": "99.75"
+          "precio": 948.666,
+          "comerciante": "我哋要求",
+          "min": "1000000",
+          "max": "20000000",
+          "disponible": "9827.62"
         }
       ]
     }
   },
-  "brecha_pct": 11.97
+  "brecha_pct": 11.61
 }
