@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-20T19:07:54+00:00",
-  "actualizado_ve": "2026-09-20T15:07:54-04:00",
+  "actualizado_utc": "2026-09-20T21:40:06+00:00",
+  "actualizado_ve": "2026-09-20T17:40:06-04:00",
   "bcv": {
     "usd": 849.564,
     "eur": 974.09309112,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 949.36,
+    "referencia": 949.644,
     "venta": {
-      "promedio": 949.36,
-      "minimo": 949.0,
-      "maximo": 949.7,
+      "promedio": 949.644,
+      "minimo": 946.92,
+      "maximo": 959.8,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 949.7,
+          "precio": 959.8,
+          "comerciante": "User-f7c29",
+          "min": "500000",
+          "max": "1000000",
+          "disponible": "1041.00"
+        },
+        {
+          "precio": 947.5,
           "comerciante": "CAMBIOSyREMESAS10",
           "min": "500000",
-          "max": "4000000",
-          "disponible": "4720.94"
+          "max": "1500000",
+          "disponible": "4478.17"
         },
         {
-          "precio": 949.5,
-          "comerciante": "BlackVaultt",
-          "min": "300000",
-          "max": "4000000",
-          "disponible": "560.42"
-        },
-        {
-          "precio": 949.5,
-          "comerciante": "calorina sankey",
-          "min": "1500000",
-          "max": "4000000",
-          "disponible": "2533.78"
-        },
-        {
-          "precio": 949.1,
-          "comerciante": "TOPlevelS",
-          "min": "5000000",
-          "max": "36000000",
-          "disponible": "26000.00"
-        },
-        {
-          "precio": 949.0,
+          "precio": 947.0,
           "comerciante": "Blank_Mind",
           "min": "3000000",
           "max": "36450000",
-          "disponible": "35000.00"
+          "disponible": "24765.27"
+        },
+        {
+          "precio": 947.0,
+          "comerciante": "EduardoNalim38",
+          "min": "500000",
+          "max": "34000000",
+          "disponible": "11774.21"
+        },
+        {
+          "precio": 946.92,
+          "comerciante": "MrLiquidity",
+          "min": "200000",
+          "max": "400000",
+          "disponible": "450.00"
         }
       ]
     },
     "compra": {
-      "promedio": 950.7,
-      "minimo": 950.0,
-      "maximo": 951.0,
+      "promedio": 948.2574,
+      "minimo": 948.0,
+      "maximo": 948.497,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 950.0,
-          "comerciante": "Broker Trader",
-          "min": "20185",
-          "max": "20186",
-          "disponible": "153.08"
+          "precio": 948.0,
+          "comerciante": "User-881a0",
+          "min": "50000",
+          "max": "500000",
+          "disponible": "94.03"
         },
         {
-          "precio": 950.5,
-          "comerciante": "YN2002",
-          "min": "427000",
-          "max": "429000",
-          "disponible": "450.87"
-        },
-        {
-          "precio": 951.0,
-          "comerciante": "Nanojesus97",
-          "min": "900",
-          "max": "45000",
-          "disponible": "1.29"
-        },
-        {
-          "precio": 951.0,
-          "comerciante": "Proyzen01",
+          "precio": 948.0,
+          "comerciante": "OkanaDila2301",
           "min": "5000",
-          "max": "10000",
-          "disponible": "71.59"
+          "max": "45000",
+          "disponible": "172.61"
         },
         {
-          "precio": 951.0,
-          "comerciante": "P2P-d1e2be4d",
-          "min": "300",
-          "max": "190200",
-          "disponible": "0.78"
+          "precio": 948.39,
+          "comerciante": "Lesvalls_Cripto",
+          "min": "400000",
+          "max": "1000000",
+          "disponible": "2210.53"
+        },
+        {
+          "precio": 948.4,
+          "comerciante": "AlCambiorick",
+          "min": "900000",
+          "max": "927712",
+          "disponible": "973.29"
+        },
+        {
+          "precio": 948.497,
+          "comerciante": "BalduinoIV",
+          "min": "4000000",
+          "max": "36450000",
+          "disponible": "11240.92"
         }
       ]
     }
   },
-  "brecha_pct": 11.75
+  "brecha_pct": 11.78
 }
