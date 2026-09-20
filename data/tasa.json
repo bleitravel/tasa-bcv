@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-20T07:23:24+00:00",
-  "actualizado_ve": "2026-09-20T03:23:24-04:00",
+  "actualizado_utc": "2026-09-20T12:31:03+00:00",
+  "actualizado_ve": "2026-09-20T08:31:03-04:00",
   "bcv": {
     "usd": 849.564,
     "eur": 974.09309112,
@@ -10,54 +10,54 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 949.382,
+    "referencia": 949.21,
     "venta": {
-      "promedio": 949.382,
-      "minimo": 948.8,
-      "maximo": 950.05,
+      "promedio": 949.21,
+      "minimo": 948.3,
+      "maximo": 952.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 950.05,
-          "comerciante": "Anyelo",
-          "min": "382000",
-          "max": "382200",
-          "disponible": "420.00"
+          "precio": 952.0,
+          "comerciante": "LeonBlanco11",
+          "min": "500000",
+          "max": "4000000",
+          "disponible": "2063.70"
         },
         {
-          "precio": 950.0,
-          "comerciante": "ThePatron348",
-          "min": "128250",
-          "max": "1000000",
-          "disponible": "135.00"
+          "precio": 949.0,
+          "comerciante": "P2PCrip",
+          "min": "2500000",
+          "max": "3900000",
+          "disponible": "4110.00"
         },
         {
-          "precio": 949.21,
-          "comerciante": "你就变得更强",
-          "min": "900000",
-          "max": "36450000",
-          "disponible": "78039.23"
+          "precio": 948.4,
+          "comerciante": "MoralesCorp",
+          "min": "500000",
+          "max": "36000000",
+          "disponible": "28863.45"
         },
         {
-          "precio": 948.85,
-          "comerciante": "Inversiones-ADSC",
-          "min": "1000000",
-          "max": "36450000",
-          "disponible": "46053.52"
+          "precio": 948.35,
+          "comerciante": "JuanDelu",
+          "min": "400000",
+          "max": "1200000",
+          "disponible": "490.31"
         },
         {
-          "precio": 948.8,
-          "comerciante": "ReadyToTrade_",
-          "min": "1000000",
-          "max": "7500000",
-          "disponible": "5100.12"
+          "precio": 948.3,
+          "comerciante": "Burdyn",
+          "min": "800000",
+          "max": "27193727",
+          "disponible": "23676.47"
         }
       ]
     },
     "compra": {
-      "promedio": 952.191,
+      "promedio": 951.424,
       "minimo": 950.0,
-      "maximo": 952.888,
+      "maximo": 952.12,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "1.04"
         },
         {
-          "precio": 952.3,
-          "comerciante": "KODA_CRYPTO",
-          "min": "200000",
-          "max": "36450000",
-          "disponible": "1270.46"
+          "precio": 951.0,
+          "comerciante": "JaniCastillo",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "0.59"
         },
         {
-          "precio": 952.88,
-          "comerciante": "Newton_TraderFast",
-          "min": "4500000",
-          "max": "25000000",
-          "disponible": "17812.05"
+          "precio": 952.0,
+          "comerciante": "Josedanieln644",
+          "min": "100000",
+          "max": "2000000",
+          "disponible": "358.71"
         },
         {
-          "precio": 952.887,
-          "comerciante": "ImJustGirl",
-          "min": "2000000",
-          "max": "6000000",
-          "disponible": "2738.92"
+          "precio": 952.0,
+          "comerciante": "boyko22",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "12.15"
         },
         {
-          "precio": 952.888,
-          "comerciante": "PAGO-DESDE-TERCEROS",
-          "min": "1000000",
-          "max": "36000000",
-          "disponible": "8789.76"
+          "precio": 952.12,
+          "comerciante": "User-6efd7",
+          "min": "80000",
+          "max": "311000",
+          "disponible": "222.00"
         }
       ]
     }
   },
-  "brecha_pct": 11.75
+  "brecha_pct": 11.73
 }
