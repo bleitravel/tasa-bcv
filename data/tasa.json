@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-19T23:43:11+00:00",
-  "actualizado_ve": "2026-09-19T19:43:11-04:00",
+  "actualizado_utc": "2026-09-20T01:58:10+00:00",
+  "actualizado_ve": "2026-09-19T21:58:10-04:00",
   "bcv": {
     "usd": 849.564,
     "eur": 974.09309112,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 950.3202,
+    "referencia": 955.2606,
     "venta": {
-      "promedio": 950.3202,
+      "promedio": 955.2606,
+      "minimo": 950.55,
+      "maximo": 962.8,
+      "anuncios_usados": 5,
+      "anuncios": [
+        {
+          "precio": 962.8,
+          "comerciante": "Word-Traiding",
+          "min": "500000",
+          "max": "1500000",
+          "disponible": "1557.00"
+        },
+        {
+          "precio": 961.1,
+          "comerciante": "User-abb47",
+          "min": "300000",
+          "max": "4000000",
+          "disponible": "6878.10"
+        },
+        {
+          "precio": 951.0,
+          "comerciante": "Bernaaaaaaa",
+          "min": "300000",
+          "max": "30000000",
+          "disponible": "3639.40"
+        },
+        {
+          "precio": 950.853,
+          "comerciante": "CAMBIOSyREMESAS10",
+          "min": "500000",
+          "max": "4000000",
+          "disponible": "10000.00"
+        },
+        {
+          "precio": 950.55,
+          "comerciante": "JB-INVESTMENTS",
+          "min": "200000",
+          "max": "1500000",
+          "disponible": "1644.10"
+        }
+      ]
+    },
+    "compra": {
+      "promedio": 950.8,
       "minimo": 950.0,
       "maximo": 951.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
+          "precio": 950.0,
+          "comerciante": "Layepaid",
+          "min": "950",
+          "max": "196000",
+          "disponible": "1.04"
+        },
+        {
           "precio": 951.0,
-          "comerciante": "Khaleed2",
-          "min": "100000",
-          "max": "4000000",
-          "disponible": "850.00"
+          "comerciante": "Danielajcg",
+          "min": "1000",
+          "max": "81000",
+          "disponible": "1.45"
         },
         {
-          "precio": 950.5,
-          "comerciante": "Blank_Mind",
-          "min": "2000000",
-          "max": "36450000",
-          "disponible": "56803.51"
+          "precio": 951.0,
+          "comerciante": "GrupoEVONUT",
+          "min": "300",
+          "max": "2000",
+          "disponible": "77.86"
         },
         {
-          "precio": 950.1,
-          "comerciante": "Josebat23",
-          "min": "271800",
-          "max": "272802",
-          "disponible": "287.12"
+          "precio": 951.0,
+          "comerciante": "Money_Go_",
+          "min": "94000",
+          "max": "94100",
+          "disponible": "99.75"
         },
         {
-          "precio": 950.001,
-          "comerciante": "GAMBINO-",
-          "min": "20000000",
-          "max": "36450000",
-          "disponible": "76000.00"
-        },
-        {
-          "precio": 950.0,
-          "comerciante": "JordanBelfort-",
-          "min": "5000000",
-          "max": "36450000",
-          "disponible": "17684.41"
-        }
-      ]
-    },
-    "compra": {
-      "promedio": 949.18,
-      "minimo": 947.0,
-      "maximo": 950.0,
-      "anuncios_usados": 5,
-      "anuncios": [
-        {
-          "precio": 947.0,
-          "comerciante": "Eltitumartinz",
+          "precio": 951.0,
+          "comerciante": "User-ba794dhs",
           "min": "300",
           "max": "4000000",
-          "disponible": "108.12"
-        },
-        {
-          "precio": 949.0,
-          "comerciante": "Vaneandreina7",
-          "min": "698000",
-          "max": "700000",
-          "disponible": "2194.51"
-        },
-        {
-          "precio": 949.9,
-          "comerciante": "ADLRExpress",
-          "min": "100000",
-          "max": "3400000",
-          "disponible": "262.68"
-        },
-        {
-          "precio": 950.0,
-          "comerciante": "P2P-c7671eiz",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "0.42"
-        },
-        {
-          "precio": 950.0,
-          "comerciante": "User-fbd3a6u1",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "0.50"
+          "disponible": "42.27"
         }
       ]
     }
   },
-  "brecha_pct": 11.86
+  "brecha_pct": 12.44
 }
