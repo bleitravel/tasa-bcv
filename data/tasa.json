@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-20T12:31:03+00:00",
-  "actualizado_ve": "2026-09-20T08:31:03-04:00",
+  "actualizado_utc": "2026-09-20T16:34:37+00:00",
+  "actualizado_ve": "2026-09-20T12:34:37-04:00",
   "bcv": {
     "usd": 849.564,
     "eur": 974.09309112,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 949.21,
+    "referencia": 949.8304,
     "venta": {
-      "promedio": 949.21,
-      "minimo": 948.3,
-      "maximo": 952.0,
+      "promedio": 949.8304,
+      "minimo": 949.5,
+      "maximo": 950.15,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 952.0,
-          "comerciante": "LeonBlanco11",
-          "min": "500000",
-          "max": "4000000",
-          "disponible": "2063.70"
+          "precio": 950.15,
+          "comerciante": "User-34227",
+          "min": "200000",
+          "max": "216000",
+          "disponible": "227.00"
         },
         {
-          "precio": 949.0,
-          "comerciante": "P2PCrip",
-          "min": "2500000",
-          "max": "3900000",
-          "disponible": "4110.00"
+          "precio": 950.0,
+          "comerciante": "Blank_Mind",
+          "min": "1500000",
+          "max": "36450000",
+          "disponible": "55921.51"
         },
         {
-          "precio": 948.4,
-          "comerciante": "MoralesCorp",
-          "min": "500000",
+          "precio": 950.0,
+          "comerciante": "Juanz17",
+          "min": "20000000",
           "max": "36000000",
-          "disponible": "28863.45"
+          "disponible": "50000.00"
         },
         {
-          "precio": 948.35,
-          "comerciante": "JuanDelu",
-          "min": "400000",
-          "max": "1200000",
-          "disponible": "490.31"
+          "precio": 949.502,
+          "comerciante": "tradiven",
+          "min": "1200000",
+          "max": "4000000",
+          "disponible": "16664.67"
         },
         {
-          "precio": 948.3,
-          "comerciante": "Burdyn",
-          "min": "800000",
-          "max": "27193727",
-          "disponible": "23676.47"
+          "precio": 949.5,
+          "comerciante": "calorina sankey",
+          "min": "1500000",
+          "max": "4000000",
+          "disponible": "6818.83"
         }
       ]
     },
     "compra": {
-      "promedio": 951.424,
-      "minimo": 950.0,
-      "maximo": 952.12,
+      "promedio": 950.1,
+      "minimo": 948.0,
+      "maximo": 951.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
+          "precio": 948.0,
+          "comerciante": "User-a2e79",
+          "min": "90000",
+          "max": "142500",
+          "disponible": "149.62"
+        },
+        {
           "precio": 950.0,
-          "comerciante": "Layepaid",
-          "min": "950",
-          "max": "196000",
-          "disponible": "1.04"
+          "comerciante": "MzVentasCripto",
+          "min": "123100",
+          "max": "123101",
+          "disponible": "129.67"
+        },
+        {
+          "precio": 950.5,
+          "comerciante": "Cambios_ESC",
+          "min": "284435",
+          "max": "284437",
+          "disponible": "299.25"
         },
         {
           "precio": 951.0,
-          "comerciante": "JaniCastillo",
-          "min": "300",
+          "comerciante": "venmex",
+          "min": "500000",
+          "max": "3410000",
+          "disponible": "646.77"
+        },
+        {
+          "precio": 951.0,
+          "comerciante": "Cece777",
+          "min": "10000",
           "max": "4000000",
-          "disponible": "0.59"
-        },
-        {
-          "precio": 952.0,
-          "comerciante": "Josedanieln644",
-          "min": "100000",
-          "max": "2000000",
-          "disponible": "358.71"
-        },
-        {
-          "precio": 952.0,
-          "comerciante": "boyko22",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "12.15"
-        },
-        {
-          "precio": 952.12,
-          "comerciante": "User-6efd7",
-          "min": "80000",
-          "max": "311000",
-          "disponible": "222.00"
+          "disponible": "11.20"
         }
       ]
     }
   },
-  "brecha_pct": 11.73
+  "brecha_pct": 11.8
 }
