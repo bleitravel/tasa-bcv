@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-20T01:58:10+00:00",
-  "actualizado_ve": "2026-09-19T21:58:10-04:00",
+  "actualizado_utc": "2026-09-20T07:23:24+00:00",
+  "actualizado_ve": "2026-09-20T03:23:24-04:00",
   "bcv": {
     "usd": 849.564,
     "eur": 974.09309112,
@@ -10,54 +10,54 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 955.2606,
+    "referencia": 949.382,
     "venta": {
-      "promedio": 955.2606,
-      "minimo": 950.55,
-      "maximo": 962.8,
+      "promedio": 949.382,
+      "minimo": 948.8,
+      "maximo": 950.05,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 962.8,
-          "comerciante": "Word-Traiding",
-          "min": "500000",
-          "max": "1500000",
-          "disponible": "1557.00"
+          "precio": 950.05,
+          "comerciante": "Anyelo",
+          "min": "382000",
+          "max": "382200",
+          "disponible": "420.00"
         },
         {
-          "precio": 961.1,
-          "comerciante": "User-abb47",
-          "min": "300000",
-          "max": "4000000",
-          "disponible": "6878.10"
+          "precio": 950.0,
+          "comerciante": "ThePatron348",
+          "min": "128250",
+          "max": "1000000",
+          "disponible": "135.00"
         },
         {
-          "precio": 951.0,
-          "comerciante": "Bernaaaaaaa",
-          "min": "300000",
-          "max": "30000000",
-          "disponible": "3639.40"
+          "precio": 949.21,
+          "comerciante": "你就变得更强",
+          "min": "900000",
+          "max": "36450000",
+          "disponible": "78039.23"
         },
         {
-          "precio": 950.853,
-          "comerciante": "CAMBIOSyREMESAS10",
-          "min": "500000",
-          "max": "4000000",
-          "disponible": "10000.00"
+          "precio": 948.85,
+          "comerciante": "Inversiones-ADSC",
+          "min": "1000000",
+          "max": "36450000",
+          "disponible": "46053.52"
         },
         {
-          "precio": 950.55,
-          "comerciante": "JB-INVESTMENTS",
-          "min": "200000",
-          "max": "1500000",
-          "disponible": "1644.10"
+          "precio": 948.8,
+          "comerciante": "ReadyToTrade_",
+          "min": "1000000",
+          "max": "7500000",
+          "disponible": "5100.12"
         }
       ]
     },
     "compra": {
-      "promedio": 950.8,
+      "promedio": 952.191,
       "minimo": 950.0,
-      "maximo": 951.0,
+      "maximo": 952.888,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "1.04"
         },
         {
-          "precio": 951.0,
-          "comerciante": "Danielajcg",
-          "min": "1000",
-          "max": "81000",
-          "disponible": "1.45"
+          "precio": 952.3,
+          "comerciante": "KODA_CRYPTO",
+          "min": "200000",
+          "max": "36450000",
+          "disponible": "1270.46"
         },
         {
-          "precio": 951.0,
-          "comerciante": "GrupoEVONUT",
-          "min": "300",
-          "max": "2000",
-          "disponible": "77.86"
+          "precio": 952.88,
+          "comerciante": "Newton_TraderFast",
+          "min": "4500000",
+          "max": "25000000",
+          "disponible": "17812.05"
         },
         {
-          "precio": 951.0,
-          "comerciante": "Money_Go_",
-          "min": "94000",
-          "max": "94100",
-          "disponible": "99.75"
+          "precio": 952.887,
+          "comerciante": "ImJustGirl",
+          "min": "2000000",
+          "max": "6000000",
+          "disponible": "2738.92"
         },
         {
-          "precio": 951.0,
-          "comerciante": "User-ba794dhs",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "42.27"
+          "precio": 952.888,
+          "comerciante": "PAGO-DESDE-TERCEROS",
+          "min": "1000000",
+          "max": "36000000",
+          "disponible": "8789.76"
         }
       ]
     }
   },
-  "brecha_pct": 12.44
+  "brecha_pct": 11.75
 }
