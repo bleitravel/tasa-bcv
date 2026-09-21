@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-20T23:38:52+00:00",
-  "actualizado_ve": "2026-09-20T19:38:52-04:00",
+  "actualizado_utc": "2026-09-21T01:58:51+00:00",
+  "actualizado_ve": "2026-09-20T21:58:51-04:00",
   "bcv": {
     "usd": 849.564,
     "eur": 974.09309112,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 945.5614,
+    "referencia": 945.4404,
     "venta": {
-      "promedio": 945.5614,
-      "minimo": 945.305,
-      "maximo": 946.0,
+      "promedio": 945.4404,
+      "minimo": 945.2,
+      "maximo": 945.6,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 946.0,
-          "comerciante": "Blank_Mind",
-          "min": "3000000",
-          "max": "36450000",
-          "disponible": "18061.89"
+          "precio": 945.6,
+          "comerciante": "Jetsenia29",
+          "min": "1000000",
+          "max": "4000000",
+          "disponible": "7900.06"
+        },
+        {
+          "precio": 945.6,
+          "comerciante": "DJRKO",
+          "min": "500000",
+          "max": "3900000",
+          "disponible": "3227.10"
         },
         {
           "precio": 945.502,
           "comerciante": "tradiven",
           "min": "1200000",
           "max": "4000000",
-          "disponible": "19777.34"
+          "disponible": "9277.74"
         },
         {
-          "precio": 945.5,
-          "comerciante": "尺-ROMA",
-          "min": "1000000",
-          "max": "35000000",
-          "disponible": "25086.57"
+          "precio": 945.3,
+          "comerciante": "CRYPTOMUNDIAL2026",
+          "min": "300000",
+          "max": "4000000",
+          "disponible": "3058.15"
         },
         {
-          "precio": 945.5,
-          "comerciante": "JJC18",
-          "min": "1000000",
-          "max": "3800000",
-          "disponible": "5000.00"
-        },
-        {
-          "precio": 945.305,
-          "comerciante": "黑块黑块",
-          "min": "1000000",
-          "max": "16000000",
-          "disponible": "3900.89"
+          "precio": 945.2,
+          "comerciante": "S3bss_Exchang3",
+          "min": "2000000",
+          "max": "20000000",
+          "disponible": "9384.05"
         }
       ]
     },
     "compra": {
-      "promedio": 946.2778,
-      "minimo": 945.999,
-      "maximo": 946.5,
+      "promedio": 946.52,
+      "minimo": 946.3,
+      "maximo": 946.8,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 945.999,
-          "comerciante": "DIOSESTODOPARAMI",
-          "min": "3000000",
+          "precio": 946.3,
+          "comerciante": " Blessed ",
+          "min": "9000000",
           "max": "36450000",
-          "disponible": "29239.78"
+          "disponible": "40000.00"
         },
         {
-          "precio": 946.0,
-          "comerciante": "doctor_zoidberg",
-          "min": "7000000",
+          "precio": 946.45,
+          "comerciante": "Gjsan",
+          "min": "4000000",
           "max": "36450000",
-          "disponible": "79900.12"
-        },
-        {
-          "precio": 946.4,
-          "comerciante": "LelysMed",
-          "min": "2000000",
-          "max": "18000000",
-          "disponible": "15081.14"
-        },
-        {
-          "precio": 946.49,
-          "comerciante": "Wil2589",
-          "min": "2000000",
-          "max": "28000000",
-          "disponible": "13584.41"
+          "disponible": "8460.42"
         },
         {
           "precio": 946.5,
-          "comerciante": "CAMBIORAPID0S",
+          "comerciante": "AENETEACHEOENEYE",
           "min": "3000000",
-          "max": "36000000",
-          "disponible": "45599.76"
+          "max": "9300000",
+          "disponible": "8978.81"
+        },
+        {
+          "precio": 946.55,
+          "comerciante": "-CambiosBarrilito-",
+          "min": "3000000",
+          "max": "22000000",
+          "disponible": "9982.53"
+        },
+        {
+          "precio": 946.8,
+          "comerciante": "Danielajcg",
+          "min": "1000",
+          "max": "81000",
+          "disponible": "1.18"
         }
       ]
     }
   },
-  "brecha_pct": 11.3
+  "brecha_pct": 11.29
 }
