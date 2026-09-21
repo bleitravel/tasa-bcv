@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-21T01:58:51+00:00",
-  "actualizado_ve": "2026-09-20T21:58:51-04:00",
+  "actualizado_utc": "2026-09-21T07:37:02+00:00",
+  "actualizado_ve": "2026-09-21T03:37:02-04:00",
   "bcv": {
     "usd": 849.564,
     "eur": 974.09309112,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 945.4404,
+    "referencia": 943.32,
     "venta": {
-      "promedio": 945.4404,
-      "minimo": 945.2,
-      "maximo": 945.6,
+      "promedio": 943.32,
+      "minimo": 942.0,
+      "maximo": 945.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 945.6,
-          "comerciante": "Jetsenia29",
+          "precio": 945.0,
+          "comerciante": "Honda_keisuke",
           "min": "1000000",
           "max": "4000000",
-          "disponible": "7900.06"
+          "disponible": "1290.27"
         },
         {
-          "precio": 945.6,
-          "comerciante": "DJRKO",
-          "min": "500000",
-          "max": "3900000",
-          "disponible": "3227.10"
+          "precio": 944.19,
+          "comerciante": "07_Exchange",
+          "min": "1000000",
+          "max": "36450000",
+          "disponible": "73487.04"
         },
         {
-          "precio": 945.502,
-          "comerciante": "tradiven",
-          "min": "1200000",
+          "precio": 942.71,
+          "comerciante": "moccatrader",
+          "min": "4000",
+          "max": "4044",
+          "disponible": "100.00"
+        },
+        {
+          "precio": 942.7,
+          "comerciante": "makalex123",
+          "min": "300",
+          "max": "1100",
+          "disponible": "100.00"
+        },
+        {
+          "precio": 942.0,
+          "comerciante": "krisbelv",
+          "min": "50000",
           "max": "4000000",
-          "disponible": "9277.74"
-        },
-        {
-          "precio": 945.3,
-          "comerciante": "CRYPTOMUNDIAL2026",
-          "min": "300000",
-          "max": "4000000",
-          "disponible": "3058.15"
-        },
-        {
-          "precio": 945.2,
-          "comerciante": "S3bss_Exchang3",
-          "min": "2000000",
-          "max": "20000000",
-          "disponible": "9384.05"
+          "disponible": "1071.76"
         }
       ]
     },
     "compra": {
-      "promedio": 946.52,
-      "minimo": 946.3,
-      "maximo": 946.8,
+      "promedio": 945.86,
+      "minimo": 945.0,
+      "maximo": 946.3,
       "anuncios_usados": 5,
       "anuncios": [
         {
+          "precio": 945.0,
+          "comerciante": "Norelia0213",
+          "min": "426906",
+          "max": "426907",
+          "disponible": "451.87"
+        },
+        {
+          "precio": 946.0,
+          "comerciante": "SpaceX_Trader",
+          "min": "1500000",
+          "max": "20400000",
+          "disponible": "7909.51"
+        },
+        {
+          "precio": 946.0,
+          "comerciante": "pgabriela-c",
+          "min": "100000",
+          "max": "766000",
+          "disponible": "805.98"
+        },
+        {
+          "precio": 946.0,
+          "comerciante": "MXMIGUEL25",
+          "min": "20000",
+          "max": "4000000",
+          "disponible": "925.99"
+        },
+        {
           "precio": 946.3,
-          "comerciante": " Blessed ",
-          "min": "9000000",
-          "max": "36450000",
-          "disponible": "40000.00"
-        },
-        {
-          "precio": 946.45,
-          "comerciante": "Gjsan",
-          "min": "4000000",
-          "max": "36450000",
-          "disponible": "8460.42"
-        },
-        {
-          "precio": 946.5,
-          "comerciante": "AENETEACHEOENEYE",
-          "min": "3000000",
-          "max": "9300000",
-          "disponible": "8978.81"
-        },
-        {
-          "precio": 946.55,
-          "comerciante": "-CambiosBarrilito-",
-          "min": "3000000",
-          "max": "22000000",
-          "disponible": "9982.53"
-        },
-        {
-          "precio": 946.8,
-          "comerciante": "Danielajcg",
-          "min": "1000",
-          "max": "81000",
-          "disponible": "1.18"
+          "comerciante": "kront",
+          "min": "20000",
+          "max": "1000000",
+          "disponible": "139.57"
         }
       ]
     }
   },
-  "brecha_pct": 11.29
+  "brecha_pct": 11.04
 }
