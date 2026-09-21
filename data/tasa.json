@@ -1,102 +1,102 @@
 {
-  "actualizado_utc": "2026-09-21T19:47:24+00:00",
-  "actualizado_ve": "2026-09-21T15:47:24-04:00",
+  "actualizado_utc": "2026-09-21T22:53:53+00:00",
+  "actualizado_ve": "2026-09-21T18:53:53-04:00",
   "bcv": {
-    "usd": 849.564,
-    "eur": 974.09309112,
-    "fecha_valor": "2026-09-21T00:00:00-04:00"
+    "usd": 852.4168,
+    "eur": 978.1738505,
+    "fecha_valor": "2026-09-22T00:00:00-04:00"
   },
   "binance_p2p": {
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 956.06,
+    "referencia": 957.96,
     "venta": {
-      "promedio": 956.06,
-      "minimo": 955.5,
-      "maximo": 957.0,
+      "promedio": 957.96,
+      "minimo": 957.0,
+      "maximo": 959.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 957.0,
+          "precio": 959.0,
+          "comerciante": "-Akopan-",
+          "min": "5250000",
+          "max": "36450000",
+          "disponible": "57000.12"
+        },
+        {
+          "precio": 958.0,
+          "comerciante": "Blank_Mind",
+          "min": "4000000",
+          "max": "36450000",
+          "disponible": "56633.76"
+        },
+        {
+          "precio": 958.0,
+          "comerciante": "TodoCambios",
+          "min": "75000",
+          "max": "125000",
+          "disponible": "952.03"
+        },
+        {
+          "precio": 957.8,
           "comerciante": "IngCryptos",
           "min": "3000000",
           "max": "36450000",
-          "disponible": "75548.59"
+          "disponible": "74700.06"
         },
         {
-          "precio": 956.0,
-          "comerciante": "USDTFASTTT",
-          "min": "5000000",
-          "max": "36450000",
-          "disponible": "5449.00"
-        },
-        {
-          "precio": 956.0,
-          "comerciante": "PsicoCash",
-          "min": "1000000",
-          "max": "4000000",
-          "disponible": "2838.93"
-        },
-        {
-          "precio": 955.8,
-          "comerciante": "famerica",
-          "min": "2500000",
-          "max": "5000000",
-          "disponible": "3500.00"
-        },
-        {
-          "precio": 955.5,
-          "comerciante": "GaboBustamante",
-          "min": "300000",
-          "max": "4000000",
-          "disponible": "2903.76"
+          "precio": 957.0,
+          "comerciante": "MaríaF28",
+          "min": "51500",
+          "max": "52000",
+          "disponible": "100.00"
         }
       ]
     },
     "compra": {
-      "promedio": 955.94,
-      "minimo": 954.0,
-      "maximo": 956.9,
+      "promedio": 955.4,
+      "minimo": 955.0,
+      "maximo": 956.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 954.0,
-          "comerciante": "danyCambios",
-          "min": "800",
-          "max": "400000",
-          "disponible": "255.65"
-        },
-        {
-          "precio": 956.0,
-          "comerciante": "marenga",
+          "precio": 955.0,
+          "comerciante": "Leidy_ramirez",
           "min": "300",
-          "max": "95600",
-          "disponible": "5.00"
+          "max": "4000000",
+          "disponible": "1.01"
         },
         {
-          "precio": 956.0,
-          "comerciante": "TSUNAMIFLAS",
-          "min": "94500",
-          "max": "4000000",
+          "precio": 955.0,
+          "comerciante": "AlejandroWko",
+          "min": "89000",
+          "max": "89500",
           "disponible": "99.75"
         },
         {
-          "precio": 956.8,
-          "comerciante": "FE0909",
-          "min": "500000",
-          "max": "1820000",
-          "disponible": "1345.20"
+          "precio": 955.0,
+          "comerciante": "TSUNAMIFLAS",
+          "min": "190000",
+          "max": "4000000",
+          "disponible": "199.50"
         },
         {
-          "precio": 956.9,
-          "comerciante": "SergioBarcoo IG",
-          "min": "90000",
-          "max": "95900",
+          "precio": 956.0,
+          "comerciante": "liangue",
+          "min": "95600",
+          "max": "95650",
+          "disponible": "101.74"
+        },
+        {
+          "precio": 956.0,
+          "comerciante": "jag7583",
+          "min": "63000",
+          "max": "65000",
           "disponible": "99.75"
         }
       ]
     }
   },
-  "brecha_pct": 12.54
+  "brecha_pct": 12.38
 }
