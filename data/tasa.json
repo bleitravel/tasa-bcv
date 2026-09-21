@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-21T14:37:28+00:00",
-  "actualizado_ve": "2026-09-21T10:37:28-04:00",
+  "actualizado_utc": "2026-09-21T19:47:24+00:00",
+  "actualizado_ve": "2026-09-21T15:47:24-04:00",
   "bcv": {
     "usd": 849.564,
     "eur": 974.09309112,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 950.5602,
+    "referencia": 956.06,
     "venta": {
-      "promedio": 950.5602,
-      "minimo": 950.52,
-      "maximo": 950.61,
+      "promedio": 956.06,
+      "minimo": 955.5,
+      "maximo": 957.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 950.61,
-          "comerciante": "GAMBINO-",
-          "min": "15000000",
-          "max": "36450000",
-          "disponible": "29510.00"
-        },
-        {
-          "precio": 950.6,
-          "comerciante": "All-inCrypto",
-          "min": "5000000",
-          "max": "36000000",
-          "disponible": "74736.85"
-        },
-        {
-          "precio": 950.55,
-          "comerciante": "EXCHANGE-PRO",
-          "min": "900000",
-          "max": "14000000",
-          "disponible": "12200.00"
-        },
-        {
-          "precio": 950.521,
-          "comerciante": "MANTEQUILLAA",
-          "min": "800000",
-          "max": "19726000",
-          "disponible": "20781.00"
-        },
-        {
-          "precio": 950.52,
-          "comerciante": "_Vortex12_",
+          "precio": 957.0,
+          "comerciante": "IngCryptos",
           "min": "3000000",
-          "max": "34000000",
-          "disponible": "14001.00"
+          "max": "36450000",
+          "disponible": "75548.59"
+        },
+        {
+          "precio": 956.0,
+          "comerciante": "USDTFASTTT",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "5449.00"
+        },
+        {
+          "precio": 956.0,
+          "comerciante": "PsicoCash",
+          "min": "1000000",
+          "max": "4000000",
+          "disponible": "2838.93"
+        },
+        {
+          "precio": 955.8,
+          "comerciante": "famerica",
+          "min": "2500000",
+          "max": "5000000",
+          "disponible": "3500.00"
+        },
+        {
+          "precio": 955.5,
+          "comerciante": "GaboBustamante",
+          "min": "300000",
+          "max": "4000000",
+          "disponible": "2903.76"
         }
       ]
     },
     "compra": {
-      "promedio": 947.1354,
-      "minimo": 944.0,
-      "maximo": 948.0,
+      "promedio": 955.94,
+      "minimo": 954.0,
+      "maximo": 956.9,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 944.0,
-          "comerciante": "Alejandro torres cambios ",
+          "precio": 954.0,
+          "comerciante": "danyCambios",
+          "min": "800",
+          "max": "400000",
+          "disponible": "255.65"
+        },
+        {
+          "precio": 956.0,
+          "comerciante": "marenga",
           "min": "300",
+          "max": "95600",
+          "disponible": "5.00"
+        },
+        {
+          "precio": 956.0,
+          "comerciante": "TSUNAMIFLAS",
+          "min": "94500",
           "max": "4000000",
-          "disponible": "159.71"
-        },
-        {
-          "precio": 947.777,
-          "comerciante": "Rey_Fast777",
-          "min": "300",
-          "max": "265000",
-          "disponible": "3.88"
-        },
-        {
-          "precio": 947.9,
-          "comerciante": "GrupoEVONUT",
-          "min": "300",
-          "max": "2000",
           "disponible": "99.75"
         },
         {
-          "precio": 948.0,
-          "comerciante": "Lestat_Trader",
-          "min": "3000",
-          "max": "20000",
-          "disponible": "4.79"
+          "precio": 956.8,
+          "comerciante": "FE0909",
+          "min": "500000",
+          "max": "1820000",
+          "disponible": "1345.20"
         },
         {
-          "precio": 948.0,
-          "comerciante": "Lubernuflo",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "4.47"
+          "precio": 956.9,
+          "comerciante": "SergioBarcoo IG",
+          "min": "90000",
+          "max": "95900",
+          "disponible": "99.75"
         }
       ]
     }
   },
-  "brecha_pct": 11.89
+  "brecha_pct": 12.54
 }
