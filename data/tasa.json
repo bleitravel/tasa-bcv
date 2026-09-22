@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-22T11:53:29+00:00",
-  "actualizado_ve": "2026-09-22T07:53:29-04:00",
+  "actualizado_utc": "2026-09-22T15:50:16+00:00",
+  "actualizado_ve": "2026-09-22T11:50:16-04:00",
   "bcv": {
     "usd": 852.4168,
     "eur": 978.1738505,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 955.202,
+    "referencia": 962.5302,
     "venta": {
-      "promedio": 955.202,
-      "minimo": 954.5,
-      "maximo": 956.0,
+      "promedio": 962.5302,
+      "minimo": 962.001,
+      "maximo": 963.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 956.0,
-          "comerciante": "-Akopan-",
-          "min": "8000000",
+          "precio": 963.0,
+          "comerciante": "上天保佑",
+          "min": "500000",
+          "max": "4000000",
+          "disponible": "8968.60"
+        },
+        {
+          "precio": 962.6,
+          "comerciante": "USDTFASTTT",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "6438.00"
+        },
+        {
+          "precio": 962.55,
+          "comerciante": "IngCryptos",
+          "min": "4894347",
+          "max": "4894348",
+          "disponible": "5100.00"
+        },
+        {
+          "precio": 962.5,
+          "comerciante": "Blank_Mind",
+          "min": "10000000",
           "max": "36450000",
           "disponible": "50000.00"
         },
         {
-          "precio": 956.0,
-          "comerciante": "TheNumberOneMaturin",
-          "min": "3000000",
-          "max": "4000000",
-          "disponible": "15000.00"
-        },
-        {
-          "precio": 955.0,
-          "comerciante": "Holy_Spirit_",
-          "min": "1000000",
+          "precio": 962.001,
+          "comerciante": "MARACAIBOBTC",
+          "min": "1100000",
           "max": "36450000",
-          "disponible": "46595.50"
-        },
-        {
-          "precio": 954.51,
-          "comerciante": "Agumir",
-          "min": "1000000",
-          "max": "4000000",
-          "disponible": "17000.00"
-        },
-        {
-          "precio": 954.5,
-          "comerciante": "Blank_Mind",
-          "min": "1000000",
-          "max": "36450000",
-          "disponible": "24511.17"
+          "disponible": "5067.45"
         }
       ]
     },
     "compra": {
-      "promedio": 954.6,
-      "minimo": 954.0,
-      "maximo": 955.0,
+      "promedio": 959.68,
+      "minimo": 959.0,
+      "maximo": 960.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 954.0,
-          "comerciante": "AlejandroWko",
-          "min": "89000",
-          "max": "89500",
-          "disponible": "99.75"
+          "precio": 959.0,
+          "comerciante": "Broker Trader",
+          "min": "19000",
+          "max": "19001",
+          "disponible": "25.53"
         },
         {
-          "precio": 954.0,
-          "comerciante": "WilLeon110",
-          "min": "30000",
-          "max": "473994",
-          "disponible": "495.61"
+          "precio": 959.5,
+          "comerciante": "Nexotrade_P2P",
+          "min": "1000",
+          "max": "40000",
+          "disponible": "87.00"
         },
         {
-          "precio": 955.0,
-          "comerciante": "jesus6167M",
+          "precio": 959.9,
+          "comerciante": "geraldin140",
           "min": "300",
-          "max": "235750",
+          "max": "400000",
+          "disponible": "0.46"
+        },
+        {
+          "precio": 960.0,
+          "comerciante": "BictVenz",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "0.49"
+        },
+        {
+          "precio": 960.0,
+          "comerciante": "leo1305pineda",
+          "min": "300",
+          "max": "40000",
           "disponible": "0.47"
-        },
-        {
-          "precio": 955.0,
-          "comerciante": "RE-YES1",
-          "min": "300",
-          "max": "100169",
-          "disponible": "1.81"
-        },
-        {
-          "precio": 955.0,
-          "comerciante": "gene2591aa",
-          "min": "20000",
-          "max": "97716",
-          "disponible": "80.80"
         }
       ]
     }
   },
-  "brecha_pct": 12.06
+  "brecha_pct": 12.92
 }
