@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-22T06:24:27+00:00",
-  "actualizado_ve": "2026-09-22T02:24:27-04:00",
+  "actualizado_utc": "2026-09-22T11:53:29+00:00",
+  "actualizado_ve": "2026-09-22T07:53:29-04:00",
   "bcv": {
     "usd": 852.4168,
     "eur": 978.1738505,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 954.3626,
+    "referencia": 955.202,
     "venta": {
-      "promedio": 954.3626,
-      "minimo": 953.2,
-      "maximo": 957.003,
+      "promedio": 955.202,
+      "minimo": 954.5,
+      "maximo": 956.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 957.003,
-          "comerciante": "P2P-d65bfa6o",
+          "precio": 956.0,
+          "comerciante": "-Akopan-",
+          "min": "8000000",
+          "max": "36450000",
+          "disponible": "50000.00"
+        },
+        {
+          "precio": 956.0,
+          "comerciante": "TheNumberOneMaturin",
           "min": "3000000",
           "max": "4000000",
-          "disponible": "26865.21"
+          "disponible": "15000.00"
         },
         {
           "precio": 955.0,
-          "comerciante": "20598047911303524352",
-          "min": "181450",
-          "max": "4000000",
-          "disponible": "190.00"
-        },
-        {
-          "precio": 953.4,
-          "comerciante": "Capitalisca",
-          "min": "3000000",
-          "max": "4000000",
-          "disponible": "10900.06"
-        },
-        {
-          "precio": 953.21,
-          "comerciante": "TechPayments",
-          "min": "10000",
-          "max": "656000",
-          "disponible": "357.47"
-        },
-        {
-          "precio": 953.2,
-          "comerciante": "VISÓN CRIPTØ",
-          "min": "400000",
+          "comerciante": "Holy_Spirit_",
+          "min": "1000000",
           "max": "36450000",
-          "disponible": "76769.40"
+          "disponible": "46595.50"
+        },
+        {
+          "precio": 954.51,
+          "comerciante": "Agumir",
+          "min": "1000000",
+          "max": "4000000",
+          "disponible": "17000.00"
+        },
+        {
+          "precio": 954.5,
+          "comerciante": "Blank_Mind",
+          "min": "1000000",
+          "max": "36450000",
+          "disponible": "24511.17"
         }
       ]
     },
     "compra": {
-      "promedio": 954.7,
+      "promedio": 954.6,
       "minimo": 954.0,
-      "maximo": 955.5,
+      "maximo": 955.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
           "precio": 954.0,
-          "comerciante": "FLUJO----GLOBAL",
-          "min": "170000",
-          "max": "2400000",
-          "disponible": "179.55"
-        },
-        {
-          "precio": 954.0,
-          "comerciante": "CambioAr14",
-          "min": "300",
-          "max": "400000",
-          "disponible": "158.64"
-        },
-        {
-          "precio": 955.0,
           "comerciante": "AlejandroWko",
           "min": "89000",
           "max": "89500",
           "disponible": "99.75"
         },
         {
-          "precio": 955.0,
-          "comerciante": "andry0212",
-          "min": "186852",
-          "max": "186856",
-          "disponible": "197.50"
+          "precio": 954.0,
+          "comerciante": "WilLeon110",
+          "min": "30000",
+          "max": "473994",
+          "disponible": "495.61"
         },
         {
-          "precio": 955.5,
-          "comerciante": "CambiosLG8",
-          "min": "1000",
-          "max": "100000",
-          "disponible": "4.49"
+          "precio": 955.0,
+          "comerciante": "jesus6167M",
+          "min": "300",
+          "max": "235750",
+          "disponible": "0.47"
+        },
+        {
+          "precio": 955.0,
+          "comerciante": "RE-YES1",
+          "min": "300",
+          "max": "100169",
+          "disponible": "1.81"
+        },
+        {
+          "precio": 955.0,
+          "comerciante": "gene2591aa",
+          "min": "20000",
+          "max": "97716",
+          "disponible": "80.80"
         }
       ]
     }
   },
-  "brecha_pct": 11.96
+  "brecha_pct": 12.06
 }
