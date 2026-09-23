@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-23T10:09:27+00:00",
-  "actualizado_ve": "2026-09-23T06:09:27-04:00",
+  "actualizado_utc": "2026-09-23T15:07:04+00:00",
+  "actualizado_ve": "2026-09-23T11:07:04-04:00",
   "bcv": {
     "usd": 853.4993,
     "eur": 976.54829408,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 970.18,
+    "referencia": 973.34,
     "venta": {
-      "promedio": 970.18,
-      "minimo": 962.4,
-      "maximo": 1000.0,
+      "promedio": 973.34,
+      "minimo": 971.5,
+      "maximo": 980.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1000.0,
-          "comerciante": "Compraventamundial",
-          "min": "10000",
-          "max": "10001",
-          "disponible": "100.00"
+          "precio": 980.0,
+          "comerciante": "Kryptos",
+          "min": "1200",
+          "max": "4000000",
+          "disponible": "200.00"
         },
         {
-          "precio": 963.0,
-          "comerciante": "Redmagic17",
-          "min": "1000000",
-          "max": "36450000",
-          "disponible": "18000.06"
+          "precio": 972.0,
+          "comerciante": "20598047911303524352",
+          "min": "285265",
+          "max": "4000000",
+          "disponible": "295.00"
         },
         {
-          "precio": 963.0,
-          "comerciante": "faroexchange ",
-          "min": "500000",
-          "max": "12400000",
-          "disponible": "5684.70"
-        },
-        {
-          "precio": 962.5,
-          "comerciante": "Cabimbu",
-          "min": "400000",
-          "max": "4500000",
-          "disponible": "4508.00"
-        },
-        {
-          "precio": 962.4,
-          "comerciante": "CAMBIORAPID0S",
-          "min": "500000",
+          "precio": 971.7,
+          "comerciante": "Amaev_cripto",
+          "min": "4000000",
           "max": "36000000",
-          "disponible": "10000.00"
+          "disponible": "68000.12"
+        },
+        {
+          "precio": 971.5,
+          "comerciante": "LEYENDAOTC",
+          "min": "4000000",
+          "max": "33722000",
+          "disponible": "42123.88"
+        },
+        {
+          "precio": 971.5,
+          "comerciante": "FUERZA_ELITE",
+          "min": "1200000",
+          "max": "36000000",
+          "disponible": "1339.00"
         }
       ]
     },
     "compra": {
-      "promedio": 965.2798,
-      "minimo": 965.0,
-      "maximo": 965.5,
+      "promedio": 970.3,
+      "minimo": 968.8,
+      "maximo": 971.7,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 965.0,
-          "comerciante": "User-38df5",
+          "precio": 968.8,
+          "comerciante": "cambiosramses",
           "min": "300",
-          "max": "601667",
-          "disponible": "0.38"
+          "max": "4000000",
+          "disponible": "0.43"
         },
         {
-          "precio": 965.0,
-          "comerciante": "Opta1976",
-          "min": "48250",
-          "max": "144750",
-          "disponible": "82.65"
-        },
-        {
-          "precio": 965.4,
-          "comerciante": "Daryanadevia",
-          "min": "1000",
-          "max": "203000",
-          "disponible": "2.99"
-        },
-        {
-          "precio": 965.499,
-          "comerciante": "RemesasL12",
+          "precio": 970.0,
+          "comerciante": "yohanalviarez",
           "min": "300",
-          "max": "5000",
-          "disponible": "129.67"
+          "max": "162000",
+          "disponible": "0.48"
         },
         {
-          "precio": 965.5,
-          "comerciante": "yinmazz",
+          "precio": 970.0,
+          "comerciante": "ComercioJL",
+          "min": "10000",
+          "max": "192000",
+          "disponible": "199.50"
+        },
+        {
+          "precio": 971.0,
+          "comerciante": "Omar17112005",
           "min": "300",
-          "max": "612504",
-          "disponible": "0.94"
+          "max": "124000",
+          "disponible": "0.84"
+        },
+        {
+          "precio": 971.7,
+          "comerciante": "J17CS",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "10206.95"
         }
       ]
     }
   },
-  "brecha_pct": 13.67
+  "brecha_pct": 14.04
 }
