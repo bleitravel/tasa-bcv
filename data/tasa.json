@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-22T22:20:14+00:00",
-  "actualizado_ve": "2026-09-22T18:20:14-04:00",
+  "actualizado_utc": "2026-09-23T00:45:36+00:00",
+  "actualizado_ve": "2026-09-22T20:45:36-04:00",
   "bcv": {
     "usd": 853.4993,
     "eur": 976.54829408,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 964.101,
+    "referencia": 963.9466,
     "venta": {
-      "promedio": 964.101,
-      "minimo": 964.0,
-      "maximo": 964.5,
-      "anuncios_usados": 5,
-      "anuncios": [
-        {
-          "precio": 964.5,
-          "comerciante": "Amaev_cripto",
-          "min": "5000000",
-          "max": "36000000",
-          "disponible": "71260.06"
-        },
-        {
-          "precio": 964.005,
-          "comerciante": "Trust-Broker",
-          "min": "3000000",
-          "max": "36450000",
-          "disponible": "38624.24"
-        },
-        {
-          "precio": 964.0,
-          "comerciante": "贝HarveySpecter贝",
-          "min": "5000000",
-          "max": "36000000",
-          "disponible": "31500.00"
-        },
-        {
-          "precio": 964.0,
-          "comerciante": "Redmagic17",
-          "min": "2000000",
-          "max": "36450000",
-          "disponible": "20425.12"
-        },
-        {
-          "precio": 964.0,
-          "comerciante": "GOMEZTUSOLUCION",
-          "min": "10000000",
-          "max": "36450000",
-          "disponible": "80000.00"
-        }
-      ]
-    },
-    "compra": {
-      "promedio": 963.3978,
-      "minimo": 962.999,
+      "promedio": 963.9466,
+      "minimo": 963.93,
       "maximo": 964.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 962.999,
-          "comerciante": "Sofidan2",
-          "min": "10000",
-          "max": "2898001",
-          "disponible": "11.64"
+          "precio": 964.0,
+          "comerciante": "Amaev_cripto",
+          "min": "5000000",
+          "max": "36000000",
+          "disponible": "61300.64"
         },
         {
+          "precio": 963.935,
+          "comerciante": "MERCADO ESTRATEGICO",
+          "min": "1000000",
+          "max": "30000000",
+          "disponible": "12887.13"
+        },
+        {
+          "precio": 963.934,
+          "comerciante": "Maleono",
+          "min": "900000",
+          "max": "34500000",
+          "disponible": "5488.11"
+        },
+        {
+          "precio": 963.934,
+          "comerciante": "JS_Valentine",
+          "min": "600000",
+          "max": "16269000",
+          "disponible": "13873.00"
+        },
+        {
+          "precio": 963.93,
+          "comerciante": "CDanielgg TS ",
+          "min": "2000001",
+          "max": "11300000",
+          "disponible": "11727.00"
+        }
+      ]
+    },
+    "compra": {
+      "promedio": 963.622,
+      "minimo": 963.0,
+      "maximo": 964.21,
+      "anuncios_usados": 5,
+      "anuncios": [
+        {
           "precio": 963.0,
-          "comerciante": "AlejandroWko",
-          "min": "89000",
-          "max": "89500",
+          "comerciante": "Broly-22",
+          "min": "50000",
+          "max": "4000000",
           "disponible": "99.75"
         },
         {
           "precio": 963.0,
-          "comerciante": "Gregor24",
-          "min": "30000",
-          "max": "95000",
-          "disponible": "197.50"
+          "comerciante": "Davidtigre42",
+          "min": "20000",
+          "max": "382000",
+          "disponible": "399.00"
         },
         {
-          "precio": 963.99,
-          "comerciante": "Machado442",
-          "min": "12645",
-          "max": "12646",
-          "disponible": "130.85"
+          "precio": 963.901,
+          "comerciante": "el_ poller-obispo",
+          "min": "278000",
+          "max": "279000",
+          "disponible": "288.68"
         },
         {
-          "precio": 964.0,
-          "comerciante": "Ccabra26",
-          "min": "10000",
-          "max": "192000",
-          "disponible": "18.69"
+          "precio": 963.999,
+          "comerciante": "VelociCambiosMx",
+          "min": "100000",
+          "max": "100001",
+          "disponible": "112.81"
+        },
+        {
+          "precio": 964.21,
+          "comerciante": "adrubita",
+          "min": "743000",
+          "max": "10000000",
+          "disponible": "773.72"
         }
       ]
     }
   },
-  "brecha_pct": 12.96
+  "brecha_pct": 12.94
 }
