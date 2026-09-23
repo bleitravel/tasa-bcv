@@ -1,19 +1,19 @@
 {
-  "actualizado_utc": "2026-09-23T19:07:50+00:00",
-  "actualizado_ve": "2026-09-23T15:07:50-04:00",
+  "actualizado_utc": "2026-09-23T22:23:24+00:00",
+  "actualizado_ve": "2026-09-23T18:23:24-04:00",
   "bcv": {
-    "usd": 853.4993,
-    "eur": 976.54829408,
-    "fecha_valor": "2026-09-23T00:00:00-04:00"
+    "usd": 854.4637,
+    "eur": 974.06298408,
+    "fecha_valor": "2026-09-24T00:00:00-04:00"
   },
   "binance_p2p": {
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 970.584,
+    "referencia": 970.231,
     "venta": {
-      "promedio": 970.584,
-      "minimo": 967.5,
+      "promedio": 970.231,
+      "minimo": 967.35,
       "maximo": 980.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -22,81 +22,81 @@
           "comerciante": "Kryptos",
           "min": "500",
           "max": "4000000",
-          "disponible": "290.82"
+          "disponible": "289.80"
         },
         {
-          "precio": 969.9,
-          "comerciante": "Gatsby_24",
-          "min": "7000000",
+          "precio": 968.005,
+          "comerciante": "Trust-Broker",
+          "min": "3000000",
           "max": "36450000",
-          "disponible": "50000.00"
+          "disponible": "22561.15"
         },
         {
           "precio": 968.0,
-          "comerciante": "Gustavo129",
-          "min": "36450000",
-          "max": "500000000",
-          "disponible": "100000.00"
+          "comerciante": "TOPlevelS",
+          "min": "10000000",
+          "max": "36000000",
+          "disponible": "58287.20"
         },
         {
-          "precio": 967.52,
-          "comerciante": "ミReinaPepiadaCoinミ",
-          "min": "4000000",
-          "max": "36450000",
-          "disponible": "14900.00"
+          "precio": 967.8,
+          "comerciante": "Nkbusiness ",
+          "min": "500000",
+          "max": "4000000",
+          "disponible": "4684.23"
         },
         {
-          "precio": 967.5,
-          "comerciante": "Gustavo129",
-          "min": "4500000",
-          "max": "36450000",
-          "disponible": "80000.00"
+          "precio": 967.35,
+          "comerciante": "贝HarveySpecter贝",
+          "min": "7000000",
+          "max": "35000000",
+          "disponible": "50000.00"
         }
       ]
     },
     "compra": {
-      "promedio": 963.7898,
-      "minimo": 960.0,
-      "maximo": 966.5,
+      "promedio": 967.36,
+      "minimo": 967.0,
+      "maximo": 967.8,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 960.0,
-          "comerciante": "danyCambios",
-          "min": "800",
-          "max": "400000",
-          "disponible": "199.49"
+          "precio": 967.0,
+          "comerciante": "kambioveloz",
+          "min": "20000",
+          "max": "4000000",
+          "disponible": "120.75"
         },
         {
-          "precio": 962.0,
-          "comerciante": "criptomundo77",
-          "min": "500000",
-          "max": "1650000",
-          "disponible": "1753.52"
+          "precio": 967.0,
+          "comerciante": "Survivor26",
+          "min": "10000",
+          "max": "580200",
+          "disponible": "598.50"
         },
         {
-          "precio": 965.0,
-          "comerciante": "SPAICER",
-          "min": "320",
-          "max": "877000",
-          "disponible": "24.48"
+          "precio": 967.5,
+          "comerciante": "Cheryimport",
+          "min": "127000",
+          "max": "4000000",
+          "disponible": "131.83"
         },
         {
-          "precio": 965.449,
-          "comerciante": "VelociCambiosMx",
-          "min": "97920",
-          "max": "97921",
-          "disponible": "107.80"
+          "precio": 967.5,
+          "comerciante": "tupanal",
+          "min": "20000",
+          "max": "388000",
+          "disponible": "42.56"
         },
         {
-          "precio": 966.5,
-          "comerciante": "Teknik--",
-          "min": "185000",
-          "max": "192500",
-          "disponible": "199.50"
+          "precio": 967.8,
+          "comerciante": "Thewolfjusto",
+          "min": "59000",
+          "max": "59001",
+          "disponible": "99.75"
         }
       ]
     }
   },
-  "brecha_pct": 13.72
+  "brecha_pct": 13.55
 }
