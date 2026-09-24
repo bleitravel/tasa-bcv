@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-24T10:37:46+00:00",
-  "actualizado_ve": "2026-09-24T06:37:46-04:00",
+  "actualizado_utc": "2026-09-24T15:33:22+00:00",
+  "actualizado_ve": "2026-09-24T11:33:22-04:00",
   "bcv": {
     "usd": 854.4637,
     "eur": 974.06298408,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 964.542,
+    "referencia": 967.0002,
     "venta": {
-      "promedio": 964.542,
-      "minimo": 964.3,
-      "maximo": 965.0,
+      "promedio": 967.0002,
+      "minimo": 966.0,
+      "maximo": 970.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 965.0,
-          "comerciante": "Gatsby_24",
+          "precio": 970.0,
+          "comerciante": "Kryptos",
+          "min": "500",
+          "max": "4000000",
+          "disponible": "275.47"
+        },
+        {
+          "precio": 967.0,
+          "comerciante": "AURA_CAPITAL",
+          "min": "2000000",
+          "max": "4000000",
+          "disponible": "4695.31"
+        },
+        {
+          "precio": 966.001,
+          "comerciante": "BusinesssVip",
           "min": "1000000",
-          "max": "36450000",
-          "disponible": "60221.15"
+          "max": "8000000",
+          "disponible": "2779.50"
         },
         {
-          "precio": 964.51,
-          "comerciante": "不知道你",
-          "min": "1000000",
-          "max": "36450000",
-          "disponible": "22202.12"
+          "precio": 966.0,
+          "comerciante": "kaaamo",
+          "min": "3900000",
+          "max": "4000000",
+          "disponible": "8200.00"
         },
         {
-          "precio": 964.5,
-          "comerciante": "Yosedg",
-          "min": "700000",
-          "max": "20000000",
-          "disponible": "8429.80"
-        },
-        {
-          "precio": 964.4,
-          "comerciante": "YenderFlashP2P",
-          "min": "400000",
-          "max": "10000000",
-          "disponible": "3954.77"
-        },
-        {
-          "precio": 964.3,
-          "comerciante": "Bruce-Wayne-93",
-          "min": "200000",
-          "max": "1099000",
-          "disponible": "532.31"
+          "precio": 966.0,
+          "comerciante": "AndreavHernandez",
+          "min": "1148779",
+          "max": "1148826",
+          "disponible": "1190.00"
         }
       ]
     },
     "compra": {
-      "promedio": 966.8,
-      "minimo": 966.0,
-      "maximo": 967.0,
+      "promedio": 965.56,
+      "minimo": 964.0,
+      "maximo": 966.899,
       "anuncios_usados": 5,
       "anuncios": [
         {
+          "precio": 964.0,
+          "comerciante": "CesarGonca13",
+          "min": "90000",
+          "max": "999999",
+          "disponible": "99.75"
+        },
+        {
+          "precio": 964.002,
+          "comerciante": "thonnyron",
+          "min": "260000",
+          "max": "289500",
+          "disponible": "299.25"
+        },
+        {
           "precio": 966.0,
-          "comerciante": "Davidtigre42",
-          "min": "20000",
-          "max": "385000",
-          "disponible": "298.59"
+          "comerciante": "User-db2bb",
+          "min": "60000",
+          "max": "61000",
+          "disponible": "99.75"
         },
         {
-          "precio": 967.0,
-          "comerciante": "WorldTradeinCripto",
-          "min": "3000000",
-          "max": "36450000",
-          "disponible": "20000.00"
+          "precio": 966.899,
+          "comerciante": "AllDayP2P",
+          "min": "25000",
+          "max": "400000",
+          "disponible": "29.43"
         },
         {
-          "precio": 967.0,
-          "comerciante": "Amara2026",
-          "min": "590000",
-          "max": "600000",
-          "disponible": "617.76"
-        },
-        {
-          "precio": 967.0,
-          "comerciante": "yane12",
-          "min": "96900",
-          "max": "411000",
-          "disponible": "423.94"
-        },
-        {
-          "precio": 967.0,
-          "comerciante": "P2P-b708c1cf",
-          "min": "456",
-          "max": "457",
-          "disponible": "471.10"
+          "precio": 966.899,
+          "comerciante": "VelociCambiosMx",
+          "min": "115343",
+          "max": "115344",
+          "disponible": "142.08"
         }
       ]
     }
   },
-  "brecha_pct": 12.88
+  "brecha_pct": 13.17
 }
