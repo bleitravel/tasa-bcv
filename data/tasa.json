@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-23T22:23:24+00:00",
-  "actualizado_ve": "2026-09-23T18:23:24-04:00",
+  "actualizado_utc": "2026-09-24T00:37:28+00:00",
+  "actualizado_ve": "2026-09-23T20:37:28-04:00",
   "bcv": {
     "usd": 854.4637,
     "eur": 974.06298408,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 970.231,
+    "referencia": 967.801,
     "venta": {
-      "promedio": 970.231,
-      "minimo": 967.35,
-      "maximo": 980.0,
+      "promedio": 967.801,
+      "minimo": 965.5,
+      "maximo": 975.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 980.0,
-          "comerciante": "Kryptos",
-          "min": "500",
+          "precio": 975.0,
+          "comerciante": "catire-5151",
+          "min": "300",
           "max": "4000000",
-          "disponible": "289.80"
+          "disponible": "100.14"
         },
         {
-          "precio": 968.005,
+          "precio": 967.0,
           "comerciante": "Trust-Broker",
           "min": "3000000",
           "max": "36450000",
-          "disponible": "22561.15"
-        },
-        {
-          "precio": 968.0,
-          "comerciante": "TOPlevelS",
-          "min": "10000000",
-          "max": "36000000",
-          "disponible": "58287.20"
-        },
-        {
-          "precio": 967.8,
-          "comerciante": "Nkbusiness ",
-          "min": "500000",
-          "max": "4000000",
-          "disponible": "4684.23"
-        },
-        {
-          "precio": 967.35,
-          "comerciante": "贝HarveySpecter贝",
-          "min": "7000000",
-          "max": "35000000",
           "disponible": "50000.00"
+        },
+        {
+          "precio": 966.0,
+          "comerciante": "Luisanaar",
+          "min": "1000000",
+          "max": "4000000",
+          "disponible": "5000.00"
+        },
+        {
+          "precio": 965.505,
+          "comerciante": "Trust-Broker",
+          "min": "7000000",
+          "max": "36450000",
+          "disponible": "34821.12"
+        },
+        {
+          "precio": 965.5,
+          "comerciante": "Amaev_cripto",
+          "min": "5000000",
+          "max": "36000000",
+          "disponible": "80000.00"
         }
       ]
     },
     "compra": {
-      "promedio": 967.36,
-      "minimo": 967.0,
-      "maximo": 967.8,
+      "promedio": 967.0944,
+      "minimo": 966.899,
+      "maximo": 967.2,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 967.0,
-          "comerciante": "kambioveloz",
-          "min": "20000",
-          "max": "4000000",
-          "disponible": "120.75"
+          "precio": 966.899,
+          "comerciante": "VelociCambiosMx",
+          "min": "52250",
+          "max": "52251",
+          "disponible": "102.28"
         },
         {
           "precio": 967.0,
-          "comerciante": "Survivor26",
-          "min": "10000",
-          "max": "580200",
-          "disponible": "598.50"
+          "comerciante": "Servicios-Criptos-27",
+          "min": "2000000",
+          "max": "14000000",
+          "disponible": "4092.83"
         },
         {
-          "precio": 967.5,
-          "comerciante": "Cheryimport",
-          "min": "127000",
-          "max": "4000000",
-          "disponible": "131.83"
+          "precio": 967.175,
+          "comerciante": "NixonDavidGamboa",
+          "min": "2000",
+          "max": "25000",
+          "disponible": "100.71"
         },
         {
-          "precio": 967.5,
-          "comerciante": "tupanal",
-          "min": "20000",
-          "max": "388000",
-          "disponible": "42.56"
+          "precio": 967.198,
+          "comerciante": "Theking_11",
+          "min": "3000000",
+          "max": "15000000",
+          "disponible": "15001.24"
         },
         {
-          "precio": 967.8,
-          "comerciante": "Thewolfjusto",
-          "min": "59000",
-          "max": "59001",
-          "disponible": "99.75"
+          "precio": 967.2,
+          "comerciante": "JPapaupa_Trader",
+          "min": "3000000",
+          "max": "36450000",
+          "disponible": "10726.09"
         }
       ]
     }
   },
-  "brecha_pct": 13.55
+  "brecha_pct": 13.26
 }
