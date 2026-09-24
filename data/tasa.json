@@ -1,102 +1,102 @@
 {
-  "actualizado_utc": "2026-09-24T19:33:50+00:00",
-  "actualizado_ve": "2026-09-24T15:33:50-04:00",
+  "actualizado_utc": "2026-09-24T22:46:38+00:00",
+  "actualizado_ve": "2026-09-24T18:46:38-04:00",
   "bcv": {
-    "usd": 854.4637,
-    "eur": 974.06298408,
-    "fecha_valor": "2026-09-24T00:00:00-04:00"
+    "usd": 855.6625,
+    "eur": 972.648677,
+    "fecha_valor": "2026-09-25T00:00:00-04:00"
   },
   "binance_p2p": {
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 967.754,
+    "referencia": 967.0444,
     "venta": {
-      "promedio": 967.754,
-      "minimo": 967.12,
-      "maximo": 970.0,
-      "anuncios_usados": 5,
-      "anuncios": [
-        {
-          "precio": 970.0,
-          "comerciante": "Kryptos",
-          "min": "500",
-          "max": "4000000",
-          "disponible": "209.71"
-        },
-        {
-          "precio": 967.3,
-          "comerciante": "CRIPTO-2026",
-          "min": "15000000",
-          "max": "36450000",
-          "disponible": "80000.00"
-        },
-        {
-          "precio": 967.2,
-          "comerciante": "NitroClash",
-          "min": "10000000",
-          "max": "36000000",
-          "disponible": "80000.00"
-        },
-        {
-          "precio": 967.15,
-          "comerciante": "JoseParedez",
-          "min": "7000000",
-          "max": "36450000",
-          "disponible": "80000.00"
-        },
-        {
-          "precio": 967.12,
-          "comerciante": "活着的价值",
-          "min": "6000000",
-          "max": "36450000",
-          "disponible": "43522.06"
-        }
-      ]
-    },
-    "compra": {
-      "promedio": 967.3998,
-      "minimo": 967.0,
+      "promedio": 967.0444,
+      "minimo": 966.0,
       "maximo": 968.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 967.0,
-          "comerciante": "AlejandroWko",
-          "min": "89000",
-          "max": "89500",
-          "disponible": "99.75"
-        },
-        {
-          "precio": 967.0,
-          "comerciante": "jmmorillo",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "0.83"
-        },
-        {
-          "precio": 967.0,
-          "comerciante": "User-e054e",
-          "min": "90000",
-          "max": "120000",
-          "disponible": "124.68"
-        },
-        {
-          "precio": 967.999,
-          "comerciante": "Lcgs2027",
-          "min": "2000",
-          "max": "4000000",
-          "disponible": "104.42"
-        },
-        {
           "precio": 968.0,
-          "comerciante": "Guillirber",
+          "comerciante": "kaaamo",
+          "min": "3900000",
+          "max": "4000000",
+          "disponible": "8000.00"
+        },
+        {
+          "precio": 967.222,
+          "comerciante": "jarias67",
+          "min": "500000",
+          "max": "4000000",
+          "disponible": "6051.02"
+        },
+        {
+          "precio": 967.0,
+          "comerciante": "TesoreríaMed",
+          "min": "1300000",
+          "max": "1360000",
+          "disponible": "1406.41"
+        },
+        {
+          "precio": 967.0,
+          "comerciante": "Lunasol1",
+          "min": "200000",
+          "max": "4000000",
+          "disponible": "5833.85"
+        },
+        {
+          "precio": 966.0,
+          "comerciante": "PEJAGOBLA",
+          "min": "15000000",
+          "max": "36400000",
+          "disponible": "26620.12"
+        }
+      ]
+    },
+    "compra": {
+      "promedio": 966.88,
+      "minimo": 966.0,
+      "maximo": 967.4,
+      "anuncios_usados": 5,
+      "anuncios": [
+        {
+          "precio": 966.0,
+          "comerciante": "Ferxinho",
           "min": "300",
           "max": "4000000",
-          "disponible": "1.92"
+          "disponible": "62.11"
+        },
+        {
+          "precio": 967.0,
+          "comerciante": "kekeleon",
+          "min": "50000",
+          "max": "4000000",
+          "disponible": "199.50"
+        },
+        {
+          "precio": 967.0,
+          "comerciante": "championcr",
+          "min": "516000",
+          "max": "516900",
+          "disponible": "533.66"
+        },
+        {
+          "precio": 967.0,
+          "comerciante": "andry0212",
+          "min": "13567",
+          "max": "13568",
+          "disponible": "57.68"
+        },
+        {
+          "precio": 967.4,
+          "comerciante": "SpaceX_Trader",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "12247.28"
         }
       ]
     }
   },
-  "brecha_pct": 13.26
+  "brecha_pct": 13.02
 }
