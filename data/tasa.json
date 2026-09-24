@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-24T00:37:28+00:00",
-  "actualizado_ve": "2026-09-23T20:37:28-04:00",
+  "actualizado_utc": "2026-09-24T05:35:32+00:00",
+  "actualizado_ve": "2026-09-24T01:35:32-04:00",
   "bcv": {
     "usd": 854.4637,
     "eur": 974.06298408,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 967.801,
+    "referencia": 965.26,
     "venta": {
-      "promedio": 967.801,
-      "minimo": 965.5,
-      "maximo": 975.0,
+      "promedio": 965.26,
+      "minimo": 964.5,
+      "maximo": 967.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 975.0,
-          "comerciante": "catire-5151",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "100.14"
-        },
-        {
           "precio": 967.0,
-          "comerciante": "Trust-Broker",
-          "min": "3000000",
-          "max": "36450000",
-          "disponible": "50000.00"
-        },
-        {
-          "precio": 966.0,
-          "comerciante": "Luisanaar",
+          "comerciante": "EMTRADECHANGE69",
           "min": "1000000",
           "max": "4000000",
-          "disponible": "5000.00"
+          "disponible": "10000.00"
         },
         {
-          "precio": 965.505,
-          "comerciante": "Trust-Broker",
-          "min": "7000000",
+          "precio": 965.3,
+          "comerciante": "MrLiquidity",
+          "min": "100000",
+          "max": "482000",
+          "disponible": "130.13"
+        },
+        {
+          "precio": 965.0,
+          "comerciante": "CAMBIORAPID0S",
+          "min": "1000000",
+          "max": "25000000",
+          "disponible": "8803.66"
+        },
+        {
+          "precio": 964.5,
+          "comerciante": "Monsterncripto",
+          "min": "10000",
+          "max": "4000000",
+          "disponible": "3700.24"
+        },
+        {
+          "precio": 964.5,
+          "comerciante": "不知道你",
+          "min": "900000",
           "max": "36450000",
-          "disponible": "34821.12"
-        },
-        {
-          "precio": 965.5,
-          "comerciante": "Amaev_cripto",
-          "min": "5000000",
-          "max": "36000000",
-          "disponible": "80000.00"
+          "disponible": "36679.84"
         }
       ]
     },
     "compra": {
-      "promedio": 967.0944,
-      "minimo": 966.899,
-      "maximo": 967.2,
+      "promedio": 967.7798,
+      "minimo": 967.0,
+      "maximo": 968.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 966.899,
-          "comerciante": "VelociCambiosMx",
-          "min": "52250",
-          "max": "52251",
-          "disponible": "102.28"
-        },
-        {
           "precio": 967.0,
-          "comerciante": "Servicios-Criptos-27",
-          "min": "2000000",
-          "max": "14000000",
-          "disponible": "4092.83"
+          "comerciante": "MRDIAZ03",
+          "min": "50000",
+          "max": "1700330",
+          "disponible": "1705.91"
         },
         {
-          "precio": 967.175,
-          "comerciante": "NixonDavidGamboa",
-          "min": "2000",
-          "max": "25000",
-          "disponible": "100.71"
+          "precio": 967.9,
+          "comerciante": "Chronoxx",
+          "min": "20000",
+          "max": "50000",
+          "disponible": "52.24"
         },
         {
-          "precio": 967.198,
-          "comerciante": "Theking_11",
-          "min": "3000000",
-          "max": "15000000",
-          "disponible": "15001.24"
+          "precio": 967.999,
+          "comerciante": "SDYJYS",
+          "min": "2300000",
+          "max": "5320470",
+          "disponible": "2385.88"
         },
         {
-          "precio": 967.2,
-          "comerciante": "JPapaupa_Trader",
-          "min": "3000000",
+          "precio": 968.0,
+          "comerciante": "Ricardo",
+          "min": "800000",
           "max": "36450000",
-          "disponible": "10726.09"
+          "disponible": "1082.79"
+        },
+        {
+          "precio": 968.0,
+          "comerciante": "Listoexpress",
+          "min": "1000000",
+          "max": "36450000",
+          "disponible": "6028.96"
         }
       ]
     }
   },
-  "brecha_pct": 13.26
+  "brecha_pct": 12.97
 }
