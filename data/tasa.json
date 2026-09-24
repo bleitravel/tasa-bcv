@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-24T05:35:32+00:00",
-  "actualizado_ve": "2026-09-24T01:35:32-04:00",
+  "actualizado_utc": "2026-09-24T10:37:46+00:00",
+  "actualizado_ve": "2026-09-24T06:37:46-04:00",
   "bcv": {
     "usd": 854.4637,
     "eur": 974.06298408,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 965.26,
+    "referencia": 964.542,
     "venta": {
-      "promedio": 965.26,
-      "minimo": 964.5,
-      "maximo": 967.0,
+      "promedio": 964.542,
+      "minimo": 964.3,
+      "maximo": 965.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 967.0,
-          "comerciante": "EMTRADECHANGE69",
-          "min": "1000000",
-          "max": "4000000",
-          "disponible": "10000.00"
-        },
-        {
-          "precio": 965.3,
-          "comerciante": "MrLiquidity",
-          "min": "100000",
-          "max": "482000",
-          "disponible": "130.13"
-        },
-        {
           "precio": 965.0,
-          "comerciante": "CAMBIORAPID0S",
+          "comerciante": "Gatsby_24",
           "min": "1000000",
-          "max": "25000000",
-          "disponible": "8803.66"
-        },
-        {
-          "precio": 964.5,
-          "comerciante": "Monsterncripto",
-          "min": "10000",
-          "max": "4000000",
-          "disponible": "3700.24"
-        },
-        {
-          "precio": 964.5,
-          "comerciante": "不知道你",
-          "min": "900000",
           "max": "36450000",
-          "disponible": "36679.84"
+          "disponible": "60221.15"
+        },
+        {
+          "precio": 964.51,
+          "comerciante": "不知道你",
+          "min": "1000000",
+          "max": "36450000",
+          "disponible": "22202.12"
+        },
+        {
+          "precio": 964.5,
+          "comerciante": "Yosedg",
+          "min": "700000",
+          "max": "20000000",
+          "disponible": "8429.80"
+        },
+        {
+          "precio": 964.4,
+          "comerciante": "YenderFlashP2P",
+          "min": "400000",
+          "max": "10000000",
+          "disponible": "3954.77"
+        },
+        {
+          "precio": 964.3,
+          "comerciante": "Bruce-Wayne-93",
+          "min": "200000",
+          "max": "1099000",
+          "disponible": "532.31"
         }
       ]
     },
     "compra": {
-      "promedio": 967.7798,
-      "minimo": 967.0,
-      "maximo": 968.0,
+      "promedio": 966.8,
+      "minimo": 966.0,
+      "maximo": 967.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 967.0,
-          "comerciante": "MRDIAZ03",
-          "min": "50000",
-          "max": "1700330",
-          "disponible": "1705.91"
-        },
-        {
-          "precio": 967.9,
-          "comerciante": "Chronoxx",
+          "precio": 966.0,
+          "comerciante": "Davidtigre42",
           "min": "20000",
-          "max": "50000",
-          "disponible": "52.24"
+          "max": "385000",
+          "disponible": "298.59"
         },
         {
-          "precio": 967.999,
-          "comerciante": "SDYJYS",
-          "min": "2300000",
-          "max": "5320470",
-          "disponible": "2385.88"
-        },
-        {
-          "precio": 968.0,
-          "comerciante": "Ricardo",
-          "min": "800000",
+          "precio": 967.0,
+          "comerciante": "WorldTradeinCripto",
+          "min": "3000000",
           "max": "36450000",
-          "disponible": "1082.79"
+          "disponible": "20000.00"
         },
         {
-          "precio": 968.0,
-          "comerciante": "Listoexpress",
-          "min": "1000000",
-          "max": "36450000",
-          "disponible": "6028.96"
+          "precio": 967.0,
+          "comerciante": "Amara2026",
+          "min": "590000",
+          "max": "600000",
+          "disponible": "617.76"
+        },
+        {
+          "precio": 967.0,
+          "comerciante": "yane12",
+          "min": "96900",
+          "max": "411000",
+          "disponible": "423.94"
+        },
+        {
+          "precio": 967.0,
+          "comerciante": "P2P-b708c1cf",
+          "min": "456",
+          "max": "457",
+          "disponible": "471.10"
         }
       ]
     }
   },
-  "brecha_pct": 12.97
+  "brecha_pct": 12.88
 }
