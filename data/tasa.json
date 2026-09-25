@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-25T05:45:35+00:00",
-  "actualizado_ve": "2026-09-25T01:45:35-04:00",
+  "actualizado_utc": "2026-09-25T10:41:17+00:00",
+  "actualizado_ve": "2026-09-25T06:41:17-04:00",
   "bcv": {
     "usd": 855.6625,
     "eur": 972.648677,
@@ -10,9 +10,9 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 975.0482,
+    "referencia": 975.7422,
     "venta": {
-      "promedio": 975.0482,
+      "promedio": 975.7422,
       "minimo": 968.8,
       "maximo": 1000.0,
       "anuncios_usados": 5,
@@ -25,11 +25,18 @@
           "disponible": "100.00"
         },
         {
-          "precio": 968.82,
-          "comerciante": "Agumir",
-          "min": "300000",
-          "max": "4000000",
-          "disponible": "20000.00"
+          "precio": 972.2,
+          "comerciante": "Angpe",
+          "min": "50000",
+          "max": "486100",
+          "disponible": "300.06"
+        },
+        {
+          "precio": 968.9,
+          "comerciante": "上帝Cambios處女RyL聖靈",
+          "min": "2000000",
+          "max": "6334700",
+          "disponible": "5323.50"
         },
         {
           "precio": 968.811,
@@ -39,34 +46,20 @@
           "disponible": "10000.00"
         },
         {
-          "precio": 968.81,
-          "comerciante": "EverCryptoUSDT ",
-          "min": "1500000",
-          "max": "20009137",
-          "disponible": "8323.55"
-        },
-        {
           "precio": 968.8,
           "comerciante": "ReadyToTrade_",
           "min": "2000000",
           "max": "36450000",
-          "disponible": "35378.17"
+          "disponible": "26945.06"
         }
       ]
     },
     "compra": {
-      "promedio": 968.678,
-      "minimo": 968.0,
-      "maximo": 969.0,
+      "promedio": 969.4978,
+      "minimo": 968.5,
+      "maximo": 970.0,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 968.0,
-          "comerciante": "Kairosp2p",
-          "min": "9679",
-          "max": "9700",
-          "disponible": "99.75"
-        },
         {
           "precio": 968.5,
           "comerciante": "luis12crt",
@@ -75,28 +68,35 @@
           "disponible": "59649.62"
         },
         {
-          "precio": 968.9,
-          "comerciante": "User-01016",
-          "min": "9689",
-          "max": "103950",
-          "disponible": "106.97"
-        },
-        {
-          "precio": 968.99,
-          "comerciante": "FreycambiosAR",
-          "min": "10000",
-          "max": "1500000",
-          "disponible": "94.30"
-        },
-        {
           "precio": 969.0,
-          "comerciante": "Omar17112005",
+          "comerciante": "TheStrongest55",
+          "min": "105000",
+          "max": "106923",
+          "disponible": "109.95"
+        },
+        {
+          "precio": 969.99,
+          "comerciante": "RentaCarjms",
+          "min": "30000",
+          "max": "282629",
+          "disponible": "210.22"
+        },
+        {
+          "precio": 969.999,
+          "comerciante": "Basstew",
           "min": "300",
-          "max": "248800",
-          "disponible": "242.14"
+          "max": "4000000",
+          "disponible": "1.14"
+        },
+        {
+          "precio": 970.0,
+          "comerciante": "serranoj87",
+          "min": "100000",
+          "max": "4000000",
+          "disponible": "4638.40"
         }
       ]
     }
   },
-  "brecha_pct": 13.95
+  "brecha_pct": 14.03
 }
