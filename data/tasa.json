@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-24T22:46:38+00:00",
-  "actualizado_ve": "2026-09-24T18:46:38-04:00",
+  "actualizado_utc": "2026-09-25T00:58:27+00:00",
+  "actualizado_ve": "2026-09-24T20:58:27-04:00",
   "bcv": {
     "usd": 855.6625,
     "eur": 972.648677,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 967.0444,
+    "referencia": 967.124,
     "venta": {
-      "promedio": 967.0444,
-      "minimo": 966.0,
+      "promedio": 967.124,
+      "minimo": 966.62,
       "maximo": 968.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
           "precio": 968.0,
-          "comerciante": "kaaamo",
-          "min": "3900000",
-          "max": "4000000",
-          "disponible": "8000.00"
-        },
-        {
-          "precio": 967.222,
-          "comerciante": "jarias67",
-          "min": "500000",
-          "max": "4000000",
-          "disponible": "6051.02"
+          "comerciante": "CROMOSOMA-21",
+          "min": "7000000",
+          "max": "36450000",
+          "disponible": "80000.00"
         },
         {
           "precio": 967.0,
-          "comerciante": "TesoreríaMed",
-          "min": "1300000",
-          "max": "1360000",
-          "disponible": "1406.41"
+          "comerciante": "Blank_Mind",
+          "min": "10000000",
+          "max": "36450000",
+          "disponible": "50000.00"
         },
         {
           "precio": 967.0,
-          "comerciante": "Lunasol1",
+          "comerciante": "NabiGo",
           "min": "200000",
           "max": "4000000",
-          "disponible": "5833.85"
+          "disponible": "3871.83"
         },
         {
-          "precio": 966.0,
-          "comerciante": "PEJAGOBLA",
-          "min": "15000000",
-          "max": "36400000",
-          "disponible": "26620.12"
+          "precio": 967.0,
+          "comerciante": "ConexionGlobalFx",
+          "min": "38100",
+          "max": "39000",
+          "disponible": "100.00"
+        },
+        {
+          "precio": 966.62,
+          "comerciante": "30Aaron30",
+          "min": "3000000",
+          "max": "4000000",
+          "disponible": "5654.47"
         }
       ]
     },
     "compra": {
-      "promedio": 966.88,
-      "minimo": 966.0,
-      "maximo": 967.4,
+      "promedio": 967.48,
+      "minimo": 967.0,
+      "maximo": 968.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 966.0,
-          "comerciante": "Ferxinho",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "62.11"
-        },
-        {
           "precio": 967.0,
-          "comerciante": "kekeleon",
+          "comerciante": "CarlosProgress",
           "min": "50000",
-          "max": "4000000",
-          "disponible": "199.50"
+          "max": "2100000",
+          "disponible": "80.43"
         },
         {
           "precio": 967.0,
-          "comerciante": "championcr",
-          "min": "516000",
-          "max": "516900",
-          "disponible": "533.66"
-        },
-        {
-          "precio": 967.0,
-          "comerciante": "andry0212",
-          "min": "13567",
-          "max": "13568",
-          "disponible": "57.68"
+          "comerciante": "JairGOVA佳尔",
+          "min": "30000",
+          "max": "2000000",
+          "disponible": "835.04"
         },
         {
           "precio": 967.4,
-          "comerciante": "SpaceX_Trader",
-          "min": "5000000",
-          "max": "36450000",
-          "disponible": "12247.28"
+          "comerciante": "El familia Dios es bueno ",
+          "min": "140000",
+          "max": "145000",
+          "disponible": "151.62"
+        },
+        {
+          "precio": 968.0,
+          "comerciante": "andry0212",
+          "min": "13571",
+          "max": "13572",
+          "disponible": "99.75"
+        },
+        {
+          "precio": 968.0,
+          "comerciante": "22456",
+          "min": "500000",
+          "max": "1000000",
+          "disponible": "997.50"
         }
       ]
     }
   },
-  "brecha_pct": 13.02
+  "brecha_pct": 13.03
 }
