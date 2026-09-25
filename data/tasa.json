@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-25T00:58:27+00:00",
-  "actualizado_ve": "2026-09-24T20:58:27-04:00",
+  "actualizado_utc": "2026-09-25T05:45:35+00:00",
+  "actualizado_ve": "2026-09-25T01:45:35-04:00",
   "bcv": {
     "usd": 855.6625,
     "eur": 972.648677,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 967.124,
+    "referencia": 975.0482,
     "venta": {
-      "promedio": 967.124,
-      "minimo": 966.62,
-      "maximo": 968.0,
+      "promedio": 975.0482,
+      "minimo": 968.8,
+      "maximo": 1000.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 968.0,
-          "comerciante": "CROMOSOMA-21",
-          "min": "7000000",
-          "max": "36450000",
-          "disponible": "80000.00"
-        },
-        {
-          "precio": 967.0,
-          "comerciante": "Blank_Mind",
-          "min": "10000000",
-          "max": "36450000",
-          "disponible": "50000.00"
-        },
-        {
-          "precio": 967.0,
-          "comerciante": "NabiGo",
-          "min": "200000",
-          "max": "4000000",
-          "disponible": "3871.83"
-        },
-        {
-          "precio": 967.0,
-          "comerciante": "ConexionGlobalFx",
-          "min": "38100",
-          "max": "39000",
+          "precio": 1000.0,
+          "comerciante": "Compraventamundial",
+          "min": "10000",
+          "max": "10001",
           "disponible": "100.00"
         },
         {
-          "precio": 966.62,
-          "comerciante": "30Aaron30",
-          "min": "3000000",
+          "precio": 968.82,
+          "comerciante": "Agumir",
+          "min": "300000",
           "max": "4000000",
-          "disponible": "5654.47"
+          "disponible": "20000.00"
+        },
+        {
+          "precio": 968.811,
+          "comerciante": "Germanctr",
+          "min": "3000000",
+          "max": "36450000",
+          "disponible": "10000.00"
+        },
+        {
+          "precio": 968.81,
+          "comerciante": "EverCryptoUSDT ",
+          "min": "1500000",
+          "max": "20009137",
+          "disponible": "8323.55"
+        },
+        {
+          "precio": 968.8,
+          "comerciante": "ReadyToTrade_",
+          "min": "2000000",
+          "max": "36450000",
+          "disponible": "35378.17"
         }
       ]
     },
     "compra": {
-      "promedio": 967.48,
-      "minimo": 967.0,
-      "maximo": 968.0,
+      "promedio": 968.678,
+      "minimo": 968.0,
+      "maximo": 969.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 967.0,
-          "comerciante": "CarlosProgress",
-          "min": "50000",
-          "max": "2100000",
-          "disponible": "80.43"
-        },
-        {
-          "precio": 967.0,
-          "comerciante": "JairGOVA佳尔",
-          "min": "30000",
-          "max": "2000000",
-          "disponible": "835.04"
-        },
-        {
-          "precio": 967.4,
-          "comerciante": "El familia Dios es bueno ",
-          "min": "140000",
-          "max": "145000",
-          "disponible": "151.62"
-        },
-        {
           "precio": 968.0,
-          "comerciante": "andry0212",
-          "min": "13571",
-          "max": "13572",
+          "comerciante": "Kairosp2p",
+          "min": "9679",
+          "max": "9700",
           "disponible": "99.75"
         },
         {
-          "precio": 968.0,
-          "comerciante": "22456",
-          "min": "500000",
-          "max": "1000000",
-          "disponible": "997.50"
+          "precio": 968.5,
+          "comerciante": "luis12crt",
+          "min": "7000000",
+          "max": "15000000",
+          "disponible": "59649.62"
+        },
+        {
+          "precio": 968.9,
+          "comerciante": "User-01016",
+          "min": "9689",
+          "max": "103950",
+          "disponible": "106.97"
+        },
+        {
+          "precio": 968.99,
+          "comerciante": "FreycambiosAR",
+          "min": "10000",
+          "max": "1500000",
+          "disponible": "94.30"
+        },
+        {
+          "precio": 969.0,
+          "comerciante": "Omar17112005",
+          "min": "300",
+          "max": "248800",
+          "disponible": "242.14"
         }
       ]
     }
   },
-  "brecha_pct": 13.03
+  "brecha_pct": 13.95
 }
