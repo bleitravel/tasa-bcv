@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-26T06:13:25+00:00",
-  "actualizado_ve": "2026-09-26T02:13:25-04:00",
+  "actualizado_utc": "2026-09-26T11:35:53+00:00",
+  "actualizado_ve": "2026-09-26T07:35:53-04:00",
   "bcv": {
     "usd": 857.0058,
     "eur": 976.90091142,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 969.391,
+    "referencia": 971.3526,
     "venta": {
-      "promedio": 969.391,
-      "minimo": 969.0,
-      "maximo": 970.0,
+      "promedio": 971.3526,
+      "minimo": 970.231,
+      "maximo": 975.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 970.0,
-          "comerciante": "-AMATERATSU-",
-          "min": "1700000",
-          "max": "6719000",
-          "disponible": "1772.37"
+          "precio": 975.0,
+          "comerciante": "User-5a4e9",
+          "min": "297000",
+          "max": "298000",
+          "disponible": "306.00"
         },
         {
-          "precio": 969.555,
-          "comerciante": "maferalvz",
-          "min": "500000",
+          "precio": 971.0,
+          "comerciante": "Daniaarilo",
+          "min": "100000",
           "max": "4000000",
-          "disponible": "2000.00"
+          "disponible": "139.01"
         },
         {
-          "precio": 969.4,
-          "comerciante": "zama2004",
-          "min": "1000000",
+          "precio": 970.3,
+          "comerciante": "VISÓN CRIPTØ",
+          "min": "1263000",
           "max": "36450000",
-          "disponible": "35339.31"
+          "disponible": "1301.70"
         },
         {
-          "precio": 969.0,
-          "comerciante": "carolinacwf",
+          "precio": 970.232,
+          "comerciante": "CoinFlou",
           "min": "3000000",
-          "max": "4000000",
-          "disponible": "30000.00"
+          "max": "36450000",
+          "disponible": "38000.00"
         },
         {
-          "precio": 969.0,
-          "comerciante": "Old Parr",
-          "min": "500000",
-          "max": "36450000",
-          "disponible": "18675.77"
+          "precio": 970.231,
+          "comerciante": "ABTRAD",
+          "min": "1000000",
+          "max": "30000000",
+          "disponible": "5004.44"
         }
       ]
     },
     "compra": {
-      "promedio": 970.978,
-      "minimo": 968.9,
-      "maximo": 972.5,
+      "promedio": 973.0,
+      "minimo": 973.0,
+      "maximo": 973.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 968.9,
-          "comerciante": "Horusrs",
-          "min": "500000",
-          "max": "4400000",
-          "disponible": "1870.55"
+          "precio": 973.0,
+          "comerciante": "angeldoza25",
+          "min": "135000",
+          "max": "965000",
+          "disponible": "183.46"
         },
         {
-          "precio": 970.5,
-          "comerciante": "javi_0812",
-          "min": "300",
-          "max": "130000",
-          "disponible": "20.51"
+          "precio": 973.0,
+          "comerciante": "cryptomau",
+          "min": "191300",
+          "max": "191800",
+          "disponible": "196.64"
         },
         {
-          "precio": 970.99,
-          "comerciante": "TraderRafaVE",
-          "min": "300",
-          "max": "98000",
-          "disponible": "60.35"
+          "precio": 973.0,
+          "comerciante": "Servicios-Criptos-27",
+          "min": "1000000",
+          "max": "14000000",
+          "disponible": "2096.33"
         },
         {
-          "precio": 972.0,
-          "comerciante": "TraderMasterrr",
-          "min": "50000",
-          "max": "700000",
-          "disponible": "124.66"
+          "precio": 973.0,
+          "comerciante": "ijlong",
+          "min": "95000",
+          "max": "97300",
+          "disponible": "99.75"
         },
         {
-          "precio": 972.5,
-          "comerciante": "TUCAMBIOSEGURO24",
-          "min": "30000",
-          "max": "100000",
-          "disponible": "933.37"
+          "precio": 973.0,
+          "comerciante": "Yousberth2907",
+          "min": "173600",
+          "max": "173700",
+          "disponible": "187.53"
         }
       ]
     }
   },
-  "brecha_pct": 13.11
+  "brecha_pct": 13.34
 }
