@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-26T15:13:15+00:00",
-  "actualizado_ve": "2026-09-26T11:13:15-04:00",
+  "actualizado_utc": "2026-09-26T18:38:59+00:00",
+  "actualizado_ve": "2026-09-26T14:38:59-04:00",
   "bcv": {
     "usd": 857.0058,
     "eur": 976.90091142,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 968.982,
+    "referencia": 968.174,
     "venta": {
-      "promedio": 968.982,
-      "minimo": 968.5,
-      "maximo": 969.31,
+      "promedio": 968.174,
+      "minimo": 967.67,
+      "maximo": 969.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 969.31,
-          "comerciante": "SureXchanges",
-          "min": "1000000",
-          "max": "36450000",
-          "disponible": "59350.00"
-        },
-        {
-          "precio": 969.3,
+          "precio": 969.0,
           "comerciante": "IngCryptos",
           "min": "2000000",
           "max": "36450000",
-          "disponible": "80000.00"
-        },
-        {
-          "precio": 969.0,
-          "comerciante": "JocheG",
-          "min": "1000000",
-          "max": "4000000",
-          "disponible": "5000.00"
-        },
-        {
-          "precio": 968.8,
-          "comerciante": "NitroClash",
-          "min": "10000000",
-          "max": "36000000",
-          "disponible": "75000.00"
+          "disponible": "60000.00"
         },
         {
           "precio": 968.5,
-          "comerciante": "TheOchoa",
-          "min": "1000000",
+          "comerciante": "JivaroxTrade",
+          "min": "7000000",
+          "max": "20000000",
+          "disponible": "12442.34"
+        },
+        {
+          "precio": 968.0,
+          "comerciante": "安全与信任",
+          "min": "37000000",
+          "max": "500000000",
+          "disponible": "129200.00"
+        },
+        {
+          "precio": 967.7,
+          "comerciante": "DOCTOR_CAMBIO",
+          "min": "10000000",
           "max": "36450000",
-          "disponible": "72332.86"
+          "disponible": "40000.00"
+        },
+        {
+          "precio": 967.67,
+          "comerciante": "Brawcoins",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "39613.91"
         }
       ]
     },
     "compra": {
-      "promedio": 968.718,
-      "minimo": 968.3,
-      "maximo": 968.99,
+      "promedio": 967.5798,
+      "minimo": 967.0,
+      "maximo": 968.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 968.3,
-          "comerciante": "ENVIASAGROUP",
-          "min": "100000",
-          "max": "100001",
-          "disponible": "103.74"
+          "precio": 967.0,
+          "comerciante": "Danielajcg",
+          "min": "1000",
+          "max": "81000",
+          "disponible": "5.67"
         },
         {
-          "precio": 968.5,
-          "comerciante": "_DemoCambios_",
-          "min": "300000",
-          "max": "3000000",
-          "disponible": "498.75"
+          "precio": 967.0,
+          "comerciante": "Roixnetpay",
+          "min": "50814",
+          "max": "50815",
+          "disponible": "99.75"
         },
         {
-          "precio": 968.9,
-          "comerciante": "alexveliz2001",
-          "min": "500",
-          "max": "9689",
-          "disponible": "17.01"
+          "precio": 967.899,
+          "comerciante": "VelociCambiosMx",
+          "min": "102900",
+          "max": "102901",
+          "disponible": "111.94"
         },
         {
-          "precio": 968.9,
-          "comerciante": "Lualrolo_Surf",
-          "min": "111000",
-          "max": "120000",
-          "disponible": "114.71"
-        },
-        {
-          "precio": 968.99,
-          "comerciante": "biomena10",
+          "precio": 968.0,
+          "comerciante": "Davidtigre42",
           "min": "20000",
-          "max": "580000",
-          "disponible": "22.36"
+          "max": "246000",
+          "disponible": "60.33"
+        },
+        {
+          "precio": 968.0,
+          "comerciante": "Much_Dolar",
+          "min": "110000",
+          "max": "400000",
+          "disponible": "149.62"
         }
       ]
     }
   },
-  "brecha_pct": 13.07
+  "brecha_pct": 12.97
 }
