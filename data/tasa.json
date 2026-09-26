@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-26T21:39:45+00:00",
-  "actualizado_ve": "2026-09-26T17:39:45-04:00",
+  "actualizado_utc": "2026-09-26T23:58:22+00:00",
+  "actualizado_ve": "2026-09-26T19:58:22-04:00",
   "bcv": {
     "usd": 857.0058,
     "eur": 976.90091142,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 968.046,
+    "referencia": 965.2972,
     "venta": {
-      "promedio": 968.046,
-      "minimo": 965.5,
-      "maximo": 976.53,
+      "promedio": 965.2972,
+      "minimo": 964.0,
+      "maximo": 970.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 976.53,
-          "comerciante": "User-610c51fz",
-          "min": "300000",
-          "max": "685000",
-          "disponible": "351.06"
-        },
-        {
-          "precio": 966.2,
-          "comerciante": "NairoP2P",
-          "min": "2000",
-          "max": "20000",
-          "disponible": "85.01"
-        },
-        {
-          "precio": 966.0,
-          "comerciante": "Umbrella2503",
-          "min": "500000",
+          "precio": 970.0,
+          "comerciante": "Kryptos",
+          "min": "500",
           "max": "4000000",
-          "disponible": "10793.58"
+          "disponible": "216.56"
         },
         {
-          "precio": 966.0,
-          "comerciante": "btc5777",
-          "min": "700000",
-          "max": "4000000",
-          "disponible": "1236.19"
+          "precio": 964.201,
+          "comerciante": "GROUPTECH",
+          "min": "400000",
+          "max": "3000000",
+          "disponible": "28250.12"
         },
         {
-          "precio": 965.5,
-          "comerciante": "ArepaPower",
-          "min": "1500000",
+          "precio": 964.185,
+          "comerciante": "TOPlevelS",
+          "min": "10000000",
+          "max": "36000000",
+          "disponible": "80000.00"
+        },
+        {
+          "precio": 964.1,
+          "comerciante": "Inversiones-ADSC",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "58574.26"
+        },
+        {
+          "precio": 964.0,
+          "comerciante": "carolinacwf",
+          "min": "1000000",
           "max": "4000000",
-          "disponible": "16092.08"
+          "disponible": "15409.65"
         }
       ]
     },
     "compra": {
-      "promedio": 966.0766,
+      "promedio": 965.0,
       "minimo": 965.0,
-      "maximo": 966.588,
+      "maximo": 965.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
           "precio": 965.0,
-          "comerciante": "kimverkn",
-          "min": "96000",
-          "max": "96500",
+          "comerciante": "SivMtrade",
+          "min": "20000",
+          "max": "200000",
+          "disponible": "119.70"
+        },
+        {
+          "precio": 965.0,
+          "comerciante": "Satoru_19",
+          "min": "20000",
+          "max": "1000000",
+          "disponible": "273.68"
+        },
+        {
+          "precio": 965.0,
+          "comerciante": "SergioBarcoo IG",
+          "min": "275000",
+          "max": "291000",
+          "disponible": "299.25"
+        },
+        {
+          "precio": 965.0,
+          "comerciante": "DAVIDC_P2P_FAST",
+          "min": "1000",
+          "max": "20000",
           "disponible": "99.75"
         },
         {
-          "precio": 966.0,
-          "comerciante": "P2P-1d1c2dgo",
-          "min": "100000",
-          "max": "4000000",
-          "disponible": "768.25"
-        },
-        {
-          "precio": 966.395,
-          "comerciante": "majog",
-          "min": "1000000",
-          "max": "9000000",
-          "disponible": "1387.24"
-        },
-        {
-          "precio": 966.4,
-          "comerciante": "SecureEX_Pro",
-          "min": "100000",
-          "max": "36000000",
-          "disponible": "487.26"
-        },
-        {
-          "precio": 966.588,
-          "comerciante": "Dakone",
-          "min": "100000",
-          "max": "36450000",
-          "disponible": "281.47"
+          "precio": 965.0,
+          "comerciante": "LGEO ",
+          "min": "50000",
+          "max": "200000",
+          "disponible": "99.75"
         }
       ]
     }
   },
-  "brecha_pct": 12.96
+  "brecha_pct": 12.64
 }
