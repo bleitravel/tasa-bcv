@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-26T11:35:53+00:00",
-  "actualizado_ve": "2026-09-26T07:35:53-04:00",
+  "actualizado_utc": "2026-09-26T15:13:15+00:00",
+  "actualizado_ve": "2026-09-26T11:13:15-04:00",
   "bcv": {
     "usd": 857.0058,
     "eur": 976.90091142,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 971.3526,
+    "referencia": 968.982,
     "venta": {
-      "promedio": 971.3526,
-      "minimo": 970.231,
-      "maximo": 975.0,
+      "promedio": 968.982,
+      "minimo": 968.5,
+      "maximo": 969.31,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 975.0,
-          "comerciante": "User-5a4e9",
-          "min": "297000",
-          "max": "298000",
-          "disponible": "306.00"
-        },
-        {
-          "precio": 971.0,
-          "comerciante": "Daniaarilo",
-          "min": "100000",
-          "max": "4000000",
-          "disponible": "139.01"
-        },
-        {
-          "precio": 970.3,
-          "comerciante": "VISÓN CRIPTØ",
-          "min": "1263000",
-          "max": "36450000",
-          "disponible": "1301.70"
-        },
-        {
-          "precio": 970.232,
-          "comerciante": "CoinFlou",
-          "min": "3000000",
-          "max": "36450000",
-          "disponible": "38000.00"
-        },
-        {
-          "precio": 970.231,
-          "comerciante": "ABTRAD",
+          "precio": 969.31,
+          "comerciante": "SureXchanges",
           "min": "1000000",
-          "max": "30000000",
-          "disponible": "5004.44"
+          "max": "36450000",
+          "disponible": "59350.00"
+        },
+        {
+          "precio": 969.3,
+          "comerciante": "IngCryptos",
+          "min": "2000000",
+          "max": "36450000",
+          "disponible": "80000.00"
+        },
+        {
+          "precio": 969.0,
+          "comerciante": "JocheG",
+          "min": "1000000",
+          "max": "4000000",
+          "disponible": "5000.00"
+        },
+        {
+          "precio": 968.8,
+          "comerciante": "NitroClash",
+          "min": "10000000",
+          "max": "36000000",
+          "disponible": "75000.00"
+        },
+        {
+          "precio": 968.5,
+          "comerciante": "TheOchoa",
+          "min": "1000000",
+          "max": "36450000",
+          "disponible": "72332.86"
         }
       ]
     },
     "compra": {
-      "promedio": 973.0,
-      "minimo": 973.0,
-      "maximo": 973.0,
+      "promedio": 968.718,
+      "minimo": 968.3,
+      "maximo": 968.99,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 973.0,
-          "comerciante": "angeldoza25",
-          "min": "135000",
-          "max": "965000",
-          "disponible": "183.46"
+          "precio": 968.3,
+          "comerciante": "ENVIASAGROUP",
+          "min": "100000",
+          "max": "100001",
+          "disponible": "103.74"
         },
         {
-          "precio": 973.0,
-          "comerciante": "cryptomau",
-          "min": "191300",
-          "max": "191800",
-          "disponible": "196.64"
+          "precio": 968.5,
+          "comerciante": "_DemoCambios_",
+          "min": "300000",
+          "max": "3000000",
+          "disponible": "498.75"
         },
         {
-          "precio": 973.0,
-          "comerciante": "Servicios-Criptos-27",
-          "min": "1000000",
-          "max": "14000000",
-          "disponible": "2096.33"
+          "precio": 968.9,
+          "comerciante": "alexveliz2001",
+          "min": "500",
+          "max": "9689",
+          "disponible": "17.01"
         },
         {
-          "precio": 973.0,
-          "comerciante": "ijlong",
-          "min": "95000",
-          "max": "97300",
-          "disponible": "99.75"
+          "precio": 968.9,
+          "comerciante": "Lualrolo_Surf",
+          "min": "111000",
+          "max": "120000",
+          "disponible": "114.71"
         },
         {
-          "precio": 973.0,
-          "comerciante": "Yousberth2907",
-          "min": "173600",
-          "max": "173700",
-          "disponible": "187.53"
+          "precio": 968.99,
+          "comerciante": "biomena10",
+          "min": "20000",
+          "max": "580000",
+          "disponible": "22.36"
         }
       ]
     }
   },
-  "brecha_pct": 13.34
+  "brecha_pct": 13.07
 }
