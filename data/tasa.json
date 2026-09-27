@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-27T14:45:57+00:00",
-  "actualizado_ve": "2026-09-27T10:45:57-04:00",
+  "actualizado_utc": "2026-09-27T18:43:23+00:00",
+  "actualizado_ve": "2026-09-27T14:43:23-04:00",
   "bcv": {
     "usd": 857.0058,
     "eur": 976.90091142,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 964.442,
+    "referencia": 965.4118,
     "venta": {
-      "promedio": 964.442,
-      "minimo": 964.0,
-      "maximo": 965.0,
+      "promedio": 965.4118,
+      "minimo": 965.12,
+      "maximo": 966.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 965.0,
-          "comerciante": "Apolo2121",
-          "min": "250000",
-          "max": "1000000",
-          "disponible": "4662.34"
+          "precio": 966.0,
+          "comerciante": "CoorpLogistic",
+          "min": "10000000",
+          "max": "36000000",
+          "disponible": "15030.00"
         },
         {
-          "precio": 964.61,
-          "comerciante": "tranfiero-inmediato",
-          "min": "500000",
-          "max": "4000000",
-          "disponible": "9917.55"
+          "precio": 965.589,
+          "comerciante": "DOCTOR_CAMBIO",
+          "min": "10000000",
+          "max": "36450000",
+          "disponible": "50000.00"
         },
         {
-          "precio": 964.6,
-          "comerciante": "luismariog14",
-          "min": "600000",
-          "max": "4000000",
-          "disponible": "2152.36"
+          "precio": 965.2,
+          "comerciante": "CRIPTO-2026",
+          "min": "4000000",
+          "max": "34650000",
+          "disponible": "80000.00"
         },
         {
-          "precio": 964.0,
-          "comerciante": "BlackVaultt",
-          "min": "300000",
-          "max": "4000000",
-          "disponible": "8560.55"
+          "precio": 965.15,
+          "comerciante": "不知道你",
+          "min": "3000000",
+          "max": "36450000",
+          "disponible": "46360.06"
         },
         {
-          "precio": 964.0,
-          "comerciante": "FromVillage",
+          "precio": 965.12,
+          "comerciante": "JoseParedez",
           "min": "2000000",
           "max": "36450000",
-          "disponible": "56098.90"
+          "disponible": "38066.35"
         }
       ]
     },
     "compra": {
-      "promedio": 965.4754,
-      "minimo": 965.0,
-      "maximo": 965.997,
+      "promedio": 963.4746,
+      "minimo": 960.0,
+      "maximo": 964.5,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 965.0,
-          "comerciante": "Broker Trader",
-          "min": "19266",
-          "max": "19267",
-          "disponible": "104.73"
+          "precio": 960.0,
+          "comerciante": "edgard6828",
+          "min": "240000",
+          "max": "240001",
+          "disponible": "250.75"
         },
         {
-          "precio": 965.0,
-          "comerciante": "C4stor06",
-          "min": "80000",
-          "max": "1500000",
-          "disponible": "299.25"
+          "precio": 964.0,
+          "comerciante": "Danielajcg",
+          "min": "1000",
+          "max": "81000",
+          "disponible": "1.40"
         },
         {
-          "precio": 965.48,
-          "comerciante": "elmatatan",
-          "min": "30000",
-          "max": "490000",
-          "disponible": "498.75"
+          "precio": 964.4,
+          "comerciante": "tineoc0301",
+          "min": "10000",
+          "max": "200000",
+          "disponible": "227.68"
         },
         {
-          "precio": 965.9,
-          "comerciante": "Exchange_Anibal",
-          "min": "30000",
-          "max": "2000000",
-          "disponible": "104.73"
+          "precio": 964.473,
+          "comerciante": "gool_123",
+          "min": "500",
+          "max": "5000",
+          "disponible": "68.68"
         },
         {
-          "precio": 965.997,
-          "comerciante": "Albineitor",
-          "min": "50000",
-          "max": "500000",
-          "disponible": "74.37"
+          "precio": 964.5,
+          "comerciante": "Chema2244",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "0.86"
         }
       ]
     }
   },
-  "brecha_pct": 12.54
+  "brecha_pct": 12.65
 }
