@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-27T09:27:23+00:00",
-  "actualizado_ve": "2026-09-27T05:27:23-04:00",
+  "actualizado_utc": "2026-09-27T14:45:57+00:00",
+  "actualizado_ve": "2026-09-27T10:45:57-04:00",
   "bcv": {
     "usd": 857.0058,
     "eur": 976.90091142,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 963.1402,
+    "referencia": 964.442,
     "venta": {
-      "promedio": 963.1402,
-      "minimo": 962.8,
-      "maximo": 964.0,
+      "promedio": 964.442,
+      "minimo": 964.0,
+      "maximo": 965.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 964.0,
-          "comerciante": "carolinacwf",
-          "min": "1000000",
-          "max": "4000000",
-          "disponible": "4763.06"
-        },
-        {
-          "precio": 963.1,
-          "comerciante": "ALEXANDER HNW",
-          "min": "600000",
-          "max": "6000000",
-          "disponible": "1750.06"
-        },
-        {
-          "precio": 963.0,
-          "comerciante": "Josmilsc",
-          "min": "500000",
+          "precio": 965.0,
+          "comerciante": "Apolo2121",
+          "min": "250000",
           "max": "1000000",
-          "disponible": "1040.00"
+          "disponible": "4662.34"
         },
         {
-          "precio": 962.801,
-          "comerciante": "SC_Money",
-          "min": "200000",
-          "max": "258000",
-          "disponible": "798.00"
+          "precio": 964.61,
+          "comerciante": "tranfiero-inmediato",
+          "min": "500000",
+          "max": "4000000",
+          "disponible": "9917.55"
         },
         {
-          "precio": 962.8,
-          "comerciante": "Alexito333",
-          "min": "200000",
-          "max": "2886000",
-          "disponible": "3000.00"
+          "precio": 964.6,
+          "comerciante": "luismariog14",
+          "min": "600000",
+          "max": "4000000",
+          "disponible": "2152.36"
+        },
+        {
+          "precio": 964.0,
+          "comerciante": "BlackVaultt",
+          "min": "300000",
+          "max": "4000000",
+          "disponible": "8560.55"
+        },
+        {
+          "precio": 964.0,
+          "comerciante": "FromVillage",
+          "min": "2000000",
+          "max": "36450000",
+          "disponible": "56098.90"
         }
       ]
     },
     "compra": {
-      "promedio": 966.9558,
-      "minimo": 966.889,
-      "maximo": 967.0,
+      "promedio": 965.4754,
+      "minimo": 965.0,
+      "maximo": 965.997,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 966.889,
-          "comerciante": "JDCAPITAL-HOLDING",
-          "min": "300000",
-          "max": "7000000",
-          "disponible": "598.95"
+          "precio": 965.0,
+          "comerciante": "Broker Trader",
+          "min": "19266",
+          "max": "19267",
+          "disponible": "104.73"
         },
         {
-          "precio": 966.89,
-          "comerciante": "Dgca22",
-          "min": "2000000",
-          "max": "36450000",
-          "disponible": "15034.23"
-        },
-        {
-          "precio": 967.0,
-          "comerciante": "SALVATMEME",
-          "min": "192000",
-          "max": "4000000",
-          "disponible": "199.50"
-        },
-        {
-          "precio": 967.0,
-          "comerciante": "Melenudo",
-          "min": "215000",
-          "max": "220000",
-          "disponible": "249.80"
-        },
-        {
-          "precio": 967.0,
-          "comerciante": "Cambiossilva",
+          "precio": 965.0,
+          "comerciante": "C4stor06",
           "min": "80000",
-          "max": "36450000",
-          "disponible": "976.62"
+          "max": "1500000",
+          "disponible": "299.25"
+        },
+        {
+          "precio": 965.48,
+          "comerciante": "elmatatan",
+          "min": "30000",
+          "max": "490000",
+          "disponible": "498.75"
+        },
+        {
+          "precio": 965.9,
+          "comerciante": "Exchange_Anibal",
+          "min": "30000",
+          "max": "2000000",
+          "disponible": "104.73"
+        },
+        {
+          "precio": 965.997,
+          "comerciante": "Albineitor",
+          "min": "50000",
+          "max": "500000",
+          "disponible": "74.37"
         }
       ]
     }
   },
-  "brecha_pct": 12.38
+  "brecha_pct": 12.54
 }
