@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-28T00:04:30+00:00",
-  "actualizado_ve": "2026-09-27T20:04:30-04:00",
+  "actualizado_utc": "2026-09-28T05:37:02+00:00",
+  "actualizado_ve": "2026-09-28T01:37:02-04:00",
   "bcv": {
     "usd": 857.0058,
     "eur": 976.90091142,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 966.67,
+    "referencia": 965.783,
     "venta": {
-      "promedio": 966.67,
-      "minimo": 965.25,
+      "promedio": 965.783,
+      "minimo": 963.555,
       "maximo": 970.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -22,81 +22,81 @@
           "comerciante": "Kryptos",
           "min": "500",
           "max": "25000",
-          "disponible": "214.51"
+          "disponible": "206.54"
         },
         {
-          "precio": 966.1,
-          "comerciante": "CrxptoFast",
-          "min": "300000",
-          "max": "4000000",
-          "disponible": "14795.85"
-        },
-        {
-          "precio": 966.0,
-          "comerciante": "Nkbusiness ",
-          "min": "450000",
-          "max": "4000000",
-          "disponible": "12800.00"
-        },
-        {
-          "precio": 966.0,
-          "comerciante": "Paolagarcia",
-          "min": "2000",
-          "max": "96800",
-          "disponible": "74.13"
-        },
-        {
-          "precio": 965.25,
-          "comerciante": "GAMBINO-",
-          "min": "7000000",
+          "precio": 965.5,
+          "comerciante": "不知道你",
+          "min": "900000",
           "max": "36450000",
-          "disponible": "35000.00"
+          "disponible": "7185.34"
+        },
+        {
+          "precio": 965.0,
+          "comerciante": "GAleja1011",
+          "min": "1110000",
+          "max": "1113000",
+          "disponible": "1154.00"
+        },
+        {
+          "precio": 964.86,
+          "comerciante": "Cambios IvS",
+          "min": "1000000",
+          "max": "36450000",
+          "disponible": "8146.06"
+        },
+        {
+          "precio": 963.555,
+          "comerciante": "maferalvz",
+          "min": "1000000",
+          "max": "4000000",
+          "disponible": "18890.05"
         }
       ]
     },
     "compra": {
-      "promedio": 965.5098,
-      "minimo": 963.0,
-      "maximo": 966.849,
+      "promedio": 967.12,
+      "minimo": 967.0,
+      "maximo": 967.3,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 963.0,
-          "comerciante": "CriptoAleM",
-          "min": "650000",
-          "max": "700000",
-          "disponible": "798.00"
+          "precio": 967.0,
+          "comerciante": "RapidCambiosJC",
+          "min": "50000",
+          "max": "969002",
+          "disponible": "341.72"
         },
         {
-          "precio": 965.0,
-          "comerciante": "Pieralopez",
-          "min": "3000",
-          "max": "50000",
-          "disponible": "99.75"
-        },
-        {
-          "precio": 966.0,
-          "comerciante": "MariaEugeniaLopez",
-          "min": "300",
+          "precio": 967.0,
+          "comerciante": "djcesartp",
+          "min": "7000",
           "max": "4000000",
-          "disponible": "0.97"
+          "disponible": "404.30"
         },
         {
-          "precio": 966.7,
-          "comerciante": "Noreen Piskura f3ie",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "0.60"
-        },
-        {
-          "precio": 966.849,
-          "comerciante": "DahelysTrader",
+          "precio": 967.0,
+          "comerciante": "jhose5",
           "min": "20000",
-          "max": "4000000",
-          "disponible": "21.05"
+          "max": "270000",
+          "disponible": "277.40"
+        },
+        {
+          "precio": 967.3,
+          "comerciante": "Danielajcg",
+          "min": "1000",
+          "max": "81000",
+          "disponible": "1.10"
+        },
+        {
+          "precio": 967.3,
+          "comerciante": "AndersonGarznCambios",
+          "min": "120000",
+          "max": "1269000",
+          "disponible": "1311.27"
         }
       ]
     }
   },
-  "brecha_pct": 12.8
+  "brecha_pct": 12.69
 }
