@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-27T21:42:14+00:00",
-  "actualizado_ve": "2026-09-27T17:42:14-04:00",
+  "actualizado_utc": "2026-09-28T00:04:30+00:00",
+  "actualizado_ve": "2026-09-27T20:04:30-04:00",
   "bcv": {
     "usd": 857.0058,
     "eur": 976.90091142,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 966.72,
+    "referencia": 966.67,
     "venta": {
-      "promedio": 966.72,
-      "minimo": 965.6,
+      "promedio": 966.67,
+      "minimo": 965.25,
       "maximo": 970.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -22,78 +22,78 @@
           "comerciante": "Kryptos",
           "min": "500",
           "max": "25000",
-          "disponible": "215.33"
+          "disponible": "214.51"
         },
         {
-          "precio": 966.0,
-          "comerciante": "FromVillage",
-          "min": "2000000",
-          "max": "36450000",
-          "disponible": "2810.52"
+          "precio": 966.1,
+          "comerciante": "CrxptoFast",
+          "min": "300000",
+          "max": "4000000",
+          "disponible": "14795.85"
         },
         {
           "precio": 966.0,
           "comerciante": "Nkbusiness ",
           "min": "450000",
           "max": "4000000",
-          "disponible": "16713.29"
+          "disponible": "12800.00"
         },
         {
           "precio": 966.0,
-          "comerciante": "FUERZA_ELITE",
-          "min": "15000000",
-          "max": "36000000",
-          "disponible": "80000.00"
+          "comerciante": "Paolagarcia",
+          "min": "2000",
+          "max": "96800",
+          "disponible": "74.13"
         },
         {
-          "precio": 965.6,
-          "comerciante": "CrxptoFast",
-          "min": "300000",
-          "max": "4000000",
-          "disponible": "20266.78"
+          "precio": 965.25,
+          "comerciante": "GAMBINO-",
+          "min": "7000000",
+          "max": "36450000",
+          "disponible": "35000.00"
         }
       ]
     },
     "compra": {
-      "promedio": 964.51,
-      "minimo": 964.0,
-      "maximo": 965.0,
+      "promedio": 965.5098,
+      "minimo": 963.0,
+      "maximo": 966.849,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 964.0,
-          "comerciante": "reinaldofuentess",
-          "min": "90000",
-          "max": "4000000",
-          "disponible": "99.86"
+          "precio": 963.0,
+          "comerciante": "CriptoAleM",
+          "min": "650000",
+          "max": "700000",
+          "disponible": "798.00"
         },
         {
-          "precio": 964.0,
-          "comerciante": "Trade-Cripto",
-          "min": "5000",
-          "max": "6000",
+          "precio": 965.0,
+          "comerciante": "Pieralopez",
+          "min": "3000",
+          "max": "50000",
           "disponible": "99.75"
         },
         {
-          "precio": 964.55,
-          "comerciante": "Sunnygreen",
-          "min": "237000",
-          "max": "237001",
-          "disponible": "249.37"
-        },
-        {
-          "precio": 965.0,
-          "comerciante": "Broker Trader",
-          "min": "19266",
-          "max": "19267",
-          "disponible": "44.88"
-        },
-        {
-          "precio": 965.0,
+          "precio": 966.0,
           "comerciante": "MariaEugeniaLopez",
           "min": "300",
           "max": "4000000",
-          "disponible": "20.67"
+          "disponible": "0.97"
+        },
+        {
+          "precio": 966.7,
+          "comerciante": "Noreen Piskura f3ie",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "0.60"
+        },
+        {
+          "precio": 966.849,
+          "comerciante": "DahelysTrader",
+          "min": "20000",
+          "max": "4000000",
+          "disponible": "21.05"
         }
       ]
     }
