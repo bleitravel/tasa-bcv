@@ -1,102 +1,102 @@
 {
-  "actualizado_utc": "2026-09-28T12:09:59+00:00",
-  "actualizado_ve": "2026-09-28T08:09:59-04:00",
+  "actualizado_utc": "2026-09-28T19:44:35+00:00",
+  "actualizado_ve": "2026-09-28T15:44:35-04:00",
   "bcv": {
-    "usd": 857.0058,
-    "eur": 976.90091142,
-    "fecha_valor": "2026-09-28T00:00:00-04:00"
+    "usd": 857.8876,
+    "eur": 974.71473336,
+    "fecha_valor": "2026-09-29T00:00:00-04:00"
   },
   "binance_p2p": {
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 964.7022,
+    "referencia": 966.32,
     "venta": {
-      "promedio": 964.7022,
-      "minimo": 964.4,
-      "maximo": 965.5,
+      "promedio": 966.32,
+      "minimo": 965.0,
+      "maximo": 970.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
+          "precio": 970.0,
+          "comerciante": "Kryptos",
+          "min": "500",
+          "max": "25000",
+          "disponible": "199.33"
+        },
+        {
+          "precio": 966.0,
+          "comerciante": "Trust-Broker",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "41500.06"
+        },
+        {
           "precio": 965.5,
-          "comerciante": "Nkbusiness ",
-          "min": "450000",
-          "max": "4000000",
-          "disponible": "12800.00"
-        },
-        {
-          "precio": 964.611,
-          "comerciante": "-ARKA",
-          "min": "594000",
-          "max": "594800",
-          "disponible": "631.45"
-        },
-        {
-          "precio": 964.5,
-          "comerciante": "-Akopan-",
+          "comerciante": "TPhillips",
           "min": "3000000",
           "max": "36450000",
-          "disponible": "76014.06"
+          "disponible": "61902.61"
         },
         {
-          "precio": 964.5,
-          "comerciante": "InfinityMoney777",
-          "min": "400000",
+          "precio": 965.1,
+          "comerciante": "安全与信任",
+          "min": "10000000",
           "max": "36000000",
-          "disponible": "6107.43"
+          "disponible": "25850.00"
         },
         {
-          "precio": 964.4,
-          "comerciante": "-TSxRV-",
-          "min": "900000",
+          "precio": 965.0,
+          "comerciante": "-AMATERATSU-",
+          "min": "10000000",
           "max": "36450000",
-          "disponible": "28131.07"
+          "disponible": "42230.06"
         }
       ]
     },
     "compra": {
-      "promedio": 965.0032,
-      "minimo": 965.0,
-      "maximo": 965.016,
+      "promedio": 964.238,
+      "minimo": 963.0,
+      "maximo": 965.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 965.0,
-          "comerciante": "AlejandroWko",
-          "min": "89000",
-          "max": "89500",
-          "disponible": "99.75"
+          "precio": 963.0,
+          "comerciante": "Nanojesus97",
+          "min": "900",
+          "max": "45000",
+          "disponible": "4.27"
+        },
+        {
+          "precio": 964.0,
+          "comerciante": "Broker Trader",
+          "min": "19350",
+          "max": "19351",
+          "disponible": "144.63"
+        },
+        {
+          "precio": 964.2,
+          "comerciante": "NeoKriptonita",
+          "min": "3000",
+          "max": "96000",
+          "disponible": "4.11"
+        },
+        {
+          "precio": 964.99,
+          "comerciante": "Armonymx",
+          "min": "147900",
+          "max": "147901",
+          "disponible": "154.61"
         },
         {
           "precio": 965.0,
-          "comerciante": "JavierJLP",
+          "comerciante": "P2P-69b413my",
           "min": "300",
           "max": "4000000",
-          "disponible": "0.63"
-        },
-        {
-          "precio": 965.0,
-          "comerciante": "Jorgeperez79",
-          "min": "45000",
-          "max": "4000000",
-          "disponible": "47.95"
-        },
-        {
-          "precio": 965.0,
-          "comerciante": "Dios es amor",
-          "min": "500",
-          "max": "45000",
-          "disponible": "143.53"
-        },
-        {
-          "precio": 965.016,
-          "comerciante": "edwuincrespo",
-          "min": "1000",
-          "max": "4000000",
-          "disponible": "20.46"
+          "disponible": "0.68"
         }
       ]
     }
   },
-  "brecha_pct": 12.57
+  "brecha_pct": 12.64
 }
