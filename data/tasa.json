@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-28T05:37:02+00:00",
-  "actualizado_ve": "2026-09-28T01:37:02-04:00",
+  "actualizado_utc": "2026-09-28T12:09:59+00:00",
+  "actualizado_ve": "2026-09-28T08:09:59-04:00",
   "bcv": {
     "usd": 857.0058,
     "eur": 976.90091142,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 965.783,
+    "referencia": 964.7022,
     "venta": {
-      "promedio": 965.783,
-      "minimo": 963.555,
-      "maximo": 970.0,
+      "promedio": 964.7022,
+      "minimo": 964.4,
+      "maximo": 965.5,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 970.0,
-          "comerciante": "Kryptos",
-          "min": "500",
-          "max": "25000",
-          "disponible": "206.54"
+          "precio": 965.5,
+          "comerciante": "Nkbusiness ",
+          "min": "450000",
+          "max": "4000000",
+          "disponible": "12800.00"
         },
         {
-          "precio": 965.5,
-          "comerciante": "不知道你",
+          "precio": 964.611,
+          "comerciante": "-ARKA",
+          "min": "594000",
+          "max": "594800",
+          "disponible": "631.45"
+        },
+        {
+          "precio": 964.5,
+          "comerciante": "-Akopan-",
+          "min": "3000000",
+          "max": "36450000",
+          "disponible": "76014.06"
+        },
+        {
+          "precio": 964.5,
+          "comerciante": "InfinityMoney777",
+          "min": "400000",
+          "max": "36000000",
+          "disponible": "6107.43"
+        },
+        {
+          "precio": 964.4,
+          "comerciante": "-TSxRV-",
           "min": "900000",
           "max": "36450000",
-          "disponible": "7185.34"
-        },
-        {
-          "precio": 965.0,
-          "comerciante": "GAleja1011",
-          "min": "1110000",
-          "max": "1113000",
-          "disponible": "1154.00"
-        },
-        {
-          "precio": 964.86,
-          "comerciante": "Cambios IvS",
-          "min": "1000000",
-          "max": "36450000",
-          "disponible": "8146.06"
-        },
-        {
-          "precio": 963.555,
-          "comerciante": "maferalvz",
-          "min": "1000000",
-          "max": "4000000",
-          "disponible": "18890.05"
+          "disponible": "28131.07"
         }
       ]
     },
     "compra": {
-      "promedio": 967.12,
-      "minimo": 967.0,
-      "maximo": 967.3,
+      "promedio": 965.0032,
+      "minimo": 965.0,
+      "maximo": 965.016,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 967.0,
-          "comerciante": "RapidCambiosJC",
-          "min": "50000",
-          "max": "969002",
-          "disponible": "341.72"
+          "precio": 965.0,
+          "comerciante": "AlejandroWko",
+          "min": "89000",
+          "max": "89500",
+          "disponible": "99.75"
         },
         {
-          "precio": 967.0,
-          "comerciante": "djcesartp",
-          "min": "7000",
+          "precio": 965.0,
+          "comerciante": "JavierJLP",
+          "min": "300",
           "max": "4000000",
-          "disponible": "404.30"
+          "disponible": "0.63"
         },
         {
-          "precio": 967.0,
-          "comerciante": "jhose5",
-          "min": "20000",
-          "max": "270000",
-          "disponible": "277.40"
+          "precio": 965.0,
+          "comerciante": "Jorgeperez79",
+          "min": "45000",
+          "max": "4000000",
+          "disponible": "47.95"
         },
         {
-          "precio": 967.3,
-          "comerciante": "Danielajcg",
+          "precio": 965.0,
+          "comerciante": "Dios es amor",
+          "min": "500",
+          "max": "45000",
+          "disponible": "143.53"
+        },
+        {
+          "precio": 965.016,
+          "comerciante": "edwuincrespo",
           "min": "1000",
-          "max": "81000",
-          "disponible": "1.10"
-        },
-        {
-          "precio": 967.3,
-          "comerciante": "AndersonGarznCambios",
-          "min": "120000",
-          "max": "1269000",
-          "disponible": "1311.27"
+          "max": "4000000",
+          "disponible": "20.46"
         }
       ]
     }
   },
-  "brecha_pct": 12.69
+  "brecha_pct": 12.57
 }
