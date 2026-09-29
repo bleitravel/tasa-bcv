@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-29T05:54:32+00:00",
-  "actualizado_ve": "2026-09-29T01:54:32-04:00",
+  "actualizado_utc": "2026-09-29T11:41:32+00:00",
+  "actualizado_ve": "2026-09-29T07:41:32-04:00",
   "bcv": {
     "usd": 857.8876,
     "eur": 974.71473336,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 961.4194,
+    "referencia": 959.9984,
     "venta": {
-      "promedio": 961.4194,
-      "minimo": 960.992,
-      "maximo": 963.0,
+      "promedio": 959.9984,
+      "minimo": 959.0,
+      "maximo": 960.992,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 963.0,
-          "comerciante": "JJRS_GAGD",
-          "min": "9600",
-          "max": "9650",
-          "disponible": "100.00"
-        },
-        {
-          "precio": 961.1,
-          "comerciante": "Thefiurerth",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "4.15"
-        },
-        {
-          "precio": 961.003,
-          "comerciante": "HyperCambios_1Millon",
-          "min": "20000",
-          "max": "200000",
-          "disponible": "3395.40"
-        },
-        {
-          "precio": 961.002,
-          "comerciante": "Q2030",
-          "min": "20000",
-          "max": "200000",
-          "disponible": "210.00"
-        },
         {
           "precio": 960.992,
           "comerciante": "adiaz1406",
           "min": "80000",
           "max": "94900",
           "disponible": "100.00"
+        },
+        {
+          "precio": 960.0,
+          "comerciante": "menchi1520",
+          "min": "143999",
+          "max": "144000",
+          "disponible": "150.00"
+        },
+        {
+          "precio": 960.0,
+          "comerciante": "Jmolina186",
+          "min": "32900",
+          "max": "658000",
+          "disponible": "685.42"
+        },
+        {
+          "precio": 960.0,
+          "comerciante": "贝HarveySpecter贝",
+          "min": "1000000",
+          "max": "35000000",
+          "disponible": "19382.08"
+        },
+        {
+          "precio": 959.0,
+          "comerciante": "王冠__你们的头",
+          "min": "36450000",
+          "max": "500000000",
+          "disponible": "50000.00"
         }
       ]
     },
     "compra": {
-      "promedio": 962.4398,
-      "minimo": 962.0,
-      "maximo": 962.9,
+      "promedio": 960.861,
+      "minimo": 960.5,
+      "maximo": 960.999,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 962.0,
-          "comerciante": "CJ2001",
-          "min": "2000000",
-          "max": "8500000",
-          "disponible": "8288.88"
-        },
-        {
-          "precio": 962.2,
-          "comerciante": "CambioRapido13",
-          "min": "1000000",
-          "max": "4164726",
-          "disponible": "4318.08"
-        },
-        {
-          "precio": 962.299,
-          "comerciante": "Bmth_29",
-          "min": "1000000",
-          "max": "20000000",
-          "disponible": "8454.47"
-        },
-        {
-          "precio": 962.8,
-          "comerciante": "Cambios Altamar Company ",
-          "min": "240000",
+          "precio": 960.5,
+          "comerciante": "xescalibu2",
+          "min": "50000",
           "max": "4000000",
-          "disponible": "249.37"
+          "disponible": "134.33"
         },
         {
-          "precio": 962.9,
-          "comerciante": "User-01016",
-          "min": "9629",
-          "max": "258181",
-          "disponible": "59.64"
+          "precio": 960.808,
+          "comerciante": "Elcomerciante15",
+          "min": "500",
+          "max": "115000",
+          "disponible": "1.74"
+        },
+        {
+          "precio": 960.999,
+          "comerciante": "Jggo",
+          "min": "1000",
+          "max": "101866",
+          "disponible": "1.06"
+        },
+        {
+          "precio": 960.999,
+          "comerciante": "MonkyCrypto33",
+          "min": "300",
+          "max": "151310",
+          "disponible": "163.51"
+        },
+        {
+          "precio": 960.999,
+          "comerciante": "rubeno99",
+          "min": "100000",
+          "max": "500000",
+          "disponible": "400.00"
         }
       ]
     }
   },
-  "brecha_pct": 12.07
+  "brecha_pct": 11.9
 }
