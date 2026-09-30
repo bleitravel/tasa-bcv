@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-29T21:27:50+00:00",
-  "actualizado_ve": "2026-09-29T17:27:50-04:00",
+  "actualizado_utc": "2026-09-30T00:38:39+00:00",
+  "actualizado_ve": "2026-09-29T20:38:39-04:00",
   "bcv": {
     "usd": 859.0629,
     "eur": 973.30967507,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 958.101,
+    "referencia": 959.27,
     "venta": {
-      "promedio": 958.101,
-      "minimo": 957.5,
+      "promedio": 959.27,
+      "minimo": 958.85,
       "maximo": 960.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
           "precio": 960.0,
-          "comerciante": "ara2",
-          "min": "29999",
-          "max": "30000",
-          "disponible": "68.75"
-        },
-        {
-          "precio": 958.0,
-          "comerciante": "贝HarveySpecter贝",
+          "comerciante": "carlos",
           "min": "500000",
-          "max": "1568839",
-          "disponible": "10000.00"
-        },
-        {
-          "precio": 957.505,
-          "comerciante": "Trust-Broker",
-          "min": "3000000",
-          "max": "36450000",
-          "disponible": "50000.00"
-        },
-        {
-          "precio": 957.5,
-          "comerciante": "Luluybonnie",
-          "min": "300000",
           "max": "4000000",
-          "disponible": "10827.89"
+          "disponible": "1187.47"
         },
         {
-          "precio": 957.5,
-          "comerciante": "WillyWonka-",
-          "min": "1500000",
-          "max": "36450000",
-          "disponible": "11700.00"
+          "precio": 959.5,
+          "comerciante": "Child Felix",
+          "min": "1000000",
+          "max": "4000000",
+          "disponible": "6894.69"
+        },
+        {
+          "precio": 959.0,
+          "comerciante": "Julian",
+          "min": "200000",
+          "max": "4000000",
+          "disponible": "300.00"
+        },
+        {
+          "precio": 959.0,
+          "comerciante": "User-5766c",
+          "min": "200000",
+          "max": "4000000",
+          "disponible": "3060.03"
+        },
+        {
+          "precio": 958.85,
+          "comerciante": "jonathanjardin",
+          "min": "1000000",
+          "max": "4000000",
+          "disponible": "26365.06"
         }
       ]
     },
     "compra": {
-      "promedio": 958.538,
-      "minimo": 957.99,
-      "maximo": 959.0,
+      "promedio": 959.578,
+      "minimo": 957.0,
+      "maximo": 960.89,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 957.99,
-          "comerciante": "ManzanaExchangeVip",
-          "min": "10000",
-          "max": "300000",
-          "disponible": "121.61"
+          "precio": 957.0,
+          "comerciante": "CriptoAleM",
+          "min": "450000",
+          "max": "500000",
+          "disponible": "1168.55"
         },
         {
-          "precio": 958.0,
-          "comerciante": "figueroajac",
-          "min": "22000",
-          "max": "100000",
-          "disponible": "44.51"
+          "precio": 959.5,
+          "comerciante": "GG-Cripto96",
+          "min": "2000000",
+          "max": "4000000",
+          "disponible": "4906.91"
         },
         {
-          "precio": 958.8,
-          "comerciante": " Blessed ",
-          "min": "36450000",
-          "max": "1000000000",
-          "disponible": "50000.00"
+          "precio": 960.0,
+          "comerciante": "User-0bb76",
+          "min": "90000",
+          "max": "4000000",
+          "disponible": "114.45"
         },
         {
-          "precio": 958.9,
-          "comerciante": "FUERZA_ELITE",
-          "min": "36450000",
-          "max": "900000000",
-          "disponible": "99921.93"
+          "precio": 960.5,
+          "comerciante": "033 racing Import",
+          "min": "50000",
+          "max": "1439100",
+          "disponible": "261.28"
         },
         {
-          "precio": 959.0,
-          "comerciante": "kalamardo",
-          "min": "80000",
-          "max": "36450000",
-          "disponible": "104.16"
+          "precio": 960.89,
+          "comerciante": "-JPMorgan-",
+          "min": "5000000",
+          "max": "36400000",
+          "disponible": "25742.51"
         }
       ]
     }
   },
-  "brecha_pct": 11.53
+  "brecha_pct": 11.66
 }
