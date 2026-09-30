@@ -1,102 +1,102 @@
 {
-  "actualizado_utc": "2026-09-30T18:10:46+00:00",
-  "actualizado_ve": "2026-09-30T14:10:46-04:00",
+  "actualizado_utc": "2026-09-30T22:25:27+00:00",
+  "actualizado_ve": "2026-09-30T18:25:27-04:00",
   "bcv": {
-    "usd": 859.0629,
-    "eur": 973.30967507,
-    "fecha_valor": "2026-09-30T00:00:00-04:00"
+    "usd": 860.1753,
+    "eur": 976.84087593,
+    "fecha_valor": "2026-10-01T00:00:00-04:00"
   },
   "binance_p2p": {
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 954.3608,
+    "referencia": 952.18,
     "venta": {
-      "promedio": 954.3608,
-      "minimo": 953.7,
-      "maximo": 955.005,
+      "promedio": 952.18,
+      "minimo": 951.8,
+      "maximo": 953.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 955.005,
-          "comerciante": "CriptoseguroAyM",
-          "min": "800000",
-          "max": "34000000",
-          "disponible": "24144.30"
-        },
-        {
-          "precio": 954.999,
-          "comerciante": "Sichelle Valentina ",
-          "min": "100000",
-          "max": "4000000",
-          "disponible": "329.85"
-        },
-        {
-          "precio": 954.1,
-          "comerciante": "贝HarveySpecter贝",
-          "min": "3000000",
-          "max": "35000000",
-          "disponible": "20000.00"
-        },
-        {
-          "precio": 954.0,
-          "comerciante": "GoldenLion_",
-          "min": "2000000",
-          "max": "14000000",
-          "disponible": "18299.77"
-        },
-        {
-          "precio": 953.7,
-          "comerciante": "GRUPOAVILA",
-          "min": "1500000",
+          "precio": 953.0,
+          "comerciante": "GOMEZTUSOLUCION",
+          "min": "10000000",
           "max": "36450000",
-          "disponible": "55173.90"
+          "disponible": "80000.00"
+        },
+        {
+          "precio": 952.1,
+          "comerciante": "YouFlashR98",
+          "min": "1000000",
+          "max": "2000000",
+          "disponible": "1500.00"
+        },
+        {
+          "precio": 952.0,
+          "comerciante": "bryannateram",
+          "min": "1000000",
+          "max": "4000000",
+          "disponible": "4458.70"
+        },
+        {
+          "precio": 952.0,
+          "comerciante": "AlanaCambios",
+          "min": "30000",
+          "max": "35000",
+          "disponible": "63.97"
+        },
+        {
+          "precio": 951.8,
+          "comerciante": "PEJAGOBLA",
+          "min": "7000000",
+          "max": "36400000",
+          "disponible": "64945.58"
         }
       ]
     },
     "compra": {
-      "promedio": 951.136,
-      "minimo": 951.0,
-      "maximo": 951.48,
+      "promedio": 953.6876,
+      "minimo": 953.0,
+      "maximo": 953.9,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 951.0,
-          "comerciante": "Calabria2025",
-          "min": "3900000",
+          "precio": 953.0,
+          "comerciante": "Seto1990",
+          "min": "3990000",
           "max": "4000000",
-          "disponible": "11111.05"
+          "disponible": "4855.74"
         },
         {
-          "precio": 951.0,
-          "comerciante": "Mimosin27",
-          "min": "1000000",
-          "max": "4000000",
-          "disponible": "2425.85"
+          "precio": 953.8,
+          "comerciante": "LadyCapitalP2P",
+          "min": "2000000",
+          "max": "7487913",
+          "disponible": "7840.39"
         },
         {
-          "precio": 951.0,
-          "comerciante": "PadronEsteves",
-          "min": "109000",
-          "max": "109365",
-          "disponible": "114.71"
-        },
-        {
-          "precio": 951.2,
-          "comerciante": "CAMBIOS-CRYPTOS",
-          "min": "2600000",
-          "max": "10000000",
-          "disponible": "2819.94"
-        },
-        {
-          "precio": 951.48,
-          "comerciante": "JDVR_05",
+          "precio": 953.85,
+          "comerciante": "Pagos-rapidosQ",
           "min": "3000000",
-          "max": "36450000",
-          "disponible": "9819.36"
+          "max": "5500000",
+          "disponible": "5565.96"
+        },
+        {
+          "precio": 953.888,
+          "comerciante": "LanaCattleya",
+          "min": "2000000",
+          "max": "3800000",
+          "disponible": "3493.88"
+        },
+        {
+          "precio": 953.9,
+          "comerciante": "Edixon0101",
+          "min": "2000000",
+          "max": "14000000",
+          "disponible": "5684.99"
         }
       ]
     }
   },
-  "brecha_pct": 11.09
+  "brecha_pct": 10.7
 }
