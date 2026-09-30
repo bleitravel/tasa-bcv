@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-30T06:05:31+00:00",
-  "actualizado_ve": "2026-09-30T02:05:31-04:00",
+  "actualizado_utc": "2026-09-30T12:49:22+00:00",
+  "actualizado_ve": "2026-09-30T08:49:22-04:00",
   "bcv": {
     "usd": 859.0629,
     "eur": 973.30967507,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 958.7448,
+    "referencia": 957.983,
     "venta": {
-      "promedio": 958.7448,
-      "minimo": 958.3,
-      "maximo": 959.024,
+      "promedio": 957.983,
+      "minimo": 957.51,
+      "maximo": 958.205,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 959.024,
-          "comerciante": "Principe Drácula ",
-          "min": "600000",
-          "max": "36000000",
-          "disponible": "80000.00"
-        },
-        {
-          "precio": 959.0,
-          "comerciante": "app2112",
-          "min": "7000000",
-          "max": "30000000",
-          "disponible": "80000.00"
-        },
-        {
-          "precio": 958.9,
-          "comerciante": "P2P-a34c591d",
-          "min": "50000",
-          "max": "4000000",
-          "disponible": "1712.60"
-        },
-        {
-          "precio": 958.5,
-          "comerciante": "El soberano26",
-          "min": "5000",
-          "max": "7000",
-          "disponible": "203.50"
-        },
-        {
-          "precio": 958.3,
-          "comerciante": "luis12crt",
-          "min": "800000",
+          "precio": 958.205,
+          "comerciante": "Trust-Broker",
+          "min": "3000000",
           "max": "36450000",
-          "disponible": "50000.00"
+          "disponible": "37875.49"
+        },
+        {
+          "precio": 958.1,
+          "comerciante": "HunterxTrade",
+          "min": "1500000",
+          "max": "36450000",
+          "disponible": "27700.00"
+        },
+        {
+          "precio": 958.1,
+          "comerciante": "Principe Drácula ",
+          "min": "1000000",
+          "max": "36000000",
+          "disponible": "7677.27"
+        },
+        {
+          "precio": 958.0,
+          "comerciante": "KAIROS333",
+          "min": "500000",
+          "max": "36000000",
+          "disponible": "3206.92"
+        },
+        {
+          "precio": 957.51,
+          "comerciante": "JS_Valentine",
+          "min": "400000",
+          "max": "5900000",
+          "disponible": "6161.00"
         }
       ]
     },
     "compra": {
-      "promedio": 961.96,
-      "minimo": 961.9,
-      "maximo": 962.0,
+      "promedio": 958.88,
+      "minimo": 957.5,
+      "maximo": 959.5,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 961.9,
-          "comerciante": "Dios es amor",
-          "min": "500",
-          "max": "45000",
-          "disponible": "0.81"
-        },
-        {
-          "precio": 961.9,
-          "comerciante": "igna2rod",
-          "min": "5100",
-          "max": "31000",
-          "disponible": "61.21"
-        },
-        {
-          "precio": 962.0,
-          "comerciante": "kev_ang_pay",
-          "min": "300",
+          "precio": 957.5,
+          "comerciante": "Carlos_TodoSeguridad",
+          "min": "95000",
           "max": "4000000",
-          "disponible": "0.58"
+          "disponible": "99.75"
         },
         {
-          "precio": 962.0,
-          "comerciante": "movy19",
-          "min": "70000",
-          "max": "4000000",
-          "disponible": "100.74"
+          "precio": 959.0,
+          "comerciante": "Leidymgamez",
+          "min": "20000",
+          "max": "191800",
+          "disponible": "26.41"
         },
         {
-          "precio": 962.0,
-          "comerciante": "Glag13",
-          "min": "300",
-          "max": "100000",
-          "disponible": "0.65"
+          "precio": 959.0,
+          "comerciante": "GemitaP2p",
+          "min": "168000",
+          "max": "168300",
+          "disponible": "175.56"
+        },
+        {
+          "precio": 959.4,
+          "comerciante": "intercambiosRodríguez ",
+          "min": "3000000",
+          "max": "36000000",
+          "disponible": "5462.58"
+        },
+        {
+          "precio": 959.5,
+          "comerciante": "walner17",
+          "min": "2000000",
+          "max": "36450000",
+          "disponible": "2182.96"
         }
       ]
     }
   },
-  "brecha_pct": 11.6
+  "brecha_pct": 11.51
 }
