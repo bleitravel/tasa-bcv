@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-30T00:38:39+00:00",
-  "actualizado_ve": "2026-09-29T20:38:39-04:00",
+  "actualizado_utc": "2026-09-30T06:05:31+00:00",
+  "actualizado_ve": "2026-09-30T02:05:31-04:00",
   "bcv": {
     "usd": 859.0629,
     "eur": 973.30967507,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 959.27,
+    "referencia": 958.7448,
     "venta": {
-      "promedio": 959.27,
-      "minimo": 958.85,
-      "maximo": 960.0,
+      "promedio": 958.7448,
+      "minimo": 958.3,
+      "maximo": 959.024,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 960.0,
-          "comerciante": "carlos",
-          "min": "500000",
-          "max": "4000000",
-          "disponible": "1187.47"
-        },
-        {
-          "precio": 959.5,
-          "comerciante": "Child Felix",
-          "min": "1000000",
-          "max": "4000000",
-          "disponible": "6894.69"
+          "precio": 959.024,
+          "comerciante": "Principe Drácula ",
+          "min": "600000",
+          "max": "36000000",
+          "disponible": "80000.00"
         },
         {
           "precio": 959.0,
-          "comerciante": "Julian",
-          "min": "200000",
-          "max": "4000000",
-          "disponible": "300.00"
+          "comerciante": "app2112",
+          "min": "7000000",
+          "max": "30000000",
+          "disponible": "80000.00"
         },
         {
-          "precio": 959.0,
-          "comerciante": "User-5766c",
-          "min": "200000",
+          "precio": 958.9,
+          "comerciante": "P2P-a34c591d",
+          "min": "50000",
           "max": "4000000",
-          "disponible": "3060.03"
+          "disponible": "1712.60"
         },
         {
-          "precio": 958.85,
-          "comerciante": "jonathanjardin",
-          "min": "1000000",
-          "max": "4000000",
-          "disponible": "26365.06"
+          "precio": 958.5,
+          "comerciante": "El soberano26",
+          "min": "5000",
+          "max": "7000",
+          "disponible": "203.50"
+        },
+        {
+          "precio": 958.3,
+          "comerciante": "luis12crt",
+          "min": "800000",
+          "max": "36450000",
+          "disponible": "50000.00"
         }
       ]
     },
     "compra": {
-      "promedio": 959.578,
-      "minimo": 957.0,
-      "maximo": 960.89,
+      "promedio": 961.96,
+      "minimo": 961.9,
+      "maximo": 962.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 957.0,
-          "comerciante": "CriptoAleM",
-          "min": "450000",
-          "max": "500000",
-          "disponible": "1168.55"
+          "precio": 961.9,
+          "comerciante": "Dios es amor",
+          "min": "500",
+          "max": "45000",
+          "disponible": "0.81"
         },
         {
-          "precio": 959.5,
-          "comerciante": "GG-Cripto96",
-          "min": "2000000",
+          "precio": 961.9,
+          "comerciante": "igna2rod",
+          "min": "5100",
+          "max": "31000",
+          "disponible": "61.21"
+        },
+        {
+          "precio": 962.0,
+          "comerciante": "kev_ang_pay",
+          "min": "300",
           "max": "4000000",
-          "disponible": "4906.91"
+          "disponible": "0.58"
         },
         {
-          "precio": 960.0,
-          "comerciante": "User-0bb76",
-          "min": "90000",
+          "precio": 962.0,
+          "comerciante": "movy19",
+          "min": "70000",
           "max": "4000000",
-          "disponible": "114.45"
+          "disponible": "100.74"
         },
         {
-          "precio": 960.5,
-          "comerciante": "033 racing Import",
-          "min": "50000",
-          "max": "1439100",
-          "disponible": "261.28"
-        },
-        {
-          "precio": 960.89,
-          "comerciante": "-JPMorgan-",
-          "min": "5000000",
-          "max": "36400000",
-          "disponible": "25742.51"
+          "precio": 962.0,
+          "comerciante": "Glag13",
+          "min": "300",
+          "max": "100000",
+          "disponible": "0.65"
         }
       ]
     }
   },
-  "brecha_pct": 11.66
+  "brecha_pct": 11.6
 }
