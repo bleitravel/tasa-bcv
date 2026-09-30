@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-30T12:49:22+00:00",
-  "actualizado_ve": "2026-09-30T08:49:22-04:00",
+  "actualizado_utc": "2026-09-30T18:10:46+00:00",
+  "actualizado_ve": "2026-09-30T14:10:46-04:00",
   "bcv": {
     "usd": 859.0629,
     "eur": 973.30967507,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 957.983,
+    "referencia": 954.3608,
     "venta": {
-      "promedio": 957.983,
-      "minimo": 957.51,
-      "maximo": 958.205,
+      "promedio": 954.3608,
+      "minimo": 953.7,
+      "maximo": 955.005,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 958.205,
-          "comerciante": "Trust-Broker",
-          "min": "3000000",
-          "max": "36450000",
-          "disponible": "37875.49"
+          "precio": 955.005,
+          "comerciante": "CriptoseguroAyM",
+          "min": "800000",
+          "max": "34000000",
+          "disponible": "24144.30"
         },
         {
-          "precio": 958.1,
-          "comerciante": "HunterxTrade",
+          "precio": 954.999,
+          "comerciante": "Sichelle Valentina ",
+          "min": "100000",
+          "max": "4000000",
+          "disponible": "329.85"
+        },
+        {
+          "precio": 954.1,
+          "comerciante": "贝HarveySpecter贝",
+          "min": "3000000",
+          "max": "35000000",
+          "disponible": "20000.00"
+        },
+        {
+          "precio": 954.0,
+          "comerciante": "GoldenLion_",
+          "min": "2000000",
+          "max": "14000000",
+          "disponible": "18299.77"
+        },
+        {
+          "precio": 953.7,
+          "comerciante": "GRUPOAVILA",
           "min": "1500000",
           "max": "36450000",
-          "disponible": "27700.00"
-        },
-        {
-          "precio": 958.1,
-          "comerciante": "Principe Drácula ",
-          "min": "1000000",
-          "max": "36000000",
-          "disponible": "7677.27"
-        },
-        {
-          "precio": 958.0,
-          "comerciante": "KAIROS333",
-          "min": "500000",
-          "max": "36000000",
-          "disponible": "3206.92"
-        },
-        {
-          "precio": 957.51,
-          "comerciante": "JS_Valentine",
-          "min": "400000",
-          "max": "5900000",
-          "disponible": "6161.00"
+          "disponible": "55173.90"
         }
       ]
     },
     "compra": {
-      "promedio": 958.88,
-      "minimo": 957.5,
-      "maximo": 959.5,
+      "promedio": 951.136,
+      "minimo": 951.0,
+      "maximo": 951.48,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 957.5,
-          "comerciante": "Carlos_TodoSeguridad",
-          "min": "95000",
+          "precio": 951.0,
+          "comerciante": "Calabria2025",
+          "min": "3900000",
           "max": "4000000",
-          "disponible": "99.75"
+          "disponible": "11111.05"
         },
         {
-          "precio": 959.0,
-          "comerciante": "Leidymgamez",
-          "min": "20000",
-          "max": "191800",
-          "disponible": "26.41"
+          "precio": 951.0,
+          "comerciante": "Mimosin27",
+          "min": "1000000",
+          "max": "4000000",
+          "disponible": "2425.85"
         },
         {
-          "precio": 959.0,
-          "comerciante": "GemitaP2p",
-          "min": "168000",
-          "max": "168300",
-          "disponible": "175.56"
+          "precio": 951.0,
+          "comerciante": "PadronEsteves",
+          "min": "109000",
+          "max": "109365",
+          "disponible": "114.71"
         },
         {
-          "precio": 959.4,
-          "comerciante": "intercambiosRodríguez ",
+          "precio": 951.2,
+          "comerciante": "CAMBIOS-CRYPTOS",
+          "min": "2600000",
+          "max": "10000000",
+          "disponible": "2819.94"
+        },
+        {
+          "precio": 951.48,
+          "comerciante": "JDVR_05",
           "min": "3000000",
-          "max": "36000000",
-          "disponible": "5462.58"
-        },
-        {
-          "precio": 959.5,
-          "comerciante": "walner17",
-          "min": "2000000",
           "max": "36450000",
-          "disponible": "2182.96"
+          "disponible": "9819.36"
         }
       ]
     }
   },
-  "brecha_pct": 11.51
+  "brecha_pct": 11.09
 }
