@@ -1,102 +1,102 @@
 {
-  "actualizado_utc": "2026-10-01T19:56:41+00:00",
-  "actualizado_ve": "2026-10-01T15:56:41-04:00",
+  "actualizado_utc": "2026-10-01T23:35:35+00:00",
+  "actualizado_ve": "2026-10-01T19:35:35-04:00",
   "bcv": {
-    "usd": 860.1753,
-    "eur": 976.84087593,
-    "fecha_valor": "2026-10-01T00:00:00-04:00"
+    "usd": 866.5612,
+    "eur": 973.92813268,
+    "fecha_valor": "2026-10-02T00:00:00-04:00"
   },
   "binance_p2p": {
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 961.262,
+    "referencia": 962.322,
     "venta": {
-      "promedio": 961.262,
-      "minimo": 958.85,
-      "maximo": 968.66,
+      "promedio": 962.322,
+      "minimo": 962.0,
+      "maximo": 963.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 968.66,
-          "comerciante": "P2P-9739710e",
-          "min": "85000",
-          "max": "86000",
+          "precio": 963.0,
+          "comerciante": "P2P-6dc16dxn",
+          "min": "500000",
+          "max": "4000000",
+          "disponible": "519.27"
+        },
+        {
+          "precio": 962.5,
+          "comerciante": "CROMOSOMA-21",
+          "min": "10000000",
+          "max": "36450000",
+          "disponible": "80000.00"
+        },
+        {
+          "precio": 962.1,
+          "comerciante": "LRCA25",
+          "min": "65999",
+          "max": "66000",
           "disponible": "100.00"
         },
         {
-          "precio": 960.8,
-          "comerciante": "Meagan Raczka G9fD",
-          "min": "47980",
-          "max": "95960",
-          "disponible": "227.19"
-        },
-        {
-          "precio": 959.0,
-          "comerciante": "diomedez14",
-          "min": "3000000",
-          "max": "36450000",
-          "disponible": "38384.35"
-        },
-        {
-          "precio": 959.0,
-          "comerciante": "上天保佑",
+          "precio": 962.01,
+          "comerciante": "Sue Turmero",
           "min": "1000000",
           "max": "4000000",
-          "disponible": "4152.49"
+          "disponible": "3001.54"
         },
         {
-          "precio": 958.85,
-          "comerciante": "Blank_Mind",
-          "min": "700000",
-          "max": "36450000",
-          "disponible": "29083.58"
+          "precio": 962.0,
+          "comerciante": "Cambiossalome3",
+          "min": "1999999",
+          "max": "2000000",
+          "disponible": "2084.00"
         }
       ]
     },
     "compra": {
-      "promedio": 959.28,
-      "minimo": 958.0,
-      "maximo": 960.0,
+      "promedio": 963.8508,
+      "minimo": 963.5,
+      "maximo": 964.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 958.0,
-          "comerciante": "saulcs",
-          "min": "300",
-          "max": "958000",
-          "disponible": "22.14"
+          "precio": 963.5,
+          "comerciante": "TheBigCrosby ",
+          "min": "4000",
+          "max": "4000000",
+          "disponible": "4.67"
         },
         {
-          "precio": 959.2,
-          "comerciante": "Ancelocambio",
-          "min": "15000",
-          "max": "90000",
-          "disponible": "100.00"
-        },
-        {
-          "precio": 959.2,
-          "comerciante": "P2P-de8825k6",
-          "min": "10000",
-          "max": "15000",
+          "precio": 963.799,
+          "comerciante": "100_comercio",
+          "min": "9000",
+          "max": "9630",
           "disponible": "99.75"
         },
         {
-          "precio": 960.0,
-          "comerciante": "nour",
-          "min": "25000",
-          "max": "4000000",
-          "disponible": "129.46"
+          "precio": 963.975,
+          "comerciante": "_AltCoinMaster_",
+          "min": "3000000",
+          "max": "36450000",
+          "disponible": "12000.00"
         },
         {
-          "precio": 960.0,
-          "comerciante": "juanCasP2P",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "8.15"
+          "precio": 963.98,
+          "comerciante": "josealtu",
+          "min": "4000000",
+          "max": "10000000",
+          "disponible": "6182.83"
+        },
+        {
+          "precio": 964.0,
+          "comerciante": "Cambios_m21",
+          "min": "3000000",
+          "max": "36000000",
+          "disponible": "5992.50"
         }
       ]
     }
   },
-  "brecha_pct": 11.75
+  "brecha_pct": 11.05
 }
