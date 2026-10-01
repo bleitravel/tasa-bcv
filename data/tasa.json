@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-09-30T22:25:27+00:00",
-  "actualizado_ve": "2026-09-30T18:25:27-04:00",
+  "actualizado_utc": "2026-10-01T01:22:06+00:00",
+  "actualizado_ve": "2026-09-30T21:22:06-04:00",
   "bcv": {
     "usd": 860.1753,
     "eur": 976.84087593,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 952.18,
+    "referencia": 954.901,
     "venta": {
-      "promedio": 952.18,
-      "minimo": 951.8,
-      "maximo": 953.0,
+      "promedio": 954.901,
+      "minimo": 954.605,
+      "maximo": 955.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 953.0,
-          "comerciante": "GOMEZTUSOLUCION",
-          "min": "10000000",
+          "precio": 955.0,
+          "comerciante": "User-6193a",
+          "min": "1960",
+          "max": "1961",
+          "disponible": "100.00"
+        },
+        {
+          "precio": 955.0,
+          "comerciante": "贝HarveySpecter贝",
+          "min": "9000000",
+          "max": "35000000",
+          "disponible": "35000.00"
+        },
+        {
+          "precio": 955.0,
+          "comerciante": "madeavir",
+          "min": "2000",
+          "max": "100000",
+          "disponible": "44.72"
+        },
+        {
+          "precio": 954.9,
+          "comerciante": "GRUPOAVILA",
+          "min": "7000000",
           "max": "36450000",
           "disponible": "80000.00"
         },
         {
-          "precio": 952.1,
-          "comerciante": "YouFlashR98",
-          "min": "1000000",
-          "max": "2000000",
-          "disponible": "1500.00"
-        },
-        {
-          "precio": 952.0,
-          "comerciante": "bryannateram",
-          "min": "1000000",
-          "max": "4000000",
-          "disponible": "4458.70"
-        },
-        {
-          "precio": 952.0,
-          "comerciante": "AlanaCambios",
-          "min": "30000",
-          "max": "35000",
-          "disponible": "63.97"
-        },
-        {
-          "precio": 951.8,
-          "comerciante": "PEJAGOBLA",
-          "min": "7000000",
-          "max": "36400000",
-          "disponible": "64945.58"
+          "precio": 954.605,
+          "comerciante": "Juanz17",
+          "min": "2000000",
+          "max": "15000000",
+          "disponible": "7500.00"
         }
       ]
     },
     "compra": {
-      "promedio": 953.6876,
-      "minimo": 953.0,
-      "maximo": 953.9,
+      "promedio": 956.5578,
+      "minimo": 956.0,
+      "maximo": 956.9,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 953.0,
-          "comerciante": "Seto1990",
-          "min": "3990000",
-          "max": "4000000",
-          "disponible": "4855.74"
+          "precio": 956.0,
+          "comerciante": "DONTUBO",
+          "min": "280000",
+          "max": "36450000",
+          "disponible": "299.47"
         },
         {
-          "precio": 953.8,
-          "comerciante": "LadyCapitalP2P",
-          "min": "2000000",
-          "max": "7487913",
-          "disponible": "7840.39"
+          "precio": 956.399,
+          "comerciante": "INGEFA",
+          "min": "10000000",
+          "max": "36450000",
+          "disponible": "49413.52"
         },
         {
-          "precio": 953.85,
-          "comerciante": "Pagos-rapidosQ",
-          "min": "3000000",
-          "max": "5500000",
-          "disponible": "5565.96"
+          "precio": 956.7,
+          "comerciante": "Old Parr",
+          "min": "9000000",
+          "max": "36450000",
+          "disponible": "26541.90"
         },
         {
-          "precio": 953.888,
-          "comerciante": "LanaCattleya",
-          "min": "2000000",
-          "max": "3800000",
-          "disponible": "3493.88"
+          "precio": 956.79,
+          "comerciante": "hc-investings",
+          "min": "350000",
+          "max": "36450000",
+          "disponible": "3069.60"
         },
         {
-          "precio": 953.9,
-          "comerciante": "Edixon0101",
-          "min": "2000000",
-          "max": "14000000",
-          "disponible": "5684.99"
+          "precio": 956.9,
+          "comerciante": "VISÓN CRIPTØ",
+          "min": "36450000",
+          "max": "500000000",
+          "disponible": "400000.00"
         }
       ]
     }
   },
-  "brecha_pct": 10.7
+  "brecha_pct": 11.01
 }
