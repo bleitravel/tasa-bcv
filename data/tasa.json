@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-01T07:18:41+00:00",
-  "actualizado_ve": "2026-10-01T03:18:41-04:00",
+  "actualizado_utc": "2026-10-01T14:37:10+00:00",
+  "actualizado_ve": "2026-10-01T10:37:10-04:00",
   "bcv": {
     "usd": 860.1753,
     "eur": 976.84087593,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 954.836,
+    "referencia": 957.32,
     "venta": {
-      "promedio": 954.836,
-      "minimo": 954.0,
-      "maximo": 956.65,
+      "promedio": 957.32,
+      "minimo": 956.5,
+      "maximo": 958.1,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 956.65,
-          "comerciante": "El soberano26",
-          "min": "5000",
-          "max": "7000",
-          "disponible": "187.63"
+          "precio": 958.1,
+          "comerciante": "diomedez14",
+          "min": "3000000",
+          "max": "36450000",
+          "disponible": "76868.81"
         },
         {
-          "precio": 955.0,
-          "comerciante": "User-6193a",
-          "min": "23520",
-          "max": "23521",
+          "precio": 958.0,
+          "comerciante": "Blank_Mind",
+          "min": "1000000",
+          "max": "36450000",
+          "disponible": "76745.18"
+        },
+        {
+          "precio": 957.0,
+          "comerciante": "User-d1665",
+          "min": "46500",
+          "max": "47000",
           "disponible": "100.00"
         },
         {
-          "precio": 954.4,
-          "comerciante": "Nestor76",
-          "min": "700",
-          "max": "5000",
-          "disponible": "146.62"
+          "precio": 957.0,
+          "comerciante": "EdgarMedrano",
+          "min": "119624",
+          "max": "119625",
+          "disponible": "125.00"
         },
         {
-          "precio": 954.13,
-          "comerciante": "RSwap8",
-          "min": "50000",
-          "max": "4000000",
-          "disponible": "230.61"
-        },
-        {
-          "precio": 954.0,
-          "comerciante": "trebol777",
-          "min": "124019",
-          "max": "124500",
-          "disponible": "131.00"
+          "precio": 956.5,
+          "comerciante": "Trust-Broker",
+          "min": "2000000",
+          "max": "36450000",
+          "disponible": "10400.06"
         }
       ]
     },
     "compra": {
-      "promedio": 956.08,
-      "minimo": 955.0,
-      "maximo": 956.98,
+      "promedio": 957.038,
+      "minimo": 957.0,
+      "maximo": 957.19,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 955.0,
-          "comerciante": "Bookworm_Germany",
-          "min": "5000",
-          "max": "50150",
-          "disponible": "66.33"
+          "precio": 957.0,
+          "comerciante": "Adrithaly-06",
+          "min": "1000",
+          "max": "1400000",
+          "disponible": "1.06"
         },
         {
-          "precio": 955.5,
-          "comerciante": "AthenaCryptoP2P",
-          "min": "5000000",
-          "max": "8000000",
-          "disponible": "8227.75"
+          "precio": 957.0,
+          "comerciante": "_DemoCambios_",
+          "min": "300000",
+          "max": "3000000",
+          "disponible": "498.75"
         },
         {
-          "precio": 956.0,
-          "comerciante": "x88rising",
-          "min": "1000000",
-          "max": "36450000",
-          "disponible": "1102.17"
+          "precio": 957.0,
+          "comerciante": "SilvaAguiar",
+          "min": "95700",
+          "max": "4000000",
+          "disponible": "100.72"
         },
         {
-          "precio": 956.92,
-          "comerciante": "ledezmagm",
-          "min": "1000000",
-          "max": "9000000",
-          "disponible": "11979.03"
+          "precio": 957.0,
+          "comerciante": "FrankMendez92",
+          "min": "100000",
+          "max": "4000000",
+          "disponible": "717.20"
         },
         {
-          "precio": 956.98,
-          "comerciante": "EKExpress",
-          "min": "3000000",
-          "max": "36000000",
-          "disponible": "13813.25"
+          "precio": 957.19,
+          "comerciante": "HebertC",
+          "min": "3000",
+          "max": "4000000",
+          "disponible": "100.00"
         }
       ]
     }
   },
-  "brecha_pct": 11.0
+  "brecha_pct": 11.29
 }
