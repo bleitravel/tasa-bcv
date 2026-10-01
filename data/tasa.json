@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-01T14:37:10+00:00",
-  "actualizado_ve": "2026-10-01T10:37:10-04:00",
+  "actualizado_utc": "2026-10-01T19:56:41+00:00",
+  "actualizado_ve": "2026-10-01T15:56:41-04:00",
   "bcv": {
     "usd": 860.1753,
     "eur": 976.84087593,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 957.32,
+    "referencia": 961.262,
     "venta": {
-      "promedio": 957.32,
-      "minimo": 956.5,
-      "maximo": 958.1,
+      "promedio": 961.262,
+      "minimo": 958.85,
+      "maximo": 968.66,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 958.1,
-          "comerciante": "diomedez14",
-          "min": "3000000",
-          "max": "36450000",
-          "disponible": "76868.81"
-        },
-        {
-          "precio": 958.0,
-          "comerciante": "Blank_Mind",
-          "min": "1000000",
-          "max": "36450000",
-          "disponible": "76745.18"
-        },
-        {
-          "precio": 957.0,
-          "comerciante": "User-d1665",
-          "min": "46500",
-          "max": "47000",
+          "precio": 968.66,
+          "comerciante": "P2P-9739710e",
+          "min": "85000",
+          "max": "86000",
           "disponible": "100.00"
         },
         {
-          "precio": 957.0,
-          "comerciante": "EdgarMedrano",
-          "min": "119624",
-          "max": "119625",
-          "disponible": "125.00"
+          "precio": 960.8,
+          "comerciante": "Meagan Raczka G9fD",
+          "min": "47980",
+          "max": "95960",
+          "disponible": "227.19"
         },
         {
-          "precio": 956.5,
-          "comerciante": "Trust-Broker",
-          "min": "2000000",
+          "precio": 959.0,
+          "comerciante": "diomedez14",
+          "min": "3000000",
           "max": "36450000",
-          "disponible": "10400.06"
+          "disponible": "38384.35"
+        },
+        {
+          "precio": 959.0,
+          "comerciante": "上天保佑",
+          "min": "1000000",
+          "max": "4000000",
+          "disponible": "4152.49"
+        },
+        {
+          "precio": 958.85,
+          "comerciante": "Blank_Mind",
+          "min": "700000",
+          "max": "36450000",
+          "disponible": "29083.58"
         }
       ]
     },
     "compra": {
-      "promedio": 957.038,
-      "minimo": 957.0,
-      "maximo": 957.19,
+      "promedio": 959.28,
+      "minimo": 958.0,
+      "maximo": 960.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 957.0,
-          "comerciante": "Adrithaly-06",
-          "min": "1000",
-          "max": "1400000",
-          "disponible": "1.06"
+          "precio": 958.0,
+          "comerciante": "saulcs",
+          "min": "300",
+          "max": "958000",
+          "disponible": "22.14"
         },
         {
-          "precio": 957.0,
-          "comerciante": "_DemoCambios_",
-          "min": "300000",
-          "max": "3000000",
-          "disponible": "498.75"
-        },
-        {
-          "precio": 957.0,
-          "comerciante": "SilvaAguiar",
-          "min": "95700",
-          "max": "4000000",
-          "disponible": "100.72"
-        },
-        {
-          "precio": 957.0,
-          "comerciante": "FrankMendez92",
-          "min": "100000",
-          "max": "4000000",
-          "disponible": "717.20"
-        },
-        {
-          "precio": 957.19,
-          "comerciante": "HebertC",
-          "min": "3000",
-          "max": "4000000",
+          "precio": 959.2,
+          "comerciante": "Ancelocambio",
+          "min": "15000",
+          "max": "90000",
           "disponible": "100.00"
+        },
+        {
+          "precio": 959.2,
+          "comerciante": "P2P-de8825k6",
+          "min": "10000",
+          "max": "15000",
+          "disponible": "99.75"
+        },
+        {
+          "precio": 960.0,
+          "comerciante": "nour",
+          "min": "25000",
+          "max": "4000000",
+          "disponible": "129.46"
+        },
+        {
+          "precio": 960.0,
+          "comerciante": "juanCasP2P",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "8.15"
         }
       ]
     }
   },
-  "brecha_pct": 11.29
+  "brecha_pct": 11.75
 }
