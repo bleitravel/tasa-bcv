@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-02T15:54:04+00:00",
-  "actualizado_ve": "2026-10-02T11:54:04-04:00",
+  "actualizado_utc": "2026-10-02T20:12:47+00:00",
+  "actualizado_ve": "2026-10-02T16:12:47-04:00",
   "bcv": {
     "usd": 866.5612,
     "eur": 973.92813268,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 966.1008,
+    "referencia": 973.9382,
     "venta": {
-      "promedio": 966.1008,
-      "minimo": 965.5,
-      "maximo": 968.0,
+      "promedio": 973.9382,
+      "minimo": 973.161,
+      "maximo": 975.1,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 968.0,
-          "comerciante": "diomedez14",
-          "min": "3000000",
-          "max": "13027079",
-          "disponible": "13457.72"
-        },
-        {
-          "precio": 966.0,
-          "comerciante": "IntiWatana",
-          "min": "10000000",
-          "max": "36000000",
-          "disponible": "45584.00"
-        },
-        {
-          "precio": 965.503,
-          "comerciante": "TOPlevelS",
-          "min": "10000000",
-          "max": "36000000",
-          "disponible": "80000.00"
-        },
-        {
-          "precio": 965.501,
-          "comerciante": "DOCTOR_CAMBIO",
-          "min": "7000000",
+          "precio": 975.1,
+          "comerciante": "Fast-Pay-Crypto-Fast",
+          "min": "15000000",
           "max": "36450000",
-          "disponible": "50000.00"
+          "disponible": "70896.48"
         },
         {
-          "precio": 965.5,
-          "comerciante": "MICHELITA_",
-          "min": "7000000",
-          "max": "36000000",
+          "precio": 975.0,
+          "comerciante": "Cross-26",
+          "min": "10000000",
+          "max": "36400000",
           "disponible": "80000.00"
+        },
+        {
+          "precio": 973.23,
+          "comerciante": "angelchacon",
+          "min": "10000000",
+          "max": "36450000",
+          "disponible": "42810.00"
+        },
+        {
+          "precio": 973.2,
+          "comerciante": "CRIPTO-2026",
+          "min": "4000000",
+          "max": "36450000",
+          "disponible": "36779.76"
+        },
+        {
+          "precio": 973.161,
+          "comerciante": "JoseParedez",
+          "min": "3000000",
+          "max": "36450000",
+          "disponible": "10144.33"
         }
       ]
     },
     "compra": {
-      "promedio": 964.16,
-      "minimo": 964.0,
-      "maximo": 964.8,
+      "promedio": 970.0598,
+      "minimo": 969.699,
+      "maximo": 970.5,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 964.0,
-          "comerciante": "Victordhd",
-          "min": "964",
-          "max": "106464",
-          "disponible": "6.75"
-        },
-        {
-          "precio": 964.0,
-          "comerciante": "Much_Dolar",
-          "min": "360000",
-          "max": "400000",
-          "disponible": "379.05"
-        },
-        {
-          "precio": 964.0,
-          "comerciante": "RaphielCarrera",
-          "min": "30000",
-          "max": "4000000",
-          "disponible": "45.81"
-        },
-        {
-          "precio": 964.0,
-          "comerciante": "LuisRivero22277",
-          "min": "142000",
-          "max": "145000",
-          "disponible": "149.62"
-        },
-        {
-          "precio": 964.8,
-          "comerciante": "CRIPTOMORENO",
+          "precio": 969.699,
+          "comerciante": "juanmv91",
           "min": "300",
-          "max": "212256",
-          "disponible": "189.39"
+          "max": "4000000",
+          "disponible": "0.50"
+        },
+        {
+          "precio": 969.9,
+          "comerciante": "Yup2p",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "0.43"
+        },
+        {
+          "precio": 970.0,
+          "comerciante": "Alfredoaly2020",
+          "min": "300",
+          "max": "454",
+          "disponible": "466.37"
+        },
+        {
+          "precio": 970.2,
+          "comerciante": "CuervoTrading",
+          "min": "1000",
+          "max": "200000",
+          "disponible": "1.23"
+        },
+        {
+          "precio": 970.5,
+          "comerciante": "positivo1000",
+          "min": "500",
+          "max": "4000000",
+          "disponible": "5.47"
         }
       ]
     }
   },
-  "brecha_pct": 11.49
+  "brecha_pct": 12.39
 }
