@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-02T09:05:46+00:00",
-  "actualizado_ve": "2026-10-02T05:05:46-04:00",
+  "actualizado_utc": "2026-10-02T15:54:04+00:00",
+  "actualizado_ve": "2026-10-02T11:54:04-04:00",
   "bcv": {
     "usd": 866.5612,
     "eur": 973.92813268,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 959.8006,
+    "referencia": 966.1008,
     "venta": {
-      "promedio": 959.8006,
-      "minimo": 959.0,
-      "maximo": 961.0,
+      "promedio": 966.1008,
+      "minimo": 965.5,
+      "maximo": 968.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 961.0,
-          "comerciante": "User-8fb9f",
-          "min": "310000",
-          "max": "312000",
-          "disponible": "325.00"
+          "precio": 968.0,
+          "comerciante": "diomedez14",
+          "min": "3000000",
+          "max": "13027079",
+          "disponible": "13457.72"
         },
         {
-          "precio": 961.0,
-          "comerciante": "LM30",
-          "min": "4000",
-          "max": "4001",
-          "disponible": "1000.00"
+          "precio": 966.0,
+          "comerciante": "IntiWatana",
+          "min": "10000000",
+          "max": "36000000",
+          "disponible": "45584.00"
         },
         {
-          "precio": 959.003,
-          "comerciante": "CLERTH",
-          "min": "1000500",
-          "max": "1915800",
-          "disponible": "2002.00"
+          "precio": 965.503,
+          "comerciante": "TOPlevelS",
+          "min": "10000000",
+          "max": "36000000",
+          "disponible": "80000.00"
         },
         {
-          "precio": 959.0,
-          "comerciante": "LaraCambios2508",
-          "min": "800000",
-          "max": "1434664",
-          "disponible": "1496.00"
+          "precio": 965.501,
+          "comerciante": "DOCTOR_CAMBIO",
+          "min": "7000000",
+          "max": "36450000",
+          "disponible": "50000.00"
         },
         {
-          "precio": 959.0,
-          "comerciante": "Pastora103",
-          "min": "300",
-          "max": "406",
-          "disponible": "424.29"
+          "precio": 965.5,
+          "comerciante": "MICHELITA_",
+          "min": "7000000",
+          "max": "36000000",
+          "disponible": "80000.00"
         }
       ]
     },
     "compra": {
-      "promedio": 964.4796,
-      "minimo": 963.799,
-      "maximo": 964.7,
+      "promedio": 964.16,
+      "minimo": 964.0,
+      "maximo": 964.8,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 963.799,
-          "comerciante": "100_comercio",
-          "min": "9000",
-          "max": "9630",
-          "disponible": "99.75"
+          "precio": 964.0,
+          "comerciante": "Victordhd",
+          "min": "964",
+          "max": "106464",
+          "disponible": "6.75"
         },
         {
-          "precio": 964.5,
-          "comerciante": "༯ShopxD༯",
-          "min": "1000000",
-          "max": "36450000",
-          "disponible": "2130.80"
+          "precio": 964.0,
+          "comerciante": "Much_Dolar",
+          "min": "360000",
+          "max": "400000",
+          "disponible": "379.05"
         },
         {
-          "precio": 964.699,
-          "comerciante": "JDCAPITAL-HOLDING",
-          "min": "300000",
-          "max": "7000000",
-          "disponible": "1996.50"
-        },
-        {
-          "precio": 964.7,
-          "comerciante": "Tacondi",
+          "precio": 964.0,
+          "comerciante": "RaphielCarrera",
           "min": "30000",
-          "max": "260000",
-          "disponible": "124.28"
+          "max": "4000000",
+          "disponible": "45.81"
         },
         {
-          "precio": 964.7,
-          "comerciante": "-HashiramaSenju",
-          "min": "500000",
-          "max": "20000000",
-          "disponible": "10979.79"
+          "precio": 964.0,
+          "comerciante": "LuisRivero22277",
+          "min": "142000",
+          "max": "145000",
+          "disponible": "149.62"
+        },
+        {
+          "precio": 964.8,
+          "comerciante": "CRIPTOMORENO",
+          "min": "300",
+          "max": "212256",
+          "disponible": "189.39"
         }
       ]
     }
   },
-  "brecha_pct": 10.76
+  "brecha_pct": 11.49
 }
