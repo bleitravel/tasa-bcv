@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-01T23:35:35+00:00",
-  "actualizado_ve": "2026-10-01T19:35:35-04:00",
+  "actualizado_utc": "2026-10-02T02:48:34+00:00",
+  "actualizado_ve": "2026-10-01T22:48:34-04:00",
   "bcv": {
     "usd": 866.5612,
     "eur": 973.92813268,
@@ -10,62 +10,62 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 962.322,
+    "referencia": 962.9698,
     "venta": {
-      "promedio": 962.322,
-      "minimo": 962.0,
-      "maximo": 963.0,
-      "anuncios_usados": 5,
-      "anuncios": [
-        {
-          "precio": 963.0,
-          "comerciante": "P2P-6dc16dxn",
-          "min": "500000",
-          "max": "4000000",
-          "disponible": "519.27"
-        },
-        {
-          "precio": 962.5,
-          "comerciante": "CROMOSOMA-21",
-          "min": "10000000",
-          "max": "36450000",
-          "disponible": "80000.00"
-        },
-        {
-          "precio": 962.1,
-          "comerciante": "LRCA25",
-          "min": "65999",
-          "max": "66000",
-          "disponible": "100.00"
-        },
-        {
-          "precio": 962.01,
-          "comerciante": "Sue Turmero",
-          "min": "1000000",
-          "max": "4000000",
-          "disponible": "3001.54"
-        },
-        {
-          "precio": 962.0,
-          "comerciante": "Cambiossalome3",
-          "min": "1999999",
-          "max": "2000000",
-          "disponible": "2084.00"
-        }
-      ]
-    },
-    "compra": {
-      "promedio": 963.8508,
-      "minimo": 963.5,
+      "promedio": 962.9698,
+      "minimo": 962.599,
       "maximo": 964.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 963.5,
-          "comerciante": "TheBigCrosby ",
-          "min": "4000",
+          "precio": 964.0,
+          "comerciante": "-_EnDiosConfío_‐",
+          "min": "2000000",
           "max": "4000000",
-          "disponible": "4.67"
+          "disponible": "30000.00"
+        },
+        {
+          "precio": 963.0,
+          "comerciante": "Cross-26",
+          "min": "7000000",
+          "max": "36400000",
+          "disponible": "12936.02"
+        },
+        {
+          "precio": 962.63,
+          "comerciante": "AndradeGasconTITULAR",
+          "min": "500000",
+          "max": "5000000",
+          "disponible": "1045.26"
+        },
+        {
+          "precio": 962.62,
+          "comerciante": "Comercio_Eficiente",
+          "min": "300000",
+          "max": "29000000",
+          "disponible": "2972.87"
+        },
+        {
+          "precio": 962.599,
+          "comerciante": "Cryptomoy05",
+          "min": "150000",
+          "max": "400000",
+          "disponible": "11598.54"
+        }
+      ]
+    },
+    "compra": {
+      "promedio": 962.6598,
+      "minimo": 956.101,
+      "maximo": 964.5,
+      "anuncios_usados": 5,
+      "anuncios": [
+        {
+          "precio": 956.101,
+          "comerciante": "IkarusIB",
+          "min": "60000",
+          "max": "3000000",
+          "disponible": "1533.37"
         },
         {
           "precio": 963.799,
@@ -75,28 +75,28 @@
           "disponible": "99.75"
         },
         {
-          "precio": 963.975,
-          "comerciante": "_AltCoinMaster_",
-          "min": "3000000",
-          "max": "36450000",
-          "disponible": "12000.00"
+          "precio": 964.4,
+          "comerciante": "iJvs",
+          "min": "871000",
+          "max": "875000",
+          "disponible": "907.73"
         },
         {
-          "precio": 963.98,
-          "comerciante": "josealtu",
-          "min": "4000000",
-          "max": "10000000",
-          "disponible": "6182.83"
+          "precio": 964.499,
+          "comerciante": "lewis_trader",
+          "min": "100000",
+          "max": "350100",
+          "disponible": "119.63"
         },
         {
-          "precio": 964.0,
-          "comerciante": "Cambios_m21",
-          "min": "3000000",
-          "max": "36000000",
-          "disponible": "5992.50"
+          "precio": 964.5,
+          "comerciante": "el_ poller-obispo",
+          "min": "357000",
+          "max": "358000",
+          "disponible": "370.52"
         }
       ]
     }
   },
-  "brecha_pct": 11.05
+  "brecha_pct": 11.13
 }
