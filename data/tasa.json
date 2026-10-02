@@ -1,102 +1,102 @@
 {
-  "actualizado_utc": "2026-10-02T20:12:47+00:00",
-  "actualizado_ve": "2026-10-02T16:12:47-04:00",
+  "actualizado_utc": "2026-10-02T23:52:44+00:00",
+  "actualizado_ve": "2026-10-02T19:52:44-04:00",
   "bcv": {
-    "usd": 866.5612,
-    "eur": 973.92813268,
-    "fecha_valor": "2026-10-02T00:00:00-04:00"
+    "usd": 871.3689,
+    "eur": 981.17880877,
+    "fecha_valor": "2026-10-05T00:00:00-04:00"
   },
   "binance_p2p": {
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 973.9382,
+    "referencia": 973.4208,
     "venta": {
-      "promedio": 973.9382,
-      "minimo": 973.161,
-      "maximo": 975.1,
+      "promedio": 973.4208,
+      "minimo": 973.104,
+      "maximo": 974.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 975.1,
-          "comerciante": "Fast-Pay-Crypto-Fast",
+          "precio": 974.0,
+          "comerciante": "不知道你",
+          "min": "8000000",
+          "max": "36450000",
+          "disponible": "50000.00"
+        },
+        {
+          "precio": 973.5,
+          "comerciante": "Comercializadora_MAC",
           "min": "15000000",
           "max": "36450000",
-          "disponible": "70896.48"
+          "disponible": "50000.00"
         },
         {
-          "precio": 975.0,
-          "comerciante": "Cross-26",
-          "min": "10000000",
-          "max": "36400000",
-          "disponible": "80000.00"
-        },
-        {
-          "precio": 973.23,
-          "comerciante": "angelchacon",
+          "precio": 973.3,
+          "comerciante": "安全与信任",
           "min": "10000000",
           "max": "36450000",
-          "disponible": "42810.00"
+          "disponible": "60000.00"
         },
         {
           "precio": 973.2,
-          "comerciante": "CRIPTO-2026",
-          "min": "4000000",
+          "comerciante": "angelchacon",
+          "min": "7000000",
           "max": "36450000",
-          "disponible": "36779.76"
+          "disponible": "80000.00"
         },
         {
-          "precio": 973.161,
-          "comerciante": "JoseParedez",
-          "min": "3000000",
-          "max": "36450000",
-          "disponible": "10144.33"
+          "precio": 973.104,
+          "comerciante": "TOPlevelS",
+          "min": "5000000",
+          "max": "36000000",
+          "disponible": "50000.00"
         }
       ]
     },
     "compra": {
-      "promedio": 970.0598,
-      "minimo": 969.699,
-      "maximo": 970.5,
+      "promedio": 972.9998,
+      "minimo": 972.999,
+      "maximo": 973.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 969.699,
-          "comerciante": "juanmv91",
+          "precio": 972.999,
+          "comerciante": "Diego",
+          "min": "4000000",
+          "max": "6000000",
+          "disponible": "5334.57"
+        },
+        {
+          "precio": 973.0,
+          "comerciante": "Elturconegro",
           "min": "300",
-          "max": "4000000",
-          "disponible": "0.50"
+          "max": "384998",
+          "disponible": "0.78"
         },
         {
-          "precio": 969.9,
-          "comerciante": "Yup2p",
+          "precio": 973.0,
+          "comerciante": "SergioBarcoo IG",
+          "min": "95000",
+          "max": "107030",
+          "disponible": "109.72"
+        },
+        {
+          "precio": 973.0,
+          "comerciante": "escalona20",
           "min": "300",
-          "max": "4000000",
-          "disponible": "0.43"
+          "max": "39000",
+          "disponible": "67.46"
         },
         {
-          "precio": 970.0,
-          "comerciante": "Alfredoaly2020",
-          "min": "300",
-          "max": "454",
-          "disponible": "466.37"
-        },
-        {
-          "precio": 970.2,
-          "comerciante": "CuervoTrading",
-          "min": "1000",
-          "max": "200000",
-          "disponible": "1.23"
-        },
-        {
-          "precio": 970.5,
-          "comerciante": "positivo1000",
-          "min": "500",
-          "max": "4000000",
-          "disponible": "5.47"
+          "precio": 973.0,
+          "comerciante": "AmbarRojasR",
+          "min": "29990",
+          "max": "30000",
+          "disponible": "99.75"
         }
       ]
     }
   },
-  "brecha_pct": 12.39
+  "brecha_pct": 11.71
 }
