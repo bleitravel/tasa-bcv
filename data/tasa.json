@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-03T08:38:37+00:00",
-  "actualizado_ve": "2026-10-03T04:38:37-04:00",
+  "actualizado_utc": "2026-10-03T14:00:51+00:00",
+  "actualizado_ve": "2026-10-03T10:00:51-04:00",
   "bcv": {
     "usd": 871.3689,
     "eur": 981.17880877,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 975.7964,
+    "referencia": 976.6262,
     "venta": {
-      "promedio": 975.7964,
-      "minimo": 975.32,
-      "maximo": 976.354,
+      "promedio": 976.6262,
+      "minimo": 975.33,
+      "maximo": 977.2,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 976.354,
-          "comerciante": "-Ledger-",
-          "min": "400000",
-          "max": "36450000",
-          "disponible": "35100.00"
-        },
-        {
-          "precio": 976.35,
-          "comerciante": "-CASA_MONEY-",
-          "min": "900000",
+          "precio": 977.2,
+          "comerciante": "Amaev_cripto",
+          "min": "3000000",
           "max": "36000000",
-          "disponible": "32121.02"
+          "disponible": "74985.17"
         },
         {
-          "precio": 975.5,
-          "comerciante": "EverCryptoUSDT ",
-          "min": "300000",
-          "max": "4733182",
-          "disponible": "4384.73"
+          "precio": 977.101,
+          "comerciante": "贝HarveySpecter贝",
+          "min": "700000",
+          "max": "36000000",
+          "disponible": "12641.13"
         },
         {
-          "precio": 975.458,
-          "comerciante": "pollitodolare",
-          "min": "160000",
+          "precio": 977.0,
+          "comerciante": "Trust-Broker",
+          "min": "1000000",
           "max": "36450000",
-          "disponible": "47586.43"
+          "disponible": "8308.48"
         },
         {
-          "precio": 975.32,
-          "comerciante": "ELBENDITO___",
-          "min": "400000",
-          "max": "1633000",
-          "disponible": "39837.75"
+          "precio": 976.5,
+          "comerciante": "GOMEZTUSOLUCION",
+          "min": "10000000",
+          "max": "36450000",
+          "disponible": "80000.00"
+        },
+        {
+          "precio": 975.33,
+          "comerciante": "VISÓN CRIPTØ",
+          "min": "2000000",
+          "max": "36450000",
+          "disponible": "70503.98"
         }
       ]
     },
     "compra": {
-      "promedio": 975.4376,
-      "minimo": 973.999,
-      "maximo": 976.2,
+      "promedio": 976.18,
+      "minimo": 975.0,
+      "maximo": 977.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 973.999,
-          "comerciante": "User-7cce46du",
-          "min": "300",
+          "precio": 975.0,
+          "comerciante": "cambiosalonepro",
+          "min": "200000",
+          "max": "600000",
+          "disponible": "502.41"
+        },
+        {
+          "precio": 976.0,
+          "comerciante": "Phyloxz",
+          "min": "30000",
           "max": "4000000",
-          "disponible": "9.37"
+          "disponible": "268.31"
         },
         {
-          "precio": 974.9,
-          "comerciante": "Danielajcg",
-          "min": "1000",
-          "max": "100000",
-          "disponible": "1.36"
+          "precio": 976.0,
+          "comerciante": "Victordhd",
+          "min": "976",
+          "max": "976000",
+          "disponible": "3.67"
         },
         {
-          "precio": 975.9,
-          "comerciante": "Atumanocambio",
-          "min": "900000",
-          "max": "14000000",
-          "disponible": "4048.24"
+          "precio": 976.9,
+          "comerciante": "User-e054e",
+          "min": "90000",
+          "max": "250000",
+          "disponible": "513.71"
         },
         {
-          "precio": 976.189,
-          "comerciante": "你看_VES_你看_VES_你看Like",
-          "min": "2000000",
-          "max": "14000000",
-          "disponible": "3868.29"
-        },
-        {
-          "precio": 976.2,
-          "comerciante": "Osca26",
-          "min": "1000000",
-          "max": "2060000",
-          "disponible": "2102.31"
+          "precio": 977.0,
+          "comerciante": "Baruj_Hashem",
+          "min": "10000",
+          "max": "240000",
+          "disponible": "86.56"
         }
       ]
     }
   },
-  "brecha_pct": 11.98
+  "brecha_pct": 12.08
 }
