@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-02T23:52:44+00:00",
-  "actualizado_ve": "2026-10-02T19:52:44-04:00",
+  "actualizado_utc": "2026-10-03T02:35:05+00:00",
+  "actualizado_ve": "2026-10-02T22:35:05-04:00",
   "bcv": {
     "usd": 871.3689,
     "eur": 981.17880877,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 973.4208,
+    "referencia": 976.4406,
     "venta": {
-      "promedio": 973.4208,
-      "minimo": 973.104,
-      "maximo": 974.0,
+      "promedio": 976.4406,
+      "minimo": 975.1,
+      "maximo": 977.6,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 974.0,
-          "comerciante": "不知道你",
-          "min": "8000000",
-          "max": "36450000",
-          "disponible": "50000.00"
-        },
-        {
-          "precio": 973.5,
-          "comerciante": "Comercializadora_MAC",
-          "min": "15000000",
-          "max": "36450000",
-          "disponible": "50000.00"
-        },
-        {
-          "precio": 973.3,
-          "comerciante": "安全与信任",
-          "min": "10000000",
-          "max": "36450000",
-          "disponible": "60000.00"
-        },
-        {
-          "precio": 973.2,
-          "comerciante": "angelchacon",
-          "min": "7000000",
-          "max": "36450000",
+          "precio": 977.6,
+          "comerciante": "Amaev_cripto",
+          "min": "3000000",
+          "max": "36000000",
           "disponible": "80000.00"
         },
         {
-          "precio": 973.104,
-          "comerciante": "TOPlevelS",
+          "precio": 977.5,
+          "comerciante": "Trust-Broker",
+          "min": "3000000",
+          "max": "36450000",
+          "disponible": "28601.43"
+        },
+        {
+          "precio": 976.002,
+          "comerciante": "HAVALLL",
           "min": "5000000",
           "max": "36000000",
-          "disponible": "50000.00"
+          "disponible": "12015.00"
+        },
+        {
+          "precio": 976.001,
+          "comerciante": "pollitodolare",
+          "min": "6000000",
+          "max": "36450000",
+          "disponible": "36718.00"
+        },
+        {
+          "precio": 975.1,
+          "comerciante": "安全与信任",
+          "min": "4000000",
+          "max": "36450000",
+          "disponible": "35000.00"
         }
       ]
     },
     "compra": {
-      "promedio": 972.9998,
-      "minimo": 972.999,
-      "maximo": 973.0,
+      "promedio": 975.68,
+      "minimo": 974.9,
+      "maximo": 976.5,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 972.999,
-          "comerciante": "Diego",
+          "precio": 974.9,
+          "comerciante": "Danielajcg",
+          "min": "1000",
+          "max": "100000",
+          "disponible": "1.36"
+        },
+        {
+          "precio": 975.0,
+          "comerciante": "Fannieviloria",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "0.34"
+        },
+        {
+          "precio": 976.0,
+          "comerciante": "貝斯韋",
           "min": "4000000",
-          "max": "6000000",
-          "disponible": "5334.57"
+          "max": "21000000",
+          "disponible": "8712.77"
         },
         {
-          "precio": 973.0,
-          "comerciante": "Elturconegro",
+          "precio": 976.0,
+          "comerciante": "LUILLY136",
+          "min": "180000",
+          "max": "181000",
+          "disponible": "189.52"
+        },
+        {
+          "precio": 976.5,
+          "comerciante": "javi_0812",
           "min": "300",
-          "max": "384998",
-          "disponible": "0.78"
-        },
-        {
-          "precio": 973.0,
-          "comerciante": "SergioBarcoo IG",
-          "min": "95000",
-          "max": "107030",
-          "disponible": "109.72"
-        },
-        {
-          "precio": 973.0,
-          "comerciante": "escalona20",
-          "min": "300",
-          "max": "39000",
-          "disponible": "67.46"
-        },
-        {
-          "precio": 973.0,
-          "comerciante": "AmbarRojasR",
-          "min": "29990",
-          "max": "30000",
-          "disponible": "99.75"
+          "max": "115800",
+          "disponible": "11.96"
         }
       ]
     }
   },
-  "brecha_pct": 11.71
+  "brecha_pct": 12.06
 }
