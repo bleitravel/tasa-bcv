@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-04T00:10:51+00:00",
-  "actualizado_ve": "2026-10-03T20:10:51-04:00",
+  "actualizado_utc": "2026-10-04T06:04:39+00:00",
+  "actualizado_ve": "2026-10-04T02:04:39-04:00",
   "bcv": {
     "usd": 871.3689,
     "eur": 981.17880877,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 977.1204,
+    "referencia": 974.0642,
     "venta": {
-      "promedio": 977.1204,
-      "minimo": 975.602,
-      "maximo": 979.5,
+      "promedio": 974.0642,
+      "minimo": 974.0,
+      "maximo": 974.15,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 979.5,
-          "comerciante": "Amaev_cripto",
-          "min": "1000000",
-          "max": "36000000",
-          "disponible": "67955.80"
-        },
-        {
-          "precio": 977.0,
-          "comerciante": "Trust-Broker",
-          "min": "1000000",
-          "max": "36450000",
-          "disponible": "1316.46"
-        },
-        {
-          "precio": 977.0,
-          "comerciante": "Money77ves",
-          "min": "824050",
-          "max": "36450000",
-          "disponible": "843.45"
-        },
-        {
-          "precio": 976.5,
-          "comerciante": "TPhillips",
+          "precio": 974.15,
+          "comerciante": "Don-Cangrejo",
           "min": "5000000",
           "max": "36450000",
-          "disponible": "47144.45"
+          "disponible": "5285.57"
         },
         {
-          "precio": 975.602,
-          "comerciante": "rapidoysupeeseguro",
-          "min": "100000",
-          "max": "400000",
-          "disponible": "4000.51"
+          "precio": 974.1,
+          "comerciante": "Inversiones-ADSC",
+          "min": "1500000",
+          "max": "36450000",
+          "disponible": "43322.38"
+        },
+        {
+          "precio": 974.062,
+          "comerciante": "-Ledger-",
+          "min": "1000000",
+          "max": "36450000",
+          "disponible": "80000.00"
+        },
+        {
+          "precio": 974.009,
+          "comerciante": "Goliat1510",
+          "min": "500000",
+          "max": "36450000",
+          "disponible": "2042.61"
+        },
+        {
+          "precio": 974.0,
+          "comerciante": "Bitcoin-cambios",
+          "min": "300",
+          "max": "98000",
+          "disponible": "0.38"
         }
       ]
     },
     "compra": {
-      "promedio": 975.82,
-      "minimo": 975.0,
-      "maximo": 976.1,
+      "promedio": 977.3946,
+      "minimo": 975.583,
+      "maximo": 978.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 975.0,
-          "comerciante": "User-31078",
-          "min": "10000",
-          "max": "20000",
-          "disponible": "99.75"
+          "precio": 975.583,
+          "comerciante": "5D Economics",
+          "min": "100000",
+          "max": "100500",
+          "disponible": "103.07"
         },
         {
-          "precio": 976.0,
-          "comerciante": "CambiosVzla_",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "3.24"
+          "precio": 977.5,
+          "comerciante": "MFX_Exchange",
+          "min": "300000",
+          "max": "3000000",
+          "disponible": "3093.17"
         },
         {
-          "precio": 976.0,
-          "comerciante": "JAAC0327",
-          "min": "80000",
-          "max": "400000",
-          "disponible": "399.00"
+          "precio": 977.9,
+          "comerciante": "Danielajcg",
+          "min": "1000",
+          "max": "100000",
+          "disponible": "1.99"
         },
         {
-          "precio": 976.0,
-          "comerciante": "P2Pjfrreyes",
-          "min": "60000",
-          "max": "61000",
-          "disponible": "99.75"
+          "precio": 977.99,
+          "comerciante": "AquilesArturo",
+          "min": "100000",
+          "max": "20000000",
+          "disponible": "194.17"
         },
         {
-          "precio": 976.1,
-          "comerciante": "tineoc0301",
-          "min": "10000",
-          "max": "200000",
-          "disponible": "11.03"
+          "precio": 978.0,
+          "comerciante": "Exchange_AP",
+          "min": "500000",
+          "max": "900000",
+          "disponible": "851.86"
         }
       ]
     }
   },
-  "brecha_pct": 12.14
+  "brecha_pct": 11.79
 }
