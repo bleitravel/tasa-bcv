@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-04T12:35:23+00:00",
-  "actualizado_ve": "2026-10-04T08:35:23-04:00",
+  "actualizado_utc": "2026-10-04T17:08:51+00:00",
+  "actualizado_ve": "2026-10-04T13:08:51-04:00",
   "bcv": {
     "usd": 871.3689,
     "eur": 981.17880877,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 974.12,
+    "referencia": 977.0002,
     "venta": {
-      "promedio": 974.12,
-      "minimo": 973.6,
-      "maximo": 975.0,
+      "promedio": 977.0002,
+      "minimo": 975.0,
+      "maximo": 980.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 975.0,
-          "comerciante": "GAleja1011",
-          "min": "1930000",
-          "max": "1932000",
-          "disponible": "1989.00"
-        },
-        {
-          "precio": 974.0,
-          "comerciante": "Bitcoin-cambios",
-          "min": "300",
-          "max": "98000",
-          "disponible": "0.38"
-        },
-        {
-          "precio": 974.0,
-          "comerciante": "Buttonario",
-          "min": "229000",
-          "max": "4000000",
-          "disponible": "236.00"
-        },
-        {
-          "precio": 974.0,
-          "comerciante": "Rous_Only",
-          "min": "5000000",
-          "max": "17528000",
-          "disponible": "9523.54"
-        },
-        {
-          "precio": 973.6,
-          "comerciante": "-Ledger-",
-          "min": "5000000",
+          "precio": 980.0,
+          "comerciante": "你就变得更强",
+          "min": "500000",
           "max": "36450000",
-          "disponible": "41518.52"
+          "disponible": "78463.66"
+        },
+        {
+          "precio": 979.5,
+          "comerciante": "Amaev_cripto",
+          "min": "1000000",
+          "max": "36000000",
+          "disponible": "73779.84"
+        },
+        {
+          "precio": 975.5,
+          "comerciante": "BlackVaultt",
+          "min": "300000",
+          "max": "4000000",
+          "disponible": "3600.00"
+        },
+        {
+          "precio": 975.001,
+          "comerciante": "蛋糕是个谎言",
+          "min": "500000",
+          "max": "36450000",
+          "disponible": "23968.22"
+        },
+        {
+          "precio": 975.0,
+          "comerciante": "CoorpLogistic",
+          "min": "14000000",
+          "max": "36000000",
+          "disponible": "15030.00"
         }
       ]
     },
     "compra": {
-      "promedio": 976.7998,
-      "minimo": 976.0,
-      "maximo": 977.0,
+      "promedio": 975.54,
+      "minimo": 975.0,
+      "maximo": 976.2,
       "anuncios_usados": 5,
       "anuncios": [
         {
+          "precio": 975.0,
+          "comerciante": "JormanB",
+          "min": "24000",
+          "max": "24001",
+          "disponible": "99.75"
+        },
+        {
+          "precio": 975.0,
+          "comerciante": "MACHUuuuu",
+          "min": "3750",
+          "max": "3760",
+          "disponible": "99.75"
+        },
+        {
+          "precio": 975.5,
+          "comerciante": "Cambios_flash",
+          "min": "10000",
+          "max": "4000000",
+          "disponible": "13.57"
+        },
+        {
           "precio": 976.0,
-          "comerciante": "Victordhd",
-          "min": "976",
-          "max": "225543",
-          "disponible": "121.79"
+          "comerciante": "Broker Trader",
+          "min": "19120",
+          "max": "19121",
+          "disponible": "104.73"
         },
         {
-          "precio": 976.999,
-          "comerciante": "VIPChanges",
-          "min": "3000000",
-          "max": "36450000",
-          "disponible": "4390.85"
-        },
-        {
-          "precio": 977.0,
-          "comerciante": "GemitaP2p",
-          "min": "98000",
-          "max": "98001",
-          "disponible": "100.74"
-        },
-        {
-          "precio": 977.0,
-          "comerciante": "trade-key",
-          "min": "2000000",
-          "max": "36450000",
-          "disponible": "4917.32"
-        },
-        {
-          "precio": 977.0,
-          "comerciante": "MzVesP2P",
-          "min": "500000",
-          "max": "14000000",
-          "disponible": "664.69"
+          "precio": 976.2,
+          "comerciante": "Dariingy124",
+          "min": "10000",
+          "max": "4000000",
+          "disponible": "44.49"
         }
       ]
     }
   },
-  "brecha_pct": 11.79
+  "brecha_pct": 12.12
 }
