@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-03T21:30:42+00:00",
-  "actualizado_ve": "2026-10-03T17:30:42-04:00",
+  "actualizado_utc": "2026-10-04T00:10:51+00:00",
+  "actualizado_ve": "2026-10-03T20:10:51-04:00",
   "bcv": {
     "usd": 871.3689,
     "eur": 981.17880877,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 977.44,
+    "referencia": 977.1204,
     "venta": {
-      "promedio": 977.44,
-      "minimo": 976.5,
+      "promedio": 977.1204,
+      "minimo": 975.602,
       "maximo": 979.5,
       "anuncios_usados": 5,
       "anuncios": [
@@ -22,81 +22,81 @@
           "comerciante": "Amaev_cripto",
           "min": "1000000",
           "max": "36000000",
-          "disponible": "71223.94"
+          "disponible": "67955.80"
         },
         {
-          "precio": 977.6,
-          "comerciante": "TPhillips",
-          "min": "5000000",
+          "precio": 977.0,
+          "comerciante": "Trust-Broker",
+          "min": "1000000",
           "max": "36450000",
-          "disponible": "20816.81"
+          "disponible": "1316.46"
         },
         {
-          "precio": 977.05,
-          "comerciante": "HectorB",
-          "min": "6000000",
-          "max": "36000000",
-          "disponible": "58861.33"
-        },
-        {
-          "precio": 976.55,
-          "comerciante": "GAMBINO-",
-          "min": "7000000",
+          "precio": 977.0,
+          "comerciante": "Money77ves",
+          "min": "824050",
           "max": "36450000",
-          "disponible": "37815.92"
+          "disponible": "843.45"
         },
         {
           "precio": 976.5,
-          "comerciante": "GAZA_CRIPTO",
-          "min": "3000000",
+          "comerciante": "TPhillips",
+          "min": "5000000",
           "max": "36450000",
-          "disponible": "80000.00"
+          "disponible": "47144.45"
+        },
+        {
+          "precio": 975.602,
+          "comerciante": "rapidoysupeeseguro",
+          "min": "100000",
+          "max": "400000",
+          "disponible": "4000.51"
         }
       ]
     },
     "compra": {
-      "promedio": 976.28,
-      "minimo": 976.0,
-      "maximo": 976.69,
+      "promedio": 975.82,
+      "minimo": 975.0,
+      "maximo": 976.1,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 976.0,
-          "comerciante": "Gregor24",
-          "min": "30000",
-          "max": "288000",
-          "disponible": "137.39"
+          "precio": 975.0,
+          "comerciante": "User-31078",
+          "min": "10000",
+          "max": "20000",
+          "disponible": "99.75"
         },
         {
           "precio": 976.0,
-          "comerciante": "C4stor06",
+          "comerciante": "CambiosVzla_",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "3.24"
+        },
+        {
+          "precio": 976.0,
+          "comerciante": "JAAC0327",
           "min": "80000",
-          "max": "1500000",
-          "disponible": "110.37"
+          "max": "400000",
+          "disponible": "399.00"
         },
         {
-          "precio": 976.21,
-          "comerciante": "adrubita",
-          "min": "1168000",
-          "max": "10000000",
-          "disponible": "1229.26"
+          "precio": 976.0,
+          "comerciante": "P2Pjfrreyes",
+          "min": "60000",
+          "max": "61000",
+          "disponible": "99.75"
         },
         {
-          "precio": 976.5,
-          "comerciante": "MarDiodoros",
-          "min": "900000",
-          "max": "18000000",
-          "disponible": "5724.11"
-        },
-        {
-          "precio": 976.69,
-          "comerciante": "Elman28",
-          "min": "100000",
-          "max": "2000000",
-          "disponible": "138.06"
+          "precio": 976.1,
+          "comerciante": "tineoc0301",
+          "min": "10000",
+          "max": "200000",
+          "disponible": "11.03"
         }
       ]
     }
   },
-  "brecha_pct": 12.17
+  "brecha_pct": 12.14
 }
