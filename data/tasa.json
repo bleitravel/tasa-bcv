@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-04T06:04:39+00:00",
-  "actualizado_ve": "2026-10-04T02:04:39-04:00",
+  "actualizado_utc": "2026-10-04T12:35:23+00:00",
+  "actualizado_ve": "2026-10-04T08:35:23-04:00",
   "bcv": {
     "usd": 871.3689,
     "eur": 981.17880877,
@@ -10,40 +10,19 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 974.0642,
+    "referencia": 974.12,
     "venta": {
-      "promedio": 974.0642,
-      "minimo": 974.0,
-      "maximo": 974.15,
+      "promedio": 974.12,
+      "minimo": 973.6,
+      "maximo": 975.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 974.15,
-          "comerciante": "Don-Cangrejo",
-          "min": "5000000",
-          "max": "36450000",
-          "disponible": "5285.57"
-        },
-        {
-          "precio": 974.1,
-          "comerciante": "Inversiones-ADSC",
-          "min": "1500000",
-          "max": "36450000",
-          "disponible": "43322.38"
-        },
-        {
-          "precio": 974.062,
-          "comerciante": "-Ledger-",
-          "min": "1000000",
-          "max": "36450000",
-          "disponible": "80000.00"
-        },
-        {
-          "precio": 974.009,
-          "comerciante": "Goliat1510",
-          "min": "500000",
-          "max": "36450000",
-          "disponible": "2042.61"
+          "precio": 975.0,
+          "comerciante": "GAleja1011",
+          "min": "1930000",
+          "max": "1932000",
+          "disponible": "1989.00"
         },
         {
           "precio": 974.0,
@@ -51,49 +30,70 @@
           "min": "300",
           "max": "98000",
           "disponible": "0.38"
+        },
+        {
+          "precio": 974.0,
+          "comerciante": "Buttonario",
+          "min": "229000",
+          "max": "4000000",
+          "disponible": "236.00"
+        },
+        {
+          "precio": 974.0,
+          "comerciante": "Rous_Only",
+          "min": "5000000",
+          "max": "17528000",
+          "disponible": "9523.54"
+        },
+        {
+          "precio": 973.6,
+          "comerciante": "-Ledger-",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "41518.52"
         }
       ]
     },
     "compra": {
-      "promedio": 977.3946,
-      "minimo": 975.583,
-      "maximo": 978.0,
+      "promedio": 976.7998,
+      "minimo": 976.0,
+      "maximo": 977.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 975.583,
-          "comerciante": "5D Economics",
-          "min": "100000",
-          "max": "100500",
-          "disponible": "103.07"
+          "precio": 976.0,
+          "comerciante": "Victordhd",
+          "min": "976",
+          "max": "225543",
+          "disponible": "121.79"
         },
         {
-          "precio": 977.5,
-          "comerciante": "MFX_Exchange",
-          "min": "300000",
-          "max": "3000000",
-          "disponible": "3093.17"
+          "precio": 976.999,
+          "comerciante": "VIPChanges",
+          "min": "3000000",
+          "max": "36450000",
+          "disponible": "4390.85"
         },
         {
-          "precio": 977.9,
-          "comerciante": "Danielajcg",
-          "min": "1000",
-          "max": "100000",
-          "disponible": "1.99"
+          "precio": 977.0,
+          "comerciante": "GemitaP2p",
+          "min": "98000",
+          "max": "98001",
+          "disponible": "100.74"
         },
         {
-          "precio": 977.99,
-          "comerciante": "AquilesArturo",
-          "min": "100000",
-          "max": "20000000",
-          "disponible": "194.17"
+          "precio": 977.0,
+          "comerciante": "trade-key",
+          "min": "2000000",
+          "max": "36450000",
+          "disponible": "4917.32"
         },
         {
-          "precio": 978.0,
-          "comerciante": "Exchange_AP",
+          "precio": 977.0,
+          "comerciante": "MzVesP2P",
           "min": "500000",
-          "max": "900000",
-          "disponible": "851.86"
+          "max": "14000000",
+          "disponible": "664.69"
         }
       ]
     }
