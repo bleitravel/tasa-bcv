@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-04T17:08:51+00:00",
-  "actualizado_ve": "2026-10-04T13:08:51-04:00",
+  "actualizado_utc": "2026-10-04T20:15:19+00:00",
+  "actualizado_ve": "2026-10-04T16:15:19-04:00",
   "bcv": {
     "usd": 871.3689,
     "eur": 981.17880877,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 977.0002,
+    "referencia": 976.782,
     "venta": {
-      "promedio": 977.0002,
-      "minimo": 975.0,
+      "promedio": 976.782,
+      "minimo": 974.7,
       "maximo": 980.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -21,82 +21,82 @@
           "precio": 980.0,
           "comerciante": "你就变得更强",
           "min": "500000",
-          "max": "36450000",
-          "disponible": "78463.66"
+          "max": "29739000",
+          "disponible": "29797.11"
         },
         {
           "precio": 979.5,
           "comerciante": "Amaev_cripto",
           "min": "1000000",
           "max": "36000000",
-          "disponible": "73779.84"
-        },
-        {
-          "precio": 975.5,
-          "comerciante": "BlackVaultt",
-          "min": "300000",
-          "max": "4000000",
-          "disponible": "3600.00"
-        },
-        {
-          "precio": 975.001,
-          "comerciante": "蛋糕是个谎言",
-          "min": "500000",
-          "max": "36450000",
-          "disponible": "23968.22"
+          "disponible": "54878.85"
         },
         {
           "precio": 975.0,
-          "comerciante": "CoorpLogistic",
-          "min": "14000000",
-          "max": "36000000",
-          "disponible": "15030.00"
+          "comerciante": "蛋糕是个谎言",
+          "min": "500000",
+          "max": "36450000",
+          "disponible": "9480.62"
+        },
+        {
+          "precio": 974.71,
+          "comerciante": "Inversiones-ADSC",
+          "min": "10000000",
+          "max": "36450000",
+          "disponible": "80000.00"
+        },
+        {
+          "precio": 974.7,
+          "comerciante": "Blank_Mind",
+          "min": "8000000",
+          "max": "36450000",
+          "disponible": "70000.00"
         }
       ]
     },
     "compra": {
-      "promedio": 975.54,
-      "minimo": 975.0,
-      "maximo": 976.2,
+      "promedio": 973.1062,
+      "minimo": 972.91,
+      "maximo": 973.222,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 975.0,
-          "comerciante": "JormanB",
-          "min": "24000",
-          "max": "24001",
-          "disponible": "99.75"
+          "precio": 972.91,
+          "comerciante": "adrubita",
+          "min": "1345000",
+          "max": "10000000",
+          "disponible": "1499.07"
         },
         {
-          "precio": 975.0,
-          "comerciante": "MACHUuuuu",
-          "min": "3750",
-          "max": "3760",
-          "disponible": "99.75"
+          "precio": 973.0,
+          "comerciante": "CepedaYJ17",
+          "min": "500000",
+          "max": "6800000",
+          "disponible": "6273.78"
         },
         {
-          "precio": 975.5,
-          "comerciante": "Cambios_flash",
-          "min": "10000",
-          "max": "4000000",
-          "disponible": "13.57"
+          "precio": 973.199,
+          "comerciante": "JDCAPITAL-HOLDING",
+          "min": "100000",
+          "max": "7000000",
+          "disponible": "368.89"
         },
         {
-          "precio": 976.0,
-          "comerciante": "Broker Trader",
-          "min": "19120",
-          "max": "19121",
-          "disponible": "104.73"
+          "precio": 973.2,
+          "comerciante": "GabyGaby12",
+          "min": "2000000",
+          "max": "2647000",
+          "disponible": "2714.57"
         },
         {
-          "precio": 976.2,
-          "comerciante": "Dariingy124",
-          "min": "10000",
-          "max": "4000000",
-          "disponible": "44.49"
+          "precio": 973.222,
+          "comerciante": "LanaCattleya",
+          "min": "2000000",
+          "max": "3800000",
+          "disponible": "2894.21"
         }
       ]
     }
   },
-  "brecha_pct": 12.12
+  "brecha_pct": 12.1
 }
