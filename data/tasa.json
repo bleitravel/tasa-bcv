@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-05T09:16:14+00:00",
-  "actualizado_ve": "2026-10-05T05:16:14-04:00",
+  "actualizado_utc": "2026-10-05T18:36:37+00:00",
+  "actualizado_ve": "2026-10-05T14:36:37-04:00",
   "bcv": {
     "usd": 871.3689,
     "eur": 981.17880877,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 972.7352,
+    "referencia": 986.64,
     "venta": {
-      "promedio": 972.7352,
-      "minimo": 972.32,
-      "maximo": 973.455,
+      "promedio": 986.64,
+      "minimo": 986.3,
+      "maximo": 987.5,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 973.455,
-          "comerciante": "TheMEG4",
-          "min": "300",
-          "max": "96700",
-          "disponible": "100.25"
+          "precio": 987.5,
+          "comerciante": "DOCTOR_CAMBIO",
+          "min": "36450000",
+          "max": "1380000000",
+          "disponible": "180000.00"
         },
         {
-          "precio": 973.001,
-          "comerciante": "CAMBIOSJFG",
-          "min": "380000",
+          "precio": 986.5,
+          "comerciante": "TPhillips",
+          "min": "7000000",
           "max": "36450000",
-          "disponible": "17521.15"
+          "disponible": "80000.00"
         },
         {
-          "precio": 972.5,
-          "comerciante": "ElCoronelDelCambio",
-          "min": "500000",
+          "precio": 986.5,
+          "comerciante": "Cross-26",
+          "min": "7000000",
+          "max": "36400000",
+          "disponible": "80000.00"
+        },
+        {
+          "precio": 986.4,
+          "comerciante": "Cambio_Ganador",
+          "min": "2000000",
           "max": "4000000",
-          "disponible": "5353.53"
+          "disponible": "13953.37"
         },
         {
-          "precio": 972.4,
-          "comerciante": "EverCryptoUSDT ",
-          "min": "800000",
-          "max": "10746937",
-          "disponible": "1105.00"
-        },
-        {
-          "precio": 972.32,
-          "comerciante": "永不放棄",
-          "min": "1000000",
-          "max": "9088000",
-          "disponible": "3695.46"
+          "precio": 986.3,
+          "comerciante": "El chino USDT",
+          "min": "900000",
+          "max": "4000000",
+          "disponible": "11170.06"
         }
       ]
     },
     "compra": {
-      "promedio": 974.4596,
-      "minimo": 972.999,
-      "maximo": 976.399,
+      "promedio": 986.2188,
+      "minimo": 985.0,
+      "maximo": 986.699,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 972.999,
-          "comerciante": "Cdhackers",
+          "precio": 985.0,
+          "comerciante": "Belkand",
           "min": "300",
-          "max": "4000000",
-          "disponible": "22.90"
-        },
-        {
-          "precio": 973.0,
-          "comerciante": "Cleycp2p",
-          "min": "5000",
-          "max": "437870",
-          "disponible": "223.94"
-        },
-        {
-          "precio": 974.0,
-          "comerciante": "kront",
-          "min": "20000",
           "max": "1000000",
-          "disponible": "126.66"
+          "disponible": "0.35"
         },
         {
-          "precio": 975.9,
-          "comerciante": "Miners",
-          "min": "415000",
-          "max": "420000",
-          "disponible": "448.87"
+          "precio": 986.0,
+          "comerciante": "osma92",
+          "min": "200000",
+          "max": "4000000",
+          "disponible": "299.25"
         },
         {
-          "precio": 976.399,
-          "comerciante": "diegoramirez20",
-          "min": "100000",
+          "precio": 986.697,
+          "comerciante": "BalduinoIV",
+          "min": "4000000",
           "max": "36450000",
-          "disponible": "3774.65"
+          "disponible": "32134.59"
+        },
+        {
+          "precio": 986.698,
+          "comerciante": "MANTEQUILLAA",
+          "min": "4000000",
+          "max": "30000000",
+          "disponible": "28971.11"
+        },
+        {
+          "precio": 986.699,
+          "comerciante": "FastUSDTMc",
+          "min": "3000000",
+          "max": "14800100",
+          "disponible": "10459.52"
         }
       ]
     }
   },
-  "brecha_pct": 11.63
+  "brecha_pct": 13.23
 }
