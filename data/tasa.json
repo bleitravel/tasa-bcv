@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-04T23:19:33+00:00",
-  "actualizado_ve": "2026-10-04T19:19:33-04:00",
+  "actualizado_utc": "2026-10-05T02:08:57+00:00",
+  "actualizado_ve": "2026-10-04T22:08:57-04:00",
   "bcv": {
     "usd": 871.3689,
     "eur": 981.17880877,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 973.874,
+    "referencia": 978.742,
     "venta": {
-      "promedio": 973.874,
-      "minimo": 973.55,
-      "maximo": 975.0,
+      "promedio": 978.742,
+      "minimo": 974.21,
+      "maximo": 989.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 975.0,
-          "comerciante": "P2P-596798ia",
-          "min": "2300000",
+          "precio": 989.0,
+          "comerciante": "jaison1064",
+          "min": "300",
           "max": "4000000",
-          "disponible": "8200.00"
+          "disponible": "100.00"
         },
         {
-          "precio": 973.62,
-          "comerciante": "Inversiones-ADSC",
+          "precio": 979.5,
+          "comerciante": "Amaev_cripto",
+          "min": "1000000",
+          "max": "36000000",
+          "disponible": "74277.27"
+        },
+        {
+          "precio": 976.0,
+          "comerciante": "CoorpLogistic",
+          "min": "14000000",
+          "max": "36000000",
+          "disponible": "15030.00"
+        },
+        {
+          "precio": 975.0,
+          "comerciante": "Rapidflorio84",
+          "min": "5000000",
+          "max": "36000000",
+          "disponible": "24990.83"
+        },
+        {
+          "precio": 974.21,
+          "comerciante": "GAMBINO-",
           "min": "10000000",
           "max": "36450000",
-          "disponible": "46103.77"
-        },
-        {
-          "precio": 973.6,
-          "comerciante": "Brawcoins",
-          "min": "5000000",
-          "max": "36450000",
-          "disponible": "44601.18"
-        },
-        {
-          "precio": 973.6,
-          "comerciante": "Blank_Mind",
-          "min": "8000000",
-          "max": "36450000",
-          "disponible": "8229.60"
-        },
-        {
-          "precio": 973.55,
-          "comerciante": "Holy_Spirit_",
-          "min": "5000000",
-          "max": "36450000",
-          "disponible": "80000.00"
+          "disponible": "50000.00"
         }
       ]
     },
     "compra": {
-      "promedio": 973.7746,
-      "minimo": 973.5,
-      "maximo": 973.99,
+      "promedio": 975.4,
+      "minimo": 975.0,
+      "maximo": 976.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 973.5,
-          "comerciante": "LIDER24",
+          "precio": 975.0,
+          "comerciante": "Nanojesus97",
+          "min": "900",
+          "max": "45000",
+          "disponible": "3.66"
+        },
+        {
+          "precio": 975.0,
+          "comerciante": "-TuCambioseguroo-",
+          "min": "460000",
+          "max": "1000000",
+          "disponible": "1047.38"
+        },
+        {
+          "precio": 975.0,
+          "comerciante": "DanielMalave",
+          "min": "100000",
+          "max": "975000",
+          "disponible": "201.89"
+        },
+        {
+          "precio": 976.0,
+          "comerciante": "balebar",
           "min": "10000",
-          "max": "50000",
-          "disponible": "907.68"
+          "max": "4000000",
+          "disponible": "13.69"
         },
         {
-          "precio": 973.61,
-          "comerciante": "adrubita",
-          "min": "971000",
-          "max": "10000000",
-          "disponible": "998.00"
-        },
-        {
-          "precio": 973.885,
-          "comerciante": "RashoMcQueen",
-          "min": "1000000",
-          "max": "3000000",
-          "disponible": "1266.76"
-        },
-        {
-          "precio": 973.888,
-          "comerciante": "ledezmagm",
-          "min": "1000000",
-          "max": "19000000",
-          "disponible": "6207.58"
-        },
-        {
-          "precio": 973.99,
-          "comerciante": "Mmarc",
-          "min": "10000",
-          "max": "80000",
-          "disponible": "39.44"
+          "precio": 976.0,
+          "comerciante": "CAMBIOS_AMARCOD",
+          "min": "300",
+          "max": "110000",
+          "disponible": "1.07"
         }
       ]
     }
   },
-  "brecha_pct": 11.76
+  "brecha_pct": 12.32
 }
