@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-06T06:36:35+00:00",
-  "actualizado_ve": "2026-10-06T02:36:35-04:00",
+  "actualizado_utc": "2026-10-06T13:43:02+00:00",
+  "actualizado_ve": "2026-10-06T09:43:02-04:00",
   "bcv": {
     "usd": 872.3927,
     "eur": 977.21940683,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 984.3,
+    "referencia": 990.672,
     "venta": {
-      "promedio": 984.3,
-      "minimo": 983.6,
-      "maximo": 985.8,
+      "promedio": 990.672,
+      "minimo": 990.2,
+      "maximo": 991.5,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 985.8,
-          "comerciante": "-AMATERATSU-",
-          "min": "3000000",
+          "precio": 991.5,
+          "comerciante": "angelchacon",
+          "min": "4000000",
           "max": "36450000",
-          "disponible": "50000.00"
+          "disponible": "75965.71"
         },
         {
-          "precio": 984.1,
-          "comerciante": "Criptohana",
-          "min": "3000000",
+          "precio": 990.6,
+          "comerciante": "Brawcoins",
+          "min": "7000000",
           "max": "36450000",
-          "disponible": "14737.76"
+          "disponible": "53800.18"
         },
         {
-          "precio": 984.0,
-          "comerciante": "Guillirber",
-          "min": "300",
-          "max": "43000",
-          "disponible": "1.83"
+          "precio": 990.56,
+          "comerciante": "SilverTraderX",
+          "min": "2000000",
+          "max": "20000000",
+          "disponible": "28752.81"
         },
         {
-          "precio": 984.0,
-          "comerciante": "Yhonnatan07",
-          "min": "300",
-          "max": "1000000",
-          "disponible": "0.73"
+          "precio": 990.5,
+          "comerciante": "RubenNYC",
+          "min": "5000000",
+          "max": "36000000",
+          "disponible": "30000.00"
         },
         {
-          "precio": 983.6,
-          "comerciante": "ReadyToTrade_",
-          "min": "1001000",
-          "max": "36450000",
-          "disponible": "45000.00"
+          "precio": 990.2,
+          "comerciante": "安全与信任",
+          "min": "5000000",
+          "max": "36000000",
+          "disponible": "6278.58"
         }
       ]
     },
     "compra": {
-      "promedio": 987.2984,
-      "minimo": 986.0,
-      "maximo": 987.8,
+      "promedio": 988.97,
+      "minimo": 988.5,
+      "maximo": 989.35,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 986.0,
-          "comerciante": "pay56",
-          "min": "15000",
-          "max": "400000",
-          "disponible": "99.75"
-        },
-        {
-          "precio": 987.5,
-          "comerciante": "cryptogullo",
-          "min": "20000",
-          "max": "150000",
-          "disponible": "120.93"
-        },
-        {
-          "precio": 987.5,
-          "comerciante": "GlobalBusinessmx",
-          "min": "112929",
-          "max": "112930",
-          "disponible": "114.71"
-        },
-        {
-          "precio": 987.692,
-          "comerciante": "Yojacksonp",
-          "min": "10000",
-          "max": "245000",
-          "disponible": "208.90"
-        },
-        {
-          "precio": 987.8,
-          "comerciante": "GG-Cripto96",
-          "min": "600000",
+          "precio": 988.5,
+          "comerciante": "zaco10",
+          "min": "3000",
           "max": "4000000",
-          "disponible": "789.10"
+          "disponible": "3.04"
+        },
+        {
+          "precio": 989.0,
+          "comerciante": "roimy",
+          "min": "3000",
+          "max": "4000000",
+          "disponible": "4.09"
+        },
+        {
+          "precio": 989.0,
+          "comerciante": "Xavi0895",
+          "min": "197300",
+          "max": "197301",
+          "disponible": "199.50"
+        },
+        {
+          "precio": 989.0,
+          "comerciante": "Confianza_Dorada_P2P",
+          "min": "10000",
+          "max": "30000",
+          "disponible": "199.50"
+        },
+        {
+          "precio": 989.35,
+          "comerciante": "makalex123",
+          "min": "300",
+          "max": "600000",
+          "disponible": "0.71"
         }
       ]
     }
   },
-  "brecha_pct": 12.83
+  "brecha_pct": 13.56
 }
