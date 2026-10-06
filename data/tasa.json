@@ -1,102 +1,102 @@
 {
-  "actualizado_utc": "2026-10-05T18:36:37+00:00",
-  "actualizado_ve": "2026-10-05T14:36:37-04:00",
+  "actualizado_utc": "2026-10-06T00:25:45+00:00",
+  "actualizado_ve": "2026-10-05T20:25:45-04:00",
   "bcv": {
-    "usd": 871.3689,
-    "eur": 981.17880877,
-    "fecha_valor": "2026-10-05T00:00:00-04:00"
+    "usd": 872.3927,
+    "eur": 977.21940683,
+    "fecha_valor": "2026-10-06T00:00:00-04:00"
   },
   "binance_p2p": {
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 986.64,
+    "referencia": 986.25,
     "venta": {
-      "promedio": 986.64,
-      "minimo": 986.3,
-      "maximo": 987.5,
+      "promedio": 986.25,
+      "minimo": 985.5,
+      "maximo": 988.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 987.5,
-          "comerciante": "DOCTOR_CAMBIO",
-          "min": "36450000",
-          "max": "1380000000",
-          "disponible": "180000.00"
+          "precio": 988.0,
+          "comerciante": "angelchacon",
+          "min": "4000000",
+          "max": "36450000",
+          "disponible": "57442.57"
         },
         {
-          "precio": 986.5,
-          "comerciante": "TPhillips",
+          "precio": 986.0,
+          "comerciante": "Don-Cangrejo",
+          "min": "2000000",
+          "max": "36450000",
+          "disponible": "68658.20"
+        },
+        {
+          "precio": 986.0,
+          "comerciante": "CAMBIOS_ABG_WILMER_G",
+          "min": "300000",
+          "max": "788800",
+          "disponible": "800.00"
+        },
+        {
+          "precio": 985.75,
+          "comerciante": "MICHELITA_",
+          "min": "7000000",
+          "max": "36000000",
+          "disponible": "9616.70"
+        },
+        {
+          "precio": 985.5,
+          "comerciante": "Smolder-",
           "min": "7000000",
           "max": "36450000",
           "disponible": "80000.00"
-        },
-        {
-          "precio": 986.5,
-          "comerciante": "Cross-26",
-          "min": "7000000",
-          "max": "36400000",
-          "disponible": "80000.00"
-        },
-        {
-          "precio": 986.4,
-          "comerciante": "Cambio_Ganador",
-          "min": "2000000",
-          "max": "4000000",
-          "disponible": "13953.37"
-        },
-        {
-          "precio": 986.3,
-          "comerciante": "El chino USDT",
-          "min": "900000",
-          "max": "4000000",
-          "disponible": "11170.06"
         }
       ]
     },
     "compra": {
-      "promedio": 986.2188,
-      "minimo": 985.0,
-      "maximo": 986.699,
+      "promedio": 984.1764,
+      "minimo": 982.999,
+      "maximo": 984.99,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 985.0,
-          "comerciante": "Belkand",
+          "precio": 982.999,
+          "comerciante": "Basstew",
           "min": "300",
-          "max": "1000000",
-          "disponible": "0.35"
-        },
-        {
-          "precio": 986.0,
-          "comerciante": "osma92",
-          "min": "200000",
           "max": "4000000",
-          "disponible": "299.25"
+          "disponible": "1.25"
         },
         {
-          "precio": 986.697,
-          "comerciante": "BalduinoIV",
-          "min": "4000000",
-          "max": "36450000",
-          "disponible": "32134.59"
+          "precio": 983.999,
+          "comerciante": "STROMR06",
+          "min": "2000",
+          "max": "130847",
+          "disponible": "4.80"
         },
         {
-          "precio": 986.698,
-          "comerciante": "MANTEQUILLAA",
-          "min": "4000000",
-          "max": "30000000",
-          "disponible": "28971.11"
+          "precio": 984.0,
+          "comerciante": "Wt1979",
+          "min": "500",
+          "max": "150000",
+          "disponible": "1.00"
         },
         {
-          "precio": 986.699,
-          "comerciante": "FastUSDTMc",
-          "min": "3000000",
-          "max": "14800100",
-          "disponible": "10459.52"
+          "precio": 984.894,
+          "comerciante": "Nelsonl24",
+          "min": "300",
+          "max": "264000",
+          "disponible": "1.16"
+        },
+        {
+          "precio": 984.99,
+          "comerciante": "Pedrodv16",
+          "min": "87660",
+          "max": "87665",
+          "disponible": "99.75"
         }
       ]
     }
   },
-  "brecha_pct": 13.23
+  "brecha_pct": 13.05
 }
