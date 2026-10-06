@@ -1,102 +1,102 @@
 {
-  "actualizado_utc": "2026-10-06T19:09:48+00:00",
-  "actualizado_ve": "2026-10-06T15:09:48-04:00",
+  "actualizado_utc": "2026-10-06T23:07:52+00:00",
+  "actualizado_ve": "2026-10-06T19:07:52-04:00",
   "bcv": {
-    "usd": 872.3927,
-    "eur": 977.21940683,
-    "fecha_valor": "2026-10-06T00:00:00-04:00"
+    "usd": 873.867,
+    "eur": 984.26261811,
+    "fecha_valor": "2026-10-07T00:00:00-04:00"
   },
   "binance_p2p": {
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 995.94,
+    "referencia": 997.382,
     "venta": {
-      "promedio": 995.94,
-      "minimo": 995.6,
-      "maximo": 996.4,
+      "promedio": 997.382,
+      "minimo": 997.11,
+      "maximo": 998.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 996.4,
-          "comerciante": "Skayle Pago",
-          "min": "500000",
-          "max": "1500000",
-          "disponible": "1500.00"
+          "precio": 998.0,
+          "comerciante": "Snayderk",
+          "min": "204500",
+          "max": "204700",
+          "disponible": "250.00"
         },
         {
-          "precio": 996.1,
-          "comerciante": "Express_VE",
-          "min": "1600000",
-          "max": "4000000",
-          "disponible": "4443.95"
-        },
-        {
-          "precio": 996.0,
+          "precio": 997.5,
           "comerciante": "安全与信任",
+          "min": "36450000",
+          "max": "500000000",
+          "disponible": "105000.00"
+        },
+        {
+          "precio": 997.15,
+          "comerciante": "securitylc",
           "min": "10000000",
+          "max": "36450000",
+          "disponible": "39971.42"
+        },
+        {
+          "precio": 997.15,
+          "comerciante": "安全与信任",
+          "min": "4000000",
           "max": "36000000",
-          "disponible": "47300.00"
+          "disponible": "36233.71"
         },
         {
-          "precio": 995.6,
-          "comerciante": "GR_SS",
-          "min": "1000000",
-          "max": "4000000",
-          "disponible": "4394.58"
-        },
-        {
-          "precio": 995.6,
+          "precio": 997.11,
           "comerciante": "YGinversiones",
           "min": "5000000",
           "max": "36350000",
-          "disponible": "43677.26"
+          "disponible": "35000.00"
         }
       ]
     },
     "compra": {
-      "promedio": 994.4766,
-      "minimo": 986.0,
-      "maximo": 996.7,
+      "promedio": 996.5994,
+      "minimo": 996.0,
+      "maximo": 997.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 986.0,
-          "comerciante": "sagon33",
+          "precio": 996.0,
+          "comerciante": "User-881a0",
+          "min": "48000",
+          "max": "500000",
+          "disponible": "106.06"
+        },
+        {
+          "precio": 996.0,
+          "comerciante": "Much_Dolar",
+          "min": "210000",
+          "max": "400000",
+          "disponible": "259.35"
+        },
+        {
+          "precio": 996.998,
+          "comerciante": "VelociCambiosMx",
+          "min": "198800",
+          "max": "198801",
+          "disponible": "221.88"
+        },
+        {
+          "precio": 996.999,
+          "comerciante": "EQuickChange",
+          "min": "10000",
+          "max": "1500000",
+          "disponible": "79.49"
+        },
+        {
+          "precio": 997.0,
+          "comerciante": "CCsita",
           "min": "300",
-          "max": "4000000",
-          "disponible": "13.23"
-        },
-        {
-          "precio": 996.485,
-          "comerciante": "yoyocaco73",
-          "min": "1200000",
-          "max": "1456000",
-          "disponible": "1366.65"
-        },
-        {
-          "precio": 996.499,
-          "comerciante": "YisusCambios",
-          "min": "3000000",
-          "max": "36450000",
-          "disponible": "4949.33"
-        },
-        {
-          "precio": 996.699,
-          "comerciante": "CHATGPTT",
-          "min": "600000",
-          "max": "36450000",
-          "disponible": "1076.45"
-        },
-        {
-          "precio": 996.7,
-          "comerciante": "MC30TRADE",
-          "min": "2000000",
-          "max": "15000000",
-          "disponible": "5979.88"
+          "max": "50000",
+          "disponible": "1.14"
         }
       ]
     }
   },
-  "brecha_pct": 14.16
+  "brecha_pct": 14.13
 }
