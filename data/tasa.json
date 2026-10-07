@@ -1,102 +1,102 @@
 {
-  "actualizado_utc": "2026-10-07T16:44:00+00:00",
-  "actualizado_ve": "2026-10-07T12:44:00-04:00",
+  "actualizado_utc": "2026-10-07T21:40:25+00:00",
+  "actualizado_ve": "2026-10-07T17:40:25-04:00",
   "bcv": {
-    "usd": 873.867,
-    "eur": 984.26261811,
-    "fecha_valor": "2026-10-07T00:00:00-04:00"
+    "usd": 874.7321,
+    "eur": 979.0788922,
+    "fecha_valor": "2026-10-08T00:00:00-04:00"
   },
   "binance_p2p": {
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1006.701,
+    "referencia": 1010.86,
     "venta": {
-      "promedio": 1006.701,
-      "minimo": 1006.0,
-      "maximo": 1008.0,
+      "promedio": 1010.86,
+      "minimo": 1010.5,
+      "maximo": 1011.5,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1008.0,
+          "precio": 1011.5,
           "comerciante": "贝HarveySpecter贝",
-          "min": "5000000",
+          "min": "2000000",
           "max": "35000000",
+          "disponible": "34020.12"
+        },
+        {
+          "precio": 1011.0,
+          "comerciante": "被放逐的狐狸",
+          "min": "4000000",
+          "max": "34000000",
+          "disponible": "67000.06"
+        },
+        {
+          "precio": 1010.7,
+          "comerciante": "TPhillips",
+          "min": "10000000",
+          "max": "21350000",
+          "disponible": "21155.00"
+        },
+        {
+          "precio": 1010.6,
+          "comerciante": "CriptoseguroAyM",
+          "min": "2000000",
+          "max": "34000000",
           "disponible": "50000.00"
         },
         {
-          "precio": 1007.5,
-          "comerciante": "-JPMorgan-",
-          "min": "5000000",
-          "max": "36440000",
-          "disponible": "60000.00"
-        },
-        {
-          "precio": 1006.005,
-          "comerciante": "TOPlevelS",
-          "min": "5000000",
-          "max": "36000000",
-          "disponible": "51556.22"
-        },
-        {
-          "precio": 1006.0,
-          "comerciante": "被放逐的狐狸",
-          "min": "2000000",
-          "max": "34000000",
-          "disponible": "17026.21"
-        },
-        {
-          "precio": 1006.0,
-          "comerciante": "securitylc",
-          "min": "3000000",
-          "max": "36450000",
-          "disponible": "15244.90"
+          "precio": 1010.5,
+          "comerciante": "HMH-Trade",
+          "min": "500000",
+          "max": "20000000",
+          "disponible": "7915.24"
         }
       ]
     },
     "compra": {
-      "promedio": 1004.9998,
-      "minimo": 1004.999,
-      "maximo": 1005.0,
+      "promedio": 1008.2788,
+      "minimo": 1007.6,
+      "maximo": 1008.999,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1004.999,
-          "comerciante": "AlfredoVSL",
-          "min": "50000",
-          "max": "4000000",
-          "disponible": "99.75"
+          "precio": 1007.6,
+          "comerciante": "Gian_Cambios",
+          "min": "1000",
+          "max": "100760",
+          "disponible": "1.08"
         },
         {
-          "precio": 1005.0,
-          "comerciante": "Elturconegro",
-          "min": "300",
-          "max": "549340",
-          "disponible": "0.67"
+          "precio": 1008.0,
+          "comerciante": "Broker Trader",
+          "min": "19120",
+          "max": "19121",
+          "disponible": "85.78"
         },
         {
-          "precio": 1005.0,
-          "comerciante": "P2P-3bdc91dd",
-          "min": "10000",
-          "max": "4000000",
-          "disponible": "16.48"
+          "precio": 1008.0,
+          "comerciante": "imp2p",
+          "min": "500000",
+          "max": "10000000",
+          "disponible": "5722.18"
         },
         {
-          "precio": 1005.0,
-          "comerciante": "LIDER24",
-          "min": "10000",
-          "max": "50000",
-          "disponible": "284.83"
+          "precio": 1008.795,
+          "comerciante": "JugadorFranquiicia1",
+          "min": "3500000",
+          "max": "36450000",
+          "disponible": "3469.87"
         },
         {
-          "precio": 1005.0,
-          "comerciante": "escalonacambio",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "130.22"
+          "precio": 1008.999,
+          "comerciante": "eglyshot24",
+          "min": "222442",
+          "max": "3000000",
+          "disponible": "220.45"
         }
       ]
     }
   },
-  "brecha_pct": 15.2
+  "brecha_pct": 15.56
 }
