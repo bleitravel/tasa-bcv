@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-06T23:07:52+00:00",
-  "actualizado_ve": "2026-10-06T19:07:52-04:00",
+  "actualizado_utc": "2026-10-07T02:30:21+00:00",
+  "actualizado_ve": "2026-10-06T22:30:21-04:00",
   "bcv": {
     "usd": 873.867,
     "eur": 984.26261811,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 997.382,
+    "referencia": 998.881,
     "venta": {
-      "promedio": 997.382,
-      "minimo": 997.11,
-      "maximo": 998.0,
+      "promedio": 998.881,
+      "minimo": 998.6,
+      "maximo": 999.005,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 998.0,
-          "comerciante": "Snayderk",
-          "min": "204500",
-          "max": "204700",
-          "disponible": "250.00"
-        },
-        {
-          "precio": 997.5,
-          "comerciante": "安全与信任",
-          "min": "36450000",
-          "max": "500000000",
-          "disponible": "105000.00"
-        },
-        {
-          "precio": 997.15,
-          "comerciante": "securitylc",
-          "min": "10000000",
-          "max": "36450000",
-          "disponible": "39971.42"
-        },
-        {
-          "precio": 997.15,
-          "comerciante": "安全与信任",
-          "min": "4000000",
-          "max": "36000000",
-          "disponible": "36233.71"
-        },
-        {
-          "precio": 997.11,
-          "comerciante": "YGinversiones",
+          "precio": 999.005,
+          "comerciante": "Trust-Broker",
           "min": "5000000",
-          "max": "36350000",
-          "disponible": "35000.00"
+          "max": "36450000",
+          "disponible": "30000.00"
+        },
+        {
+          "precio": 999.0,
+          "comerciante": "HectorB",
+          "min": "12000000",
+          "max": "36000000",
+          "disponible": "26111.63"
+        },
+        {
+          "precio": 999.0,
+          "comerciante": "上天保佑",
+          "min": "1000000",
+          "max": "4000000",
+          "disponible": "3000.00"
+        },
+        {
+          "precio": 998.8,
+          "comerciante": "PEJAGOBLA",
+          "min": "7000000",
+          "max": "36400000",
+          "disponible": "80000.00"
+        },
+        {
+          "precio": 998.6,
+          "comerciante": "-Tyrion-Lannister-",
+          "min": "2000000",
+          "max": "36450000",
+          "disponible": "17000.00"
         }
       ]
     },
     "compra": {
-      "promedio": 996.5994,
-      "minimo": 996.0,
-      "maximo": 997.0,
+      "promedio": 998.7,
+      "minimo": 998.0,
+      "maximo": 999.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 996.0,
-          "comerciante": "User-881a0",
-          "min": "48000",
-          "max": "500000",
-          "disponible": "106.06"
+          "precio": 998.0,
+          "comerciante": "Yousberth2907",
+          "min": "98900",
+          "max": "99000",
+          "disponible": "99.75"
         },
         {
-          "precio": 996.0,
-          "comerciante": "Much_Dolar",
-          "min": "210000",
+          "precio": 998.5,
+          "comerciante": "José Gabrieljc",
+          "min": "35000",
+          "max": "700000",
+          "disponible": "97.35"
+        },
+        {
+          "precio": 999.0,
+          "comerciante": "DIAMOND_ArK",
+          "min": "50000",
+          "max": "270000",
+          "disponible": "106.74"
+        },
+        {
+          "precio": 999.0,
+          "comerciante": "Nelita09",
+          "min": "99000",
+          "max": "4000000",
+          "disponible": "99.76"
+        },
+        {
+          "precio": 999.0,
+          "comerciante": "Business-ExchangeJM",
+          "min": "86000",
           "max": "400000",
-          "disponible": "259.35"
-        },
-        {
-          "precio": 996.998,
-          "comerciante": "VelociCambiosMx",
-          "min": "198800",
-          "max": "198801",
-          "disponible": "221.88"
-        },
-        {
-          "precio": 996.999,
-          "comerciante": "EQuickChange",
-          "min": "10000",
-          "max": "1500000",
-          "disponible": "79.49"
-        },
-        {
-          "precio": 997.0,
-          "comerciante": "CCsita",
-          "min": "300",
-          "max": "50000",
-          "disponible": "1.14"
+          "disponible": "169.57"
         }
       ]
     }
   },
-  "brecha_pct": 14.13
+  "brecha_pct": 14.31
 }
