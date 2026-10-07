@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-07T09:26:54+00:00",
-  "actualizado_ve": "2026-10-07T05:26:54-04:00",
+  "actualizado_utc": "2026-10-07T16:44:00+00:00",
+  "actualizado_ve": "2026-10-07T12:44:00-04:00",
   "bcv": {
     "usd": 873.867,
     "eur": 984.26261811,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 997.2014,
+    "referencia": 1006.701,
     "venta": {
-      "promedio": 997.2014,
-      "minimo": 996.8,
-      "maximo": 998.0,
+      "promedio": 1006.701,
+      "minimo": 1006.0,
+      "maximo": 1008.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 998.0,
-          "comerciante": "Studio Arq",
+          "precio": 1008.0,
+          "comerciante": "贝HarveySpecter贝",
+          "min": "5000000",
+          "max": "35000000",
+          "disponible": "50000.00"
+        },
+        {
+          "precio": 1007.5,
+          "comerciante": "-JPMorgan-",
+          "min": "5000000",
+          "max": "36440000",
+          "disponible": "60000.00"
+        },
+        {
+          "precio": 1006.005,
+          "comerciante": "TOPlevelS",
+          "min": "5000000",
+          "max": "36000000",
+          "disponible": "51556.22"
+        },
+        {
+          "precio": 1006.0,
+          "comerciante": "被放逐的狐狸",
+          "min": "2000000",
+          "max": "34000000",
+          "disponible": "17026.21"
+        },
+        {
+          "precio": 1006.0,
+          "comerciante": "securitylc",
           "min": "3000000",
-          "max": "4000000",
-          "disponible": "6749.00"
-        },
-        {
-          "precio": 997.2,
-          "comerciante": "Mr Day Leo",
-          "min": "700000",
-          "max": "2000000",
-          "disponible": "4700.00"
-        },
-        {
-          "precio": 997.007,
-          "comerciante": "VISÓN CRIPTØ",
-          "min": "500000",
           "max": "36450000",
-          "disponible": "44898.82"
-        },
-        {
-          "precio": 997.0,
-          "comerciante": "Steeft4",
-          "min": "400000",
-          "max": "10000000",
-          "disponible": "6844.02"
-        },
-        {
-          "precio": 996.8,
-          "comerciante": "_TRADER_BOSS__",
-          "min": "600000",
-          "max": "36450000",
-          "disponible": "3100.00"
+          "disponible": "15244.90"
         }
       ]
     },
     "compra": {
-      "promedio": 999.7978,
-      "minimo": 998.99,
-      "maximo": 1000.0,
+      "promedio": 1004.9998,
+      "minimo": 1004.999,
+      "maximo": 1005.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 998.99,
-          "comerciante": "Davidtigre42",
-          "min": "80000",
-          "max": "268000",
-          "disponible": "169.22"
-        },
-        {
-          "precio": 999.999,
-          "comerciante": "fabita13",
-          "min": "1000",
-          "max": "628628",
-          "disponible": "5.96"
-        },
-        {
-          "precio": 1000.0,
-          "comerciante": "Nexgen_06",
-          "min": "360000",
-          "max": "4000000",
-          "disponible": "360.00"
-        },
-        {
-          "precio": 1000.0,
-          "comerciante": "CambioMaster06",
-          "min": "20000",
-          "max": "4000000",
-          "disponible": "38.13"
-        },
-        {
-          "precio": 1000.0,
-          "comerciante": "Alex4294",
+          "precio": 1004.999,
+          "comerciante": "AlfredoVSL",
           "min": "50000",
-          "max": "131120",
-          "disponible": "130.79"
+          "max": "4000000",
+          "disponible": "99.75"
+        },
+        {
+          "precio": 1005.0,
+          "comerciante": "Elturconegro",
+          "min": "300",
+          "max": "549340",
+          "disponible": "0.67"
+        },
+        {
+          "precio": 1005.0,
+          "comerciante": "P2P-3bdc91dd",
+          "min": "10000",
+          "max": "4000000",
+          "disponible": "16.48"
+        },
+        {
+          "precio": 1005.0,
+          "comerciante": "LIDER24",
+          "min": "10000",
+          "max": "50000",
+          "disponible": "284.83"
+        },
+        {
+          "precio": 1005.0,
+          "comerciante": "escalonacambio",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "130.22"
         }
       ]
     }
   },
-  "brecha_pct": 14.11
+  "brecha_pct": 15.2
 }
