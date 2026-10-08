@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-08T15:00:13+00:00",
-  "actualizado_ve": "2026-10-08T11:00:13-04:00",
+  "actualizado_utc": "2026-10-08T20:31:51+00:00",
+  "actualizado_ve": "2026-10-08T16:31:51-04:00",
   "bcv": {
     "usd": 874.7321,
     "eur": 979.0788922,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1020.0,
+    "referencia": 1021.201,
     "venta": {
-      "promedio": 1020.0,
-      "minimo": 1018.5,
-      "maximo": 1022.0,
+      "promedio": 1021.201,
+      "minimo": 1017.005,
+      "maximo": 1030.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1022.0,
-          "comerciante": "CoorpLogistic",
-          "min": "20500000",
-          "max": "36000000",
-          "disponible": "70100.00"
+          "precio": 1030.0,
+          "comerciante": "GAMBINO-",
+          "min": "3000000",
+          "max": "36450000",
+          "disponible": "55613.47"
         },
         {
-          "precio": 1020.5,
-          "comerciante": "TOPlevelS",
-          "min": "10000000",
-          "max": "36000000",
-          "disponible": "70200.89"
+          "precio": 1021.0,
+          "comerciante": "KaioSama16",
+          "min": "3000000",
+          "max": "36450000",
+          "disponible": "80000.00"
         },
         {
           "precio": 1020.0,
-          "comerciante": "GOMEZTUSOLUCION",
-          "min": "37000000",
-          "max": "300000000",
-          "disponible": "118489.69"
-        },
-        {
-          "precio": 1019.0,
-          "comerciante": "PEJAGOBLA",
-          "min": "10000000",
-          "max": "36400000",
-          "disponible": "69636.48"
-        },
-        {
-          "precio": 1018.5,
-          "comerciante": "-TonySoprano-",
-          "min": "8000000",
+          "comerciante": "你就变得更强",
+          "min": "1000000",
           "max": "36450000",
+          "disponible": "65631.24"
+        },
+        {
+          "precio": 1018.0,
+          "comerciante": "KaioSama16",
+          "min": "1500000",
+          "max": "20000000",
           "disponible": "80000.00"
+        },
+        {
+          "precio": 1017.005,
+          "comerciante": "Trust-Broker",
+          "min": "6000000",
+          "max": "36450000",
+          "disponible": "29219.67"
         }
       ]
     },
     "compra": {
-      "promedio": 1014.6,
-      "minimo": 1014.0,
-      "maximo": 1015.0,
+      "promedio": 1015.5196,
+      "minimo": 1015.0,
+      "maximo": 1015.999,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1014.0,
-          "comerciante": "Freylin21",
-          "min": "300",
-          "max": "124083",
-          "disponible": "0.29"
-        },
-        {
-          "precio": 1014.0,
-          "comerciante": "MACHUuuuu",
-          "min": "10000",
-          "max": "10001",
-          "disponible": "70.18"
-        },
-        {
           "precio": 1015.0,
-          "comerciante": "MasterCripto2",
-          "min": "300",
+          "comerciante": "CriptoCambiochp",
+          "min": "500",
           "max": "4000000",
-          "disponible": "0.49"
+          "disponible": "69.14"
         },
         {
           "precio": 1015.0,
-          "comerciante": "Inteligencia3",
-          "min": "20340",
-          "max": "20500",
-          "disponible": "79.72"
-        },
-        {
-          "precio": 1015.0,
-          "comerciante": "Neptali Coin",
-          "min": "39000",
-          "max": "40300",
+          "comerciante": "Lmnr26",
+          "min": "101000",
+          "max": "1800000",
           "disponible": "99.75"
+        },
+        {
+          "precio": 1015.799,
+          "comerciante": "VelociCambiosMx",
+          "min": "153000",
+          "max": "153001",
+          "disponible": "199.81"
+        },
+        {
+          "precio": 1015.8,
+          "comerciante": "Wt1979",
+          "min": "500",
+          "max": "150000",
+          "disponible": "0.59"
+        },
+        {
+          "precio": 1015.999,
+          "comerciante": "CheoTraderP2P",
+          "min": "400",
+          "max": "1000000",
+          "disponible": "0.94"
         }
       ]
     }
   },
-  "brecha_pct": 16.61
+  "brecha_pct": 16.74
 }
