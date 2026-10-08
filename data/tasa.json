@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-08T01:23:43+00:00",
-  "actualizado_ve": "2026-10-07T21:23:43-04:00",
+  "actualizado_utc": "2026-10-08T07:36:15+00:00",
+  "actualizado_ve": "2026-10-08T03:36:15-04:00",
   "bcv": {
     "usd": 874.7321,
     "eur": 979.0788922,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1021.8284,
+    "referencia": 1014.4082,
     "venta": {
-      "promedio": 1021.8284,
-      "minimo": 1019.5,
-      "maximo": 1030.89,
+      "promedio": 1014.4082,
+      "minimo": 1013.5,
+      "maximo": 1015.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1030.89,
-          "comerciante": "User-1ac89",
+          "precio": 1015.0,
+          "comerciante": "你就变得更强",
+          "min": "3000000",
+          "max": "36450000",
+          "disponible": "80000.00"
+        },
+        {
+          "precio": 1015.0,
+          "comerciante": "ariannyp",
+          "min": "200000",
+          "max": "507500",
+          "disponible": "500.00"
+        },
+        {
+          "precio": 1015.0,
+          "comerciante": "S3bss_Exchang3",
           "min": "500000",
-          "max": "4000000",
-          "disponible": "3380.06"
+          "max": "3600000",
+          "disponible": "1264.30"
         },
         {
-          "precio": 1019.6,
-          "comerciante": "CriptoseguroAyM",
-          "min": "700000",
-          "max": "22337000",
-          "disponible": "21907.00"
+          "precio": 1013.541,
+          "comerciante": "TheMEG4",
+          "min": "10000",
+          "max": "96082",
+          "disponible": "38.23"
         },
         {
-          "precio": 1019.58,
-          "comerciante": "FUERZA_ELITE",
-          "min": "700000",
-          "max": "36000000",
-          "disponible": "6175.06"
-        },
-        {
-          "precio": 1019.572,
-          "comerciante": "JS_Valentine",
-          "min": "700000",
-          "max": "10000000",
-          "disponible": "2620.06"
-        },
-        {
-          "precio": 1019.5,
-          "comerciante": "贝HarveySpecter贝",
-          "min": "36450000",
-          "max": "100000000",
-          "disponible": "100000.00"
+          "precio": 1013.5,
+          "comerciante": "rrmadrid92",
+          "min": "10000",
+          "max": "1000000",
+          "disponible": "18.21"
         }
       ]
     },
     "compra": {
-      "promedio": 1015.7598,
-      "minimo": 1009.999,
-      "maximo": 1018.0,
+      "promedio": 1016.9798,
+      "minimo": 1015.0,
+      "maximo": 1017.49,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1009.999,
-          "comerciante": "Liberar-RAPIDO",
-          "min": "2000",
-          "max": "5000",
-          "disponible": "99.75"
-        },
-        {
           "precio": 1015.0,
-          "comerciante": "-TuCambioseguroo-",
-          "min": "1000000",
-          "max": "1010000",
-          "disponible": "1005.30"
-        },
-        {
-          "precio": 1017.8,
-          "comerciante": "TOMA__CASH",
-          "min": "300",
+          "comerciante": "Krisbel1402",
+          "min": "100000",
           "max": "4000000",
-          "disponible": "0.67"
+          "disponible": "190.88"
         },
         {
-          "precio": 1018.0,
-          "comerciante": "iraigris",
-          "min": "1000",
+          "precio": 1017.45,
+          "comerciante": "Cambios_Murp",
+          "min": "2000000",
+          "max": "36450000",
+          "disponible": "5510.83"
+        },
+        {
+          "precio": 1017.47,
+          "comerciante": "Wilcamach05",
+          "min": "50000",
           "max": "4000000",
-          "disponible": "1.46"
+          "disponible": "154.91"
         },
         {
-          "precio": 1018.0,
-          "comerciante": "GRAN_ROQUE",
-          "min": "5000",
-          "max": "356300",
-          "disponible": "16.05"
+          "precio": 1017.489,
+          "comerciante": "User-47c87",
+          "min": "20000",
+          "max": "203500",
+          "disponible": "199.50"
+        },
+        {
+          "precio": 1017.49,
+          "comerciante": "EverCryptoUSDT ",
+          "min": "3000000",
+          "max": "36450000",
+          "disponible": "14010.65"
         }
       ]
     }
   },
-  "brecha_pct": 16.82
+  "brecha_pct": 15.97
 }
