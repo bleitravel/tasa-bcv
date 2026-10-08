@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-07T21:40:25+00:00",
-  "actualizado_ve": "2026-10-07T17:40:25-04:00",
+  "actualizado_utc": "2026-10-08T01:23:43+00:00",
+  "actualizado_ve": "2026-10-07T21:23:43-04:00",
   "bcv": {
     "usd": 874.7321,
     "eur": 979.0788922,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1010.86,
+    "referencia": 1021.8284,
     "venta": {
-      "promedio": 1010.86,
-      "minimo": 1010.5,
-      "maximo": 1011.5,
+      "promedio": 1021.8284,
+      "minimo": 1019.5,
+      "maximo": 1030.89,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1011.5,
-          "comerciante": "贝HarveySpecter贝",
-          "min": "2000000",
-          "max": "35000000",
-          "disponible": "34020.12"
-        },
-        {
-          "precio": 1011.0,
-          "comerciante": "被放逐的狐狸",
-          "min": "4000000",
-          "max": "34000000",
-          "disponible": "67000.06"
-        },
-        {
-          "precio": 1010.7,
-          "comerciante": "TPhillips",
-          "min": "10000000",
-          "max": "21350000",
-          "disponible": "21155.00"
-        },
-        {
-          "precio": 1010.6,
-          "comerciante": "CriptoseguroAyM",
-          "min": "2000000",
-          "max": "34000000",
-          "disponible": "50000.00"
-        },
-        {
-          "precio": 1010.5,
-          "comerciante": "HMH-Trade",
+          "precio": 1030.89,
+          "comerciante": "User-1ac89",
           "min": "500000",
-          "max": "20000000",
-          "disponible": "7915.24"
+          "max": "4000000",
+          "disponible": "3380.06"
+        },
+        {
+          "precio": 1019.6,
+          "comerciante": "CriptoseguroAyM",
+          "min": "700000",
+          "max": "22337000",
+          "disponible": "21907.00"
+        },
+        {
+          "precio": 1019.58,
+          "comerciante": "FUERZA_ELITE",
+          "min": "700000",
+          "max": "36000000",
+          "disponible": "6175.06"
+        },
+        {
+          "precio": 1019.572,
+          "comerciante": "JS_Valentine",
+          "min": "700000",
+          "max": "10000000",
+          "disponible": "2620.06"
+        },
+        {
+          "precio": 1019.5,
+          "comerciante": "贝HarveySpecter贝",
+          "min": "36450000",
+          "max": "100000000",
+          "disponible": "100000.00"
         }
       ]
     },
     "compra": {
-      "promedio": 1008.2788,
-      "minimo": 1007.6,
-      "maximo": 1008.999,
+      "promedio": 1015.7598,
+      "minimo": 1009.999,
+      "maximo": 1018.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1007.6,
-          "comerciante": "Gian_Cambios",
+          "precio": 1009.999,
+          "comerciante": "Liberar-RAPIDO",
+          "min": "2000",
+          "max": "5000",
+          "disponible": "99.75"
+        },
+        {
+          "precio": 1015.0,
+          "comerciante": "-TuCambioseguroo-",
+          "min": "1000000",
+          "max": "1010000",
+          "disponible": "1005.30"
+        },
+        {
+          "precio": 1017.8,
+          "comerciante": "TOMA__CASH",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "0.67"
+        },
+        {
+          "precio": 1018.0,
+          "comerciante": "iraigris",
           "min": "1000",
-          "max": "100760",
-          "disponible": "1.08"
+          "max": "4000000",
+          "disponible": "1.46"
         },
         {
-          "precio": 1008.0,
-          "comerciante": "Broker Trader",
-          "min": "19120",
-          "max": "19121",
-          "disponible": "85.78"
-        },
-        {
-          "precio": 1008.0,
-          "comerciante": "imp2p",
-          "min": "500000",
-          "max": "10000000",
-          "disponible": "5722.18"
-        },
-        {
-          "precio": 1008.795,
-          "comerciante": "JugadorFranquiicia1",
-          "min": "3500000",
-          "max": "36450000",
-          "disponible": "3469.87"
-        },
-        {
-          "precio": 1008.999,
-          "comerciante": "eglyshot24",
-          "min": "222442",
-          "max": "3000000",
-          "disponible": "220.45"
+          "precio": 1018.0,
+          "comerciante": "GRAN_ROQUE",
+          "min": "5000",
+          "max": "356300",
+          "disponible": "16.05"
         }
       ]
     }
   },
-  "brecha_pct": 15.56
+  "brecha_pct": 16.82
 }
