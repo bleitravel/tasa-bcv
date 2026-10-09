@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-09T06:53:00+00:00",
-  "actualizado_ve": "2026-10-09T02:53:00-04:00",
+  "actualizado_utc": "2026-10-09T13:55:58+00:00",
+  "actualizado_ve": "2026-10-09T09:55:58-04:00",
   "bcv": {
     "usd": 875.6505,
     "eur": 980.61472543,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1015.434,
+    "referencia": 1019.801,
     "venta": {
-      "promedio": 1015.434,
-      "minimo": 1015.0,
-      "maximo": 1016.5,
+      "promedio": 1019.801,
+      "minimo": 1019.0,
+      "maximo": 1023.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1016.5,
-          "comerciante": "LOYALTY",
-          "min": "263211",
-          "max": "263212",
-          "disponible": "258.94"
-        },
-        {
-          "precio": 1015.67,
-          "comerciante": "Sue Turmero",
+          "precio": 1023.0,
+          "comerciante": "你就变得更强",
           "min": "1000000",
-          "max": "3000000",
-          "disponible": "3500.00"
+          "max": "36450000",
+          "disponible": "78044.97"
         },
         {
-          "precio": 1015.0,
-          "comerciante": "User-4d8f2d4u",
-          "min": "480999",
-          "max": "481000",
-          "disponible": "474.00"
+          "precio": 1019.005,
+          "comerciante": "Trust-Broker",
+          "min": "800000",
+          "max": "36450000",
+          "disponible": "11000.00"
         },
         {
-          "precio": 1015.0,
-          "comerciante": "Yosvelys",
-          "min": "990000",
-          "max": "1015000",
-          "disponible": "1000.00"
+          "precio": 1019.0,
+          "comerciante": "KaioSama16",
+          "min": "3000000",
+          "max": "36450000",
+          "disponible": "21041.49"
         },
         {
-          "precio": 1015.0,
-          "comerciante": "-AMATERATSU-",
-          "min": "300000",
-          "max": "27686000",
-          "disponible": "1148.48"
+          "precio": 1019.0,
+          "comerciante": "OGTLC",
+          "min": "10189999",
+          "max": "10190000",
+          "disponible": "10000.00"
+        },
+        {
+          "precio": 1019.0,
+          "comerciante": "Vitatech",
+          "min": "2000000",
+          "max": "14000000",
+          "disponible": "17539.18"
         }
       ]
     },
     "compra": {
-      "promedio": 1018.3796,
-      "minimo": 1017.999,
-      "maximo": 1018.999,
+      "promedio": 1015.7812,
+      "minimo": 1015.019,
+      "maximo": 1016.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1017.999,
-          "comerciante": "MRDIAZ03",
-          "min": "50000",
-          "max": "436880",
-          "disponible": "320.86"
-        },
-        {
-          "precio": 1018.0,
-          "comerciante": "User-38df5",
+          "precio": 1015.019,
+          "comerciante": "RossinRed",
           "min": "300",
-          "max": "1009285",
-          "disponible": "370.97"
+          "max": "138000",
+          "disponible": "181.44"
         },
         {
-          "precio": 1018.0,
-          "comerciante": "Walohers",
-          "min": "82500",
-          "max": "4000000",
-          "disponible": "282.72"
+          "precio": 1015.888,
+          "comerciante": "StarBusiness2",
+          "min": "2000000",
+          "max": "10000000",
+          "disponible": "2160.69"
         },
         {
-          "precio": 1018.9,
-          "comerciante": "Argenispc",
-          "min": "100000",
-          "max": "928000",
-          "disponible": "908.72"
+          "precio": 1015.999,
+          "comerciante": "CHATGPTT",
+          "min": "1500000",
+          "max": "36450000",
+          "disponible": "2781.89"
         },
         {
-          "precio": 1018.999,
-          "comerciante": "Alex2027",
-          "min": "33000",
-          "max": "160000",
-          "disponible": "151.57"
+          "precio": 1016.0,
+          "comerciante": "蒙神祝福者",
+          "min": "3000000",
+          "max": "36000000",
+          "disponible": "27009.79"
+        },
+        {
+          "precio": 1016.0,
+          "comerciante": "Herstellerin",
+          "min": "2000000",
+          "max": "36000000",
+          "disponible": "9151.59"
         }
       ]
     }
   },
-  "brecha_pct": 15.96
+  "brecha_pct": 16.46
 }
