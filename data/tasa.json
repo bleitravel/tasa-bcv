@@ -1,102 +1,102 @@
 {
-  "actualizado_utc": "2026-10-08T20:31:51+00:00",
-  "actualizado_ve": "2026-10-08T16:31:51-04:00",
+  "actualizado_utc": "2026-10-09T00:45:09+00:00",
+  "actualizado_ve": "2026-10-08T20:45:09-04:00",
   "bcv": {
-    "usd": 874.7321,
-    "eur": 979.0788922,
-    "fecha_valor": "2026-10-08T00:00:00-04:00"
+    "usd": 875.6505,
+    "eur": 980.61472543,
+    "fecha_valor": "2026-10-09T00:00:00-04:00"
   },
   "binance_p2p": {
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1021.201,
+    "referencia": 1021.678,
     "venta": {
-      "promedio": 1021.201,
-      "minimo": 1017.005,
-      "maximo": 1030.0,
+      "promedio": 1021.678,
+      "minimo": 1016.5,
+      "maximo": 1033.89,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1030.0,
-          "comerciante": "GAMBINO-",
-          "min": "3000000",
-          "max": "36450000",
-          "disponible": "55613.47"
+          "precio": 1033.89,
+          "comerciante": "User-1ac89",
+          "min": "500000",
+          "max": "4000000",
+          "disponible": "3868.00"
         },
         {
-          "precio": 1021.0,
-          "comerciante": "KaioSama16",
-          "min": "3000000",
-          "max": "36450000",
-          "disponible": "80000.00"
-        },
-        {
-          "precio": 1020.0,
+          "precio": 1023.0,
           "comerciante": "你就变得更强",
           "min": "1000000",
           "max": "36450000",
-          "disponible": "65631.24"
+          "disponible": "81217.94"
         },
         {
           "precio": 1018.0,
-          "comerciante": "KaioSama16",
-          "min": "1500000",
-          "max": "20000000",
-          "disponible": "80000.00"
+          "comerciante": "NEEMESIS",
+          "min": "250000",
+          "max": "36450000",
+          "disponible": "18197.65"
         },
         {
-          "precio": 1017.005,
-          "comerciante": "Trust-Broker",
-          "min": "6000000",
-          "max": "36450000",
-          "disponible": "29219.67"
+          "precio": 1017.0,
+          "comerciante": "Jcrypto_Cambiosve",
+          "min": "531000",
+          "max": "532000",
+          "disponible": "524.00"
+        },
+        {
+          "precio": 1016.5,
+          "comerciante": "mono",
+          "min": "1000000",
+          "max": "4000000",
+          "disponible": "3533.67"
         }
       ]
     },
     "compra": {
-      "promedio": 1015.5196,
+      "promedio": 1016.3798,
       "minimo": 1015.0,
-      "maximo": 1015.999,
+      "maximo": 1017.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
           "precio": 1015.0,
-          "comerciante": "CriptoCambiochp",
-          "min": "500",
+          "comerciante": "EbenezerAD20",
+          "min": "151750",
+          "max": "152250",
+          "disponible": "149.62"
+        },
+        {
+          "precio": 1016.0,
+          "comerciante": "Mauspeed",
+          "min": "1000000",
           "max": "4000000",
-          "disponible": "69.14"
+          "disponible": "1679.09"
         },
         {
-          "precio": 1015.0,
-          "comerciante": "Lmnr26",
-          "min": "101000",
-          "max": "1800000",
-          "disponible": "99.75"
+          "precio": 1016.9,
+          "comerciante": "FUNDAMENTALES",
+          "min": "80000",
+          "max": "95000",
+          "disponible": "485.25"
         },
         {
-          "precio": 1015.799,
-          "comerciante": "VelociCambiosMx",
-          "min": "153000",
-          "max": "153001",
-          "disponible": "199.81"
+          "precio": 1016.999,
+          "comerciante": "TranquilandiaTrader",
+          "min": "30000",
+          "max": "80000",
+          "disponible": "106.92"
         },
         {
-          "precio": 1015.8,
-          "comerciante": "Wt1979",
-          "min": "500",
-          "max": "150000",
-          "disponible": "0.59"
-        },
-        {
-          "precio": 1015.999,
-          "comerciante": "CheoTraderP2P",
-          "min": "400",
-          "max": "1000000",
-          "disponible": "0.94"
+          "precio": 1017.0,
+          "comerciante": "Yousberth2907",
+          "min": "366200",
+          "max": "366300",
+          "disponible": "369.07"
         }
       ]
     }
   },
-  "brecha_pct": 16.74
+  "brecha_pct": 16.68
 }
