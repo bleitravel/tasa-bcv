@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-10T19:00:02+00:00",
-  "actualizado_ve": "2026-10-10T15:00:02-04:00",
+  "actualizado_utc": "2026-10-10T22:15:36+00:00",
+  "actualizado_ve": "2026-10-10T18:15:36-04:00",
   "bcv": {
     "usd": 876.7976,
     "eur": 982.00454402,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1018.583,
+    "referencia": 1019.296,
     "venta": {
-      "promedio": 1018.583,
-      "minimo": 1015.015,
-      "maximo": 1030.15,
+      "promedio": 1019.296,
+      "minimo": 1015.33,
+      "maximo": 1032.15,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1030.15,
+          "precio": 1032.15,
           "comerciante": "magicreme21",
           "min": "200000",
-          "max": "1000000",
-          "disponible": "730.06"
+          "max": "1900000",
+          "disponible": "1835.00"
         },
         {
-          "precio": 1016.5,
-          "comerciante": "CRIPTO-2026",
-          "min": "15000000",
-          "max": "36450000",
-          "disponible": "80000.00"
+          "precio": 1017.0,
+          "comerciante": "BlackVaultt",
+          "min": "300000",
+          "max": "4000000",
+          "disponible": "2547.56"
         },
         {
           "precio": 1016.0,
-          "comerciante": "Cross-26",
-          "min": "10000000",
-          "max": "36400000",
-          "disponible": "45573.12"
+          "comerciante": "Gineskafinol",
+          "min": "100000",
+          "max": "1300000",
+          "disponible": "880.16"
         },
         {
-          "precio": 1015.25,
-          "comerciante": "securitylc",
-          "min": "7000000",
-          "max": "36400000",
-          "disponible": "23200.06"
+          "precio": 1016.0,
+          "comerciante": "FakeFk2",
+          "min": "2000000",
+          "max": "4000000",
+          "disponible": "4000.00"
         },
         {
-          "precio": 1015.015,
-          "comerciante": "JoseParedez",
-          "min": "5000000",
-          "max": "36450000",
-          "disponible": "44970.89"
+          "precio": 1015.33,
+          "comerciante": "El chino USDT",
+          "min": "900000",
+          "max": "4000000",
+          "disponible": "22692.16"
         }
       ]
     },
     "compra": {
-      "promedio": 1013.5846,
-      "minimo": 1013.395,
-      "maximo": 1013.85,
+      "promedio": 1014.26,
+      "minimo": 1013.5,
+      "maximo": 1014.8,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1013.395,
-          "comerciante": "NERIOMATUTE",
-          "min": "1650",
-          "max": "150000",
-          "disponible": "2.76"
-        },
-        {
-          "precio": 1013.479,
-          "comerciante": "VelociCambiosMx",
-          "min": "124500",
-          "max": "124501",
-          "disponible": "136.67"
-        },
-        {
           "precio": 1013.5,
-          "comerciante": "P2P-9aa857z9",
-          "min": "100000",
-          "max": "100999",
-          "disponible": "99.86"
-        },
-        {
-          "precio": 1013.699,
-          "comerciante": "victcoin",
-          "min": "200000",
-          "max": "800000",
-          "disponible": "371.85"
-        },
-        {
-          "precio": 1013.85,
-          "comerciante": "P2P-4fb13fo3",
+          "comerciante": "cambiosramses",
           "min": "300",
+          "max": "4000000",
+          "disponible": "69.97"
+        },
+        {
+          "precio": 1014.0,
+          "comerciante": "LIDER24",
+          "min": "10000",
           "max": "50000",
-          "disponible": "1.52"
+          "disponible": "257.99"
+        },
+        {
+          "precio": 1014.5,
+          "comerciante": "escalona20",
+          "min": "300",
+          "max": "60000",
+          "disponible": "13.52"
+        },
+        {
+          "precio": 1014.5,
+          "comerciante": "IGlobalHouse",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "0.49"
+        },
+        {
+          "precio": 1014.8,
+          "comerciante": "Samjere",
+          "min": "120000",
+          "max": "400000",
+          "disponible": "149.62"
         }
       ]
     }
   },
-  "brecha_pct": 16.17
+  "brecha_pct": 16.25
 }
