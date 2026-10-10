@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-10T14:52:15+00:00",
-  "actualizado_ve": "2026-10-10T10:52:15-04:00",
+  "actualizado_utc": "2026-10-10T19:00:02+00:00",
+  "actualizado_ve": "2026-10-10T15:00:02-04:00",
   "bcv": {
     "usd": 876.7976,
     "eur": 982.00454402,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1018.46,
+    "referencia": 1018.583,
     "venta": {
-      "promedio": 1018.46,
-      "minimo": 1015.0,
-      "maximo": 1025.89,
+      "promedio": 1018.583,
+      "minimo": 1015.015,
+      "maximo": 1030.15,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1025.89,
-          "comerciante": "User-5acf3",
-          "min": "600000",
-          "max": "610000",
-          "disponible": "590.00"
+          "precio": 1030.15,
+          "comerciante": "magicreme21",
+          "min": "200000",
+          "max": "1000000",
+          "disponible": "730.06"
         },
         {
-          "precio": 1020.15,
-          "comerciante": "magicreme21",
-          "min": "500000",
-          "max": "3700000",
-          "disponible": "3609.00"
+          "precio": 1016.5,
+          "comerciante": "CRIPTO-2026",
+          "min": "15000000",
+          "max": "36450000",
+          "disponible": "80000.00"
         },
         {
           "precio": 1016.0,
           "comerciante": "Cross-26",
           "min": "10000000",
           "max": "36400000",
-          "disponible": "10803.80"
+          "disponible": "45573.12"
         },
         {
-          "precio": 1015.26,
-          "comerciante": "elianderm792",
-          "min": "500000",
-          "max": "4000000",
-          "disponible": "3000.78"
+          "precio": 1015.25,
+          "comerciante": "securitylc",
+          "min": "7000000",
+          "max": "36400000",
+          "disponible": "23200.06"
         },
         {
-          "precio": 1015.0,
-          "comerciante": "Trust-Broker",
-          "min": "1000000",
+          "precio": 1015.015,
+          "comerciante": "JoseParedez",
+          "min": "5000000",
           "max": "36450000",
-          "disponible": "10018.84"
+          "disponible": "44970.89"
         }
       ]
     },
     "compra": {
-      "promedio": 1012.2798,
-      "minimo": 1012.0,
-      "maximo": 1012.6,
+      "promedio": 1013.5846,
+      "minimo": 1013.395,
+      "maximo": 1013.85,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1012.0,
-          "comerciante": "P2P-f81bdale",
-          "min": "20000",
+          "precio": 1013.395,
+          "comerciante": "NERIOMATUTE",
+          "min": "1650",
+          "max": "150000",
+          "disponible": "2.76"
+        },
+        {
+          "precio": 1013.479,
+          "comerciante": "VelociCambiosMx",
+          "min": "124500",
+          "max": "124501",
+          "disponible": "136.67"
+        },
+        {
+          "precio": 1013.5,
+          "comerciante": "P2P-9aa857z9",
+          "min": "100000",
+          "max": "100999",
+          "disponible": "99.86"
+        },
+        {
+          "precio": 1013.699,
+          "comerciante": "victcoin",
+          "min": "200000",
+          "max": "800000",
+          "disponible": "371.85"
+        },
+        {
+          "precio": 1013.85,
+          "comerciante": "P2P-4fb13fo3",
+          "min": "300",
           "max": "50000",
-          "disponible": "55.79"
-        },
-        {
-          "precio": 1012.0,
-          "comerciante": "EudinNU",
-          "min": "50000",
-          "max": "4000000",
-          "disponible": "201.49"
-        },
-        {
-          "precio": 1012.3,
-          "comerciante": "team-wolf",
-          "min": "10000",
-          "max": "101230",
-          "disponible": "99.75"
-        },
-        {
-          "precio": 1012.499,
-          "comerciante": "Pedro JJV",
-          "min": "30000",
-          "max": "4000000",
-          "disponible": "47.25"
-        },
-        {
-          "precio": 1012.6,
-          "comerciante": "TheJose_23",
-          "min": "150000",
-          "max": "239171",
-          "disponible": "234.48"
+          "disponible": "1.52"
         }
       ]
     }
   },
-  "brecha_pct": 16.16
+  "brecha_pct": 16.17
 }
