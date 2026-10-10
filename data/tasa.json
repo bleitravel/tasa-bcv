@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-10T02:28:03+00:00",
-  "actualizado_ve": "2026-10-09T22:28:03-04:00",
+  "actualizado_utc": "2026-10-10T08:46:10+00:00",
+  "actualizado_ve": "2026-10-10T04:46:10-04:00",
   "bcv": {
     "usd": 876.7976,
     "eur": 982.00454402,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1016.2844,
+    "referencia": 1014.32,
     "venta": {
-      "promedio": 1016.2844,
-      "minimo": 1016.1,
+      "promedio": 1014.32,
+      "minimo": 1013.0,
       "maximo": 1016.5,
       "anuncios_usados": 5,
       "anuncios": [
         {
           "precio": 1016.5,
-          "comerciante": "JURGEN_TRADER",
-          "min": "2000000",
-          "max": "36450000",
-          "disponible": "22372.67"
+          "comerciante": "saicadiz",
+          "min": "10000",
+          "max": "20000",
+          "disponible": "100.00"
         },
         {
-          "precio": 1016.305,
-          "comerciante": "Akadz",
-          "min": "1000000",
-          "max": "36400000",
-          "disponible": "16187.09"
+          "precio": 1014.1,
+          "comerciante": "franciscoguerrero",
+          "min": "300000",
+          "max": "709000",
+          "disponible": "700.00"
         },
         {
-          "precio": 1016.3,
-          "comerciante": "pollitodolare",
-          "min": "900000",
-          "max": "36450000",
-          "disponible": "35344.00"
+          "precio": 1014.0,
+          "comerciante": "Barbiecoin12",
+          "min": "500000",
+          "max": "3000000",
+          "disponible": "1000.00"
         },
         {
-          "precio": 1016.217,
-          "comerciante": "Fiorecoin",
-          "min": "1000000",
-          "max": "10000000",
-          "disponible": "80000.00"
+          "precio": 1014.0,
+          "comerciante": "FAMCAST",
+          "min": "1500000",
+          "max": "4000000",
+          "disponible": "24577.26"
         },
         {
-          "precio": 1016.1,
-          "comerciante": "蒙神祝福者",
-          "min": "900000",
-          "max": "17190000",
-          "disponible": "5446.77"
+          "precio": 1013.0,
+          "comerciante": "Daniaarilo",
+          "min": "200000",
+          "max": "4000000",
+          "disponible": "1000.00"
         }
       ]
     },
     "compra": {
-      "promedio": 1015.5402,
-      "minimo": 1015.0,
-      "maximo": 1016.0,
+      "promedio": 1016.6798,
+      "minimo": 1016.499,
+      "maximo": 1017.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1015.0,
-          "comerciante": "Netzy_03",
-          "min": "2000",
-          "max": "100000",
-          "disponible": "2.22"
+          "precio": 1016.499,
+          "comerciante": "VelociCambiosMx",
+          "min": "47197",
+          "max": "47198",
+          "disponible": "100.38"
         },
         {
-          "precio": 1015.001,
-          "comerciante": "Nelsi1704",
-          "min": "2000",
-          "max": "100000",
-          "disponible": "7.16"
+          "precio": 1016.5,
+          "comerciante": "KartZ_99",
+          "min": "500",
+          "max": "400000",
+          "disponible": "0.94"
         },
         {
-          "precio": 1015.8,
-          "comerciante": "JM2026",
-          "min": "538000",
+          "precio": 1016.6,
+          "comerciante": "AEBA-KF",
+          "min": "500000",
+          "max": "6000000",
+          "disponible": "2463.53"
+        },
+        {
+          "precio": 1016.8,
+          "comerciante": "THEBOSSTRADER",
+          "min": "5000000",
+          "max": "30000000",
+          "disponible": "24965.97"
+        },
+        {
+          "precio": 1017.0,
+          "comerciante": "Musicoin",
+          "min": "5000000",
           "max": "36450000",
-          "disponible": "529.70"
-        },
-        {
-          "precio": 1015.9,
-          "comerciante": "FREDIIEMERCURY",
-          "min": "274061",
-          "max": "274061",
-          "disponible": "272.45"
-        },
-        {
-          "precio": 1016.0,
-          "comerciante": "Joseangelch",
-          "min": "722853",
-          "max": "724662",
-          "disponible": "711.47"
+          "disponible": "10585.59"
         }
       ]
     }
   },
-  "brecha_pct": 15.91
+  "brecha_pct": 15.68
 }
