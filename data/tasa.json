@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-09T23:21:28+00:00",
-  "actualizado_ve": "2026-10-09T19:21:28-04:00",
+  "actualizado_utc": "2026-10-10T02:28:03+00:00",
+  "actualizado_ve": "2026-10-09T22:28:03-04:00",
   "bcv": {
     "usd": 876.7976,
     "eur": 982.00454402,
@@ -10,90 +10,90 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1016.302,
+    "referencia": 1016.2844,
     "venta": {
-      "promedio": 1016.302,
-      "minimo": 1016.11,
-      "maximo": 1016.62,
+      "promedio": 1016.2844,
+      "minimo": 1016.1,
+      "maximo": 1016.5,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1016.62,
-          "comerciante": "NEEMESIS",
-          "min": "50000",
+          "precio": 1016.5,
+          "comerciante": "JURGEN_TRADER",
+          "min": "2000000",
           "max": "36450000",
-          "disponible": "12785.13"
+          "disponible": "22372.67"
         },
         {
-          "precio": 1016.5,
-          "comerciante": "-AMATERATSU-",
-          "min": "10000000",
+          "precio": 1016.305,
+          "comerciante": "Akadz",
+          "min": "1000000",
+          "max": "36400000",
+          "disponible": "16187.09"
+        },
+        {
+          "precio": 1016.3,
+          "comerciante": "pollitodolare",
+          "min": "900000",
           "max": "36450000",
+          "disponible": "35344.00"
+        },
+        {
+          "precio": 1016.217,
+          "comerciante": "Fiorecoin",
+          "min": "1000000",
+          "max": "10000000",
           "disponible": "80000.00"
         },
         {
-          "precio": 1016.16,
-          "comerciante": "Cambioscorleone",
-          "min": "5000000",
-          "max": "36450000",
-          "disponible": "48530.24"
-        },
-        {
-          "precio": 1016.12,
-          "comerciante": "CRIPTO-2026",
-          "min": "3000000",
-          "max": "36450000",
-          "disponible": "29893.61"
-        },
-        {
-          "precio": 1016.11,
-          "comerciante": "VISÓN CRIPTØ",
-          "min": "2000000",
-          "max": "36450000",
-          "disponible": "38072.00"
+          "precio": 1016.1,
+          "comerciante": "蒙神祝福者",
+          "min": "900000",
+          "max": "17190000",
+          "disponible": "5446.77"
         }
       ]
     },
     "compra": {
-      "promedio": 1012.8,
-      "minimo": 1004.0,
-      "maximo": 1015.0,
+      "promedio": 1015.5402,
+      "minimo": 1015.0,
+      "maximo": 1016.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1004.0,
-          "comerciante": "JairGOVA佳尔",
-          "min": "50000",
-          "max": "2000000",
-          "disponible": "1185.71"
+          "precio": 1015.0,
+          "comerciante": "Netzy_03",
+          "min": "2000",
+          "max": "100000",
+          "disponible": "2.22"
         },
         {
-          "precio": 1015.0,
-          "comerciante": "MovetoMove",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "75.69"
+          "precio": 1015.001,
+          "comerciante": "Nelsi1704",
+          "min": "2000",
+          "max": "100000",
+          "disponible": "7.16"
         },
         {
-          "precio": 1015.0,
-          "comerciante": "edpg1010",
-          "min": "100000",
-          "max": "106000",
-          "disponible": "104.73"
-        },
-        {
-          "precio": 1015.0,
-          "comerciante": "-ARKA",
-          "min": "1000000",
+          "precio": 1015.8,
+          "comerciante": "JM2026",
+          "min": "538000",
           "max": "36450000",
-          "disponible": "1997.50"
+          "disponible": "529.70"
         },
         {
-          "precio": 1015.0,
-          "comerciante": "P2P-95d7e3dl",
-          "min": "100000",
-          "max": "101000",
-          "disponible": "99.75"
+          "precio": 1015.9,
+          "comerciante": "FREDIIEMERCURY",
+          "min": "274061",
+          "max": "274061",
+          "disponible": "272.45"
+        },
+        {
+          "precio": 1016.0,
+          "comerciante": "Joseangelch",
+          "min": "722853",
+          "max": "724662",
+          "disponible": "711.47"
         }
       ]
     }
