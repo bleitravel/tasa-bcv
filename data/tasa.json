@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-11T19:02:25+00:00",
-  "actualizado_ve": "2026-10-11T15:02:25-04:00",
+  "actualizado_utc": "2026-10-11T23:00:01+00:00",
+  "actualizado_ve": "2026-10-11T19:00:01-04:00",
   "bcv": {
     "usd": 876.7976,
     "eur": 982.00454402,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1013.422,
+    "referencia": 1020.2582,
     "venta": {
-      "promedio": 1013.422,
-      "minimo": 1013.01,
-      "maximo": 1014.0,
+      "promedio": 1020.2582,
+      "minimo": 1014.01,
+      "maximo": 1045.15,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1014.0,
-          "comerciante": "Josebat23",
-          "min": "500000",
-          "max": "35000000",
-          "disponible": "12437.00"
+          "precio": 1045.15,
+          "comerciante": "magicreme21",
+          "min": "200000",
+          "max": "3000000",
+          "disponible": "2582.96"
         },
         {
-          "precio": 1013.5,
-          "comerciante": "talepagos",
-          "min": "3000000",
-          "max": "27000000",
-          "disponible": "26640.00"
+          "precio": 1014.101,
+          "comerciante": "P2P-a31e2cy7",
+          "min": "20000",
+          "max": "50000",
+          "disponible": "63.61"
         },
         {
-          "precio": 1013.5,
-          "comerciante": "Bianchiplus",
-          "min": "3000000",
-          "max": "30000000",
-          "disponible": "10000.00"
+          "precio": 1014.015,
+          "comerciante": "securitylc",
+          "min": "15000000",
+          "max": "36400000",
+          "disponible": "50000.00"
         },
         {
-          "precio": 1013.1,
-          "comerciante": "Cambio_Ganador",
-          "min": "800000",
-          "max": "808000",
-          "disponible": "800.00"
+          "precio": 1014.015,
+          "comerciante": "Inversiones-ADSC",
+          "min": "10000000",
+          "max": "36450000",
+          "disponible": "51188.22"
         },
         {
-          "precio": 1013.01,
-          "comerciante": "distrigomcas",
-          "min": "55000",
-          "max": "56000",
-          "disponible": "100.00"
+          "precio": 1014.01,
+          "comerciante": "FlashRaid",
+          "min": "7000000",
+          "max": "36450000",
+          "disponible": "43000.06"
         }
       ]
     },
     "compra": {
-      "promedio": 1012.76,
-      "minimo": 1011.9,
-      "maximo": 1013.9,
+      "promedio": 1013.3596,
+      "minimo": 1012.9,
+      "maximo": 1013.78,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1011.9,
-          "comerciante": "Mxnuxtether",
-          "min": "300",
-          "max": "95150",
-          "disponible": "5.72"
+          "precio": 1012.9,
+          "comerciante": "Lucho_365",
+          "min": "100784",
+          "max": "100785",
+          "disponible": "99.75"
         },
         {
-          "precio": 1012.0,
-          "comerciante": "Dariingy124",
-          "min": "300",
+          "precio": 1013.0,
+          "comerciante": "O_ODioso",
+          "min": "135000",
+          "max": "150000",
+          "disponible": "134.66"
+        },
+        {
+          "precio": 1013.42,
+          "comerciante": "cryptocash_capital",
+          "min": "7500",
           "max": "4000000",
-          "disponible": "1.04"
+          "disponible": "110.72"
         },
         {
-          "precio": 1012.8,
-          "comerciante": "DavidCntrs",
-          "min": "300",
-          "max": "100000",
-          "disponible": "0.71"
+          "precio": 1013.698,
+          "comerciante": "ZYPALENCIA",
+          "min": "20000",
+          "max": "255000",
+          "disponible": "38.34"
         },
         {
-          "precio": 1013.2,
-          "comerciante": "Cambios247365",
-          "min": "1000",
-          "max": "3000000",
-          "disponible": "1.27"
-        },
-        {
-          "precio": 1013.9,
-          "comerciante": "GuaribeX",
-          "min": "300",
-          "max": "110000",
-          "disponible": "0.82"
+          "precio": 1013.78,
+          "comerciante": "RIBINMORA",
+          "min": "100000",
+          "max": "4000000",
+          "disponible": "103.80"
         }
       ]
     }
   },
-  "brecha_pct": 15.58
+  "brecha_pct": 16.36
 }
