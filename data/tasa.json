@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-11T14:13:45+00:00",
-  "actualizado_ve": "2026-10-11T10:13:45-04:00",
+  "actualizado_utc": "2026-10-11T19:02:25+00:00",
+  "actualizado_ve": "2026-10-11T15:02:25-04:00",
   "bcv": {
     "usd": 876.7976,
     "eur": 982.00454402,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1017.24,
+    "referencia": 1013.422,
     "venta": {
-      "promedio": 1017.24,
-      "minimo": 1011.1,
-      "maximo": 1040.0,
+      "promedio": 1013.422,
+      "minimo": 1013.01,
+      "maximo": 1014.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1040.0,
-          "comerciante": "NexxusGlobalTradeP2P",
-          "min": "409000",
-          "max": "410000",
-          "disponible": "399.00"
-        },
-        {
-          "precio": 1012.0,
-          "comerciante": "贝HarveySpecter贝",
-          "min": "1000000",
-          "max": "36000000",
-          "disponible": "2818.64"
-        },
-        {
-          "precio": 1011.6,
-          "comerciante": "BlackVaultt",
-          "min": "200000",
-          "max": "4000000",
-          "disponible": "10381.73"
-        },
-        {
-          "precio": 1011.5,
-          "comerciante": "frankguzm",
+          "precio": 1014.0,
+          "comerciante": "Josebat23",
           "min": "500000",
-          "max": "3000000",
-          "disponible": "3000.00"
+          "max": "35000000",
+          "disponible": "12437.00"
         },
         {
-          "precio": 1011.1,
-          "comerciante": "IngCryptos",
-          "min": "10000000",
-          "max": "36450000",
-          "disponible": "70000.00"
+          "precio": 1013.5,
+          "comerciante": "talepagos",
+          "min": "3000000",
+          "max": "27000000",
+          "disponible": "26640.00"
+        },
+        {
+          "precio": 1013.5,
+          "comerciante": "Bianchiplus",
+          "min": "3000000",
+          "max": "30000000",
+          "disponible": "10000.00"
+        },
+        {
+          "precio": 1013.1,
+          "comerciante": "Cambio_Ganador",
+          "min": "800000",
+          "max": "808000",
+          "disponible": "800.00"
+        },
+        {
+          "precio": 1013.01,
+          "comerciante": "distrigomcas",
+          "min": "55000",
+          "max": "56000",
+          "disponible": "100.00"
         }
       ]
     },
     "compra": {
-      "promedio": 1012.4,
-      "minimo": 1012.0,
-      "maximo": 1013.0,
+      "promedio": 1012.76,
+      "minimo": 1011.9,
+      "maximo": 1013.9,
       "anuncios_usados": 5,
       "anuncios": [
         {
+          "precio": 1011.9,
+          "comerciante": "Mxnuxtether",
+          "min": "300",
+          "max": "95150",
+          "disponible": "5.72"
+        },
+        {
           "precio": 1012.0,
-          "comerciante": "Raygv",
+          "comerciante": "Dariingy124",
           "min": "300",
           "max": "4000000",
-          "disponible": "1.51"
+          "disponible": "1.04"
         },
         {
-          "precio": 1012.0,
-          "comerciante": "Falcon2089",
+          "precio": 1012.8,
+          "comerciante": "DavidCntrs",
           "min": "300",
-          "max": "4000000",
-          "disponible": "152.49"
+          "max": "100000",
+          "disponible": "0.71"
         },
         {
-          "precio": 1012.0,
-          "comerciante": "ElMuSa30",
-          "min": "5000000",
-          "max": "36450000",
-          "disponible": "8133.24"
+          "precio": 1013.2,
+          "comerciante": "Cambios247365",
+          "min": "1000",
+          "max": "3000000",
+          "disponible": "1.27"
         },
         {
-          "precio": 1013.0,
-          "comerciante": "Pipomusa",
-          "min": "60000",
-          "max": "383643",
-          "disponible": "269.19"
-        },
-        {
-          "precio": 1013.0,
-          "comerciante": "Yexson",
-          "min": "2000",
-          "max": "5000",
-          "disponible": "91.00"
+          "precio": 1013.9,
+          "comerciante": "GuaribeX",
+          "min": "300",
+          "max": "110000",
+          "disponible": "0.82"
         }
       ]
     }
   },
-  "brecha_pct": 16.02
+  "brecha_pct": 15.58
 }
