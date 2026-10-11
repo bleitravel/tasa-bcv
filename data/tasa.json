@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-11T07:23:13+00:00",
-  "actualizado_ve": "2026-10-11T03:23:13-04:00",
+  "actualizado_utc": "2026-10-11T14:13:45+00:00",
+  "actualizado_ve": "2026-10-11T10:13:45-04:00",
   "bcv": {
     "usd": 876.7976,
     "eur": 982.00454402,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1018.283,
+    "referencia": 1017.24,
     "venta": {
-      "promedio": 1018.283,
-      "minimo": 1012.015,
+      "promedio": 1017.24,
+      "minimo": 1011.1,
       "maximo": 1040.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -25,78 +25,78 @@
           "disponible": "399.00"
         },
         {
-          "precio": 1014.3,
-          "comerciante": "User-b8c0f",
-          "min": "3000",
-          "max": "121716",
-          "disponible": "62.18"
+          "precio": 1012.0,
+          "comerciante": "贝HarveySpecter贝",
+          "min": "1000000",
+          "max": "36000000",
+          "disponible": "2818.64"
         },
         {
-          "precio": 1013.0,
-          "comerciante": "carolinacwf",
-          "min": "2000000",
+          "precio": 1011.6,
+          "comerciante": "BlackVaultt",
+          "min": "200000",
           "max": "4000000",
-          "disponible": "14171.34"
+          "disponible": "10381.73"
         },
         {
-          "precio": 1012.1,
-          "comerciante": "-TSxRV-",
-          "min": "5000000",
-          "max": "36450000",
-          "disponible": "53051.61"
+          "precio": 1011.5,
+          "comerciante": "frankguzm",
+          "min": "500000",
+          "max": "3000000",
+          "disponible": "3000.00"
         },
         {
-          "precio": 1012.015,
-          "comerciante": "securitylc",
-          "min": "1500000",
+          "precio": 1011.1,
+          "comerciante": "IngCryptos",
+          "min": "10000000",
           "max": "36450000",
-          "disponible": "9661.84"
+          "disponible": "70000.00"
         }
       ]
     },
     "compra": {
-      "promedio": 1014.5,
+      "promedio": 1012.4,
       "minimo": 1012.0,
-      "maximo": 1015.5,
+      "maximo": 1013.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
           "precio": 1012.0,
-          "comerciante": "CambioDeCuentaPropia",
-          "min": "70000",
-          "max": "151100",
-          "disponible": "151.62"
-        },
-        {
-          "precio": 1015.0,
-          "comerciante": "P2P-c7671eiz",
+          "comerciante": "Raygv",
           "min": "300",
           "max": "4000000",
-          "disponible": "0.32"
+          "disponible": "1.51"
         },
         {
-          "precio": 1015.0,
-          "comerciante": "PROFESlONAL",
-          "min": "100000",
-          "max": "5000000",
-          "disponible": "203.47"
+          "precio": 1012.0,
+          "comerciante": "Falcon2089",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "152.49"
         },
         {
-          "precio": 1015.0,
-          "comerciante": "TraderMasterrr",
-          "min": "50000",
-          "max": "700000",
-          "disponible": "817.79"
+          "precio": 1012.0,
+          "comerciante": "ElMuSa30",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "8133.24"
         },
         {
-          "precio": 1015.5,
-          "comerciante": "liangue",
-          "min": "203100",
-          "max": "203160",
-          "disponible": "201.19"
+          "precio": 1013.0,
+          "comerciante": "Pipomusa",
+          "min": "60000",
+          "max": "383643",
+          "disponible": "269.19"
+        },
+        {
+          "precio": 1013.0,
+          "comerciante": "Yexson",
+          "min": "2000",
+          "max": "5000",
+          "disponible": "91.00"
         }
       ]
     }
   },
-  "brecha_pct": 16.14
+  "brecha_pct": 16.02
 }
