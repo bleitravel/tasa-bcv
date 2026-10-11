@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-11T01:04:52+00:00",
-  "actualizado_ve": "2026-10-10T21:04:52-04:00",
+  "actualizado_utc": "2026-10-11T07:23:13+00:00",
+  "actualizado_ve": "2026-10-11T03:23:13-04:00",
   "bcv": {
     "usd": 876.7976,
     "eur": 982.00454402,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1028.0748,
+    "referencia": 1018.283,
     "venta": {
-      "promedio": 1028.0748,
-      "minimo": 1015.001,
-      "maximo": 1050.0,
+      "promedio": 1018.283,
+      "minimo": 1012.015,
+      "maximo": 1040.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1050.0,
-          "comerciante": "Ricardo0708",
-          "min": "200000",
-          "max": "1000000",
-          "disponible": "1664.83"
+          "precio": 1040.0,
+          "comerciante": "NexxusGlobalTradeP2P",
+          "min": "409000",
+          "max": "410000",
+          "disponible": "399.00"
         },
         {
-          "precio": 1045.15,
-          "comerciante": "magicreme21",
-          "min": "300000",
-          "max": "2000000",
-          "disponible": "1932.00"
+          "precio": 1014.3,
+          "comerciante": "User-b8c0f",
+          "min": "3000",
+          "max": "121716",
+          "disponible": "62.18"
         },
         {
-          "precio": 1015.112,
-          "comerciante": "-TSxRV-",
-          "min": "10000000",
-          "max": "36450000",
-          "disponible": "80000.00"
-        },
-        {
-          "precio": 1015.111,
-          "comerciante": "-AMATERATSU-",
-          "min": "15000000",
-          "max": "36450000",
-          "disponible": "80000.00"
-        },
-        {
-          "precio": 1015.001,
-          "comerciante": "Cr-Seven",
+          "precio": 1013.0,
+          "comerciante": "carolinacwf",
           "min": "2000000",
+          "max": "4000000",
+          "disponible": "14171.34"
+        },
+        {
+          "precio": 1012.1,
+          "comerciante": "-TSxRV-",
+          "min": "5000000",
           "max": "36450000",
-          "disponible": "67586.21"
+          "disponible": "53051.61"
+        },
+        {
+          "precio": 1012.015,
+          "comerciante": "securitylc",
+          "min": "1500000",
+          "max": "36450000",
+          "disponible": "9661.84"
         }
       ]
     },
     "compra": {
-      "promedio": 1013.8948,
-      "minimo": 1013.8,
-      "maximo": 1013.944,
+      "promedio": 1014.5,
+      "minimo": 1012.0,
+      "maximo": 1015.5,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1013.8,
-          "comerciante": "Cripto-laNuevaVZLA",
+          "precio": 1012.0,
+          "comerciante": "CambioDeCuentaPropia",
+          "min": "70000",
+          "max": "151100",
+          "disponible": "151.62"
+        },
+        {
+          "precio": 1015.0,
+          "comerciante": "P2P-c7671eiz",
           "min": "300",
           "max": "4000000",
-          "disponible": "5.56"
+          "disponible": "0.32"
         },
         {
-          "precio": 1013.9,
-          "comerciante": "Globalbusinessmxsss",
-          "min": "300000",
-          "max": "300000",
-          "disponible": "296.85"
-        },
-        {
-          "precio": 1013.9,
-          "comerciante": "Neslyone",
-          "min": "1000000",
+          "precio": 1015.0,
+          "comerciante": "PROFESlONAL",
+          "min": "100000",
           "max": "5000000",
-          "disponible": "3968.23"
+          "disponible": "203.47"
         },
         {
-          "precio": 1013.93,
-          "comerciante": "In_God-I_trust",
-          "min": "4000000",
-          "max": "5000000",
-          "disponible": "5989.51"
+          "precio": 1015.0,
+          "comerciante": "TraderMasterrr",
+          "min": "50000",
+          "max": "700000",
+          "disponible": "817.79"
         },
         {
-          "precio": 1013.944,
-          "comerciante": "ledezmagm",
-          "min": "1000000",
-          "max": "19000000",
-          "disponible": "5543.91"
+          "precio": 1015.5,
+          "comerciante": "liangue",
+          "min": "203100",
+          "max": "203160",
+          "disponible": "201.19"
         }
       ]
     }
   },
-  "brecha_pct": 17.25
+  "brecha_pct": 16.14
 }
