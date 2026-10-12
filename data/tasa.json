@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-12T02:07:43+00:00",
-  "actualizado_ve": "2026-10-11T22:07:43-04:00",
+  "actualizado_utc": "2026-10-12T09:28:32+00:00",
+  "actualizado_ve": "2026-10-12T05:28:32-04:00",
   "bcv": {
     "usd": 876.7976,
     "eur": 982.00454402,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1012.566,
+    "referencia": 1010.62,
     "venta": {
-      "promedio": 1012.566,
-      "minimo": 1012.11,
-      "maximo": 1013.0,
+      "promedio": 1010.62,
+      "minimo": 1010.1,
+      "maximo": 1011.3,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1013.0,
-          "comerciante": "Josetoro88",
-          "min": "244000",
-          "max": "4000000",
-          "disponible": "241.44"
+          "precio": 1011.3,
+          "comerciante": "User-b8c0f",
+          "min": "6000",
+          "max": "724091",
+          "disponible": "569.31"
         },
         {
-          "precio": 1013.0,
-          "comerciante": "BlackVaultt",
-          "min": "200000",
-          "max": "4000000",
-          "disponible": "14397.66"
+          "precio": 1011.0,
+          "comerciante": "frankguzm",
+          "min": "500000",
+          "max": "3000000",
+          "disponible": "600.00"
         },
         {
-          "precio": 1012.5,
-          "comerciante": "Adbielvidal",
-          "min": "300000",
-          "max": "4000000",
-          "disponible": "8691.29"
-        },
-        {
-          "precio": 1012.22,
-          "comerciante": "ALBERTSIT0_P2P",
-          "min": "198000",
-          "max": "208000",
-          "disponible": "206.33"
-        },
-        {
-          "precio": 1012.11,
-          "comerciante": "Cachy13Usdt",
+          "precio": 1010.5,
+          "comerciante": "EL-EXTRANJERO",
           "min": "1000000",
-          "max": "15136000",
-          "disponible": "6914.04"
+          "max": "36450000",
+          "disponible": "34626.22"
+        },
+        {
+          "precio": 1010.2,
+          "comerciante": "eduardo94268",
+          "min": "800000",
+          "max": "10017000",
+          "disponible": "9916.00"
+        },
+        {
+          "precio": 1010.1,
+          "comerciante": "K69_Trades",
+          "min": "500000",
+          "max": "36450000",
+          "disponible": "29811.40"
         }
       ]
     },
     "compra": {
-      "promedio": 1013.8998,
-      "minimo": 1013.5,
-      "maximo": 1014.0,
+      "promedio": 1015.0598,
+      "minimo": 1015.0,
+      "maximo": 1015.199,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1013.5,
-          "comerciante": "CODE-30_IA",
-          "min": "300",
-          "max": "2000",
-          "disponible": "176.04"
+          "precio": 1015.0,
+          "comerciante": "Neptali Coin",
+          "min": "48000",
+          "max": "49000",
+          "disponible": "51.48"
         },
         {
-          "precio": 1013.999,
-          "comerciante": "CryptoExpress_Latam",
-          "min": "300",
-          "max": "1600000",
-          "disponible": "488.32"
+          "precio": 1015.0,
+          "comerciante": "ElysianVE",
+          "min": "2500",
+          "max": "104000",
+          "disponible": "101.74"
         },
         {
-          "precio": 1014.0,
-          "comerciante": "anelisp2p",
-          "min": "300",
-          "max": "101400",
-          "disponible": "1.95"
+          "precio": 1015.0,
+          "comerciante": "EliasL2000",
+          "min": "1000",
+          "max": "143461",
+          "disponible": "141.26"
         },
         {
-          "precio": 1014.0,
-          "comerciante": "Servicios-Criptos-27",
-          "min": "1000000",
-          "max": "14000000",
-          "disponible": "1397.55"
+          "precio": 1015.1,
+          "comerciante": "Cripto-Mendigo",
+          "min": "100000",
+          "max": "2646505",
+          "disponible": "99.24"
         },
         {
-          "precio": 1014.0,
-          "comerciante": "User-0ge7e",
-          "min": "53751",
-          "max": "53752",
-          "disponible": "100.00"
+          "precio": 1015.199,
+          "comerciante": "操作",
+          "min": "3000000",
+          "max": "6610000",
+          "disponible": "6591.76"
         }
       ]
     }
   },
-  "brecha_pct": 15.48
+  "brecha_pct": 15.26
 }
