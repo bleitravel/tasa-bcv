@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-11T23:00:01+00:00",
-  "actualizado_ve": "2026-10-11T19:00:01-04:00",
+  "actualizado_utc": "2026-10-12T02:07:43+00:00",
+  "actualizado_ve": "2026-10-11T22:07:43-04:00",
   "bcv": {
     "usd": 876.7976,
     "eur": 982.00454402,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1020.2582,
+    "referencia": 1012.566,
     "venta": {
-      "promedio": 1020.2582,
-      "minimo": 1014.01,
-      "maximo": 1045.15,
+      "promedio": 1012.566,
+      "minimo": 1012.11,
+      "maximo": 1013.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1045.15,
-          "comerciante": "magicreme21",
+          "precio": 1013.0,
+          "comerciante": "Josetoro88",
+          "min": "244000",
+          "max": "4000000",
+          "disponible": "241.44"
+        },
+        {
+          "precio": 1013.0,
+          "comerciante": "BlackVaultt",
           "min": "200000",
-          "max": "3000000",
-          "disponible": "2582.96"
+          "max": "4000000",
+          "disponible": "14397.66"
         },
         {
-          "precio": 1014.101,
-          "comerciante": "P2P-a31e2cy7",
-          "min": "20000",
-          "max": "50000",
-          "disponible": "63.61"
+          "precio": 1012.5,
+          "comerciante": "Adbielvidal",
+          "min": "300000",
+          "max": "4000000",
+          "disponible": "8691.29"
         },
         {
-          "precio": 1014.015,
-          "comerciante": "securitylc",
-          "min": "15000000",
-          "max": "36400000",
-          "disponible": "50000.00"
+          "precio": 1012.22,
+          "comerciante": "ALBERTSIT0_P2P",
+          "min": "198000",
+          "max": "208000",
+          "disponible": "206.33"
         },
         {
-          "precio": 1014.015,
-          "comerciante": "Inversiones-ADSC",
-          "min": "10000000",
-          "max": "36450000",
-          "disponible": "51188.22"
-        },
-        {
-          "precio": 1014.01,
-          "comerciante": "FlashRaid",
-          "min": "7000000",
-          "max": "36450000",
-          "disponible": "43000.06"
+          "precio": 1012.11,
+          "comerciante": "Cachy13Usdt",
+          "min": "1000000",
+          "max": "15136000",
+          "disponible": "6914.04"
         }
       ]
     },
     "compra": {
-      "promedio": 1013.3596,
-      "minimo": 1012.9,
-      "maximo": 1013.78,
+      "promedio": 1013.8998,
+      "minimo": 1013.5,
+      "maximo": 1014.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1012.9,
-          "comerciante": "Lucho_365",
-          "min": "100784",
-          "max": "100785",
-          "disponible": "99.75"
+          "precio": 1013.5,
+          "comerciante": "CODE-30_IA",
+          "min": "300",
+          "max": "2000",
+          "disponible": "176.04"
         },
         {
-          "precio": 1013.0,
-          "comerciante": "O_ODioso",
-          "min": "135000",
-          "max": "150000",
-          "disponible": "134.66"
+          "precio": 1013.999,
+          "comerciante": "CryptoExpress_Latam",
+          "min": "300",
+          "max": "1600000",
+          "disponible": "488.32"
         },
         {
-          "precio": 1013.42,
-          "comerciante": "cryptocash_capital",
-          "min": "7500",
-          "max": "4000000",
-          "disponible": "110.72"
+          "precio": 1014.0,
+          "comerciante": "anelisp2p",
+          "min": "300",
+          "max": "101400",
+          "disponible": "1.95"
         },
         {
-          "precio": 1013.698,
-          "comerciante": "ZYPALENCIA",
-          "min": "20000",
-          "max": "255000",
-          "disponible": "38.34"
+          "precio": 1014.0,
+          "comerciante": "Servicios-Criptos-27",
+          "min": "1000000",
+          "max": "14000000",
+          "disponible": "1397.55"
         },
         {
-          "precio": 1013.78,
-          "comerciante": "RIBINMORA",
-          "min": "100000",
-          "max": "4000000",
-          "disponible": "103.80"
+          "precio": 1014.0,
+          "comerciante": "User-0ge7e",
+          "min": "53751",
+          "max": "53752",
+          "disponible": "100.00"
         }
       ]
     }
   },
-  "brecha_pct": 16.36
+  "brecha_pct": 15.48
 }
