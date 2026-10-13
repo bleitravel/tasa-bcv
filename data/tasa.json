@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-13T08:04:31+00:00",
-  "actualizado_ve": "2026-10-13T04:04:31-04:00",
+  "actualizado_utc": "2026-10-13T16:09:26+00:00",
+  "actualizado_ve": "2026-10-13T12:09:26-04:00",
   "bcv": {
     "usd": 876.7976,
     "eur": 982.00454402,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1011.3002,
+    "referencia": 1010.5,
     "venta": {
-      "promedio": 1011.3002,
-      "minimo": 1009.0,
+      "promedio": 1010.5,
+      "minimo": 1007.5,
       "maximo": 1018.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -25,78 +25,78 @@
           "disponible": "25000.00"
         },
         {
-          "precio": 1010.0,
-          "comerciante": "CoorpLogistic",
-          "min": "10099000",
-          "max": "36000000",
-          "disponible": "20040.00"
-        },
-        {
-          "precio": 1010.0,
-          "comerciante": "OsaMeyi",
-          "min": "3000000",
-          "max": "36450000",
-          "disponible": "73319.12"
-        },
-        {
-          "precio": 1009.501,
+          "precio": 1009.0,
           "comerciante": "CambiosLaFortaleza",
-          "min": "1000000",
-          "max": "20184000",
-          "disponible": "9796.28"
+          "min": "5000000",
+          "max": "30270000",
+          "disponible": "24895.94"
         },
         {
           "precio": 1009.0,
-          "comerciante": "mono",
-          "min": "500000",
+          "comerciante": "Comercializadora_MAC",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "5651.64"
+        },
+        {
+          "precio": 1009.0,
+          "comerciante": "TheOchoa",
+          "min": "2000000",
+          "max": "36450000",
+          "disponible": "55016.84"
+        },
+        {
+          "precio": 1007.5,
+          "comerciante": "angeleleon",
+          "min": "200000",
           "max": "4000000",
-          "disponible": "10849.06"
+          "disponible": "2870.34"
         }
       ]
     },
     "compra": {
-      "promedio": 1011.9656,
-      "minimo": 1011.85,
-      "maximo": 1011.999,
+      "promedio": 1006.5954,
+      "minimo": 1006.0,
+      "maximo": 1007.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1011.85,
-          "comerciante": "cheng21",
-          "min": "400000",
-          "max": "2200000",
-          "disponible": "2295.98"
-        },
-        {
-          "precio": 1011.99,
-          "comerciante": "Betania Jiménez ",
-          "min": "1000",
-          "max": "885000",
-          "disponible": "1.34"
-        },
-        {
-          "precio": 1011.99,
-          "comerciante": "Glag13",
+          "precio": 1006.0,
+          "comerciante": "Jaec14",
           "min": "300",
+          "max": "50000",
+          "disponible": "0.74"
+        },
+        {
+          "precio": 1006.0,
+          "comerciante": "iamluisdiaz",
+          "min": "20000",
           "max": "100000",
-          "disponible": "0.93"
+          "disponible": "99.75"
         },
         {
-          "precio": 1011.999,
-          "comerciante": "Yosecambio",
-          "min": "300",
-          "max": "490820",
-          "disponible": "4.68"
+          "precio": 1006.977,
+          "comerciante": "Cambio-Ideal",
+          "min": "5000",
+          "max": "100000",
+          "disponible": "43.91"
         },
         {
-          "precio": 1011.999,
-          "comerciante": "IngeP2P",
-          "min": "300",
-          "max": "109467",
-          "disponible": "0.48"
+          "precio": 1007.0,
+          "comerciante": "Mariannyfaneite",
+          "min": "2000",
+          "max": "391200",
+          "disponible": "3.37"
+        },
+        {
+          "precio": 1007.0,
+          "comerciante": "davicenteno",
+          "min": "3000",
+          "max": "800000",
+          "disponible": "13.99"
         }
       ]
     }
   },
-  "brecha_pct": 15.34
+  "brecha_pct": 15.25
 }
