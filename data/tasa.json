@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-12T19:12:38+00:00",
-  "actualizado_ve": "2026-10-12T15:12:38-04:00",
+  "actualizado_utc": "2026-10-13T01:28:49+00:00",
+  "actualizado_ve": "2026-10-12T21:28:49-04:00",
   "bcv": {
     "usd": 876.7976,
     "eur": 982.00454402,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1012.32,
+    "referencia": 1013.46,
     "venta": {
-      "promedio": 1012.32,
-      "minimo": 1010.6,
+      "promedio": 1013.46,
+      "minimo": 1011.3,
       "maximo": 1018.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -22,81 +22,81 @@
           "comerciante": "Dp-JA",
           "min": "2026000",
           "max": "4000000",
-          "disponible": "22900.06"
+          "disponible": "25000.00"
         },
         {
-          "precio": 1011.0,
-          "comerciante": "CANAIMA21",
-          "min": "9000000",
-          "max": "10000000",
-          "disponible": "10000.00"
+          "precio": 1013.0,
+          "comerciante": "Comercializadora_MAC",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "31054.30"
         },
         {
-          "precio": 1011.0,
-          "comerciante": "Josetoro88",
+          "precio": 1013.0,
+          "comerciante": "MICHELITA_",
+          "min": "10000000",
+          "max": "36000000",
+          "disponible": "34350.49"
+        },
+        {
+          "precio": 1012.0,
+          "comerciante": "P2P-c4bbc7rx",
+          "min": "500000",
+          "max": "1012000",
+          "disponible": "1000.00"
+        },
+        {
+          "precio": 1011.3,
+          "comerciante": "cambios-JOB",
           "min": "700000",
           "max": "4000000",
-          "disponible": "23332.11"
-        },
-        {
-          "precio": 1011.0,
-          "comerciante": "LiraInversiones",
-          "min": "150000",
-          "max": "4000000",
-          "disponible": "742.70"
-        },
-        {
-          "precio": 1010.6,
-          "comerciante": "Comercializadora_MAC",
-          "min": "3000000",
-          "max": "36450000",
-          "disponible": "3050.06"
+          "disponible": "854.45"
         }
       ]
     },
     "compra": {
-      "promedio": 1008.8298,
-      "minimo": 1008.0,
-      "maximo": 1009.75,
+      "promedio": 1010.6994,
+      "minimo": 1010.0,
+      "maximo": 1011.997,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1008.0,
-          "comerciante": "andry0212",
-          "min": "2000",
-          "max": "2001",
+          "precio": 1010.0,
+          "comerciante": "User-881a0",
+          "min": "30000",
+          "max": "50000",
+          "disponible": "75.01"
+        },
+        {
+          "precio": 1010.0,
+          "comerciante": "Inver360",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "0.85"
+        },
+        {
+          "precio": 1010.0,
+          "comerciante": "Cesaredulobo1012",
+          "min": "87600",
+          "max": "87700",
           "disponible": "99.75"
         },
         {
-          "precio": 1008.4,
-          "comerciante": "Danielajcg",
+          "precio": 1011.5,
+          "comerciante": "NRGX2702",
           "min": "300",
-          "max": "100000",
-          "disponible": "0.60"
+          "max": "2700",
+          "disponible": "97.78"
         },
         {
-          "precio": 1008.999,
-          "comerciante": "JPyEB",
-          "min": "300",
-          "max": "1000",
-          "disponible": "179.64"
-        },
-        {
-          "precio": 1009.0,
-          "comerciante": "genesisrive",
-          "min": "300",
-          "max": "100900",
-          "disponible": "0.63"
-        },
-        {
-          "precio": 1009.75,
-          "comerciante": "JennyAro",
-          "min": "300",
+          "precio": 1011.997,
+          "comerciante": "AngelVDJ",
+          "min": "20000",
           "max": "4000000",
-          "disponible": "0.42"
+          "disponible": "146.09"
         }
       ]
     }
   },
-  "brecha_pct": 15.46
+  "brecha_pct": 15.59
 }
