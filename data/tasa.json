@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-14T10:22:17+00:00",
-  "actualizado_ve": "2026-10-14T06:22:17-04:00",
+  "actualizado_utc": "2026-10-14T15:16:12+00:00",
+  "actualizado_ve": "2026-10-14T11:16:12-04:00",
   "bcv": {
     "usd": 877.9023,
     "eur": 982.75895071,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1007.5,
+    "referencia": 1011.602,
     "venta": {
-      "promedio": 1007.5,
-      "minimo": 1007.0,
-      "maximo": 1009.5,
+      "promedio": 1011.602,
+      "minimo": 1011.0,
+      "maximo": 1013.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1009.5,
-          "comerciante": "invercionesjj",
-          "min": "150000",
+          "precio": 1013.0,
+          "comerciante": "oscaargonzalez",
+          "min": "3936800",
+          "max": "3936801",
+          "disponible": "3886.28"
+        },
+        {
+          "precio": 1011.51,
+          "comerciante": "GAMBINO-",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "70297.68"
+        },
+        {
+          "precio": 1011.5,
+          "comerciante": "MICHELITA_",
+          "min": "10000000",
+          "max": "36000000",
+          "disponible": "80000.00"
+        },
+        {
+          "precio": 1011.0,
+          "comerciante": "Super Coral",
+          "min": "1000000",
+          "max": "3000000",
+          "disponible": "9587.14"
+        },
+        {
+          "precio": 1011.0,
+          "comerciante": "User-9098d",
+          "min": "1000000",
           "max": "4000000",
-          "disponible": "1171.58"
-        },
-        {
-          "precio": 1007.0,
-          "comerciante": "diannell",
-          "min": "299000",
-          "max": "302000",
-          "disponible": "300.00"
-        },
-        {
-          "precio": 1007.0,
-          "comerciante": "Tito03",
-          "min": "340000",
-          "max": "349000",
-          "disponible": "346.74"
-        },
-        {
-          "precio": 1007.0,
-          "comerciante": "User-5766c",
-          "min": "20000",
-          "max": "4000000",
-          "disponible": "76.69"
-        },
-        {
-          "precio": 1007.0,
-          "comerciante": "karentefy",
-          "min": "20000",
-          "max": "4000000",
-          "disponible": "1428.90"
+          "disponible": "5480.00"
         }
       ]
     },
     "compra": {
-      "promedio": 1010.0,
-      "minimo": 1010.0,
+      "promedio": 1009.48,
+      "minimo": 1008.0,
       "maximo": 1010.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
+          "precio": 1008.0,
+          "comerciante": "Syriam29",
+          "min": "20000",
+          "max": "4000000",
+          "disponible": "20.33"
+        },
+        {
+          "precio": 1009.5,
+          "comerciante": "Derstrox_exchange",
+          "min": "300",
+          "max": "100000",
+          "disponible": "0.88"
+        },
+        {
+          "precio": 1009.9,
+          "comerciante": "JOSE-ARAB",
+          "min": "50000",
+          "max": "1000000",
+          "disponible": "399.00"
+        },
+        {
           "precio": 1010.0,
-          "comerciante": "Saimon83",
+          "comerciante": "Nitohawk1984",
           "min": "300",
           "max": "4000000",
-          "disponible": "0.44"
+          "disponible": "0.55"
         },
         {
           "precio": 1010.0,
-          "comerciante": "KRYSM10",
-          "min": "300",
-          "max": "400000",
-          "disponible": "0.30"
-        },
-        {
-          "precio": 1010.0,
-          "comerciante": "STROMR06",
-          "min": "2000",
-          "max": "129498",
-          "disponible": "8.96"
-        },
-        {
-          "precio": 1010.0,
-          "comerciante": "andry0212",
-          "min": "441000",
-          "max": "441001",
-          "disponible": "436.90"
-        },
-        {
-          "precio": 1010.0,
-          "comerciante": "Plines",
-          "min": "80000",
-          "max": "200000",
-          "disponible": "199.50"
+          "comerciante": "pedrovicierra43",
+          "min": "1000",
+          "max": "300000",
+          "disponible": "1.95"
         }
       ]
     }
   },
-  "brecha_pct": 14.76
+  "brecha_pct": 15.23
 }
