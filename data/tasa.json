@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-14T00:24:33+00:00",
-  "actualizado_ve": "2026-10-13T20:24:33-04:00",
+  "actualizado_utc": "2026-10-14T05:05:46+00:00",
+  "actualizado_ve": "2026-10-14T01:05:46-04:00",
   "bcv": {
     "usd": 877.9023,
     "eur": 982.75895071,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1009.122,
+    "referencia": 1007.5264,
     "venta": {
-      "promedio": 1009.122,
-      "minimo": 1008.91,
-      "maximo": 1009.5,
+      "promedio": 1007.5264,
+      "minimo": 1007.0,
+      "maximo": 1008.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1009.5,
-          "comerciante": "Trust-Broker",
-          "min": "3000000",
+          "precio": 1008.0,
+          "comerciante": "GAZA_CRIPTO",
+          "min": "36450000",
+          "max": "500000000",
+          "disponible": "500000.00"
+        },
+        {
+          "precio": 1007.99,
+          "comerciante": "doctor_zoidberg",
+          "min": "1000000",
           "max": "36450000",
-          "disponible": "6027.65"
+          "disponible": "41799.40"
         },
         {
-          "precio": 1009.365,
-          "comerciante": "Pcambios10",
-          "min": "700000",
-          "max": "20287494",
-          "disponible": "13815.93"
+          "precio": 1007.522,
+          "comerciante": "VISÓN CRIPTØ",
+          "min": "1000000",
+          "max": "36450000",
+          "disponible": "36761.92"
         },
         {
-          "precio": 1008.92,
-          "comerciante": "josrepi",
-          "min": "252180",
-          "max": "504360",
-          "disponible": "500.00"
+          "precio": 1007.12,
+          "comerciante": "xGabimaru",
+          "min": "300000",
+          "max": "9000000",
+          "disponible": "1276.03"
         },
         {
-          "precio": 1008.915,
-          "comerciante": "TOPlevelS",
-          "min": "10000000",
-          "max": "36000000",
-          "disponible": "80000.00"
-        },
-        {
-          "precio": 1008.91,
-          "comerciante": "HectorB",
-          "min": "7000000",
-          "max": "36000000",
-          "disponible": "72490.06"
+          "precio": 1007.0,
+          "comerciante": "diannell",
+          "min": "299000",
+          "max": "302000",
+          "disponible": "300.00"
         }
       ]
     },
     "compra": {
-      "promedio": 1009.2578,
+      "promedio": 1009.7998,
       "minimo": 1009.0,
-      "maximo": 1009.5,
+      "maximo": 1010.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
           "precio": 1009.0,
-          "comerciante": "Broker Trader",
-          "min": "20250",
-          "max": "20251",
-          "disponible": "64.59"
+          "comerciante": "MRDIAZ03",
+          "min": "50000",
+          "max": "444400",
+          "disponible": "86.18"
         },
         {
-          "precio": 1009.0,
-          "comerciante": "YOSOYNINGUNO",
-          "min": "57200",
-          "max": "57201",
-          "disponible": "99.75"
+          "precio": 1009.999,
+          "comerciante": "Deswicripto",
+          "min": "100000",
+          "max": "585799",
+          "disponible": "435.51"
         },
         {
-          "precio": 1009.3,
-          "comerciante": "Secomtec01",
-          "min": "320",
-          "max": "30000",
-          "disponible": "0.45"
-        },
-        {
-          "precio": 1009.489,
-          "comerciante": "MonkyCrypto33",
+          "precio": 1010.0,
+          "comerciante": "Saimon83",
           "min": "300",
-          "max": "130762",
-          "disponible": "1.75"
+          "max": "4000000",
+          "disponible": "0.44"
         },
         {
-          "precio": 1009.5,
-          "comerciante": "richardChange",
-          "min": "49000",
-          "max": "100000",
-          "disponible": "99.75"
+          "precio": 1010.0,
+          "comerciante": "KRYSM10",
+          "min": "300",
+          "max": "400000",
+          "disponible": "0.30"
+        },
+        {
+          "precio": 1010.0,
+          "comerciante": "STROMR06",
+          "min": "2000",
+          "max": "129498",
+          "disponible": "8.96"
         }
       ]
     }
   },
-  "brecha_pct": 14.95
+  "brecha_pct": 14.77
 }
