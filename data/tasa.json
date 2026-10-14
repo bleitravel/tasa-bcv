@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-14T05:05:46+00:00",
-  "actualizado_ve": "2026-10-14T01:05:46-04:00",
+  "actualizado_utc": "2026-10-14T10:22:17+00:00",
+  "actualizado_ve": "2026-10-14T06:22:17-04:00",
   "bcv": {
     "usd": 877.9023,
     "eur": 982.75895071,
@@ -10,40 +10,19 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1007.5264,
+    "referencia": 1007.5,
     "venta": {
-      "promedio": 1007.5264,
+      "promedio": 1007.5,
       "minimo": 1007.0,
-      "maximo": 1008.0,
+      "maximo": 1009.5,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1008.0,
-          "comerciante": "GAZA_CRIPTO",
-          "min": "36450000",
-          "max": "500000000",
-          "disponible": "500000.00"
-        },
-        {
-          "precio": 1007.99,
-          "comerciante": "doctor_zoidberg",
-          "min": "1000000",
-          "max": "36450000",
-          "disponible": "41799.40"
-        },
-        {
-          "precio": 1007.522,
-          "comerciante": "VISÓN CRIPTØ",
-          "min": "1000000",
-          "max": "36450000",
-          "disponible": "36761.92"
-        },
-        {
-          "precio": 1007.12,
-          "comerciante": "xGabimaru",
-          "min": "300000",
-          "max": "9000000",
-          "disponible": "1276.03"
+          "precio": 1009.5,
+          "comerciante": "invercionesjj",
+          "min": "150000",
+          "max": "4000000",
+          "disponible": "1171.58"
         },
         {
           "precio": 1007.0,
@@ -51,29 +30,36 @@
           "min": "299000",
           "max": "302000",
           "disponible": "300.00"
+        },
+        {
+          "precio": 1007.0,
+          "comerciante": "Tito03",
+          "min": "340000",
+          "max": "349000",
+          "disponible": "346.74"
+        },
+        {
+          "precio": 1007.0,
+          "comerciante": "User-5766c",
+          "min": "20000",
+          "max": "4000000",
+          "disponible": "76.69"
+        },
+        {
+          "precio": 1007.0,
+          "comerciante": "karentefy",
+          "min": "20000",
+          "max": "4000000",
+          "disponible": "1428.90"
         }
       ]
     },
     "compra": {
-      "promedio": 1009.7998,
-      "minimo": 1009.0,
+      "promedio": 1010.0,
+      "minimo": 1010.0,
       "maximo": 1010.0,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 1009.0,
-          "comerciante": "MRDIAZ03",
-          "min": "50000",
-          "max": "444400",
-          "disponible": "86.18"
-        },
-        {
-          "precio": 1009.999,
-          "comerciante": "Deswicripto",
-          "min": "100000",
-          "max": "585799",
-          "disponible": "435.51"
-        },
         {
           "precio": 1010.0,
           "comerciante": "Saimon83",
@@ -94,9 +80,23 @@
           "min": "2000",
           "max": "129498",
           "disponible": "8.96"
+        },
+        {
+          "precio": 1010.0,
+          "comerciante": "andry0212",
+          "min": "441000",
+          "max": "441001",
+          "disponible": "436.90"
+        },
+        {
+          "precio": 1010.0,
+          "comerciante": "Plines",
+          "min": "80000",
+          "max": "200000",
+          "disponible": "199.50"
         }
       ]
     }
   },
-  "brecha_pct": 14.77
+  "brecha_pct": 14.76
 }
