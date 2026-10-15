@@ -1,102 +1,102 @@
 {
-  "actualizado_utc": "2026-10-15T19:16:26+00:00",
-  "actualizado_ve": "2026-10-15T15:16:26-04:00",
+  "actualizado_utc": "2026-10-15T22:30:46+00:00",
+  "actualizado_ve": "2026-10-15T18:30:46-04:00",
   "bcv": {
-    "usd": 879.1225,
-    "eur": 977.68092347,
-    "fecha_valor": "2026-10-15T00:00:00-04:00"
+    "usd": 880.1159,
+    "eur": 985.729808,
+    "fecha_valor": "2026-10-16T00:00:00-04:00"
   },
   "binance_p2p": {
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1005.944,
+    "referencia": 1004.652,
     "venta": {
-      "promedio": 1005.944,
-      "minimo": 1005.51,
-      "maximo": 1006.81,
+      "promedio": 1004.652,
+      "minimo": 1004.01,
+      "maximo": 1006.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1006.81,
-          "comerciante": "Mad4",
-          "min": "400000",
-          "max": "1100000",
-          "disponible": "1150.00"
+          "precio": 1006.0,
+          "comerciante": "Diomedes14",
+          "min": "3000000",
+          "max": "36450000",
+          "disponible": "38825.01"
         },
         {
-          "precio": 1006.2,
-          "comerciante": "remPro",
-          "min": "30000",
-          "max": "950000",
-          "disponible": "403.00"
+          "precio": 1004.6,
+          "comerciante": "x-Maverick-x",
+          "min": "300000",
+          "max": "325000",
+          "disponible": "323.00"
         },
         {
-          "precio": 1005.6,
-          "comerciante": "EPONTA",
-          "min": "400000",
-          "max": "24000000",
-          "disponible": "439.35"
+          "precio": 1004.4,
+          "comerciante": "_Vortex12_",
+          "min": "4000000",
+          "max": "36450000",
+          "disponible": "28900.18"
         },
         {
-          "precio": 1005.6,
-          "comerciante": "MultiEx",
+          "precio": 1004.25,
+          "comerciante": "F_A_I_R---T_E_A_M",
           "min": "1000000",
-          "max": "4000000",
-          "disponible": "5000.00"
+          "max": "3000000",
+          "disponible": "66995.56"
         },
         {
-          "precio": 1005.51,
-          "comerciante": "azucambios",
-          "min": "500000",
-          "max": "4000000",
-          "disponible": "2000.00"
+          "precio": 1004.01,
+          "comerciante": "HORUS",
+          "min": "400000",
+          "max": "7000000",
+          "disponible": "910.00"
         }
       ]
     },
     "compra": {
-      "promedio": 1006.6276,
-      "minimo": 1006.299,
-      "maximo": 1006.999,
+      "promedio": 1005.9998,
+      "minimo": 1004.999,
+      "maximo": 1007.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1006.299,
-          "comerciante": "AMERICA1492LLC",
-          "min": "11040000",
+          "precio": 1004.999,
+          "comerciante": "Miguelacho20",
+          "min": "960",
+          "max": "300000",
+          "disponible": "64.74"
+        },
+        {
+          "precio": 1006.0,
+          "comerciante": "Broker Trader",
+          "min": "21400",
+          "max": "21401",
+          "disponible": "68.20"
+        },
+        {
+          "precio": 1006.0,
+          "comerciante": "Tripleese03",
+          "min": "55300",
+          "max": "55330",
+          "disponible": "99.75"
+        },
+        {
+          "precio": 1006.0,
+          "comerciante": "kalamardo",
+          "min": "80000",
           "max": "36450000",
-          "disponible": "10978.04"
+          "disponible": "998.00"
         },
         {
-          "precio": 1006.3,
-          "comerciante": "Musicoin",
-          "min": "2000000",
-          "max": "30000000",
-          "disponible": "2216.34"
-        },
-        {
-          "precio": 1006.59,
-          "comerciante": "EKExpress",
-          "min": "3000000",
-          "max": "36450000",
-          "disponible": "3035.84"
-        },
-        {
-          "precio": 1006.95,
-          "comerciante": "BraianMay",
-          "min": "2500000",
-          "max": "35000000",
-          "disponible": "5920.21"
-        },
-        {
-          "precio": 1006.999,
-          "comerciante": "Josebat23",
-          "min": "3000000",
-          "max": "31000000",
-          "disponible": "3213.76"
+          "precio": 1007.0,
+          "comerciante": "FranKing06",
+          "min": "20000",
+          "max": "94000",
+          "disponible": "99.75"
         }
       ]
     }
   },
-  "brecha_pct": 14.43
+  "brecha_pct": 14.15
 }
