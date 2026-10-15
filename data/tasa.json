@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-15T15:23:43+00:00",
-  "actualizado_ve": "2026-10-15T11:23:43-04:00",
+  "actualizado_utc": "2026-10-15T19:16:26+00:00",
+  "actualizado_ve": "2026-10-15T15:16:26-04:00",
   "bcv": {
     "usd": 879.1225,
     "eur": 977.68092347,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1010.2012,
+    "referencia": 1005.944,
     "venta": {
-      "promedio": 1010.2012,
-      "minimo": 1009.5,
-      "maximo": 1011.0,
+      "promedio": 1005.944,
+      "minimo": 1005.51,
+      "maximo": 1006.81,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1011.0,
-          "comerciante": "被放逐的狐狸",
-          "min": "4000000",
-          "max": "34000000",
-          "disponible": "26046.59"
+          "precio": 1006.81,
+          "comerciante": "Mad4",
+          "min": "400000",
+          "max": "1100000",
+          "disponible": "1150.00"
         },
         {
-          "precio": 1010.5,
-          "comerciante": "IsaBTC-",
-          "min": "10000000",
-          "max": "36450000",
-          "disponible": "66145.48"
+          "precio": 1006.2,
+          "comerciante": "remPro",
+          "min": "30000",
+          "max": "950000",
+          "disponible": "403.00"
         },
         {
-          "precio": 1010.006,
-          "comerciante": "GAZA_CRIPTO",
-          "min": "6000000",
-          "max": "36450000",
-          "disponible": "34841.86"
+          "precio": 1005.6,
+          "comerciante": "EPONTA",
+          "min": "400000",
+          "max": "24000000",
+          "disponible": "439.35"
         },
         {
-          "precio": 1010.0,
-          "comerciante": "Smolder-",
-          "min": "3000000",
-          "max": "36400000",
-          "disponible": "18310.00"
+          "precio": 1005.6,
+          "comerciante": "MultiEx",
+          "min": "1000000",
+          "max": "4000000",
+          "disponible": "5000.00"
         },
         {
-          "precio": 1009.5,
-          "comerciante": "TheOchoa",
-          "min": "7000000",
-          "max": "36450000",
-          "disponible": "60989.65"
+          "precio": 1005.51,
+          "comerciante": "azucambios",
+          "min": "500000",
+          "max": "4000000",
+          "disponible": "2000.00"
         }
       ]
     },
     "compra": {
-      "promedio": 1009.9982,
-      "minimo": 1009.991,
-      "maximo": 1010.0,
+      "promedio": 1006.6276,
+      "minimo": 1006.299,
+      "maximo": 1006.999,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1009.991,
-          "comerciante": "JDCAPITAL-HOLDING",
-          "min": "200000",
-          "max": "7000000",
-          "disponible": "281.62"
+          "precio": 1006.299,
+          "comerciante": "AMERICA1492LLC",
+          "min": "11040000",
+          "max": "36450000",
+          "disponible": "10978.04"
         },
         {
-          "precio": 1010.0,
-          "comerciante": "pachi1990",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "0.57"
+          "precio": 1006.3,
+          "comerciante": "Musicoin",
+          "min": "2000000",
+          "max": "30000000",
+          "disponible": "2216.34"
         },
         {
-          "precio": 1010.0,
-          "comerciante": "ArepaConCafe",
-          "min": "36450000",
-          "max": "200000000",
-          "disponible": "126045.10"
+          "precio": 1006.59,
+          "comerciante": "EKExpress",
+          "min": "3000000",
+          "max": "36450000",
+          "disponible": "3035.84"
         },
         {
-          "precio": 1010.0,
-          "comerciante": "PuenteConetCriptoP2P",
-          "min": "200000",
-          "max": "1182526",
-          "disponible": "296.39"
+          "precio": 1006.95,
+          "comerciante": "BraianMay",
+          "min": "2500000",
+          "max": "35000000",
+          "disponible": "5920.21"
         },
         {
-          "precio": 1010.0,
-          "comerciante": "leolopez12",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "76.98"
+          "precio": 1006.999,
+          "comerciante": "Josebat23",
+          "min": "3000000",
+          "max": "31000000",
+          "disponible": "3213.76"
         }
       ]
     }
   },
-  "brecha_pct": 14.91
+  "brecha_pct": 14.43
 }
