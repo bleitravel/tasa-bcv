@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-15T01:01:34+00:00",
-  "actualizado_ve": "2026-10-14T21:01:34-04:00",
+  "actualizado_utc": "2026-10-15T05:59:34+00:00",
+  "actualizado_ve": "2026-10-15T01:59:34-04:00",
   "bcv": {
     "usd": 879.1225,
     "eur": 977.68092347,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1012.16,
+    "referencia": 1009.9,
     "venta": {
-      "promedio": 1012.16,
-      "minimo": 1010.8,
-      "maximo": 1013.5,
+      "promedio": 1009.9,
+      "minimo": 1009.0,
+      "maximo": 1010.5,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1013.5,
-          "comerciante": "Trust-Broker",
-          "min": "3000000",
+          "precio": 1010.5,
+          "comerciante": "CambiosDKNY",
+          "min": "500000",
           "max": "36450000",
-          "disponible": "21391.85"
+          "disponible": "727.02"
         },
         {
-          "precio": 1013.0,
-          "comerciante": "被放逐的狐狸",
-          "min": "4000000",
-          "max": "34000000",
-          "disponible": "28066.08"
+          "precio": 1010.0,
+          "comerciante": "User-9098d",
+          "min": "1000000",
+          "max": "4000000",
+          "disponible": "3200.00"
         },
         {
-          "precio": 1012.0,
-          "comerciante": "GOMEZTUSOLUCION",
-          "min": "15000000",
-          "max": "36450000",
-          "disponible": "80000.00"
+          "precio": 1010.0,
+          "comerciante": "User-7f5ee",
+          "min": "300",
+          "max": "157265",
+          "disponible": "0.32"
         },
         {
-          "precio": 1011.5,
-          "comerciante": "安全与信任",
-          "min": "36450000",
-          "max": "600000000",
-          "disponible": "44450.00"
+          "precio": 1010.0,
+          "comerciante": "Emirato",
+          "min": "500000",
+          "max": "4000000",
+          "disponible": "5000.00"
         },
         {
-          "precio": 1010.8,
-          "comerciante": "THE_BOSS_962",
+          "precio": 1009.0,
+          "comerciante": "LechugaExpress",
           "min": "1000000",
           "max": "36450000",
-          "disponible": "29119.82"
+          "disponible": "23341.55"
         }
       ]
     },
     "compra": {
-      "promedio": 1010.1518,
-      "minimo": 1009.0,
-      "maximo": 1011.259,
+      "promedio": 1011.2428,
+      "minimo": 1011.0,
+      "maximo": 1011.4,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1009.0,
-          "comerciante": "rosniyissel",
-          "min": "550000",
-          "max": "600000",
-          "disponible": "646.95"
+          "precio": 1011.0,
+          "comerciante": "Dios es amor",
+          "min": "500",
+          "max": "45000",
+          "disponible": "333.53"
         },
         {
-          "precio": 1010.0,
-          "comerciante": "LilDublin",
-          "min": "10000",
-          "max": "303000",
-          "disponible": "13.97"
+          "precio": 1011.2,
+          "comerciante": "Globalbusinessmxsss",
+          "min": "222000",
+          "max": "222001",
+          "disponible": "220.06"
         },
         {
-          "precio": 1010.0,
-          "comerciante": "Pirelacarlos",
-          "min": "200500",
-          "max": "4000000",
-          "disponible": "199.69"
+          "precio": 1011.299,
+          "comerciante": "Chasity Haagensen lmnx",
+          "min": "20000",
+          "max": "400000",
+          "disponible": "22.26"
         },
         {
-          "precio": 1010.5,
-          "comerciante": "Edcatoze",
-          "min": "3000",
-          "max": "10000",
-          "disponible": "64.44"
-        },
-        {
-          "precio": 1011.259,
-          "comerciante": "JairGOVA佳尔",
-          "min": "50000",
+          "precio": 1011.315,
+          "comerciante": "DesignationV",
+          "min": "1000",
           "max": "2000000",
-          "disponible": "1573.30"
+          "disponible": "1.16"
+        },
+        {
+          "precio": 1011.4,
+          "comerciante": "R E I R A",
+          "min": "10000",
+          "max": "50000",
+          "disponible": "27.48"
         }
       ]
     }
   },
-  "brecha_pct": 15.13
+  "brecha_pct": 14.88
 }
