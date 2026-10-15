@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-15T05:59:34+00:00",
-  "actualizado_ve": "2026-10-15T01:59:34-04:00",
+  "actualizado_utc": "2026-10-15T10:55:43+00:00",
+  "actualizado_ve": "2026-10-15T06:55:43-04:00",
   "bcv": {
     "usd": 879.1225,
     "eur": 977.68092347,
@@ -10,19 +10,19 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1009.9,
+    "referencia": 1009.6002,
     "venta": {
-      "promedio": 1009.9,
+      "promedio": 1009.6002,
       "minimo": 1009.0,
-      "maximo": 1010.5,
+      "maximo": 1010.001,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1010.5,
-          "comerciante": "CambiosDKNY",
-          "min": "500000",
-          "max": "36450000",
-          "disponible": "727.02"
+          "precio": 1010.001,
+          "comerciante": "FRANKMONEY1780",
+          "min": "780000",
+          "max": "3500000",
+          "disponible": "6936.33"
         },
         {
           "precio": 1010.0,
@@ -39,64 +39,64 @@
           "disponible": "0.32"
         },
         {
-          "precio": 1010.0,
-          "comerciante": "Emirato",
-          "min": "500000",
-          "max": "4000000",
-          "disponible": "5000.00"
-        },
-        {
           "precio": 1009.0,
           "comerciante": "LechugaExpress",
           "min": "1000000",
           "max": "36450000",
           "disponible": "23341.55"
+        },
+        {
+          "precio": 1009.0,
+          "comerciante": "CambiosEl",
+          "min": "36450000",
+          "max": "1000000000",
+          "disponible": "60000.00"
         }
       ]
     },
     "compra": {
-      "promedio": 1011.2428,
-      "minimo": 1011.0,
-      "maximo": 1011.4,
+      "promedio": 1010.41,
+      "minimo": 1008.0,
+      "maximo": 1011.25,
       "anuncios_usados": 5,
       "anuncios": [
         {
+          "precio": 1008.0,
+          "comerciante": "P2P-f0a0014d",
+          "min": "50000",
+          "max": "108000",
+          "disponible": "99.75"
+        },
+        {
+          "precio": 1010.9,
+          "comerciante": "arkadses",
+          "min": "555000",
+          "max": "4000000",
+          "disponible": "553.61"
+        },
+        {
+          "precio": 1010.9,
+          "comerciante": "bcpolo",
+          "min": "101000",
+          "max": "102212",
+          "disponible": "100.74"
+        },
+        {
           "precio": 1011.0,
-          "comerciante": "Dios es amor",
-          "min": "500",
-          "max": "45000",
-          "disponible": "333.53"
+          "comerciante": "JGMalpica",
+          "min": "100000",
+          "max": "202000",
+          "disponible": "199.50"
         },
         {
-          "precio": 1011.2,
-          "comerciante": "Globalbusinessmxsss",
-          "min": "222000",
-          "max": "222001",
-          "disponible": "220.06"
-        },
-        {
-          "precio": 1011.299,
-          "comerciante": "Chasity Haagensen lmnx",
-          "min": "20000",
-          "max": "400000",
-          "disponible": "22.26"
-        },
-        {
-          "precio": 1011.315,
-          "comerciante": "DesignationV",
-          "min": "1000",
-          "max": "2000000",
-          "disponible": "1.16"
-        },
-        {
-          "precio": 1011.4,
-          "comerciante": "R E I R A",
-          "min": "10000",
-          "max": "50000",
-          "disponible": "27.48"
+          "precio": 1011.25,
+          "comerciante": "JHus_trader",
+          "min": "180000",
+          "max": "200000",
+          "disponible": "209.47"
         }
       ]
     }
   },
-  "brecha_pct": 14.88
+  "brecha_pct": 14.84
 }
