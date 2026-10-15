@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-14T22:45:40+00:00",
-  "actualizado_ve": "2026-10-14T18:45:40-04:00",
+  "actualizado_utc": "2026-10-15T01:01:34+00:00",
+  "actualizado_ve": "2026-10-14T21:01:34-04:00",
   "bcv": {
     "usd": 879.1225,
     "eur": 977.68092347,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1013.217,
+    "referencia": 1012.16,
     "venta": {
-      "promedio": 1013.217,
-      "minimo": 1012.98,
-      "maximo": 1014.0,
+      "promedio": 1012.16,
+      "minimo": 1010.8,
+      "maximo": 1013.5,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1014.0,
-          "comerciante": "TPhillips",
-          "min": "5000000",
-          "max": "36450000",
-          "disponible": "7188.19"
-        },
-        {
-          "precio": 1013.1,
-          "comerciante": "IngCryptos",
-          "min": "3000000",
-          "max": "36450000",
-          "disponible": "80000.00"
-        },
-        {
-          "precio": 1013.005,
+          "precio": 1013.5,
           "comerciante": "Trust-Broker",
           "min": "3000000",
           "max": "36450000",
-          "disponible": "28425.33"
+          "disponible": "21391.85"
         },
         {
           "precio": 1013.0,
           "comerciante": "被放逐的狐狸",
           "min": "4000000",
           "max": "34000000",
-          "disponible": "39405.90"
+          "disponible": "28066.08"
         },
         {
-          "precio": 1012.98,
-          "comerciante": "Cambios_JENUBER_sas",
-          "min": "506900",
-          "max": "3849000",
-          "disponible": "3102.06"
+          "precio": 1012.0,
+          "comerciante": "GOMEZTUSOLUCION",
+          "min": "15000000",
+          "max": "36450000",
+          "disponible": "80000.00"
+        },
+        {
+          "precio": 1011.5,
+          "comerciante": "安全与信任",
+          "min": "36450000",
+          "max": "600000000",
+          "disponible": "44450.00"
+        },
+        {
+          "precio": 1010.8,
+          "comerciante": "THE_BOSS_962",
+          "min": "1000000",
+          "max": "36450000",
+          "disponible": "29119.82"
         }
       ]
     },
     "compra": {
-      "promedio": 1012.3222,
-      "minimo": 1012.0,
-      "maximo": 1012.8,
+      "promedio": 1010.1518,
+      "minimo": 1009.0,
+      "maximo": 1011.259,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1012.0,
-          "comerciante": "jhankart 2210",
-          "min": "300",
+          "precio": 1009.0,
+          "comerciante": "rosniyissel",
+          "min": "550000",
+          "max": "600000",
+          "disponible": "646.95"
+        },
+        {
+          "precio": 1010.0,
+          "comerciante": "LilDublin",
+          "min": "10000",
+          "max": "303000",
+          "disponible": "13.97"
+        },
+        {
+          "precio": 1010.0,
+          "comerciante": "Pirelacarlos",
+          "min": "200500",
           "max": "4000000",
-          "disponible": "0.30"
+          "disponible": "199.69"
         },
         {
-          "precio": 1012.0,
-          "comerciante": "Globalbusinessmxsss",
-          "min": "100000",
-          "max": "100001",
-          "disponible": "99.75"
+          "precio": 1010.5,
+          "comerciante": "Edcatoze",
+          "min": "3000",
+          "max": "10000",
+          "disponible": "64.44"
         },
         {
-          "precio": 1012.011,
-          "comerciante": "RapidosFC",
-          "min": "1000000",
-          "max": "5500000",
-          "disponible": "4304.93"
-        },
-        {
-          "precio": 1012.8,
-          "comerciante": "Vip_Super_p2p",
-          "min": "5000000",
-          "max": "7000000",
-          "disponible": "7986.02"
-        },
-        {
-          "precio": 1012.8,
-          "comerciante": "CambioRapido13",
-          "min": "3000000",
-          "max": "4933931",
-          "disponible": "4854.18"
+          "precio": 1011.259,
+          "comerciante": "JairGOVA佳尔",
+          "min": "50000",
+          "max": "2000000",
+          "disponible": "1573.30"
         }
       ]
     }
   },
-  "brecha_pct": 15.25
+  "brecha_pct": 15.13
 }
