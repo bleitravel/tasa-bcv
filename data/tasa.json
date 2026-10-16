@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-16T09:57:55+00:00",
-  "actualizado_ve": "2026-10-16T05:57:55-04:00",
+  "actualizado_utc": "2026-10-16T14:28:25+00:00",
+  "actualizado_ve": "2026-10-16T10:28:25-04:00",
   "bcv": {
     "usd": 880.1159,
     "eur": 985.729808,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1001.2,
+    "referencia": 995.16,
     "venta": {
-      "promedio": 1001.2,
-      "minimo": 1000.0,
-      "maximo": 1003.0,
+      "promedio": 995.16,
+      "minimo": 995.0,
+      "maximo": 995.5,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1003.0,
-          "comerciante": "Jhon",
-          "min": "3990000",
-          "max": "4000000",
-          "disponible": "4000.00"
+          "precio": 995.5,
+          "comerciante": "安全与信任",
+          "min": "36450000",
+          "max": "500000000",
+          "disponible": "90000.06"
         },
         {
-          "precio": 1002.0,
-          "comerciante": "josepetitg",
-          "min": "15000",
-          "max": "30000",
-          "disponible": "101.00"
+          "precio": 995.3,
+          "comerciante": "Redmagic17",
+          "min": "9000000",
+          "max": "36450000",
+          "disponible": "50000.00"
         },
         {
-          "precio": 1001.0,
-          "comerciante": "Kasha Irle TJza",
-          "min": "85000",
-          "max": "4000000",
-          "disponible": "100.00"
+          "precio": 995.0,
+          "comerciante": "Jin-Woo-Sung",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "80000.00"
         },
         {
-          "precio": 1000.0,
-          "comerciante": "Galin17",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "0.34"
-        },
-        {
-          "precio": 1000.0,
-          "comerciante": "Securityy",
+          "precio": 995.0,
+          "comerciante": "wlker999",
           "min": "1000000",
-          "max": "8483000",
-          "disponible": "2607.99"
+          "max": "4000000",
+          "disponible": "6900.12"
+        },
+        {
+          "precio": 995.0,
+          "comerciante": "安全与信任",
+          "min": "3000000",
+          "max": "36000000",
+          "disponible": "44038.77"
         }
       ]
     },
     "compra": {
-      "promedio": 1001.478,
-      "minimo": 1001.2,
-      "maximo": 1001.79,
+      "promedio": 994.9532,
+      "minimo": 994.877,
+      "maximo": 995.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1001.2,
-          "comerciante": "sanchez237",
-          "min": "1490000",
-          "max": "8000000",
-          "disponible": "1497.00"
+          "precio": 994.877,
+          "comerciante": "Cambio-Ideal",
+          "min": "5000",
+          "max": "100000",
+          "disponible": "99.75"
         },
         {
-          "precio": 1001.4,
-          "comerciante": "zoecambios_21",
-          "min": "1500000",
-          "max": "36450000",
-          "disponible": "35537.13"
+          "precio": 994.9,
+          "comerciante": "R-E_A_E-1982",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "2.21"
         },
         {
-          "precio": 1001.5,
-          "comerciante": "AlexGrecCambiosyReme",
-          "min": "100001",
-          "max": "20000000",
-          "disponible": "251.79"
+          "precio": 994.99,
+          "comerciante": "Yolis21",
+          "min": "19000",
+          "max": "109000",
+          "disponible": "99.75"
         },
         {
-          "precio": 1001.5,
-          "comerciante": "eduardo94268",
-          "min": "1000000",
-          "max": "18500000",
-          "disponible": "14276.23"
+          "precio": 994.999,
+          "comerciante": "Berto06-LFG",
+          "min": "300",
+          "max": "500000",
+          "disponible": "1.86"
         },
         {
-          "precio": 1001.79,
-          "comerciante": "Melani_sublimascione",
-          "min": "3000000",
-          "max": "11176957",
-          "disponible": "11132.94"
+          "precio": 995.0,
+          "comerciante": "YdaG27",
+          "min": "330",
+          "max": "30000",
+          "disponible": "1.84"
         }
       ]
     }
   },
-  "brecha_pct": 13.76
+  "brecha_pct": 13.07
 }
