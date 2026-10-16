@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-16T21:26:11+00:00",
-  "actualizado_ve": "2026-10-16T17:26:11-04:00",
+  "actualizado_utc": "2026-10-16T23:43:46+00:00",
+  "actualizado_ve": "2026-10-16T19:43:46-04:00",
   "bcv": {
     "usd": 881.0664,
     "eur": 991.16445734,
@@ -10,54 +10,54 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 998.37,
+    "referencia": 1003.52,
     "venta": {
-      "promedio": 998.37,
-      "minimo": 998.0,
-      "maximo": 999.0,
+      "promedio": 1003.52,
+      "minimo": 1003.0,
+      "maximo": 1004.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 999.0,
+          "precio": 1004.0,
           "comerciante": "GOMEZTUSOLUCION",
-          "min": "37000000",
-          "max": "300000000",
-          "disponible": "80328.82"
-        },
-        {
-          "precio": 998.5,
-          "comerciante": "IngCryptos",
-          "min": "3000000",
+          "min": "15000000",
           "max": "36450000",
-          "disponible": "53000.00"
+          "disponible": "41059.83"
         },
         {
-          "precio": 998.35,
-          "comerciante": "wiligarsan",
-          "min": "500000",
+          "precio": 1004.0,
+          "comerciante": "IsaBTC-",
+          "min": "10000000",
+          "max": "36450000",
+          "disponible": "80000.00"
+        },
+        {
+          "precio": 1003.5,
+          "comerciante": "HectorB",
+          "min": "8000000",
+          "max": "36000000",
+          "disponible": "80000.00"
+        },
+        {
+          "precio": 1003.1,
+          "comerciante": "IA_CORPORATE",
+          "min": "4000000",
+          "max": "36400000",
+          "disponible": "68000.00"
+        },
+        {
+          "precio": 1003.0,
+          "comerciante": "Nauj_zeug",
+          "min": "1000000",
           "max": "4000000",
-          "disponible": "4000.00"
-        },
-        {
-          "precio": 998.0,
-          "comerciante": "被放逐的狐狸",
-          "min": "3000000",
-          "max": "34000000",
-          "disponible": "70543.69"
-        },
-        {
-          "precio": 998.0,
-          "comerciante": "Godisgift",
-          "min": "3355000",
-          "max": "36450000",
-          "disponible": "3361.73"
+          "disponible": "1940.00"
         }
       ]
     },
     "compra": {
-      "promedio": 995.0078,
+      "promedio": 998.3076,
       "minimo": 980.54,
-      "maximo": 999.0,
+      "maximo": 1003.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "99.75"
         },
         {
-          "precio": 998.499,
-          "comerciante": "MANTEQUILLAA",
-          "min": "4000000",
-          "max": "30000000",
-          "disponible": "16959.28"
+          "precio": 1002.0,
+          "comerciante": "cambiosramses",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "5.52"
         },
         {
-          "precio": 998.5,
-          "comerciante": "你就变得更强",
-          "min": "4000000",
-          "max": "36450000",
-          "disponible": "28370.40"
-        },
-        {
-          "precio": 998.5,
+          "precio": 1002.998,
           "comerciante": "Vaneandreina7",
           "min": "698000",
           "max": "700000",
-          "disponible": "2194.51"
+          "disponible": "2553.48"
         },
         {
-          "precio": 999.0,
-          "comerciante": "ArepaConCafe",
-          "min": "36450000",
-          "max": "200000000",
-          "disponible": "147407.08"
+          "precio": 1003.0,
+          "comerciante": "JhonathanH",
+          "min": "44000",
+          "max": "44200",
+          "disponible": "55.80"
+        },
+        {
+          "precio": 1003.0,
+          "comerciante": "ElMuSa30",
+          "min": "2000000",
+          "max": "36450000",
+          "disponible": "2987.62"
         }
       ]
     }
   },
-  "brecha_pct": 13.31
+  "brecha_pct": 13.9
 }
