@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-16T00:51:41+00:00",
-  "actualizado_ve": "2026-10-15T20:51:41-04:00",
+  "actualizado_utc": "2026-10-16T05:13:23+00:00",
+  "actualizado_ve": "2026-10-16T01:13:23-04:00",
   "bcv": {
     "usd": 880.1159,
     "eur": 985.729808,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1001.24,
+    "referencia": 999.9202,
     "venta": {
-      "promedio": 1001.24,
-      "minimo": 1000.5,
-      "maximo": 1002.0,
+      "promedio": 999.9202,
+      "minimo": 998.101,
+      "maximo": 1003.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1002.0,
-          "comerciante": "memo",
-          "min": "1500000",
+          "precio": 1003.0,
+          "comerciante": "Jhon",
+          "min": "3990000",
           "max": "4000000",
-          "disponible": "7000.00"
+          "disponible": "4000.00"
         },
         {
-          "precio": 1001.5,
-          "comerciante": "安全与信任",
-          "min": "36450000",
-          "max": "500000000",
-          "disponible": "113550.00"
+          "precio": 1000.0,
+          "comerciante": "Galin17",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "0.34"
         },
         {
-          "precio": 1001.2,
-          "comerciante": "安全与信任",
-          "min": "5000000",
-          "max": "36000000",
-          "disponible": "61920.70"
+          "precio": 999.5,
+          "comerciante": "kevin2704",
+          "min": "300",
+          "max": "50000",
+          "disponible": "1.16"
         },
         {
-          "precio": 1001.0,
-          "comerciante": "bigmitchum",
-          "min": "10000000",
-          "max": "12266309",
-          "disponible": "12254.00"
+          "precio": 999.0,
+          "comerciante": "Pumbay",
+          "min": "300",
+          "max": "100000",
+          "disponible": "1.85"
         },
         {
-          "precio": 1000.5,
-          "comerciante": "LM30",
-          "min": "3190",
-          "max": "3191",
-          "disponible": "100.00"
+          "precio": 998.101,
+          "comerciante": "-ARKA",
+          "min": "700000",
+          "max": "20656064",
+          "disponible": "1941.89"
         }
       ]
     },
     "compra": {
-      "promedio": 1001.2872,
-      "minimo": 1001.0,
-      "maximo": 1001.46,
+      "promedio": 1002.32,
+      "minimo": 1002.0,
+      "maximo": 1002.6,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1001.0,
-          "comerciante": "Karima Safi BMy2",
-          "min": "10000",
-          "max": "20000",
-          "disponible": "99.75"
-        },
-        {
-          "precio": 1001.2,
-          "comerciante": "trade-key",
-          "min": "1500000",
-          "max": "36450000",
-          "disponible": "2823.26"
-        },
-        {
-          "precio": 1001.388,
-          "comerciante": "係唔係我",
+          "precio": 1002.0,
+          "comerciante": "Luishein",
           "min": "5000000",
-          "max": "15000000",
-          "disponible": "10000.49"
+          "max": "34102300",
+          "disponible": "34059.72"
         },
         {
-          "precio": 1001.388,
-          "comerciante": "StartBusiness",
+          "precio": 1002.0,
+          "comerciante": "user_Carlos2023",
+          "min": "50000",
+          "max": "439149",
+          "disponible": "111.76"
+        },
+        {
+          "precio": 1002.5,
+          "comerciante": "los100cien",
+          "min": "3000000",
+          "max": "36000000",
+          "disponible": "13582.02"
+        },
+        {
+          "precio": 1002.5,
+          "comerciante": "RallyMoney",
+          "min": "400000",
+          "max": "10000000",
+          "disponible": "1592.05"
+        },
+        {
+          "precio": 1002.6,
+          "comerciante": "FERRARI_F40",
           "min": "2000000",
-          "max": "20000000",
-          "disponible": "11986.71"
-        },
-        {
-          "precio": 1001.46,
-          "comerciante": "JesusGil",
-          "min": "2800000",
-          "max": "9300000",
-          "disponible": "8984.27"
+          "max": "36450000",
+          "disponible": "32625.25"
         }
       ]
     }
   },
-  "brecha_pct": 13.76
+  "brecha_pct": 13.61
 }
