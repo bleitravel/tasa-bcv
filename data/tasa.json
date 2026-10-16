@@ -1,102 +1,102 @@
 {
-  "actualizado_utc": "2026-10-16T18:15:39+00:00",
-  "actualizado_ve": "2026-10-16T14:15:39-04:00",
+  "actualizado_utc": "2026-10-16T21:26:11+00:00",
+  "actualizado_ve": "2026-10-16T17:26:11-04:00",
   "bcv": {
-    "usd": 880.1159,
-    "eur": 985.729808,
-    "fecha_valor": "2026-10-16T00:00:00-04:00"
+    "usd": 881.0664,
+    "eur": 991.16445734,
+    "fecha_valor": "2026-10-19T00:00:00-04:00"
   },
   "binance_p2p": {
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 994.6802,
+    "referencia": 998.37,
     "venta": {
-      "promedio": 994.6802,
-      "minimo": 994.2,
-      "maximo": 995.5,
+      "promedio": 998.37,
+      "minimo": 998.0,
+      "maximo": 999.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 995.5,
-          "comerciante": "CROMOSOMA-21",
-          "min": "7000000",
+          "precio": 999.0,
+          "comerciante": "GOMEZTUSOLUCION",
+          "min": "37000000",
+          "max": "300000000",
+          "disponible": "80328.82"
+        },
+        {
+          "precio": 998.5,
+          "comerciante": "IngCryptos",
+          "min": "3000000",
           "max": "36450000",
-          "disponible": "38435.52"
+          "disponible": "53000.00"
         },
         {
-          "precio": 995.0,
-          "comerciante": "-JPMorgan-",
-          "min": "5000000",
-          "max": "36440000",
-          "disponible": "10000.00"
+          "precio": 998.35,
+          "comerciante": "wiligarsan",
+          "min": "500000",
+          "max": "4000000",
+          "disponible": "4000.00"
         },
         {
-          "precio": 994.5,
-          "comerciante": "贝HarveySpecter贝",
-          "min": "1000000",
-          "max": "36000000",
-          "disponible": "3000.00"
+          "precio": 998.0,
+          "comerciante": "被放逐的狐狸",
+          "min": "3000000",
+          "max": "34000000",
+          "disponible": "70543.69"
         },
         {
-          "precio": 994.201,
-          "comerciante": "FUERZA_ELITE",
-          "min": "1000000",
-          "max": "36000000",
-          "disponible": "4221.45"
-        },
-        {
-          "precio": 994.2,
-          "comerciante": "Jorgecamacaro79",
-          "min": "700000",
-          "max": "36000000",
-          "disponible": "7277.49"
+          "precio": 998.0,
+          "comerciante": "Godisgift",
+          "min": "3355000",
+          "max": "36450000",
+          "disponible": "3361.73"
         }
       ]
     },
     "compra": {
-      "promedio": 995.0696,
-      "minimo": 994.949,
-      "maximo": 995.399,
+      "promedio": 995.0078,
+      "minimo": 980.54,
+      "maximo": 999.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 994.949,
-          "comerciante": "crashko_p2p",
-          "min": "100000",
-          "max": "10000000",
-          "disponible": "145.80"
+          "precio": 980.54,
+          "comerciante": "P2P-ElMejorCambio",
+          "min": "300",
+          "max": "400",
+          "disponible": "99.75"
         },
         {
-          "precio": 995.0,
-          "comerciante": "ExpressCambiOriginal",
-          "min": "1000000",
-          "max": "6000001",
-          "disponible": "1285.85"
-        },
-        {
-          "precio": 995.0,
-          "comerciante": "SPAICER",
-          "min": "320",
-          "max": "877000",
-          "disponible": "2.41"
-        },
-        {
-          "precio": 995.0,
-          "comerciante": "Dxvid Exchange",
-          "min": "3000000",
-          "max": "8000000",
-          "disponible": "6883.40"
-        },
-        {
-          "precio": 995.399,
-          "comerciante": "TenshiEx",
+          "precio": 998.499,
+          "comerciante": "MANTEQUILLAA",
           "min": "4000000",
-          "max": "36000000",
-          "disponible": "7050.29"
+          "max": "30000000",
+          "disponible": "16959.28"
+        },
+        {
+          "precio": 998.5,
+          "comerciante": "你就变得更强",
+          "min": "4000000",
+          "max": "36450000",
+          "disponible": "28370.40"
+        },
+        {
+          "precio": 998.5,
+          "comerciante": "Vaneandreina7",
+          "min": "698000",
+          "max": "700000",
+          "disponible": "2194.51"
+        },
+        {
+          "precio": 999.0,
+          "comerciante": "ArepaConCafe",
+          "min": "36450000",
+          "max": "200000000",
+          "disponible": "147407.08"
         }
       ]
     }
   },
-  "brecha_pct": 13.02
+  "brecha_pct": 13.31
 }
