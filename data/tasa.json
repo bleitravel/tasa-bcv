@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-17T21:48:40+00:00",
-  "actualizado_ve": "2026-10-17T17:48:40-04:00",
+  "actualizado_utc": "2026-10-17T23:34:02+00:00",
+  "actualizado_ve": "2026-10-17T19:34:02-04:00",
   "bcv": {
     "usd": 881.0664,
     "eur": 991.16445734,
@@ -10,54 +10,54 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1004.6022,
+    "referencia": 1002.7246,
     "venta": {
-      "promedio": 1004.6022,
-      "minimo": 1003.9,
-      "maximo": 1005.7,
+      "promedio": 1002.7246,
+      "minimo": 1002.001,
+      "maximo": 1003.5,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1005.7,
-          "comerciante": "IngCryptos",
+          "precio": 1003.5,
+          "comerciante": "智慧變更",
           "min": "2000000",
+          "max": "12752600",
+          "disponible": "12708.00"
+        },
+        {
+          "precio": 1003.0,
+          "comerciante": "MentalStagnums",
+          "min": "1000000",
           "max": "36450000",
-          "disponible": "80000.00"
+          "disponible": "41360.76"
         },
         {
-          "precio": 1005.0,
-          "comerciante": "El chino USDT",
-          "min": "900000",
+          "precio": 1003.0,
+          "comerciante": "Gochocambios1",
+          "min": "50000",
           "max": "4000000",
-          "disponible": "3867.97"
+          "disponible": "736.93"
         },
         {
-          "precio": 1004.501,
+          "precio": 1002.122,
+          "comerciante": "genesisrive",
+          "min": "300",
+          "max": "145572",
+          "disponible": "0.92"
+        },
+        {
+          "precio": 1002.001,
           "comerciante": "Servic-Karyguz",
           "min": "1500000",
           "max": "10000000",
-          "disponible": "3163.34"
-        },
-        {
-          "precio": 1003.91,
-          "comerciante": "DOCTOR_CAMBIO",
-          "min": "7000000",
-          "max": "36450000",
-          "disponible": "73034.84"
-        },
-        {
-          "precio": 1003.9,
-          "comerciante": "RM-CAMBIOS",
-          "min": "4000000",
-          "max": "36450000",
-          "disponible": "66150.86"
+          "disponible": "1510.00"
         }
       ]
     },
     "compra": {
-      "promedio": 999.1736,
+      "promedio": 998.4474,
       "minimo": 980.54,
-      "maximo": 1004.678,
+      "maximo": 1003.9,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "99.75"
         },
         {
-          "precio": 1002.0,
-          "comerciante": "Broker Trader",
-          "min": "17050",
-          "max": "17051",
-          "disponible": "73.73"
-        },
-        {
-          "precio": 1004.0,
+          "precio": 1000.0,
           "comerciante": "ElMuSa30",
-          "min": "2000000",
-          "max": "36450000",
-          "disponible": "4899.71"
-        },
-        {
-          "precio": 1004.65,
-          "comerciante": "Pagos-rapidosQ",
-          "min": "1008000",
-          "max": "20000000",
-          "disponible": "5396.52"
-        },
-        {
-          "precio": 1004.678,
-          "comerciante": "majog",
           "min": "1000000",
-          "max": "9000000",
-          "disponible": "1417.22"
+          "max": "36450000",
+          "disponible": "4491.95"
+        },
+        {
+          "precio": 1003.898,
+          "comerciante": "Dergut_23",
+          "min": "4000000",
+          "max": "36450000",
+          "disponible": "5992.50"
+        },
+        {
+          "precio": 1003.899,
+          "comerciante": "Dxvid Exchange",
+          "min": "3000000",
+          "max": "8000000",
+          "disponible": "6977.90"
+        },
+        {
+          "precio": 1003.9,
+          "comerciante": "Kalevv",
+          "min": "4000000",
+          "max": "36000000",
+          "disponible": "6901.30"
         }
       ]
     }
   },
-  "brecha_pct": 14.02
+  "brecha_pct": 13.81
 }
