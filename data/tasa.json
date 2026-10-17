@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-17T06:18:59+00:00",
-  "actualizado_ve": "2026-10-17T02:18:59-04:00",
+  "actualizado_utc": "2026-10-17T11:00:06+00:00",
+  "actualizado_ve": "2026-10-17T07:00:06-04:00",
   "bcv": {
     "usd": 881.0664,
     "eur": 991.16445734,
@@ -10,40 +10,26 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1008.8002,
+    "referencia": 1008.2802,
     "venta": {
-      "promedio": 1008.8002,
-      "minimo": 1008.0,
+      "promedio": 1008.2802,
+      "minimo": 1007.401,
       "maximo": 1010.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
           "precio": 1010.0,
-          "comerciante": "Rous_Only",
-          "min": "5000000",
-          "max": "7880000",
-          "disponible": "7801.00"
+          "comerciante": "GutierrezIsa2025",
+          "min": "15000",
+          "max": "20000",
+          "disponible": "100.00"
         },
         {
-          "precio": 1009.011,
-          "comerciante": "係唔係我",
-          "min": "1000001",
-          "max": "14000000",
-          "disponible": "6756.12"
-        },
-        {
-          "precio": 1008.99,
-          "comerciante": "VISÓN CRIPTØ",
-          "min": "1000000",
-          "max": "3645000",
-          "disponible": "37767.73"
-        },
-        {
-          "precio": 1008.0,
-          "comerciante": "lfft",
-          "min": "250000",
+          "precio": 1008.5,
+          "comerciante": "Elguaro",
+          "min": "50000",
           "max": "4000000",
-          "disponible": "264.00"
+          "disponible": "3510.92"
         },
         {
           "precio": 1008.0,
@@ -51,13 +37,27 @@
           "min": "36782",
           "max": "36785",
           "disponible": "100.00"
+        },
+        {
+          "precio": 1007.5,
+          "comerciante": "YenderFlashP2P",
+          "min": "400000",
+          "max": "10000000",
+          "disponible": "8000.06"
+        },
+        {
+          "precio": 1007.401,
+          "comerciante": "mayerlingm",
+          "min": "200000",
+          "max": "30000000",
+          "disponible": "1684.03"
         }
       ]
     },
     "compra": {
-      "promedio": 1002.108,
+      "promedio": 1005.3078,
       "minimo": 980.54,
-      "maximo": 1010.0,
+      "maximo": 1012.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,13 +68,6 @@
           "disponible": "99.75"
         },
         {
-          "precio": 1000.0,
-          "comerciante": "Angeletex",
-          "min": "20000",
-          "max": "25000",
-          "disponible": "99.75"
-        },
-        {
           "precio": 1010.0,
           "comerciante": "kekeleon",
           "min": "70000",
@@ -82,21 +75,28 @@
           "disponible": "200.27"
         },
         {
-          "precio": 1010.0,
-          "comerciante": "DOMAINELLP",
-          "min": "700000",
-          "max": "4000000",
-          "disponible": "698.25"
+          "precio": 1011.999,
+          "comerciante": "EJ_Pay",
+          "min": "200000",
+          "max": "485627",
+          "disponible": "478.67"
         },
         {
-          "precio": 1010.0,
-          "comerciante": "FreeShad",
-          "min": "100000",
-          "max": "4000000",
-          "disponible": "105.06"
+          "precio": 1012.0,
+          "comerciante": "XFastLine",
+          "min": "4000000",
+          "max": "9000000",
+          "disponible": "8018.26"
+        },
+        {
+          "precio": 1012.0,
+          "comerciante": "JvPRO18",
+          "min": "90000",
+          "max": "2700000",
+          "disponible": "2600.00"
         }
       ]
     }
   },
-  "brecha_pct": 14.5
+  "brecha_pct": 14.44
 }
