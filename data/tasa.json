@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-16T23:43:46+00:00",
-  "actualizado_ve": "2026-10-16T19:43:46-04:00",
+  "actualizado_utc": "2026-10-17T01:49:27+00:00",
+  "actualizado_ve": "2026-10-16T21:49:27-04:00",
   "bcv": {
     "usd": 881.0664,
     "eur": 991.16445734,
@@ -10,54 +10,54 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1003.52,
+    "referencia": 1006.7202,
     "venta": {
-      "promedio": 1003.52,
-      "minimo": 1003.0,
-      "maximo": 1004.0,
+      "promedio": 1006.7202,
+      "minimo": 1006.3,
+      "maximo": 1007.5,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1004.0,
-          "comerciante": "GOMEZTUSOLUCION",
-          "min": "15000000",
-          "max": "36450000",
-          "disponible": "41059.83"
-        },
-        {
-          "precio": 1004.0,
-          "comerciante": "IsaBTC-",
+          "precio": 1007.5,
+          "comerciante": "Cross-26",
           "min": "10000000",
+          "max": "36400000",
+          "disponible": "80000.00"
+        },
+        {
+          "precio": 1007.0,
+          "comerciante": "P2P-435db4zm",
+          "min": "1000500",
+          "max": "4000000",
+          "disponible": "11443.71"
+        },
+        {
+          "precio": 1006.5,
+          "comerciante": "-TSxRV-",
+          "min": "3000000",
           "max": "36450000",
           "disponible": "80000.00"
         },
         {
-          "precio": 1003.5,
-          "comerciante": "HectorB",
-          "min": "8000000",
-          "max": "36000000",
-          "disponible": "80000.00"
-        },
-        {
-          "precio": 1003.1,
-          "comerciante": "IA_CORPORATE",
-          "min": "4000000",
-          "max": "36400000",
-          "disponible": "68000.00"
-        },
-        {
-          "precio": 1003.0,
-          "comerciante": "Nauj_zeug",
+          "precio": 1006.301,
+          "comerciante": "蒙神祝福者",
           "min": "1000000",
-          "max": "4000000",
-          "disponible": "1940.00"
+          "max": "23000000",
+          "disponible": "19529.05"
+        },
+        {
+          "precio": 1006.3,
+          "comerciante": "StartBusiness",
+          "min": "1000000",
+          "max": "10000000",
+          "disponible": "7438.23"
         }
       ]
     },
     "compra": {
-      "promedio": 998.3076,
+      "promedio": 1003.096,
       "minimo": 980.54,
-      "maximo": 1003.0,
+      "maximo": 1009.95,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "99.75"
         },
         {
-          "precio": 1002.0,
-          "comerciante": "cambiosramses",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "5.52"
-        },
-        {
-          "precio": 1002.998,
-          "comerciante": "Vaneandreina7",
-          "min": "698000",
-          "max": "700000",
-          "disponible": "2553.48"
-        },
-        {
-          "precio": 1003.0,
-          "comerciante": "JhonathanH",
-          "min": "44000",
-          "max": "44200",
-          "disponible": "55.80"
-        },
-        {
-          "precio": 1003.0,
-          "comerciante": "ElMuSa30",
-          "min": "2000000",
+          "precio": 1005.99,
+          "comerciante": "leomileo2022",
+          "min": "1000000",
           "max": "36450000",
-          "disponible": "2987.62"
+          "disponible": "19944.28"
+        },
+        {
+          "precio": 1009.5,
+          "comerciante": "Fran",
+          "min": "590000",
+          "max": "4000000",
+          "disponible": "598.50"
+        },
+        {
+          "precio": 1009.5,
+          "comerciante": "Samjere",
+          "min": "340000",
+          "max": "4000000",
+          "disponible": "340.04"
+        },
+        {
+          "precio": 1009.95,
+          "comerciante": "TheMerchanTHM",
+          "min": "900000",
+          "max": "36450000",
+          "disponible": "892.00"
         }
       ]
     }
   },
-  "brecha_pct": 13.9
+  "brecha_pct": 14.26
 }
