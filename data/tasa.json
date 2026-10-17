@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-17T19:33:14+00:00",
-  "actualizado_ve": "2026-10-17T15:33:14-04:00",
+  "actualizado_utc": "2026-10-17T21:48:40+00:00",
+  "actualizado_ve": "2026-10-17T17:48:40-04:00",
   "bcv": {
     "usd": 881.0664,
     "eur": 991.16445734,
@@ -10,54 +10,54 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1005.6024,
+    "referencia": 1004.6022,
     "venta": {
-      "promedio": 1005.6024,
-      "minimo": 1004.012,
-      "maximo": 1008.0,
+      "promedio": 1004.6022,
+      "minimo": 1003.9,
+      "maximo": 1005.7,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1008.0,
-          "comerciante": "cj17DF",
-          "min": "300",
-          "max": "310",
-          "disponible": "100.00"
-        },
-        {
-          "precio": 1006.0,
-          "comerciante": "User-5bb6fboj",
-          "min": "10600",
-          "max": "50300",
-          "disponible": "19.84"
-        },
-        {
-          "precio": 1005.0,
-          "comerciante": "Jorgecampos2024",
-          "min": "241200",
-          "max": "4000000",
-          "disponible": "240.00"
-        },
-        {
-          "precio": 1005.0,
-          "comerciante": "Escocrida",
-          "min": "1000000",
-          "max": "1946000",
-          "disponible": "1936.00"
-        },
-        {
-          "precio": 1004.012,
-          "comerciante": "-AMATERATSU-",
-          "min": "5000000",
+          "precio": 1005.7,
+          "comerciante": "IngCryptos",
+          "min": "2000000",
           "max": "36450000",
-          "disponible": "43840.06"
+          "disponible": "80000.00"
+        },
+        {
+          "precio": 1005.0,
+          "comerciante": "El chino USDT",
+          "min": "900000",
+          "max": "4000000",
+          "disponible": "3867.97"
+        },
+        {
+          "precio": 1004.501,
+          "comerciante": "Servic-Karyguz",
+          "min": "1500000",
+          "max": "10000000",
+          "disponible": "3163.34"
+        },
+        {
+          "precio": 1003.91,
+          "comerciante": "DOCTOR_CAMBIO",
+          "min": "7000000",
+          "max": "36450000",
+          "disponible": "73034.84"
+        },
+        {
+          "precio": 1003.9,
+          "comerciante": "RM-CAMBIOS",
+          "min": "4000000",
+          "max": "36450000",
+          "disponible": "66150.86"
         }
       ]
     },
     "compra": {
-      "promedio": 1000.308,
+      "promedio": 999.1736,
       "minimo": 980.54,
-      "maximo": 1006.0,
+      "maximo": 1004.678,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "99.75"
         },
         {
-          "precio": 1004.0,
+          "precio": 1002.0,
           "comerciante": "Broker Trader",
           "min": "17050",
           "max": "17051",
-          "disponible": "107.75"
+          "disponible": "73.73"
         },
         {
-          "precio": 1005.0,
-          "comerciante": "MISTER reader ",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "99.75"
+          "precio": 1004.0,
+          "comerciante": "ElMuSa30",
+          "min": "2000000",
+          "max": "36450000",
+          "disponible": "4899.71"
         },
         {
-          "precio": 1006.0,
-          "comerciante": "Victordhd",
-          "min": "1006",
-          "max": "1207200",
-          "disponible": "35.53"
+          "precio": 1004.65,
+          "comerciante": "Pagos-rapidosQ",
+          "min": "1008000",
+          "max": "20000000",
+          "disponible": "5396.52"
         },
         {
-          "precio": 1006.0,
-          "comerciante": "MaiLopez1094",
-          "min": "20000",
-          "max": "4000000",
-          "disponible": "49.47"
+          "precio": 1004.678,
+          "comerciante": "majog",
+          "min": "1000000",
+          "max": "9000000",
+          "disponible": "1417.22"
         }
       ]
     }
   },
-  "brecha_pct": 14.13
+  "brecha_pct": 14.02
 }
