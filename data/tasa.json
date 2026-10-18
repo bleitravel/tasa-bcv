@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-18T14:58:24+00:00",
-  "actualizado_ve": "2026-10-18T10:58:24-04:00",
+  "actualizado_utc": "2026-10-18T17:47:09+00:00",
+  "actualizado_ve": "2026-10-18T13:47:09-04:00",
   "bcv": {
     "usd": 881.0664,
     "eur": 991.16445734,
@@ -10,54 +10,54 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1004.9604,
+    "referencia": 1005.3002,
     "venta": {
-      "promedio": 1004.9604,
-      "minimo": 1004.9,
-      "maximo": 1005.001,
+      "promedio": 1005.3002,
+      "minimo": 1005.0,
+      "maximo": 1006.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1005.001,
-          "comerciante": "ArepaConCafe",
-          "min": "400000",
-          "max": "3000000",
-          "disponible": "32817.44"
+          "precio": 1006.0,
+          "comerciante": "memo",
+          "min": "130520",
+          "max": "4000000",
+          "disponible": "130.00"
         },
         {
-          "precio": 1005.0,
-          "comerciante": "FUERZA_ELITE",
-          "min": "1215000",
-          "max": "1219000",
-          "disponible": "1213.00"
-        },
-        {
-          "precio": 1005.0,
-          "comerciante": "GAZA_CRIPTO",
-          "min": "400000",
+          "precio": 1005.5,
+          "comerciante": "IngCryptos",
+          "min": "2000000",
           "max": "36450000",
-          "disponible": "80000.00"
+          "disponible": "35000.00"
         },
         {
-          "precio": 1004.901,
-          "comerciante": "改善ThorFinn改善",
+          "precio": 1005.001,
+          "comerciante": "DOCTOR_CAMBIO",
           "min": "5000000",
           "max": "36450000",
-          "disponible": "35486.79"
+          "disponible": "50000.00"
         },
         {
-          "precio": 1004.9,
-          "comerciante": "Redmagic17",
-          "min": "3000000",
+          "precio": 1005.0,
+          "comerciante": "BlackVaultt",
+          "min": "200000",
+          "max": "4000000",
+          "disponible": "4438.53"
+        },
+        {
+          "precio": 1005.0,
+          "comerciante": "Brawcoins",
+          "min": "5000000",
           "max": "36450000",
-          "disponible": "25243.20"
+          "disponible": "75024.88"
         }
       ]
     },
     "compra": {
-      "promedio": 1000.8748,
+      "promedio": 1000.508,
       "minimo": 980.54,
-      "maximo": 1006.9,
+      "maximo": 1006.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "99.75"
         },
         {
-          "precio": 1005.0,
-          "comerciante": "Jesus",
-          "min": "300",
-          "max": "900000",
-          "disponible": "0.98"
+          "precio": 1004.0,
+          "comerciante": "Broker Trader",
+          "min": "17450",
+          "max": "17451",
+          "disponible": "37.80"
         },
         {
-          "precio": 1005.035,
-          "comerciante": "pcbios",
-          "min": "300",
-          "max": "2000000",
-          "disponible": "10.15"
+          "precio": 1006.0,
+          "comerciante": "P2P-9aa857z9",
+          "min": "143000",
+          "max": "143100",
+          "disponible": "143.74"
         },
         {
-          "precio": 1006.899,
-          "comerciante": "gochocambiokey",
-          "min": "115200",
-          "max": "115300",
-          "disponible": "119.70"
+          "precio": 1006.0,
+          "comerciante": "Specione",
+          "min": "40000",
+          "max": "40001",
+          "disponible": "60.04"
         },
         {
-          "precio": 1006.9,
-          "comerciante": "Danielajcg",
-          "min": "300",
-          "max": "100000",
-          "disponible": "0.68"
+          "precio": 1006.0,
+          "comerciante": "ColmePlus ",
+          "min": "700000",
+          "max": "10000000",
+          "disponible": "772.26"
         }
       ]
     }
   },
-  "brecha_pct": 14.06
+  "brecha_pct": 14.1
 }
