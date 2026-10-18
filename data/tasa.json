@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-18T11:49:34+00:00",
-  "actualizado_ve": "2026-10-18T07:49:34-04:00",
+  "actualizado_utc": "2026-10-18T14:58:24+00:00",
+  "actualizado_ve": "2026-10-18T10:58:24-04:00",
   "bcv": {
     "usd": 881.0664,
     "eur": 991.16445734,
@@ -10,54 +10,54 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1001.58,
+    "referencia": 1004.9604,
     "venta": {
-      "promedio": 1001.58,
-      "minimo": 1001.4,
-      "maximo": 1002.0,
+      "promedio": 1004.9604,
+      "minimo": 1004.9,
+      "maximo": 1005.001,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1002.0,
-          "comerciante": "c__s",
-          "min": "2000000",
-          "max": "36450000",
-          "disponible": "6317.00"
+          "precio": 1005.001,
+          "comerciante": "ArepaConCafe",
+          "min": "400000",
+          "max": "3000000",
+          "disponible": "32817.44"
         },
         {
-          "precio": 1001.5,
-          "comerciante": "BraVen_Group",
-          "min": "7000000",
-          "max": "30000000",
-          "disponible": "30000.00"
-        },
-        {
-          "precio": 1001.5,
+          "precio": 1005.0,
           "comerciante": "FUERZA_ELITE",
-          "min": "3000000",
-          "max": "36000000",
-          "disponible": "50000.00"
+          "min": "1215000",
+          "max": "1219000",
+          "disponible": "1213.00"
         },
         {
-          "precio": 1001.5,
-          "comerciante": "VENTASJM",
-          "min": "500000",
-          "max": "19055000",
-          "disponible": "6000.00"
-        },
-        {
-          "precio": 1001.4,
-          "comerciante": "Redmagic17",
-          "min": "2000000",
+          "precio": 1005.0,
+          "comerciante": "GAZA_CRIPTO",
+          "min": "400000",
           "max": "36450000",
-          "disponible": "20213.12"
+          "disponible": "80000.00"
+        },
+        {
+          "precio": 1004.901,
+          "comerciante": "改善ThorFinn改善",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "35486.79"
+        },
+        {
+          "precio": 1004.9,
+          "comerciante": "Redmagic17",
+          "min": "3000000",
+          "max": "36450000",
+          "disponible": "25243.20"
         }
       ]
     },
     "compra": {
-      "promedio": 999.607,
+      "promedio": 1000.8748,
       "minimo": 980.54,
-      "maximo": 1005.498,
+      "maximo": 1006.9,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "99.75"
         },
         {
-          "precio": 1001.5,
-          "comerciante": "Orion0624",
-          "min": "149000",
-          "max": "150000",
-          "disponible": "149.62"
-        },
-        {
           "precio": 1005.0,
-          "comerciante": "Yosedg",
-          "min": "2000000",
-          "max": "15000000",
-          "disponible": "10975.65"
+          "comerciante": "Jesus",
+          "min": "300",
+          "max": "900000",
+          "disponible": "0.98"
         },
         {
-          "precio": 1005.497,
-          "comerciante": "CoinGonzo",
-          "min": "1000001",
-          "max": "9999999",
-          "disponible": "8000.00"
+          "precio": 1005.035,
+          "comerciante": "pcbios",
+          "min": "300",
+          "max": "2000000",
+          "disponible": "10.15"
         },
         {
-          "precio": 1005.498,
-          "comerciante": "AngelFlashVen",
-          "min": "2000000",
-          "max": "36450000",
-          "disponible": "11577.14"
+          "precio": 1006.899,
+          "comerciante": "gochocambiokey",
+          "min": "115200",
+          "max": "115300",
+          "disponible": "119.70"
+        },
+        {
+          "precio": 1006.9,
+          "comerciante": "Danielajcg",
+          "min": "300",
+          "max": "100000",
+          "disponible": "0.68"
         }
       ]
     }
   },
-  "brecha_pct": 13.68
+  "brecha_pct": 14.06
 }
