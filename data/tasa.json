@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-18T17:47:09+00:00",
-  "actualizado_ve": "2026-10-18T13:47:09-04:00",
+  "actualizado_utc": "2026-10-18T19:46:32+00:00",
+  "actualizado_ve": "2026-10-18T15:46:32-04:00",
   "bcv": {
     "usd": 881.0664,
     "eur": 991.16445734,
@@ -10,52 +10,52 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1005.3002,
+    "referencia": 1005.0264,
     "venta": {
-      "promedio": 1005.3002,
+      "promedio": 1005.0264,
       "minimo": 1005.0,
-      "maximo": 1006.0,
+      "maximo": 1005.08,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1006.0,
-          "comerciante": "memo",
-          "min": "130520",
-          "max": "4000000",
-          "disponible": "130.00"
+          "precio": 1005.08,
+          "comerciante": "ミReinaPepiadaCoinミ",
+          "min": "1500000",
+          "max": "36450000",
+          "disponible": "20554.45"
         },
         {
-          "precio": 1005.5,
-          "comerciante": "IngCryptos",
-          "min": "2000000",
-          "max": "36450000",
-          "disponible": "35000.00"
+          "precio": 1005.05,
+          "comerciante": "FUERZA_ELITE",
+          "min": "1000000",
+          "max": "36000000",
+          "disponible": "20170.39"
         },
         {
           "precio": 1005.001,
           "comerciante": "DOCTOR_CAMBIO",
           "min": "5000000",
           "max": "36450000",
-          "disponible": "50000.00"
+          "disponible": "43456.23"
         },
         {
-          "precio": 1005.0,
-          "comerciante": "BlackVaultt",
-          "min": "200000",
-          "max": "4000000",
-          "disponible": "4438.53"
-        },
-        {
-          "precio": 1005.0,
-          "comerciante": "Brawcoins",
-          "min": "5000000",
+          "precio": 1005.001,
+          "comerciante": "JDVR_05",
+          "min": "1500000",
           "max": "36450000",
-          "disponible": "75024.88"
+          "disponible": "6345.92"
+        },
+        {
+          "precio": 1005.0,
+          "comerciante": "-The_Dark_Knight-",
+          "min": "2500000",
+          "max": "36450000",
+          "disponible": "54607.20"
         }
       ]
     },
     "compra": {
-      "promedio": 1000.508,
+      "promedio": 1000.278,
       "minimo": 980.54,
       "maximo": 1006.0,
       "anuncios_usados": 5,
@@ -72,31 +72,31 @@
           "comerciante": "Broker Trader",
           "min": "17450",
           "max": "17451",
-          "disponible": "37.80"
+          "disponible": "20.42"
+        },
+        {
+          "precio": 1005.0,
+          "comerciante": "Lubernuflo",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "0.46"
+        },
+        {
+          "precio": 1005.85,
+          "comerciante": "PARD2p",
+          "min": "300",
+          "max": "50000",
+          "disponible": "8.02"
         },
         {
           "precio": 1006.0,
-          "comerciante": "P2P-9aa857z9",
-          "min": "143000",
-          "max": "143100",
-          "disponible": "143.74"
-        },
-        {
-          "precio": 1006.0,
-          "comerciante": "Specione",
-          "min": "40000",
-          "max": "40001",
-          "disponible": "60.04"
-        },
-        {
-          "precio": 1006.0,
-          "comerciante": "ColmePlus ",
-          "min": "700000",
-          "max": "10000000",
-          "disponible": "772.26"
+          "comerciante": "andry0212",
+          "min": "52915",
+          "max": "52916",
+          "disponible": "99.75"
         }
       ]
     }
   },
-  "brecha_pct": 14.1
+  "brecha_pct": 14.07
 }
