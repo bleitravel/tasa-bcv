@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-17T23:34:02+00:00",
-  "actualizado_ve": "2026-10-17T19:34:02-04:00",
+  "actualizado_utc": "2026-10-18T01:47:33+00:00",
+  "actualizado_ve": "2026-10-17T21:47:33-04:00",
   "bcv": {
     "usd": 881.0664,
     "eur": 991.16445734,
@@ -10,54 +10,54 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1002.7246,
+    "referencia": 1003.9018,
     "venta": {
-      "promedio": 1002.7246,
-      "minimo": 1002.001,
-      "maximo": 1003.5,
+      "promedio": 1003.9018,
+      "minimo": 1003.61,
+      "maximo": 1004.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1003.5,
-          "comerciante": "智慧變更",
-          "min": "2000000",
-          "max": "12752600",
-          "disponible": "12708.00"
+          "precio": 1004.0,
+          "comerciante": "_ARAGUANEY_",
+          "min": "600000",
+          "max": "9043000",
+          "disponible": "1127.69"
         },
         {
-          "precio": 1003.0,
-          "comerciante": "MentalStagnums",
-          "min": "1000000",
+          "precio": 1004.0,
+          "comerciante": "-TSxRV-",
+          "min": "2500000",
           "max": "36450000",
-          "disponible": "41360.76"
+          "disponible": "75700.00"
         },
         {
-          "precio": 1003.0,
-          "comerciante": "Gochocambios1",
-          "min": "50000",
-          "max": "4000000",
-          "disponible": "736.93"
-        },
-        {
-          "precio": 1002.122,
-          "comerciante": "genesisrive",
+          "precio": 1004.0,
+          "comerciante": "User-1e599",
           "min": "300",
-          "max": "145572",
-          "disponible": "0.92"
+          "max": "4000000",
+          "disponible": "100.00"
         },
         {
-          "precio": 1002.001,
-          "comerciante": "Servic-Karyguz",
-          "min": "1500000",
-          "max": "10000000",
-          "disponible": "1510.00"
+          "precio": 1003.899,
+          "comerciante": "-C-R-Y-P-T-O__M-0-Y-",
+          "min": "300000",
+          "max": "1000000",
+          "disponible": "34221.96"
+        },
+        {
+          "precio": 1003.61,
+          "comerciante": "AndradeGasconTITULAR",
+          "min": "500000",
+          "max": "5000000",
+          "disponible": "6000.00"
         }
       ]
     },
     "compra": {
-      "promedio": 998.4474,
+      "promedio": 999.8918,
       "minimo": 980.54,
-      "maximo": 1003.9,
+      "maximo": 1005.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "99.75"
         },
         {
-          "precio": 1000.0,
-          "comerciante": "ElMuSa30",
-          "min": "1000000",
-          "max": "36450000",
-          "disponible": "4491.95"
-        },
-        {
-          "precio": 1003.898,
-          "comerciante": "Dergut_23",
+          "precio": 1003.97,
+          "comerciante": "In_God-I_trust",
           "min": "4000000",
-          "max": "36450000",
-          "disponible": "5992.50"
+          "max": "5000000",
+          "disponible": "19374.40"
         },
         {
-          "precio": 1003.899,
-          "comerciante": "Dxvid Exchange",
-          "min": "3000000",
-          "max": "8000000",
-          "disponible": "6977.90"
+          "precio": 1004.949,
+          "comerciante": "GlobalBusinessmx",
+          "min": "67900",
+          "max": "67901",
+          "disponible": "101.62"
         },
         {
-          "precio": 1003.9,
-          "comerciante": "Kalevv",
-          "min": "4000000",
-          "max": "36000000",
-          "disponible": "6901.30"
+          "precio": 1005.0,
+          "comerciante": "Gabo8a",
+          "min": "800",
+          "max": "100500",
+          "disponible": "51.69"
+        },
+        {
+          "precio": 1005.0,
+          "comerciante": "andry0212",
+          "min": "252586",
+          "max": "252587",
+          "disponible": "251.37"
         }
       ]
     }
   },
-  "brecha_pct": 13.81
+  "brecha_pct": 13.94
 }
