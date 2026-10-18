@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-18T06:43:03+00:00",
-  "actualizado_ve": "2026-10-18T02:43:03-04:00",
+  "actualizado_utc": "2026-10-18T11:49:34+00:00",
+  "actualizado_ve": "2026-10-18T07:49:34-04:00",
   "bcv": {
     "usd": 881.0664,
     "eur": 991.16445734,
@@ -10,54 +10,54 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1003.0036,
+    "referencia": 1001.58,
     "venta": {
-      "promedio": 1003.0036,
-      "minimo": 1002.2,
-      "maximo": 1006.0,
+      "promedio": 1001.58,
+      "minimo": 1001.4,
+      "maximo": 1002.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1006.0,
-          "comerciante": "Ehimy77",
-          "min": "240000",
-          "max": "305000",
-          "disponible": "300.00"
-        },
-        {
-          "precio": 1002.31,
-          "comerciante": "JGPG135",
-          "min": "70000",
-          "max": "20000000",
-          "disponible": "3109.49"
-        },
-        {
-          "precio": 1002.303,
-          "comerciante": "ASOCCAMBIARIA-VZLA",
-          "min": "80000",
-          "max": "929000",
-          "disponible": "750.46"
-        },
-        {
-          "precio": 1002.205,
-          "comerciante": "Madrid1205",
-          "min": "100000",
-          "max": "3677000",
-          "disponible": "1354.84"
-        },
-        {
-          "precio": 1002.2,
-          "comerciante": "Inversiones-ADSC",
-          "min": "3000000",
+          "precio": 1002.0,
+          "comerciante": "c__s",
+          "min": "2000000",
           "max": "36450000",
+          "disponible": "6317.00"
+        },
+        {
+          "precio": 1001.5,
+          "comerciante": "BraVen_Group",
+          "min": "7000000",
+          "max": "30000000",
+          "disponible": "30000.00"
+        },
+        {
+          "precio": 1001.5,
+          "comerciante": "FUERZA_ELITE",
+          "min": "3000000",
+          "max": "36000000",
           "disponible": "50000.00"
+        },
+        {
+          "precio": 1001.5,
+          "comerciante": "VENTASJM",
+          "min": "500000",
+          "max": "19055000",
+          "disponible": "6000.00"
+        },
+        {
+          "precio": 1001.4,
+          "comerciante": "Redmagic17",
+          "min": "2000000",
+          "max": "36450000",
+          "disponible": "20213.12"
         }
       ]
     },
     "compra": {
-      "promedio": 1001.008,
+      "promedio": 999.607,
       "minimo": 980.54,
-      "maximo": 1006.5,
+      "maximo": 1005.498,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "99.75"
         },
         {
-          "precio": 1006.0,
-          "comerciante": "M16-Activo",
-          "min": "3000",
-          "max": "20000",
-          "disponible": "415.76"
+          "precio": 1001.5,
+          "comerciante": "Orion0624",
+          "min": "149000",
+          "max": "150000",
+          "disponible": "149.62"
         },
         {
-          "precio": 1006.0,
-          "comerciante": "andry0212",
-          "min": "10060",
-          "max": "10061",
-          "disponible": "99.75"
+          "precio": 1005.0,
+          "comerciante": "Yosedg",
+          "min": "2000000",
+          "max": "15000000",
+          "disponible": "10975.65"
         },
         {
-          "precio": 1006.0,
-          "comerciante": "Servicios-Criptos-27",
-          "min": "1000000",
-          "max": "14000000",
-          "disponible": "2849.25"
+          "precio": 1005.497,
+          "comerciante": "CoinGonzo",
+          "min": "1000001",
+          "max": "9999999",
+          "disponible": "8000.00"
         },
         {
-          "precio": 1006.5,
-          "comerciante": "Globalbusinessmxsss",
-          "min": "95161",
-          "max": "95162",
-          "disponible": "99.75"
+          "precio": 1005.498,
+          "comerciante": "AngelFlashVen",
+          "min": "2000000",
+          "max": "36450000",
+          "disponible": "11577.14"
         }
       ]
     }
   },
-  "brecha_pct": 13.84
+  "brecha_pct": 13.68
 }
