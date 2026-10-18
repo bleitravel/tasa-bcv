@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-18T21:58:52+00:00",
-  "actualizado_ve": "2026-10-18T17:58:52-04:00",
+  "actualizado_utc": "2026-10-18T23:54:21+00:00",
+  "actualizado_ve": "2026-10-18T19:54:21-04:00",
   "bcv": {
     "usd": 881.0664,
     "eur": 991.16445734,
@@ -10,54 +10,54 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1004.7198,
+    "referencia": 1005.6102,
     "venta": {
-      "promedio": 1004.7198,
-      "minimo": 1004.499,
-      "maximo": 1005.0,
+      "promedio": 1005.6102,
+      "minimo": 1005.0,
+      "maximo": 1008.0,
       "anuncios_usados": 5,
       "anuncios": [
+        {
+          "precio": 1008.0,
+          "comerciante": "User-6fca1",
+          "min": "6000",
+          "max": "100000",
+          "disponible": "100.00"
+        },
+        {
+          "precio": 1005.05,
+          "comerciante": "Inversiones-ADSC",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "74000.06"
+        },
+        {
+          "precio": 1005.001,
+          "comerciante": "FlashRaid",
+          "min": "1500000",
+          "max": "36450000",
+          "disponible": "61259.74"
+        },
         {
           "precio": 1005.0,
           "comerciante": "IA_CORPORATE",
           "min": "5000000",
           "max": "36400000",
-          "disponible": "40548.93"
+          "disponible": "20200.00"
         },
         {
           "precio": 1005.0,
-          "comerciante": "Godisgift",
-          "min": "3320000",
+          "comerciante": "Legacy_OTC",
+          "min": "1500000",
           "max": "36450000",
-          "disponible": "3303.49"
-        },
-        {
-          "precio": 1004.6,
-          "comerciante": "CRIPTO-2026",
-          "min": "2000000",
-          "max": "36450000",
-          "disponible": "2488.56"
-        },
-        {
-          "precio": 1004.5,
-          "comerciante": "SasukeTrader",
-          "min": "5000000",
-          "max": "36450000",
-          "disponible": "23020.42"
-        },
-        {
-          "precio": 1004.499,
-          "comerciante": "LALunaCripto",
-          "min": "2000000",
-          "max": "36450000",
-          "disponible": "25999.38"
+          "disponible": "80000.00"
         }
       ]
     },
     "compra": {
-      "promedio": 1000.108,
+      "promedio": 1000.688,
       "minimo": 980.54,
-      "maximo": 1006.0,
+      "maximo": 1006.5,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "99.75"
         },
         {
-          "precio": 1004.0,
-          "comerciante": "Los Alberty",
-          "min": "2000",
-          "max": "20000",
-          "disponible": "94.77"
-        },
-        {
-          "precio": 1005.0,
-          "comerciante": "SPAICER",
-          "min": "320",
-          "max": "877000",
-          "disponible": "0.40"
-        },
-        {
-          "precio": 1005.0,
-          "comerciante": "ElMuSa30",
-          "min": "2200000",
-          "max": "36450000",
-          "disponible": "6813.83"
+          "precio": 1004.4,
+          "comerciante": "Buitrago_18",
+          "min": "300",
+          "max": "101200",
+          "disponible": "4.39"
         },
         {
           "precio": 1006.0,
-          "comerciante": "P2P-26350bil",
-          "min": "40000",
-          "max": "201800",
-          "disponible": "142.35"
+          "comerciante": "AtomoX",
+          "min": "160000",
+          "max": "4000000",
+          "disponible": "160.59"
+        },
+        {
+          "precio": 1006.0,
+          "comerciante": "-TSxRV-",
+          "min": "36450000",
+          "max": "400000000",
+          "disponible": "215813.29"
+        },
+        {
+          "precio": 1006.5,
+          "comerciante": "EudoJVC",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "376.05"
         }
       ]
     }
   },
-  "brecha_pct": 14.03
+  "brecha_pct": 14.14
 }
