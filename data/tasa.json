@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-19T15:09:08+00:00",
-  "actualizado_ve": "2026-10-19T11:09:08-04:00",
+  "actualizado_utc": "2026-10-19T20:38:58+00:00",
+  "actualizado_ve": "2026-10-19T16:38:58-04:00",
   "bcv": {
     "usd": 881.0664,
     "eur": 991.16445734,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1007.6602,
+    "referencia": 1007.42,
     "venta": {
-      "promedio": 1007.6602,
-      "minimo": 1007.5,
+      "promedio": 1007.42,
+      "minimo": 1007.0,
       "maximo": 1008.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -25,39 +25,39 @@
           "disponible": "100.00"
         },
         {
-          "precio": 1007.8,
-          "comerciante": "Merlina2",
-          "min": "15000000",
-          "max": "36450000",
-          "disponible": "80000.00"
+          "precio": 1008.0,
+          "comerciante": "Quick Payment",
+          "min": "5000000",
+          "max": "10362000",
+          "disponible": "10279.76"
         },
         {
-          "precio": 1007.501,
-          "comerciante": "DOCTOR_CAMBIO",
-          "min": "10000000",
-          "max": "36450000",
-          "disponible": "80000.00"
-        },
-        {
-          "precio": 1007.5,
-          "comerciante": "Cross-26",
-          "min": "10000000",
-          "max": "36400000",
-          "disponible": "65800.06"
-        },
-        {
-          "precio": 1007.5,
-          "comerciante": "User-4d8f2d4u",
-          "min": "1500000",
+          "precio": 1007.1,
+          "comerciante": "Valentina0901",
+          "min": "180000",
           "max": "4000000",
-          "disponible": "7047.90"
+          "disponible": "4502.31"
+        },
+        {
+          "precio": 1007.0,
+          "comerciante": "Etcambio",
+          "min": "947227",
+          "max": "947228",
+          "disponible": "945.00"
+        },
+        {
+          "precio": 1007.0,
+          "comerciante": "carlos",
+          "min": "50000",
+          "max": "4000000",
+          "disponible": "4540.95"
         }
       ]
     },
     "compra": {
-      "promedio": 999.4976,
+      "promedio": 1002.546,
       "minimo": 980.54,
-      "maximo": 1004.999,
+      "maximo": 1008.2,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "99.75"
         },
         {
-          "precio": 1002.0,
-          "comerciante": "tucambioseguro",
-          "min": "90000",
-          "max": "4000000",
-          "disponible": "259.79"
+          "precio": 1007.99,
+          "comerciante": "Duncan Verling AcOc",
+          "min": "53000",
+          "max": "53001",
+          "disponible": "99.75"
         },
         {
-          "precio": 1004.95,
-          "comerciante": "Hortense Venhorst l9TA",
-          "min": "300",
-          "max": "111755",
-          "disponible": "31.96"
+          "precio": 1008.0,
+          "comerciante": "C7c",
+          "min": "92500",
+          "max": "93000",
+          "disponible": "99.75"
         },
         {
-          "precio": 1004.999,
-          "comerciante": "usuario 0306",
-          "min": "300",
-          "max": "2625000",
-          "disponible": "0.97"
+          "precio": 1008.0,
+          "comerciante": "Cripto-Tunnig",
+          "min": "50000",
+          "max": "201400",
+          "disponible": "149.62"
         },
         {
-          "precio": 1004.999,
-          "comerciante": "ORLAN52",
+          "precio": 1008.2,
+          "comerciante": "Alex_matatan",
           "min": "300",
-          "max": "10000",
-          "disponible": "119.70"
+          "max": "129846",
+          "disponible": "7.20"
         }
       ]
     }
   },
-  "brecha_pct": 14.37
+  "brecha_pct": 14.34
 }
