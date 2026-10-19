@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-19T07:56:36+00:00",
-  "actualizado_ve": "2026-10-19T03:56:36-04:00",
+  "actualizado_utc": "2026-10-19T15:09:08+00:00",
+  "actualizado_ve": "2026-10-19T11:09:08-04:00",
   "bcv": {
     "usd": 881.0664,
     "eur": 991.16445734,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1003.7384,
+    "referencia": 1007.6602,
     "venta": {
-      "promedio": 1003.7384,
-      "minimo": 1002.442,
+      "promedio": 1007.6602,
+      "minimo": 1007.5,
       "maximo": 1008.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -25,39 +25,39 @@
           "disponible": "100.00"
         },
         {
-          "precio": 1003.0,
-          "comerciante": "KODA_CRYPTO",
-          "min": "40000",
+          "precio": 1007.8,
+          "comerciante": "Merlina2",
+          "min": "15000000",
           "max": "36450000",
-          "disponible": "2907.86"
+          "disponible": "80000.00"
         },
         {
-          "precio": 1002.8,
-          "comerciante": "Alejandro_0927",
-          "min": "300",
-          "max": "7890",
-          "disponible": "100.00"
+          "precio": 1007.501,
+          "comerciante": "DOCTOR_CAMBIO",
+          "min": "10000000",
+          "max": "36450000",
+          "disponible": "80000.00"
         },
         {
-          "precio": 1002.45,
-          "comerciante": "Aleón89",
-          "min": "200000",
+          "precio": 1007.5,
+          "comerciante": "Cross-26",
+          "min": "10000000",
+          "max": "36400000",
+          "disponible": "65800.06"
+        },
+        {
+          "precio": 1007.5,
+          "comerciante": "User-4d8f2d4u",
+          "min": "1500000",
           "max": "4000000",
-          "disponible": "10637.25"
-        },
-        {
-          "precio": 1002.442,
-          "comerciante": "JACK LYAN ",
-          "min": "490000",
-          "max": "500000",
-          "disponible": "500.00"
+          "disponible": "7047.90"
         }
       ]
     },
     "compra": {
-      "promedio": 1000.988,
+      "promedio": 999.4976,
       "minimo": 980.54,
-      "maximo": 1006.5,
+      "maximo": 1004.999,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "99.75"
         },
         {
-          "precio": 1005.9,
-          "comerciante": "MRDIAZ03",
-          "min": "50000",
-          "max": "2677825",
-          "disponible": "209.25"
+          "precio": 1002.0,
+          "comerciante": "tucambioseguro",
+          "min": "90000",
+          "max": "4000000",
+          "disponible": "259.79"
         },
         {
-          "precio": 1006.0,
-          "comerciante": "Amirgiosue",
-          "min": "30000",
-          "max": "2770343",
-          "disponible": "2746.95"
+          "precio": 1004.95,
+          "comerciante": "Hortense Venhorst l9TA",
+          "min": "300",
+          "max": "111755",
+          "disponible": "31.96"
         },
         {
-          "precio": 1006.0,
-          "comerciante": "VRYP",
-          "min": "787600",
-          "max": "790000",
-          "disponible": "997.50"
+          "precio": 1004.999,
+          "comerciante": "usuario 0306",
+          "min": "300",
+          "max": "2625000",
+          "disponible": "0.97"
         },
         {
-          "precio": 1006.5,
-          "comerciante": "Cambios_Murp",
-          "min": "2000000",
-          "max": "36450000",
-          "disponible": "5247.84"
+          "precio": 1004.999,
+          "comerciante": "ORLAN52",
+          "min": "300",
+          "max": "10000",
+          "disponible": "119.70"
         }
       ]
     }
   },
-  "brecha_pct": 13.92
+  "brecha_pct": 14.37
 }
