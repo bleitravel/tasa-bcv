@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-18T23:54:21+00:00",
-  "actualizado_ve": "2026-10-18T19:54:21-04:00",
+  "actualizado_utc": "2026-10-19T02:04:46+00:00",
+  "actualizado_ve": "2026-10-18T22:04:46-04:00",
   "bcv": {
     "usd": 881.0664,
     "eur": 991.16445734,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1005.6102,
+    "referencia": 1005.26,
     "venta": {
-      "promedio": 1005.6102,
-      "minimo": 1005.0,
+      "promedio": 1005.26,
+      "minimo": 1004.0,
       "maximo": 1008.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -25,39 +25,39 @@
           "disponible": "100.00"
         },
         {
-          "precio": 1005.05,
-          "comerciante": "Inversiones-ADSC",
-          "min": "5000000",
-          "max": "36450000",
-          "disponible": "74000.06"
-        },
-        {
-          "precio": 1005.001,
-          "comerciante": "FlashRaid",
-          "min": "1500000",
-          "max": "36450000",
-          "disponible": "61259.74"
+          "precio": 1005.1,
+          "comerciante": "BlackVaultt",
+          "min": "200000",
+          "max": "4000000",
+          "disponible": "1820.42"
         },
         {
           "precio": 1005.0,
-          "comerciante": "IA_CORPORATE",
-          "min": "5000000",
-          "max": "36400000",
-          "disponible": "20200.00"
+          "comerciante": "GAleja1011",
+          "min": "760000",
+          "max": "764000",
+          "disponible": "761.00"
         },
         {
-          "precio": 1005.0,
-          "comerciante": "Legacy_OTC",
-          "min": "1500000",
-          "max": "36450000",
-          "disponible": "80000.00"
+          "precio": 1004.2,
+          "comerciante": "VEYCOP茶",
+          "min": "1000000",
+          "max": "32000000",
+          "disponible": "8300.00"
+        },
+        {
+          "precio": 1004.0,
+          "comerciante": "CoorpLogistic",
+          "min": "10000000",
+          "max": "36000000",
+          "disponible": "20040.00"
         }
       ]
     },
     "compra": {
-      "promedio": 1000.688,
+      "promedio": 1001.694,
       "minimo": 980.54,
-      "maximo": 1006.5,
+      "maximo": 1006.99,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "99.75"
         },
         {
-          "precio": 1004.4,
-          "comerciante": "Buitrago_18",
-          "min": "300",
-          "max": "101200",
-          "disponible": "4.39"
-        },
-        {
-          "precio": 1006.0,
-          "comerciante": "AtomoX",
-          "min": "160000",
-          "max": "4000000",
-          "disponible": "160.59"
-        },
-        {
-          "precio": 1006.0,
-          "comerciante": "-TSxRV-",
+          "precio": 1006.97,
+          "comerciante": "贝HarveySpecter贝",
           "min": "36450000",
-          "max": "400000000",
-          "disponible": "215813.29"
+          "max": "800000000",
+          "disponible": "46991.98"
         },
         {
-          "precio": 1006.5,
-          "comerciante": "EudoJVC",
-          "min": "300",
+          "precio": 1006.98,
+          "comerciante": "TorvenHedge",
+          "min": "1000000",
           "max": "4000000",
-          "disponible": "376.05"
+          "disponible": "10972.56"
+        },
+        {
+          "precio": 1006.99,
+          "comerciante": "el nene 04 villa",
+          "min": "200000",
+          "max": "4000000",
+          "disponible": "249.37"
+        },
+        {
+          "precio": 1006.99,
+          "comerciante": "Elman28",
+          "min": "100000",
+          "max": "2000000",
+          "disponible": "99.44"
         }
       ]
     }
   },
-  "brecha_pct": 14.14
+  "brecha_pct": 14.1
 }
