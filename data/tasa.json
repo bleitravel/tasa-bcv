@@ -1,19 +1,19 @@
 {
-  "actualizado_utc": "2026-10-20T18:22:21+00:00",
-  "actualizado_ve": "2026-10-20T14:22:21-04:00",
+  "actualizado_utc": "2026-10-20T21:45:20+00:00",
+  "actualizado_ve": "2026-10-20T17:45:20-04:00",
   "bcv": {
-    "usd": 881.8769,
-    "eur": 988.97203073,
-    "fecha_valor": "2026-10-20T00:00:00-04:00"
+    "usd": 883.3963,
+    "eur": 993.1759582,
+    "fecha_valor": "2026-10-21T00:00:00-04:00"
   },
   "binance_p2p": {
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1007.698,
+    "referencia": 1007.7702,
     "venta": {
-      "promedio": 1007.698,
-      "minimo": 1007.0,
+      "promedio": 1007.7702,
+      "minimo": 1007.6,
       "maximo": 1008.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -32,32 +32,32 @@
           "disponible": "1000.00"
         },
         {
-          "precio": 1007.99,
-          "comerciante": "Etcambio",
-          "min": "1454107",
-          "max": "1454108",
-          "disponible": "1443.00"
-        },
-        {
-          "precio": 1007.5,
-          "comerciante": "GOMEZTUSOLUCION",
-          "min": "15000000",
-          "max": "36450000",
-          "disponible": "80000.00"
-        },
-        {
-          "precio": 1007.0,
-          "comerciante": "-TSxRV-",
+          "precio": 1007.65,
+          "comerciante": "Fofospress",
           "min": "5000000",
           "max": "36450000",
-          "disponible": "48044.27"
+          "disponible": "40387.00"
+        },
+        {
+          "precio": 1007.601,
+          "comerciante": "Servic-Karyguz",
+          "min": "1000000",
+          "max": "10000000",
+          "disponible": "4973.91"
+        },
+        {
+          "precio": 1007.6,
+          "comerciante": "-MISSDEAL-",
+          "min": "2000000",
+          "max": "36450000",
+          "disponible": "47500.06"
         }
       ]
     },
     "compra": {
-      "promedio": 1001.0078,
+      "promedio": 1002.2876,
       "minimo": 980.54,
-      "maximo": 1007.0,
+      "maximo": 1008.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "99.75"
         },
         {
-          "precio": 1005.0,
-          "comerciante": "S8h2a2n",
-          "min": "5000",
-          "max": "303000",
-          "disponible": "103.25"
-        },
-        {
-          "precio": 1006.0,
-          "comerciante": "P2P-176515tv",
-          "min": "110000",
-          "max": "220000",
-          "disponible": "119.70"
-        },
-        {
-          "precio": 1006.499,
-          "comerciante": "GlobalBusinessmx",
-          "min": "49500",
-          "max": "49501",
-          "disponible": "102.14"
-        },
-        {
           "precio": 1007.0,
-          "comerciante": "Equintero1711",
-          "min": "1000000",
+          "comerciante": "LilDublin",
+          "min": "10000",
+          "max": "246000",
+          "disponible": "103.48"
+        },
+        {
+          "precio": 1007.898,
+          "comerciante": "User-2a834",
+          "min": "50000",
+          "max": "999500",
+          "disponible": "899.86"
+        },
+        {
+          "precio": 1008.0,
+          "comerciante": "jacb",
+          "min": "700000",
+          "max": "758000",
+          "disponible": "748.12"
+        },
+        {
+          "precio": 1008.0,
+          "comerciante": "carlosteran1",
+          "min": "300",
           "max": "4000000",
-          "disponible": "1019.18"
+          "disponible": "5.07"
         }
       ]
     }
   },
-  "brecha_pct": 14.27
+  "brecha_pct": 14.08
 }
