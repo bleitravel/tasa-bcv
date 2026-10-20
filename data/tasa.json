@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-20T08:56:54+00:00",
-  "actualizado_ve": "2026-10-20T04:56:54-04:00",
+  "actualizado_utc": "2026-10-20T13:59:52+00:00",
+  "actualizado_ve": "2026-10-20T09:59:52-04:00",
   "bcv": {
     "usd": 881.8769,
     "eur": 988.97203073,
@@ -10,13 +10,34 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1004.4042,
+    "referencia": 1019.07,
     "venta": {
-      "promedio": 1004.4042,
-      "minimo": 1003.0,
-      "maximo": 1008.0,
+      "promedio": 1019.07,
+      "minimo": 1005.0,
+      "maximo": 1031.88,
       "anuncios_usados": 5,
       "anuncios": [
+        {
+          "precio": 1031.88,
+          "comerciante": "User-6bb6e8cy",
+          "min": "1000000",
+          "max": "4000000",
+          "disponible": "5030.90"
+        },
+        {
+          "precio": 1025.36,
+          "comerciante": "User-52d64",
+          "min": "300000",
+          "max": "4000000",
+          "disponible": "8000.00"
+        },
+        {
+          "precio": 1025.11,
+          "comerciante": "magicreme21",
+          "min": "500000",
+          "max": "4000000",
+          "disponible": "3414.25"
+        },
         {
           "precio": 1008.0,
           "comerciante": "User-6fca1",
@@ -25,39 +46,18 @@
           "disponible": "100.00"
         },
         {
-          "precio": 1004.5,
-          "comerciante": "Gatsby_24",
-          "min": "5000000",
-          "max": "36450000",
-          "disponible": "74326.03"
-        },
-        {
-          "precio": 1003.521,
-          "comerciante": "Gergert16",
-          "min": "10000",
-          "max": "327000",
-          "disponible": "325.80"
-        },
-        {
-          "precio": 1003.0,
-          "comerciante": "famerica",
-          "min": "1400000",
-          "max": "6000000",
-          "disponible": "20000.00"
-        },
-        {
-          "precio": 1003.0,
-          "comerciante": "wilmer89",
-          "min": "116000",
+          "precio": 1005.0,
+          "comerciante": "El chino USDT",
+          "min": "900000",
           "max": "4000000",
-          "disponible": "116.00"
+          "disponible": "20756.47"
         }
       ]
     },
     "compra": {
-      "promedio": 1000.5858,
+      "promedio": 999.308,
       "minimo": 980.54,
-      "maximo": 1005.8,
+      "maximo": 1004.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "99.75"
         },
         {
-          "precio": 1005.0,
-          "comerciante": "Servicios-Criptos-27",
-          "min": "1000000",
-          "max": "14000000",
-          "disponible": "5490.39"
+          "precio": 1004.0,
+          "comerciante": "corajecoinvnzla",
+          "min": "300",
+          "max": "149000",
+          "disponible": "0.66"
         },
         {
-          "precio": 1005.79,
-          "comerciante": "JPapaupa_Trader",
-          "min": "10000000",
-          "max": "36450000",
-          "disponible": "13915.40"
+          "precio": 1004.0,
+          "comerciante": "nour",
+          "min": "35000",
+          "max": "4000000",
+          "disponible": "588.46"
         },
         {
-          "precio": 1005.799,
-          "comerciante": "YisusCambios",
-          "min": "8000000",
-          "max": "36450000",
-          "disponible": "11985.01"
+          "precio": 1004.0,
+          "comerciante": "iriance",
+          "min": "320",
+          "max": "234951",
+          "disponible": "0.36"
         },
         {
-          "precio": 1005.8,
-          "comerciante": "VRYP",
-          "min": "2800000",
-          "max": "3104000",
-          "disponible": "3291.77"
+          "precio": 1004.0,
+          "comerciante": "el yeco-04",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "0.47"
         }
       ]
     }
   },
-  "brecha_pct": 13.89
+  "brecha_pct": 15.56
 }
