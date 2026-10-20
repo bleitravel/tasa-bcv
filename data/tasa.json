@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-20T13:59:52+00:00",
-  "actualizado_ve": "2026-10-20T09:59:52-04:00",
+  "actualizado_utc": "2026-10-20T18:22:21+00:00",
+  "actualizado_ve": "2026-10-20T14:22:21-04:00",
   "bcv": {
     "usd": 881.8769,
     "eur": 988.97203073,
@@ -10,34 +10,13 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1019.07,
+    "referencia": 1007.698,
     "venta": {
-      "promedio": 1019.07,
-      "minimo": 1005.0,
-      "maximo": 1031.88,
+      "promedio": 1007.698,
+      "minimo": 1007.0,
+      "maximo": 1008.0,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 1031.88,
-          "comerciante": "User-6bb6e8cy",
-          "min": "1000000",
-          "max": "4000000",
-          "disponible": "5030.90"
-        },
-        {
-          "precio": 1025.36,
-          "comerciante": "User-52d64",
-          "min": "300000",
-          "max": "4000000",
-          "disponible": "8000.00"
-        },
-        {
-          "precio": 1025.11,
-          "comerciante": "magicreme21",
-          "min": "500000",
-          "max": "4000000",
-          "disponible": "3414.25"
-        },
         {
           "precio": 1008.0,
           "comerciante": "User-6fca1",
@@ -46,18 +25,39 @@
           "disponible": "100.00"
         },
         {
-          "precio": 1005.0,
-          "comerciante": "El chino USDT",
-          "min": "900000",
-          "max": "4000000",
-          "disponible": "20756.47"
+          "precio": 1008.0,
+          "comerciante": "Col-Primavera",
+          "min": "500000",
+          "max": "1008000",
+          "disponible": "1000.00"
+        },
+        {
+          "precio": 1007.99,
+          "comerciante": "Etcambio",
+          "min": "1454107",
+          "max": "1454108",
+          "disponible": "1443.00"
+        },
+        {
+          "precio": 1007.5,
+          "comerciante": "GOMEZTUSOLUCION",
+          "min": "15000000",
+          "max": "36450000",
+          "disponible": "80000.00"
+        },
+        {
+          "precio": 1007.0,
+          "comerciante": "-TSxRV-",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "48044.27"
         }
       ]
     },
     "compra": {
-      "promedio": 999.308,
+      "promedio": 1001.0078,
       "minimo": 980.54,
-      "maximo": 1004.0,
+      "maximo": 1007.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "99.75"
         },
         {
-          "precio": 1004.0,
-          "comerciante": "corajecoinvnzla",
-          "min": "300",
-          "max": "149000",
-          "disponible": "0.66"
+          "precio": 1005.0,
+          "comerciante": "S8h2a2n",
+          "min": "5000",
+          "max": "303000",
+          "disponible": "103.25"
         },
         {
-          "precio": 1004.0,
-          "comerciante": "nour",
-          "min": "35000",
+          "precio": 1006.0,
+          "comerciante": "P2P-176515tv",
+          "min": "110000",
+          "max": "220000",
+          "disponible": "119.70"
+        },
+        {
+          "precio": 1006.499,
+          "comerciante": "GlobalBusinessmx",
+          "min": "49500",
+          "max": "49501",
+          "disponible": "102.14"
+        },
+        {
+          "precio": 1007.0,
+          "comerciante": "Equintero1711",
+          "min": "1000000",
           "max": "4000000",
-          "disponible": "588.46"
-        },
-        {
-          "precio": 1004.0,
-          "comerciante": "iriance",
-          "min": "320",
-          "max": "234951",
-          "disponible": "0.36"
-        },
-        {
-          "precio": 1004.0,
-          "comerciante": "el yeco-04",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "0.47"
+          "disponible": "1019.18"
         }
       ]
     }
   },
-  "brecha_pct": 15.56
+  "brecha_pct": 14.27
 }
