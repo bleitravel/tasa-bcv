@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-20T03:44:45+00:00",
-  "actualizado_ve": "2026-10-19T23:44:45-04:00",
+  "actualizado_utc": "2026-10-20T08:56:54+00:00",
+  "actualizado_ve": "2026-10-20T04:56:54-04:00",
   "bcv": {
     "usd": 881.8769,
     "eur": 988.97203073,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1005.532,
+    "referencia": 1004.4042,
     "venta": {
-      "promedio": 1005.532,
-      "minimo": 1004.56,
+      "promedio": 1004.4042,
+      "minimo": 1003.0,
       "maximo": 1008.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -25,39 +25,39 @@
           "disponible": "100.00"
         },
         {
-          "precio": 1005.1,
-          "comerciante": "EduardoPinto24",
-          "min": "50000",
-          "max": "1006000",
-          "disponible": "128.91"
+          "precio": 1004.5,
+          "comerciante": "Gatsby_24",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "74326.03"
         },
         {
-          "precio": 1005.0,
-          "comerciante": "Dekar13",
-          "min": "100000",
+          "precio": 1003.521,
+          "comerciante": "Gergert16",
+          "min": "10000",
+          "max": "327000",
+          "disponible": "325.80"
+        },
+        {
+          "precio": 1003.0,
+          "comerciante": "famerica",
+          "min": "1400000",
+          "max": "6000000",
+          "disponible": "20000.00"
+        },
+        {
+          "precio": 1003.0,
+          "comerciante": "wilmer89",
+          "min": "116000",
           "max": "4000000",
-          "disponible": "2355.17"
-        },
-        {
-          "precio": 1005.0,
-          "comerciante": "Cristian-hidrobo2007",
-          "min": "3000",
-          "max": "200000",
-          "disponible": "49.38"
-        },
-        {
-          "precio": 1004.56,
-          "comerciante": "Cambios_JENUBER_sas",
-          "min": "503450",
-          "max": "1208820",
-          "disponible": "1200.00"
+          "disponible": "116.00"
         }
       ]
     },
     "compra": {
-      "promedio": 999.6078,
+      "promedio": 1000.5858,
       "minimo": 980.54,
-      "maximo": 1004.5,
+      "maximo": 1005.8,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "99.75"
         },
         {
-          "precio": 1004.0,
-          "comerciante": "los100cien",
-          "min": "5000000",
-          "max": "36000000",
-          "disponible": "17630.06"
+          "precio": 1005.0,
+          "comerciante": "Servicios-Criptos-27",
+          "min": "1000000",
+          "max": "14000000",
+          "disponible": "5490.39"
         },
         {
-          "precio": 1004.499,
+          "precio": 1005.79,
+          "comerciante": "JPapaupa_Trader",
+          "min": "10000000",
+          "max": "36450000",
+          "disponible": "13915.40"
+        },
+        {
+          "precio": 1005.799,
           "comerciante": "YisusCambios",
           "min": "8000000",
           "max": "36450000",
-          "disponible": "10062.42"
+          "disponible": "11985.01"
         },
         {
-          "precio": 1004.5,
-          "comerciante": "Namaste_21",
-          "min": "100000",
-          "max": "4000000",
-          "disponible": "1722.12"
-        },
-        {
-          "precio": 1004.5,
-          "comerciante": "SilverTraderX",
-          "min": "3000000",
-          "max": "22000000",
-          "disponible": "10015.10"
+          "precio": 1005.8,
+          "comerciante": "VRYP",
+          "min": "2800000",
+          "max": "3104000",
+          "disponible": "3291.77"
         }
       ]
     }
   },
-  "brecha_pct": 14.02
+  "brecha_pct": 13.89
 }
