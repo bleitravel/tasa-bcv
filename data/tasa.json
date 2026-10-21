@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-21T00:13:00+00:00",
-  "actualizado_ve": "2026-10-20T20:13:00-04:00",
+  "actualizado_utc": "2026-10-21T05:03:33+00:00",
+  "actualizado_ve": "2026-10-21T01:03:33-04:00",
   "bcv": {
     "usd": 883.3963,
     "eur": 993.1759582,
@@ -10,27 +10,13 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1008.0242,
+    "referencia": 1005.485,
     "venta": {
-      "promedio": 1008.0242,
-      "minimo": 1007.62,
-      "maximo": 1008.5,
+      "promedio": 1005.485,
+      "minimo": 1004.0,
+      "maximo": 1008.0,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 1008.5,
-          "comerciante": "Redmagic17",
-          "min": "5000000",
-          "max": "36450000",
-          "disponible": "40386.73"
-        },
-        {
-          "precio": 1008.001,
-          "comerciante": "SasukeTrader",
-          "min": "3000000",
-          "max": "36450000",
-          "disponible": "77023.82"
-        },
         {
           "precio": 1008.0,
           "comerciante": "User-6fca1",
@@ -39,25 +25,39 @@
           "disponible": "100.00"
         },
         {
-          "precio": 1008.0,
-          "comerciante": "Col-Primavera",
-          "min": "500000",
-          "max": "1000000",
-          "disponible": "1000.00"
+          "precio": 1006.4,
+          "comerciante": "Principe Drácula ",
+          "min": "2000000",
+          "max": "36000000",
+          "disponible": "2040.00"
         },
         {
-          "precio": 1007.62,
-          "comerciante": "-DRASIX-",
-          "min": "1000000",
-          "max": "36450000",
-          "disponible": "63361.64"
+          "precio": 1005.025,
+          "comerciante": "User-79502",
+          "min": "800",
+          "max": "80000",
+          "disponible": "100.00"
+        },
+        {
+          "precio": 1004.0,
+          "comerciante": "inverdvca",
+          "min": "300",
+          "max": "460815",
+          "disponible": "0.32"
+        },
+        {
+          "precio": 1004.0,
+          "comerciante": "Puro lomito",
+          "min": "50000",
+          "max": "9238000",
+          "disponible": "8487.18"
         }
       ]
     },
     "compra": {
-      "promedio": 1002.0078,
+      "promedio": 999.466,
       "minimo": 980.54,
-      "maximo": 1007.5,
+      "maximo": 1004.8,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "99.75"
         },
         {
-          "precio": 1007.0,
-          "comerciante": "CarlosProgress",
-          "min": "30000",
-          "max": "31000",
+          "precio": 1003.0,
+          "comerciante": "SafeViic_P2P",
+          "min": "10000",
+          "max": "24000",
           "disponible": "99.75"
         },
         {
-          "precio": 1007.499,
-          "comerciante": "CHICLE_BOMBA",
-          "min": "600000",
-          "max": "10000000",
-          "disponible": "916.34"
+          "precio": 1004.2,
+          "comerciante": "LunaPP2P",
+          "min": "400000",
+          "max": "2000000",
+          "disponible": "2152.06"
         },
         {
-          "precio": 1007.5,
-          "comerciante": "LinaressCA",
-          "min": "100000",
-          "max": "400000",
-          "disponible": "99.75"
+          "precio": 1004.79,
+          "comerciante": "Coin_usdt",
+          "min": "7000000",
+          "max": "36450000",
+          "disponible": "27274.28"
         },
         {
-          "precio": 1007.5,
-          "comerciante": "Amara2026",
-          "min": "992",
-          "max": "1000000",
-          "disponible": "990.01"
+          "precio": 1004.8,
+          "comerciante": "Luishein",
+          "min": "7000000",
+          "max": "19998876",
+          "disponible": "19878.49"
         }
       ]
     }
   },
-  "brecha_pct": 14.11
+  "brecha_pct": 13.82
 }
