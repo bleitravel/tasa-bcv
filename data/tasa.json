@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-20T21:45:20+00:00",
-  "actualizado_ve": "2026-10-20T17:45:20-04:00",
+  "actualizado_utc": "2026-10-21T00:13:00+00:00",
+  "actualizado_ve": "2026-10-20T20:13:00-04:00",
   "bcv": {
     "usd": 883.3963,
     "eur": 993.1759582,
@@ -10,13 +10,27 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1007.7702,
+    "referencia": 1008.0242,
     "venta": {
-      "promedio": 1007.7702,
-      "minimo": 1007.6,
-      "maximo": 1008.0,
+      "promedio": 1008.0242,
+      "minimo": 1007.62,
+      "maximo": 1008.5,
       "anuncios_usados": 5,
       "anuncios": [
+        {
+          "precio": 1008.5,
+          "comerciante": "Redmagic17",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "40386.73"
+        },
+        {
+          "precio": 1008.001,
+          "comerciante": "SasukeTrader",
+          "min": "3000000",
+          "max": "36450000",
+          "disponible": "77023.82"
+        },
         {
           "precio": 1008.0,
           "comerciante": "User-6fca1",
@@ -28,36 +42,22 @@
           "precio": 1008.0,
           "comerciante": "Col-Primavera",
           "min": "500000",
-          "max": "1008000",
+          "max": "1000000",
           "disponible": "1000.00"
         },
         {
-          "precio": 1007.65,
-          "comerciante": "Fofospress",
-          "min": "5000000",
-          "max": "36450000",
-          "disponible": "40387.00"
-        },
-        {
-          "precio": 1007.601,
-          "comerciante": "Servic-Karyguz",
+          "precio": 1007.62,
+          "comerciante": "-DRASIX-",
           "min": "1000000",
-          "max": "10000000",
-          "disponible": "4973.91"
-        },
-        {
-          "precio": 1007.6,
-          "comerciante": "-MISSDEAL-",
-          "min": "2000000",
           "max": "36450000",
-          "disponible": "47500.06"
+          "disponible": "63361.64"
         }
       ]
     },
     "compra": {
-      "promedio": 1002.2876,
+      "promedio": 1002.0078,
       "minimo": 980.54,
-      "maximo": 1008.0,
+      "maximo": 1007.5,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -69,34 +69,34 @@
         },
         {
           "precio": 1007.0,
-          "comerciante": "LilDublin",
-          "min": "10000",
-          "max": "246000",
-          "disponible": "103.48"
+          "comerciante": "CarlosProgress",
+          "min": "30000",
+          "max": "31000",
+          "disponible": "99.75"
         },
         {
-          "precio": 1007.898,
-          "comerciante": "User-2a834",
-          "min": "50000",
-          "max": "999500",
-          "disponible": "899.86"
+          "precio": 1007.499,
+          "comerciante": "CHICLE_BOMBA",
+          "min": "600000",
+          "max": "10000000",
+          "disponible": "916.34"
         },
         {
-          "precio": 1008.0,
-          "comerciante": "jacb",
-          "min": "700000",
-          "max": "758000",
-          "disponible": "748.12"
+          "precio": 1007.5,
+          "comerciante": "LinaressCA",
+          "min": "100000",
+          "max": "400000",
+          "disponible": "99.75"
         },
         {
-          "precio": 1008.0,
-          "comerciante": "carlosteran1",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "5.07"
+          "precio": 1007.5,
+          "comerciante": "Amara2026",
+          "min": "992",
+          "max": "1000000",
+          "disponible": "990.01"
         }
       ]
     }
   },
-  "brecha_pct": 14.08
+  "brecha_pct": 14.11
 }
