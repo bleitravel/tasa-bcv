@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-21T05:03:33+00:00",
-  "actualizado_ve": "2026-10-21T01:03:33-04:00",
+  "actualizado_utc": "2026-10-21T10:22:09+00:00",
+  "actualizado_ve": "2026-10-21T06:22:09-04:00",
   "bcv": {
     "usd": 883.3963,
     "eur": 993.1759582,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1005.485,
+    "referencia": 1005.3802,
     "venta": {
-      "promedio": 1005.485,
-      "minimo": 1004.0,
+      "promedio": 1005.3802,
+      "minimo": 1003.2,
       "maximo": 1008.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -32,7 +32,7 @@
           "disponible": "2040.00"
         },
         {
-          "precio": 1005.025,
+          "precio": 1005.301,
           "comerciante": "User-79502",
           "min": "800",
           "max": "80000",
@@ -46,18 +46,18 @@
           "disponible": "0.32"
         },
         {
-          "precio": 1004.0,
-          "comerciante": "Puro lomito",
-          "min": "50000",
-          "max": "9238000",
-          "disponible": "8487.18"
+          "precio": 1003.2,
+          "comerciante": "HermesPay",
+          "min": "40000",
+          "max": "70000",
+          "disponible": "56.06"
         }
       ]
     },
     "compra": {
-      "promedio": 999.466,
+      "promedio": 1000.644,
       "minimo": 980.54,
-      "maximo": 1004.8,
+      "maximo": 1005.99,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "99.75"
         },
         {
-          "precio": 1003.0,
-          "comerciante": "SafeViic_P2P",
-          "min": "10000",
-          "max": "24000",
-          "disponible": "99.75"
-        },
-        {
-          "precio": 1004.2,
-          "comerciante": "LunaPP2P",
-          "min": "400000",
-          "max": "2000000",
-          "disponible": "2152.06"
-        },
-        {
-          "precio": 1004.79,
-          "comerciante": "Coin_usdt",
-          "min": "7000000",
-          "max": "36450000",
-          "disponible": "27274.28"
-        },
-        {
           "precio": 1004.8,
           "comerciante": "Luishein",
           "min": "7000000",
           "max": "19998876",
           "disponible": "19878.49"
+        },
+        {
+          "precio": 1005.9,
+          "comerciante": "Servicios-Criptos-27",
+          "min": "2000000",
+          "max": "14000000",
+          "disponible": "4092.83"
+        },
+        {
+          "precio": 1005.99,
+          "comerciante": "FERRARI_F40",
+          "min": "3000000",
+          "max": "36450000",
+          "disponible": "28527.87"
+        },
+        {
+          "precio": 1005.99,
+          "comerciante": "JesusGil",
+          "min": "3000000",
+          "max": "10000000",
+          "disponible": "9047.99"
         }
       ]
     }
   },
-  "brecha_pct": 13.82
+  "brecha_pct": 13.81
 }
