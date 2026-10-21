@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-21T10:22:09+00:00",
-  "actualizado_ve": "2026-10-21T06:22:09-04:00",
+  "actualizado_utc": "2026-10-21T15:25:38+00:00",
+  "actualizado_ve": "2026-10-21T11:25:38-04:00",
   "bcv": {
     "usd": 883.3963,
     "eur": 993.1759582,
@@ -10,13 +10,20 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1005.3802,
+    "referencia": 1008.03,
     "venta": {
-      "promedio": 1005.3802,
-      "minimo": 1003.2,
-      "maximo": 1008.0,
+      "promedio": 1008.03,
+      "minimo": 1007.2,
+      "maximo": 1010.5,
       "anuncios_usados": 5,
       "anuncios": [
+        {
+          "precio": 1010.5,
+          "comerciante": "OnlyCashExchange",
+          "min": "500",
+          "max": "50000",
+          "disponible": "102.53"
+        },
         {
           "precio": 1008.0,
           "comerciante": "User-6fca1",
@@ -25,39 +32,32 @@
           "disponible": "100.00"
         },
         {
-          "precio": 1006.4,
-          "comerciante": "Principe Drácula ",
-          "min": "2000000",
-          "max": "36000000",
-          "disponible": "2040.00"
+          "precio": 1007.25,
+          "comerciante": "Trust-Broker",
+          "min": "7000000",
+          "max": "36450000",
+          "disponible": "20911.55"
         },
         {
-          "precio": 1005.301,
-          "comerciante": "User-79502",
-          "min": "800",
-          "max": "80000",
-          "disponible": "100.00"
+          "precio": 1007.2,
+          "comerciante": "Redmagic17",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "16391.67"
         },
         {
-          "precio": 1004.0,
-          "comerciante": "inverdvca",
-          "min": "300",
-          "max": "460815",
-          "disponible": "0.32"
-        },
-        {
-          "precio": 1003.2,
-          "comerciante": "HermesPay",
-          "min": "40000",
-          "max": "70000",
-          "disponible": "56.06"
+          "precio": 1007.2,
+          "comerciante": "SasukeTrader",
+          "min": "3000000",
+          "max": "36450000",
+          "disponible": "41089.55"
         }
       ]
     },
     "compra": {
-      "promedio": 1000.644,
+      "promedio": 1001.1968,
       "minimo": 980.54,
-      "maximo": 1005.99,
+      "maximo": 1006.885,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -72,31 +72,31 @@
           "comerciante": "Luishein",
           "min": "7000000",
           "max": "19998876",
-          "disponible": "19878.49"
+          "disponible": "9110.18"
         },
         {
-          "precio": 1005.9,
-          "comerciante": "Servicios-Criptos-27",
-          "min": "2000000",
-          "max": "14000000",
-          "disponible": "4092.83"
-        },
-        {
-          "precio": 1005.99,
-          "comerciante": "FERRARI_F40",
+          "precio": 1006.879,
+          "comerciante": "操作",
           "min": "3000000",
-          "max": "36450000",
-          "disponible": "28527.87"
+          "max": "6610000",
+          "disponible": "3591.70"
         },
         {
-          "precio": 1005.99,
-          "comerciante": "JesusGil",
+          "precio": 1006.88,
+          "comerciante": "FORTZACRIPTO",
           "min": "3000000",
-          "max": "10000000",
-          "disponible": "9047.99"
+          "max": "6912661",
+          "disponible": "6850.05"
+        },
+        {
+          "precio": 1006.885,
+          "comerciante": "卡哈塞克尼奧",
+          "min": "4000000",
+          "max": "12000000",
+          "disponible": "9750.36"
         }
       ]
     }
   },
-  "brecha_pct": 13.81
+  "brecha_pct": 14.11
 }
