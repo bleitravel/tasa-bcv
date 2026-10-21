@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-21T15:25:38+00:00",
-  "actualizado_ve": "2026-10-21T11:25:38-04:00",
+  "actualizado_utc": "2026-10-21T19:25:15+00:00",
+  "actualizado_ve": "2026-10-21T15:25:15-04:00",
   "bcv": {
     "usd": 883.3963,
     "eur": 993.1759582,
@@ -10,19 +10,26 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1008.03,
+    "referencia": 1015.076,
     "venta": {
-      "promedio": 1008.03,
-      "minimo": 1007.2,
-      "maximo": 1010.5,
+      "promedio": 1015.076,
+      "minimo": 1006.0,
+      "maximo": 1035.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1010.5,
-          "comerciante": "OnlyCashExchange",
-          "min": "500",
-          "max": "50000",
-          "disponible": "102.53"
+          "precio": 1035.0,
+          "comerciante": "CriptoTatiss",
+          "min": "2000000",
+          "max": "4000000",
+          "disponible": "5000.00"
+        },
+        {
+          "precio": 1020.28,
+          "comerciante": "User-61171",
+          "min": "1000000",
+          "max": "4000000",
+          "disponible": "3920.00"
         },
         {
           "precio": 1008.0,
@@ -32,32 +39,25 @@
           "disponible": "100.00"
         },
         {
-          "precio": 1007.25,
-          "comerciante": "Trust-Broker",
-          "min": "7000000",
-          "max": "36450000",
-          "disponible": "20911.55"
+          "precio": 1006.1,
+          "comerciante": "Japv2506",
+          "min": "100610",
+          "max": "4000000",
+          "disponible": "7464.66"
         },
         {
-          "precio": 1007.2,
-          "comerciante": "Redmagic17",
-          "min": "5000000",
-          "max": "36450000",
-          "disponible": "16391.67"
-        },
-        {
-          "precio": 1007.2,
-          "comerciante": "SasukeTrader",
-          "min": "3000000",
-          "max": "36450000",
-          "disponible": "41089.55"
+          "precio": 1006.0,
+          "comerciante": "LiraInversiones",
+          "min": "200000",
+          "max": "2600000",
+          "disponible": "1946.12"
         }
       ]
     },
     "compra": {
-      "promedio": 1001.1968,
+      "promedio": 1002.386,
       "minimo": 980.54,
-      "maximo": 1006.885,
+      "maximo": 1008.5,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "99.75"
         },
         {
-          "precio": 1004.8,
-          "comerciante": "Luishein",
-          "min": "7000000",
-          "max": "19998876",
-          "disponible": "9110.18"
+          "precio": 1007.0,
+          "comerciante": "emmanuel",
+          "min": "60000",
+          "max": "4000000",
+          "disponible": "100.20"
         },
         {
-          "precio": 1006.879,
-          "comerciante": "操作",
-          "min": "3000000",
-          "max": "6610000",
-          "disponible": "3591.70"
+          "precio": 1007.9,
+          "comerciante": "Cambio-Ideal",
+          "min": "5000",
+          "max": "100000",
+          "disponible": "68.99"
         },
         {
-          "precio": 1006.88,
-          "comerciante": "FORTZACRIPTO",
-          "min": "3000000",
-          "max": "6912661",
-          "disponible": "6850.05"
+          "precio": 1007.99,
+          "comerciante": "VillarrealFP",
+          "min": "300",
+          "max": "990000",
+          "disponible": "0.37"
         },
         {
-          "precio": 1006.885,
-          "comerciante": "卡哈塞克尼奧",
-          "min": "4000000",
-          "max": "12000000",
-          "disponible": "9750.36"
+          "precio": 1008.5,
+          "comerciante": "jacb",
+          "min": "480000",
+          "max": "505000",
+          "disponible": "498.75"
         }
       ]
     }
   },
-  "brecha_pct": 14.11
+  "brecha_pct": 14.91
 }
