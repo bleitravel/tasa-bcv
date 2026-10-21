@@ -1,36 +1,22 @@
 {
-  "actualizado_utc": "2026-10-21T19:25:15+00:00",
-  "actualizado_ve": "2026-10-21T15:25:15-04:00",
+  "actualizado_utc": "2026-10-21T22:31:53+00:00",
+  "actualizado_ve": "2026-10-21T18:31:53-04:00",
   "bcv": {
-    "usd": 883.3963,
-    "eur": 993.1759582,
-    "fecha_valor": "2026-10-21T00:00:00-04:00"
+    "usd": 884.7496,
+    "eur": 993.21105346,
+    "fecha_valor": "2026-10-22T00:00:00-04:00"
   },
   "binance_p2p": {
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1015.076,
+    "referencia": 1005.7464,
     "venta": {
-      "promedio": 1015.076,
-      "minimo": 1006.0,
-      "maximo": 1035.0,
+      "promedio": 1005.7464,
+      "minimo": 1004.5,
+      "maximo": 1008.0,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 1035.0,
-          "comerciante": "CriptoTatiss",
-          "min": "2000000",
-          "max": "4000000",
-          "disponible": "5000.00"
-        },
-        {
-          "precio": 1020.28,
-          "comerciante": "User-61171",
-          "min": "1000000",
-          "max": "4000000",
-          "disponible": "3920.00"
-        },
         {
           "precio": 1008.0,
           "comerciante": "User-6fca1",
@@ -39,25 +25,39 @@
           "disponible": "100.00"
         },
         {
-          "precio": 1006.1,
-          "comerciante": "Japv2506",
-          "min": "100610",
-          "max": "4000000",
-          "disponible": "7464.66"
+          "precio": 1006.422,
+          "comerciante": "User-79502",
+          "min": "800",
+          "max": "31000",
+          "disponible": "100.00"
         },
         {
-          "precio": 1006.0,
-          "comerciante": "LiraInversiones",
-          "min": "200000",
-          "max": "2600000",
-          "disponible": "1946.12"
+          "precio": 1005.0,
+          "comerciante": "cambios dag",
+          "min": "40000",
+          "max": "80400",
+          "disponible": "100.00"
+        },
+        {
+          "precio": 1004.81,
+          "comerciante": "azucambios",
+          "min": "500000",
+          "max": "4000000",
+          "disponible": "1000.00"
+        },
+        {
+          "precio": 1004.5,
+          "comerciante": "ARangel54",
+          "min": "300",
+          "max": "300600",
+          "disponible": "0.68"
         }
       ]
     },
     "compra": {
-      "promedio": 1002.386,
+      "promedio": 1000.338,
       "minimo": 980.54,
-      "maximo": 1008.5,
+      "maximo": 1005.45,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "99.75"
         },
         {
-          "precio": 1007.0,
-          "comerciante": "emmanuel",
-          "min": "60000",
-          "max": "4000000",
-          "disponible": "100.20"
+          "precio": 1005.0,
+          "comerciante": "Trust-Broker",
+          "min": "245000000",
+          "max": "700000000",
+          "disponible": "249804.83"
         },
         {
-          "precio": 1007.9,
-          "comerciante": "Cambio-Ideal",
-          "min": "5000",
-          "max": "100000",
-          "disponible": "68.99"
+          "precio": 1005.3,
+          "comerciante": "Devoutt",
+          "min": "365000",
+          "max": "366601",
+          "disponible": "364.84"
         },
         {
-          "precio": 1007.99,
-          "comerciante": "VillarrealFP",
-          "min": "300",
-          "max": "990000",
-          "disponible": "0.37"
+          "precio": 1005.4,
+          "comerciante": "traing_balto",
+          "min": "2000000",
+          "max": "10000000",
+          "disponible": "4092.83"
         },
         {
-          "precio": 1008.5,
-          "comerciante": "jacb",
-          "min": "480000",
-          "max": "505000",
-          "disponible": "498.75"
+          "precio": 1005.45,
+          "comerciante": "PAGO-Y-COMPROBANTE",
+          "min": "3000000",
+          "max": "36450000",
+          "disponible": "4080.38"
         }
       ]
     }
   },
-  "brecha_pct": 14.91
+  "brecha_pct": 13.68
 }
