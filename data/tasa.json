@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-22T17:22:53+00:00",
-  "actualizado_ve": "2026-10-22T13:22:53-04:00",
+  "actualizado_utc": "2026-10-22T20:38:32+00:00",
+  "actualizado_ve": "2026-10-22T16:38:32-04:00",
   "bcv": {
     "usd": 884.7496,
     "eur": 993.21105346,
@@ -10,15 +10,15 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1005.2324,
+    "referencia": 1005.3756,
     "venta": {
-      "promedio": 1005.2324,
-      "minimo": 1004.4,
-      "maximo": 1007.262,
+      "promedio": 1005.3756,
+      "minimo": 1004.6,
+      "maximo": 1007.278,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1007.262,
+          "precio": 1007.278,
           "comerciante": "User-79502",
           "min": "800",
           "max": "31000",
@@ -26,38 +26,38 @@
         },
         {
           "precio": 1005.0,
-          "comerciante": "User-73fb4",
-          "min": "25000",
-          "max": "110000",
-          "disponible": "110.00"
+          "comerciante": "P2P-bf11e24c",
+          "min": "1000000",
+          "max": "4000000",
+          "disponible": "8295.98"
         },
         {
           "precio": 1005.0,
-          "comerciante": "Smolder-",
-          "min": "10000000",
-          "max": "36450000",
-          "disponible": "80000.00"
-        },
-        {
-          "precio": 1004.5,
-          "comerciante": "TekaTrade",
+          "comerciante": "TOPlevelS",
           "min": "5000000",
-          "max": "30000000",
-          "disponible": "54445.22"
+          "max": "36000000",
+          "disponible": "68500.12"
         },
         {
-          "precio": 1004.4,
-          "comerciante": "-AMATERATSU-",
-          "min": "7000000",
+          "precio": 1005.0,
+          "comerciante": "SasukeTrader",
+          "min": "2931500",
+          "max": "2931600",
+          "disponible": "3000.00"
+        },
+        {
+          "precio": 1004.6,
+          "comerciante": "Gustavo129",
+          "min": "400000",
           "max": "36450000",
-          "disponible": "49400.18"
+          "disponible": "2318.45"
         }
       ]
     },
     "compra": {
-      "promedio": 999.8246,
+      "promedio": 1000.9076,
       "minimo": 980.54,
-      "maximo": 1004.9,
+      "maximo": 1006.1,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "99.75"
         },
         {
-          "precio": 1004.0,
-          "comerciante": "User-e054e",
-          "min": "99000",
-          "max": "146000",
-          "disponible": "433.91"
+          "precio": 1005.8,
+          "comerciante": "Armonymx",
+          "min": "186200",
+          "max": "186201",
+          "disponible": "186.53"
         },
         {
-          "precio": 1004.8,
-          "comerciante": "P2P-faf161dx",
-          "min": "20000",
-          "max": "100000",
-          "disponible": "213.81"
+          "precio": 1006.0,
+          "comerciante": "Edgar mengual",
+          "min": "2225000",
+          "max": "2225500",
+          "disponible": "2345.71"
         },
         {
-          "precio": 1004.883,
-          "comerciante": "Uniks-Cambios",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "0.80"
+          "precio": 1006.098,
+          "comerciante": "-Ledger-",
+          "min": "36450000",
+          "max": "300000000",
+          "disponible": "128000.00"
         },
         {
-          "precio": 1004.9,
-          "comerciante": "Buitrago_18",
-          "min": "300",
-          "max": "101200",
-          "disponible": "0.52"
+          "precio": 1006.1,
+          "comerciante": "caguy",
+          "min": "36450000",
+          "max": "364500000",
+          "disponible": "110641.07"
         }
       ]
     }
   },
-  "brecha_pct": 13.62
+  "brecha_pct": 13.63
 }
