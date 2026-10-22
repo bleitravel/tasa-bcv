@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-21T22:31:53+00:00",
-  "actualizado_ve": "2026-10-21T18:31:53-04:00",
+  "actualizado_utc": "2026-10-22T01:02:33+00:00",
+  "actualizado_ve": "2026-10-21T21:02:33-04:00",
   "bcv": {
     "usd": 884.7496,
     "eur": 993.21105346,
@@ -10,13 +10,20 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1005.7464,
+    "referencia": 1006.499,
     "venta": {
-      "promedio": 1005.7464,
-      "minimo": 1004.5,
-      "maximo": 1008.0,
+      "promedio": 1006.499,
+      "minimo": 1004.0,
+      "maximo": 1010.0,
       "anuncios_usados": 5,
       "anuncios": [
+        {
+          "precio": 1010.0,
+          "comerciante": "User-6193a",
+          "min": "4006",
+          "max": "4007",
+          "disponible": "100.00"
+        },
         {
           "precio": 1008.0,
           "comerciante": "User-6fca1",
@@ -25,39 +32,32 @@
           "disponible": "100.00"
         },
         {
-          "precio": 1006.422,
+          "precio": 1006.495,
           "comerciante": "User-79502",
           "min": "800",
           "max": "31000",
           "disponible": "100.00"
         },
         {
-          "precio": 1005.0,
-          "comerciante": "cambios dag",
-          "min": "40000",
-          "max": "80400",
-          "disponible": "100.00"
-        },
-        {
-          "precio": 1004.81,
-          "comerciante": "azucambios",
-          "min": "500000",
-          "max": "4000000",
-          "disponible": "1000.00"
-        },
-        {
-          "precio": 1004.5,
-          "comerciante": "ARangel54",
+          "precio": 1004.0,
+          "comerciante": "P2P-684b64aj",
           "min": "300",
-          "max": "300600",
-          "disponible": "0.68"
+          "max": "999999",
+          "disponible": "0.45"
+        },
+        {
+          "precio": 1004.0,
+          "comerciante": "Mona2911",
+          "min": "1000000",
+          "max": "4000000",
+          "disponible": "1863.50"
         }
       ]
     },
     "compra": {
-      "promedio": 1000.338,
+      "promedio": 999.108,
       "minimo": 980.54,
-      "maximo": 1005.45,
+      "maximo": 1004.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "99.75"
         },
         {
-          "precio": 1005.0,
-          "comerciante": "Trust-Broker",
-          "min": "245000000",
-          "max": "700000000",
-          "disponible": "249804.83"
+          "precio": 1003.0,
+          "comerciante": "yunexpress",
+          "min": "1000000",
+          "max": "4000000",
+          "disponible": "1995.01"
         },
         {
-          "precio": 1005.3,
-          "comerciante": "Devoutt",
-          "min": "365000",
-          "max": "366601",
-          "disponible": "364.84"
+          "precio": 1004.0,
+          "comerciante": "FastCrypto97",
+          "min": "1000000",
+          "max": "9000000",
+          "disponible": "4587.40"
         },
         {
-          "precio": 1005.4,
-          "comerciante": "traing_balto",
-          "min": "2000000",
-          "max": "10000000",
-          "disponible": "4092.83"
+          "precio": 1004.0,
+          "comerciante": "jt rider",
+          "min": "150000",
+          "max": "500000",
+          "disponible": "149.62"
         },
         {
-          "precio": 1005.45,
-          "comerciante": "PAGO-Y-COMPROBANTE",
-          "min": "3000000",
-          "max": "36450000",
-          "disponible": "4080.38"
+          "precio": 1004.0,
+          "comerciante": "yane12",
+          "min": "100800",
+          "max": "447000",
+          "disponible": "443.89"
         }
       ]
     }
   },
-  "brecha_pct": 13.68
+  "brecha_pct": 13.76
 }
