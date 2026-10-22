@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-22T01:02:33+00:00",
-  "actualizado_ve": "2026-10-21T21:02:33-04:00",
+  "actualizado_utc": "2026-10-22T06:12:34+00:00",
+  "actualizado_ve": "2026-10-22T02:12:34-04:00",
   "bcv": {
     "usd": 884.7496,
     "eur": 993.21105346,
@@ -10,20 +10,13 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1006.499,
+    "referencia": 1004.5782,
     "venta": {
-      "promedio": 1006.499,
-      "minimo": 1004.0,
-      "maximo": 1010.0,
+      "promedio": 1004.5782,
+      "minimo": 1001.601,
+      "maximo": 1008.0,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 1010.0,
-          "comerciante": "User-6193a",
-          "min": "4006",
-          "max": "4007",
-          "disponible": "100.00"
-        },
         {
           "precio": 1008.0,
           "comerciante": "User-6fca1",
@@ -32,7 +25,7 @@
           "disponible": "100.00"
         },
         {
-          "precio": 1006.495,
+          "precio": 1006.29,
           "comerciante": "User-79502",
           "min": "800",
           "max": "31000",
@@ -46,16 +39,23 @@
           "disponible": "0.45"
         },
         {
-          "precio": 1004.0,
-          "comerciante": "Mona2911",
-          "min": "1000000",
+          "precio": 1003.0,
+          "comerciante": "Tejon87",
+          "min": "600000",
           "max": "4000000",
-          "disponible": "1863.50"
+          "disponible": "1000.00"
+        },
+        {
+          "precio": 1001.601,
+          "comerciante": "Alondrita_Coin",
+          "min": "36000",
+          "max": "2500000",
+          "disponible": "40.49"
         }
       ]
     },
     "compra": {
-      "promedio": 999.108,
+      "promedio": 999.168,
       "minimo": 980.54,
       "maximo": 1004.0,
       "anuncios_usados": 5,
@@ -68,35 +68,35 @@
           "disponible": "99.75"
         },
         {
-          "precio": 1003.0,
-          "comerciante": "yunexpress",
-          "min": "1000000",
+          "precio": 1003.5,
+          "comerciante": "rub742",
+          "min": "400000",
           "max": "4000000",
-          "disponible": "1995.01"
+          "disponible": "884.78"
+        },
+        {
+          "precio": 1003.8,
+          "comerciante": "Yumbrit",
+          "min": "50000",
+          "max": "4000000",
+          "disponible": "49.94"
         },
         {
           "precio": 1004.0,
-          "comerciante": "FastCrypto97",
-          "min": "1000000",
-          "max": "9000000",
-          "disponible": "4587.40"
+          "comerciante": "TheStrongest55",
+          "min": "100000",
+          "max": "262023",
+          "disponible": "260.32"
         },
         {
           "precio": 1004.0,
-          "comerciante": "jt rider",
-          "min": "150000",
-          "max": "500000",
-          "disponible": "149.62"
-        },
-        {
-          "precio": 1004.0,
-          "comerciante": "yane12",
-          "min": "100800",
-          "max": "447000",
-          "disponible": "443.89"
+          "comerciante": "Yisus23",
+          "min": "230000",
+          "max": "234500",
+          "disponible": "233.41"
         }
       ]
     }
   },
-  "brecha_pct": 13.76
+  "brecha_pct": 13.54
 }
