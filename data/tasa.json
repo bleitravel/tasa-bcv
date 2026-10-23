@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-22T23:43:41+00:00",
-  "actualizado_ve": "2026-10-22T19:43:41-04:00",
+  "actualizado_utc": "2026-10-23T02:14:10+00:00",
+  "actualizado_ve": "2026-10-22T22:14:10-04:00",
   "bcv": {
     "usd": 886.2271,
     "eur": 993.08836371,
@@ -10,54 +10,54 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1005.9854,
+    "referencia": 1004.0222,
     "venta": {
-      "promedio": 1005.9854,
-      "minimo": 1004.0,
-      "maximo": 1008.432,
+      "promedio": 1004.0222,
+      "minimo": 1002.5,
+      "maximo": 1008.611,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1008.432,
+          "precio": 1008.611,
           "comerciante": "User-79502",
           "min": "800",
           "max": "31000",
           "disponible": "100.00"
         },
         {
-          "precio": 1007.995,
-          "comerciante": "GalaxyRose",
-          "min": "2500",
-          "max": "2550",
-          "disponible": "155.48"
+          "precio": 1003.0,
+          "comerciante": "BlackVaultt",
+          "min": "200000",
+          "max": "4000000",
+          "disponible": "267.77"
         },
         {
-          "precio": 1005.0,
-          "comerciante": "KaioSama16",
-          "min": "1000000",
-          "max": "36450000",
-          "disponible": "80000.00"
-        },
-        {
-          "precio": 1004.5,
+          "precio": 1003.0,
           "comerciante": "TOPlevelS",
           "min": "5000000",
           "max": "36000000",
-          "disponible": "38363.38"
+          "disponible": "16396.96"
         },
         {
-          "precio": 1004.0,
-          "comerciante": "Mona2911",
-          "min": "1000000",
+          "precio": 1003.0,
+          "comerciante": "OLDesk",
+          "min": "800000",
           "max": "4000000",
-          "disponible": "5000.00"
+          "disponible": "17043.94"
+        },
+        {
+          "precio": 1002.5,
+          "comerciante": "Toptradedog",
+          "min": "500000",
+          "max": "4000000",
+          "disponible": "1300.00"
         }
       ]
     },
     "compra": {
-      "promedio": 999.986,
+      "promedio": 999.3078,
       "minimo": 980.54,
-      "maximo": 1005.0,
+      "maximo": 1004.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "99.75"
         },
         {
-          "precio": 1004.69,
-          "comerciante": "Teknik--",
-          "min": "198000",
-          "max": "209000",
-          "disponible": "209.47"
+          "precio": 1003.999,
+          "comerciante": "Roswal1",
+          "min": "10000",
+          "max": "21000",
+          "disponible": "54.26"
         },
         {
-          "precio": 1004.7,
-          "comerciante": "LunaPP2P",
-          "min": "821000",
-          "max": "821001",
-          "disponible": "897.75"
+          "precio": 1004.0,
+          "comerciante": "P2P-93599au1",
+          "min": "480000",
+          "max": "500000",
+          "disponible": "496.26"
         },
         {
-          "precio": 1005.0,
-          "comerciante": "CambioDeCuentaPropia",
-          "min": "179999",
-          "max": "180000",
-          "disponible": "181.54"
+          "precio": 1004.0,
+          "comerciante": "User-5c802",
+          "min": "10000",
+          "max": "11000",
+          "disponible": "110.80"
         },
         {
-          "precio": 1005.0,
-          "comerciante": "User-abfd2",
-          "min": "100000",
-          "max": "4000000",
-          "disponible": "198.42"
+          "precio": 1004.0,
+          "comerciante": "Crypto Dean25",
+          "min": "124439",
+          "max": "302000",
+          "disponible": "124.01"
         }
       ]
     }
   },
-  "brecha_pct": 13.51
+  "brecha_pct": 13.29
 }
