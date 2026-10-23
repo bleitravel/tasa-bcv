@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-23T07:44:46+00:00",
-  "actualizado_ve": "2026-10-23T03:44:46-04:00",
+  "actualizado_utc": "2026-10-23T12:54:49+00:00",
+  "actualizado_ve": "2026-10-23T08:54:49-04:00",
   "bcv": {
     "usd": 886.2271,
     "eur": 993.08836371,
@@ -10,15 +10,15 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1002.6958,
+    "referencia": 1002.974,
     "venta": {
-      "promedio": 1002.6958,
+      "promedio": 1002.974,
       "minimo": 1001.0,
-      "maximo": 1008.479,
+      "maximo": 1009.869,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1008.479,
+          "precio": 1009.869,
           "comerciante": "User-79502",
           "min": "800",
           "max": "31000",
@@ -32,32 +32,32 @@
           "disponible": "441.00"
         },
         {
-          "precio": 1001.0,
-          "comerciante": "Gil2025",
-          "min": "20000",
-          "max": "100000",
-          "disponible": "150.05"
+          "precio": 1001.001,
+          "comerciante": "你就变得更强",
+          "min": "400000",
+          "max": "20300000",
+          "disponible": "10105.16"
         },
         {
           "precio": 1001.0,
-          "comerciante": "Comercializadora_MAC",
-          "min": "1500000",
+          "comerciante": "BlackVaultt",
+          "min": "200000",
+          "max": "4000000",
+          "disponible": "3635.54"
+        },
+        {
+          "precio": 1001.0,
+          "comerciante": "KaioSama16",
+          "min": "1000000",
           "max": "36450000",
-          "disponible": "1732.16"
-        },
-        {
-          "precio": 1001.0,
-          "comerciante": "multipartesdd",
-          "min": "120000",
-          "max": "160000",
-          "disponible": "159.84"
+          "disponible": "80000.00"
         }
       ]
     },
     "compra": {
-      "promedio": 997.908,
+      "promedio": 996.808,
       "minimo": 980.54,
-      "maximo": 1003.0,
+      "maximo": 1002.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -69,34 +69,34 @@
         },
         {
           "precio": 1000.0,
-          "comerciante": "AndresFJM",
-          "min": "300",
+          "comerciante": "ElMuSa30",
+          "min": "2000000",
+          "max": "36450000",
+          "disponible": "3878.51"
+        },
+        {
+          "precio": 1000.0,
+          "comerciante": "GG-Cripto96",
+          "min": "1000000",
           "max": "4000000",
-          "disponible": "157.91"
+          "disponible": "1563.19"
         },
         {
-          "precio": 1003.0,
-          "comerciante": "giantv76",
-          "min": "1000",
+          "precio": 1001.5,
+          "comerciante": "tucambioseguro",
+          "min": "90000",
           "max": "4000000",
-          "disponible": "1.32"
+          "disponible": "476.37"
         },
         {
-          "precio": 1003.0,
-          "comerciante": "Meashearimcrypto1",
-          "min": "264900",
-          "max": "265000",
-          "disponible": "269.32"
-        },
-        {
-          "precio": 1003.0,
-          "comerciante": "MariangelaFlr",
-          "min": "300",
-          "max": "414060",
-          "disponible": "402.04"
+          "precio": 1002.0,
+          "comerciante": "Makanakys",
+          "min": "50000",
+          "max": "302400",
+          "disponible": "101.81"
         }
       ]
     }
   },
-  "brecha_pct": 13.14
+  "brecha_pct": 13.17
 }
