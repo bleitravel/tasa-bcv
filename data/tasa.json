@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-24T21:17:05+00:00",
-  "actualizado_ve": "2026-10-24T17:17:05-04:00",
+  "actualizado_utc": "2026-10-24T23:26:33+00:00",
+  "actualizado_ve": "2026-10-24T19:26:33-04:00",
   "bcv": {
     "usd": 887.302,
     "eur": 994.03555758,
@@ -10,54 +10,54 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1009.04,
+    "referencia": 1007.902,
     "venta": {
-      "promedio": 1009.04,
-      "minimo": 1008.0,
-      "maximo": 1010.0,
+      "promedio": 1007.902,
+      "minimo": 1007.2,
+      "maximo": 1009.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1010.0,
-          "comerciante": "Gatsby_24",
-          "min": "7000000",
-          "max": "36450000",
-          "disponible": "73048.52"
-        },
-        {
-          "precio": 1010.0,
-          "comerciante": "P2P-58c62brf",
-          "min": "500000",
-          "max": "2500000",
-          "disponible": "10000.00"
-        },
-        {
-          "precio": 1009.2,
-          "comerciante": "ミReinaPepiadaCoinミ",
-          "min": "5000000",
-          "max": "36450000",
-          "disponible": "24050.98"
-        },
-        {
-          "precio": 1008.0,
-          "comerciante": "1223344551",
-          "min": "1000000",
-          "max": "1000001",
-          "disponible": "1200.00"
-        },
-        {
-          "precio": 1008.0,
-          "comerciante": "贝HarveySpecter贝",
+          "precio": 1009.0,
+          "comerciante": "EXCELENTE-",
           "min": "3000000",
-          "max": "36000000",
-          "disponible": "25000.00"
+          "max": "36450000",
+          "disponible": "6926.38"
+        },
+        {
+          "precio": 1008.01,
+          "comerciante": "caguy",
+          "min": "2000000",
+          "max": "36450000",
+          "disponible": "55296.86"
+        },
+        {
+          "precio": 1008.0,
+          "comerciante": "-TSxRV-",
+          "min": "1000000",
+          "max": "36450000",
+          "disponible": "13815.00"
+        },
+        {
+          "precio": 1007.3,
+          "comerciante": "TrustyRetriever",
+          "min": "600000",
+          "max": "36450000",
+          "disponible": "5850.00"
+        },
+        {
+          "precio": 1007.2,
+          "comerciante": "CHACHITRADER18",
+          "min": "700000",
+          "max": "14000000",
+          "disponible": "9114.69"
         }
       ]
     },
     "compra": {
-      "promedio": 1000.6232,
+      "promedio": 1000.108,
       "minimo": 980.54,
-      "maximo": 1006.999,
+      "maximo": 1005.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "99.75"
         },
         {
-          "precio": 1004.0,
-          "comerciante": "Victorup8",
-          "min": "10149",
-          "max": "10150",
+          "precio": 1005.0,
+          "comerciante": "INVERSIONES-MYG",
+          "min": "110000",
+          "max": "110001",
+          "disponible": "119.70"
+        },
+        {
+          "precio": 1005.0,
+          "comerciante": "cheot2005",
+          "min": "60000",
+          "max": "135000",
+          "disponible": "74.97"
+        },
+        {
+          "precio": 1005.0,
+          "comerciante": "Ma2317",
+          "min": "3000",
+          "max": "3100",
           "disponible": "99.75"
         },
         {
           "precio": 1005.0,
-          "comerciante": "figueroajac",
-          "min": "30400",
-          "max": "100000",
-          "disponible": "99.75"
-        },
-        {
-          "precio": 1006.577,
-          "comerciante": "Cambio-Ideal",
-          "min": "5000",
-          "max": "100000",
-          "disponible": "8.12"
-        },
-        {
-          "precio": 1006.999,
-          "comerciante": "GlobalBusinessmx",
-          "min": "48900",
-          "max": "48901",
-          "disponible": "100.74"
+          "comerciante": "Diego7malave ",
+          "min": "3000",
+          "max": "250000",
+          "disponible": "166.29"
         }
       ]
     }
   },
-  "brecha_pct": 13.72
+  "brecha_pct": 13.59
 }
