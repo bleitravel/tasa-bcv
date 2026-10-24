@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-24T18:52:21+00:00",
-  "actualizado_ve": "2026-10-24T14:52:21-04:00",
+  "actualizado_utc": "2026-10-24T21:17:05+00:00",
+  "actualizado_ve": "2026-10-24T17:17:05-04:00",
   "bcv": {
     "usd": 887.302,
     "eur": 994.03555758,
@@ -10,54 +10,54 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1009.331,
+    "referencia": 1009.04,
     "venta": {
-      "promedio": 1009.331,
-      "minimo": 1008.538,
-      "maximo": 1011.0,
+      "promedio": 1009.04,
+      "minimo": 1008.0,
+      "maximo": 1010.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1011.0,
-          "comerciante": "Godisgift",
-          "min": "15000000",
+          "precio": 1010.0,
+          "comerciante": "Gatsby_24",
+          "min": "7000000",
           "max": "36450000",
-          "disponible": "60217.61"
+          "disponible": "73048.52"
         },
         {
           "precio": 1010.0,
-          "comerciante": "Smolder-",
-          "min": "10000000",
-          "max": "36450000",
-          "disponible": "80000.00"
+          "comerciante": "P2P-58c62brf",
+          "min": "500000",
+          "max": "2500000",
+          "disponible": "10000.00"
         },
         {
-          "precio": 1008.577,
-          "comerciante": "DAKLANID",
-          "min": "800000",
-          "max": "36450000",
-          "disponible": "10983.83"
-        },
-        {
-          "precio": 1008.54,
-          "comerciante": "TOPlevelS",
+          "precio": 1009.2,
+          "comerciante": "ミReinaPepiadaCoinミ",
           "min": "5000000",
-          "max": "36000000",
-          "disponible": "73948.43"
+          "max": "36450000",
+          "disponible": "24050.98"
         },
         {
-          "precio": 1008.538,
-          "comerciante": "TH3K1NGP2P",
-          "min": "2000000",
-          "max": "36450000",
-          "disponible": "34014.66"
+          "precio": 1008.0,
+          "comerciante": "1223344551",
+          "min": "1000000",
+          "max": "1000001",
+          "disponible": "1200.00"
+        },
+        {
+          "precio": 1008.0,
+          "comerciante": "贝HarveySpecter贝",
+          "min": "3000000",
+          "max": "36000000",
+          "disponible": "25000.00"
         }
       ]
     },
     "compra": {
-      "promedio": 1001.4678,
+      "promedio": 1000.6232,
       "minimo": 980.54,
-      "maximo": 1007.799,
+      "maximo": 1006.999,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "99.75"
         },
         {
+          "precio": 1004.0,
+          "comerciante": "Victorup8",
+          "min": "10149",
+          "max": "10150",
+          "disponible": "99.75"
+        },
+        {
           "precio": 1005.0,
-          "comerciante": "danyCambios",
-          "min": "800",
-          "max": "400000",
-          "disponible": "147.36"
+          "comerciante": "figueroajac",
+          "min": "30400",
+          "max": "100000",
+          "disponible": "99.75"
         },
         {
-          "precio": 1007.0,
-          "comerciante": "ElMuSa30",
-          "min": "5000000",
-          "max": "36450000",
-          "disponible": "8199.46"
+          "precio": 1006.577,
+          "comerciante": "Cambio-Ideal",
+          "min": "5000",
+          "max": "100000",
+          "disponible": "8.12"
         },
         {
-          "precio": 1007.0,
-          "comerciante": "RosaLiricambios",
-          "min": "100000",
-          "max": "1480000",
-          "disponible": "149.62"
-        },
-        {
-          "precio": 1007.799,
-          "comerciante": "TenshiEx",
-          "min": "5000000",
-          "max": "36000000",
-          "disponible": "7834.60"
+          "precio": 1006.999,
+          "comerciante": "GlobalBusinessmx",
+          "min": "48900",
+          "max": "48901",
+          "disponible": "100.74"
         }
       ]
     }
   },
-  "brecha_pct": 13.75
+  "brecha_pct": 13.72
 }
