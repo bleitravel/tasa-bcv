@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-24T16:06:46+00:00",
-  "actualizado_ve": "2026-10-24T12:06:46-04:00",
+  "actualizado_utc": "2026-10-24T18:52:21+00:00",
+  "actualizado_ve": "2026-10-24T14:52:21-04:00",
   "bcv": {
     "usd": 887.302,
     "eur": 994.03555758,
@@ -10,54 +10,54 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1006.498,
+    "referencia": 1009.331,
     "venta": {
-      "promedio": 1006.498,
-      "minimo": 1006.0,
-      "maximo": 1007.99,
+      "promedio": 1009.331,
+      "minimo": 1008.538,
+      "maximo": 1011.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1007.99,
-          "comerciante": "GalaxyRose",
-          "min": "1200",
-          "max": "1300",
-          "disponible": "177.27"
-        },
-        {
-          "precio": 1006.5,
-          "comerciante": "Smolder-",
-          "min": "7000000",
+          "precio": 1011.0,
+          "comerciante": "Godisgift",
+          "min": "15000000",
           "max": "36450000",
-          "disponible": "72603.22"
+          "disponible": "60217.61"
         },
         {
-          "precio": 1006.0,
-          "comerciante": "INFINIP2P",
-          "min": "2500000",
-          "max": "4000000",
-          "disponible": "10000.00"
+          "precio": 1010.0,
+          "comerciante": "Smolder-",
+          "min": "10000000",
+          "max": "36450000",
+          "disponible": "80000.00"
         },
         {
-          "precio": 1006.0,
-          "comerciante": "CoorpLogistic",
-          "min": "4000000",
-          "max": "4100000",
-          "disponible": "4080.00"
+          "precio": 1008.577,
+          "comerciante": "DAKLANID",
+          "min": "800000",
+          "max": "36450000",
+          "disponible": "10983.83"
         },
         {
-          "precio": 1006.0,
-          "comerciante": "Capi",
-          "min": "251000",
-          "max": "1708500",
-          "disponible": "300.12"
+          "precio": 1008.54,
+          "comerciante": "TOPlevelS",
+          "min": "5000000",
+          "max": "36000000",
+          "disponible": "73948.43"
+        },
+        {
+          "precio": 1008.538,
+          "comerciante": "TH3K1NGP2P",
+          "min": "2000000",
+          "max": "36450000",
+          "disponible": "34014.66"
         }
       ]
     },
     "compra": {
-      "promedio": 1000.1076,
+      "promedio": 1001.4678,
       "minimo": 980.54,
-      "maximo": 1005.0,
+      "maximo": 1007.799,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "99.75"
         },
         {
-          "precio": 1004.998,
-          "comerciante": "GlobalBusinessmx",
-          "min": "24450",
-          "max": "24451",
-          "disponible": "110.39"
+          "precio": 1005.0,
+          "comerciante": "danyCambios",
+          "min": "800",
+          "max": "400000",
+          "disponible": "147.36"
         },
         {
-          "precio": 1005.0,
-          "comerciante": "repid1",
-          "min": "30000",
-          "max": "500000",
-          "disponible": "39.91"
+          "precio": 1007.0,
+          "comerciante": "ElMuSa30",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "8199.46"
         },
         {
-          "precio": 1005.0,
-          "comerciante": "ReinaggaGoldPzo",
-          "min": "10000",
-          "max": "4000000",
-          "disponible": "14.96"
+          "precio": 1007.0,
+          "comerciante": "RosaLiricambios",
+          "min": "100000",
+          "max": "1480000",
+          "disponible": "149.62"
         },
         {
-          "precio": 1005.0,
-          "comerciante": "leolopez12",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "24.21"
+          "precio": 1007.799,
+          "comerciante": "TenshiEx",
+          "min": "5000000",
+          "max": "36000000",
+          "disponible": "7834.60"
         }
       ]
     }
   },
-  "brecha_pct": 13.43
+  "brecha_pct": 13.75
 }
