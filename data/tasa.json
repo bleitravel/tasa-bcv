@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-23T23:36:44+00:00",
-  "actualizado_ve": "2026-10-23T19:36:44-04:00",
+  "actualizado_utc": "2026-10-24T02:12:36+00:00",
+  "actualizado_ve": "2026-10-23T22:12:36-04:00",
   "bcv": {
     "usd": 887.302,
     "eur": 994.03555758,
@@ -10,54 +10,54 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1004.0736,
+    "referencia": 1004.803,
     "venta": {
-      "promedio": 1004.0736,
-      "minimo": 1002.299,
-      "maximo": 1009.569,
+      "promedio": 1004.803,
+      "minimo": 1004.005,
+      "maximo": 1005.5,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1009.569,
-          "comerciante": "User-79502",
-          "min": "800",
-          "max": "31000",
-          "disponible": "100.00"
+          "precio": 1005.5,
+          "comerciante": "GOMEZTUSOLUCION",
+          "min": "15000000",
+          "max": "36450000",
+          "disponible": "80000.00"
         },
         {
-          "precio": 1003.0,
-          "comerciante": "CriptoseguroAyM",
-          "min": "800000",
-          "max": "34000000",
-          "disponible": "40000.00"
+          "precio": 1005.5,
+          "comerciante": "RayoTrader",
+          "min": "10000000",
+          "max": "36000000",
+          "disponible": "80000.00"
         },
         {
-          "precio": 1003.0,
-          "comerciante": "PEJAGOBLA",
+          "precio": 1005.0,
+          "comerciante": "TradingCambios",
           "min": "7000000",
-          "max": "36400000",
-          "disponible": "41086.81"
+          "max": "36000000",
+          "disponible": "70000.06"
         },
         {
-          "precio": 1002.5,
+          "precio": 1004.01,
+          "comerciante": "TH3K1NGP2P",
+          "min": "2000000",
+          "max": "13726913",
+          "disponible": "6703.16"
+        },
+        {
+          "precio": 1004.005,
           "comerciante": "Trust-Broker",
           "min": "500000",
           "max": "36450000",
-          "disponible": "10066.07"
-        },
-        {
-          "precio": 1002.299,
-          "comerciante": "PAYMENTSPRO",
-          "min": "500000",
-          "max": "2900000",
-          "disponible": "14877.65"
+          "disponible": "7424.11"
         }
       ]
     },
     "compra": {
-      "promedio": 998.308,
+      "promedio": 999.1658,
       "minimo": 980.54,
-      "maximo": 1003.0,
+      "maximo": 1004.8,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -69,34 +69,34 @@
         },
         {
           "precio": 1002.0,
-          "comerciante": "ArepaConCafe",
-          "min": "10000000",
-          "max": "36450000",
-          "disponible": "39580.78"
+          "comerciante": "Jrodriguez",
+          "min": "155000",
+          "max": "4000000",
+          "disponible": "159.61"
         },
         {
-          "precio": 1003.0,
-          "comerciante": "A1000C",
-          "min": "40000",
+          "precio": 1004.189,
+          "comerciante": "GlobalBusinessmx",
+          "min": "264000",
+          "max": "264001",
+          "disponible": "264.13"
+        },
+        {
+          "precio": 1004.3,
+          "comerciante": "Musicoin",
+          "min": "2000000",
           "max": "30000000",
-          "disponible": "48.01"
+          "disponible": "6927.50"
         },
         {
-          "precio": 1003.0,
-          "comerciante": "Cambios_EyD",
-          "min": "5000",
-          "max": "15000",
-          "disponible": "89.78"
-        },
-        {
-          "precio": 1003.0,
-          "comerciante": "mono0110",
-          "min": "300140",
-          "max": "300900",
-          "disponible": "299.25"
+          "precio": 1004.8,
+          "comerciante": "S3bss_Exchang3",
+          "min": "5000000",
+          "max": "20000000",
+          "disponible": "7776.93"
         }
       ]
     }
   },
-  "brecha_pct": 13.16
+  "brecha_pct": 13.24
 }
