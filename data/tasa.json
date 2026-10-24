@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-24T07:27:00+00:00",
-  "actualizado_ve": "2026-10-24T03:27:00-04:00",
+  "actualizado_utc": "2026-10-24T12:07:26+00:00",
+  "actualizado_ve": "2026-10-24T08:07:26-04:00",
   "bcv": {
     "usd": 887.302,
     "eur": 994.03555758,
@@ -10,54 +10,54 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1002.3702,
+    "referencia": 1003.3984,
     "venta": {
-      "promedio": 1002.3702,
-      "minimo": 1002.051,
-      "maximo": 1003.0,
+      "promedio": 1003.3984,
+      "minimo": 1003.0,
+      "maximo": 1004.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1003.0,
-          "comerciante": "蒙福的",
-          "min": "550000",
-          "max": "617000",
-          "disponible": "1200.00"
+          "precio": 1004.0,
+          "comerciante": "INFINIP2P",
+          "min": "2500000",
+          "max": "4000000",
+          "disponible": "5000.00"
         },
         {
-          "precio": 1002.5,
-          "comerciante": "蒙神祝福者",
-          "min": "700000",
+          "precio": 1003.992,
+          "comerciante": "-TraDEOne-",
+          "min": "5000000",
           "max": "36000000",
-          "disponible": "9506.57"
+          "disponible": "35147.44"
         },
         {
-          "precio": 1002.2,
-          "comerciante": "VISÓN CRIPTØ",
-          "min": "300000",
-          "max": "36450000",
-          "disponible": "38568.16"
+          "precio": 1003.0,
+          "comerciante": "CriptoseguroAyM",
+          "min": "700000",
+          "max": "34000000",
+          "disponible": "44003.00"
         },
         {
-          "precio": 1002.1,
-          "comerciante": "Old Parr",
+          "precio": 1003.0,
+          "comerciante": "改善ThorFinn改善",
           "min": "500000",
           "max": "36450000",
-          "disponible": "25514.73"
+          "disponible": "11035.93"
         },
         {
-          "precio": 1002.051,
-          "comerciante": "los100cien",
-          "min": "20000000",
-          "max": "30000000",
-          "disponible": "28217.00"
+          "precio": 1003.0,
+          "comerciante": "TheOchoa",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "60000.00"
         }
       ]
     },
     "compra": {
-      "promedio": 1000.1358,
+      "promedio": 999.6456,
       "minimo": 980.54,
-      "maximo": 1005.5,
+      "maximo": 1005.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,6 +68,13 @@
           "disponible": "99.75"
         },
         {
+          "precio": 1003.0,
+          "comerciante": "Daniro03",
+          "min": "5000",
+          "max": "50000",
+          "disponible": "49.90"
+        },
+        {
           "precio": 1004.689,
           "comerciante": "GlobalBusinessmx",
           "min": "184736",
@@ -75,28 +82,21 @@
           "disponible": "203.94"
         },
         {
-          "precio": 1004.95,
-          "comerciante": "juansito_40",
-          "min": "270000",
-          "max": "271000",
-          "disponible": "270.32"
+          "precio": 1004.999,
+          "comerciante": "jaro23",
+          "min": "3000000",
+          "max": "36000000",
+          "disponible": "14644.67"
         },
         {
           "precio": 1005.0,
-          "comerciante": "escalonacambio",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "1.59"
-        },
-        {
-          "precio": 1005.5,
-          "comerciante": "KyAt93",
-          "min": "151053",
-          "max": "302000",
-          "disponible": "150.23"
+          "comerciante": "User-95450",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "18253.58"
         }
       ]
     }
   },
-  "brecha_pct": 12.97
+  "brecha_pct": 13.08
 }
