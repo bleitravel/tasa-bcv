@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-24T02:12:36+00:00",
-  "actualizado_ve": "2026-10-23T22:12:36-04:00",
+  "actualizado_utc": "2026-10-24T07:27:00+00:00",
+  "actualizado_ve": "2026-10-24T03:27:00-04:00",
   "bcv": {
     "usd": 887.302,
     "eur": 994.03555758,
@@ -10,54 +10,54 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1004.803,
+    "referencia": 1002.3702,
     "venta": {
-      "promedio": 1004.803,
-      "minimo": 1004.005,
-      "maximo": 1005.5,
+      "promedio": 1002.3702,
+      "minimo": 1002.051,
+      "maximo": 1003.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1005.5,
-          "comerciante": "GOMEZTUSOLUCION",
-          "min": "15000000",
+          "precio": 1003.0,
+          "comerciante": "蒙福的",
+          "min": "550000",
+          "max": "617000",
+          "disponible": "1200.00"
+        },
+        {
+          "precio": 1002.5,
+          "comerciante": "蒙神祝福者",
+          "min": "700000",
+          "max": "36000000",
+          "disponible": "9506.57"
+        },
+        {
+          "precio": 1002.2,
+          "comerciante": "VISÓN CRIPTØ",
+          "min": "300000",
           "max": "36450000",
-          "disponible": "80000.00"
+          "disponible": "38568.16"
         },
         {
-          "precio": 1005.5,
-          "comerciante": "RayoTrader",
-          "min": "10000000",
-          "max": "36000000",
-          "disponible": "80000.00"
-        },
-        {
-          "precio": 1005.0,
-          "comerciante": "TradingCambios",
-          "min": "7000000",
-          "max": "36000000",
-          "disponible": "70000.06"
-        },
-        {
-          "precio": 1004.01,
-          "comerciante": "TH3K1NGP2P",
-          "min": "2000000",
-          "max": "13726913",
-          "disponible": "6703.16"
-        },
-        {
-          "precio": 1004.005,
-          "comerciante": "Trust-Broker",
+          "precio": 1002.1,
+          "comerciante": "Old Parr",
           "min": "500000",
           "max": "36450000",
-          "disponible": "7424.11"
+          "disponible": "25514.73"
+        },
+        {
+          "precio": 1002.051,
+          "comerciante": "los100cien",
+          "min": "20000000",
+          "max": "30000000",
+          "disponible": "28217.00"
         }
       ]
     },
     "compra": {
-      "promedio": 999.1658,
+      "promedio": 1000.1358,
       "minimo": 980.54,
-      "maximo": 1004.8,
+      "maximo": 1005.5,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "99.75"
         },
         {
-          "precio": 1002.0,
-          "comerciante": "Jrodriguez",
-          "min": "155000",
-          "max": "4000000",
-          "disponible": "159.61"
-        },
-        {
-          "precio": 1004.189,
+          "precio": 1004.689,
           "comerciante": "GlobalBusinessmx",
-          "min": "264000",
-          "max": "264001",
-          "disponible": "264.13"
+          "min": "184736",
+          "max": "184737",
+          "disponible": "203.94"
         },
         {
-          "precio": 1004.3,
-          "comerciante": "Musicoin",
-          "min": "2000000",
-          "max": "30000000",
-          "disponible": "6927.50"
+          "precio": 1004.95,
+          "comerciante": "juansito_40",
+          "min": "270000",
+          "max": "271000",
+          "disponible": "270.32"
         },
         {
-          "precio": 1004.8,
-          "comerciante": "S3bss_Exchang3",
-          "min": "5000000",
-          "max": "20000000",
-          "disponible": "7776.93"
+          "precio": 1005.0,
+          "comerciante": "escalonacambio",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "1.59"
+        },
+        {
+          "precio": 1005.5,
+          "comerciante": "KyAt93",
+          "min": "151053",
+          "max": "302000",
+          "disponible": "150.23"
         }
       ]
     }
   },
-  "brecha_pct": 13.24
+  "brecha_pct": 12.97
 }
