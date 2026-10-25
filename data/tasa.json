@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-25T06:20:55+00:00",
-  "actualizado_ve": "2026-10-25T02:20:55-04:00",
+  "actualizado_utc": "2026-10-25T11:49:56+00:00",
+  "actualizado_ve": "2026-10-25T07:49:56-04:00",
   "bcv": {
     "usd": 887.302,
     "eur": 994.03555758,
@@ -10,13 +10,27 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1004.35,
+    "referencia": 1004.7014,
     "venta": {
-      "promedio": 1004.35,
-      "minimo": 1004.0,
-      "maximo": 1005.0,
+      "promedio": 1004.7014,
+      "minimo": 1003.502,
+      "maximo": 1006.0,
       "anuncios_usados": 5,
       "anuncios": [
+        {
+          "precio": 1006.0,
+          "comerciante": "dasainv",
+          "min": "50000",
+          "max": "400000",
+          "disponible": "280.06"
+        },
+        {
+          "precio": 1005.005,
+          "comerciante": "Gustavo129",
+          "min": "700000",
+          "max": "36450000",
+          "disponible": "6436.78"
+        },
         {
           "precio": 1005.0,
           "comerciante": "CambiosLGZ",
@@ -25,39 +39,25 @@
           "disponible": "20664.72"
         },
         {
-          "precio": 1004.5,
-          "comerciante": "SebasFnK",
-          "min": "250000",
-          "max": "450000",
-          "disponible": "472.00"
-        },
-        {
-          "precio": 1004.25,
-          "comerciante": "Trust-Broker",
-          "min": "2000000",
-          "max": "36450000",
-          "disponible": "18833.68"
-        },
-        {
           "precio": 1004.0,
-          "comerciante": "GAleja1011",
-          "min": "1043000",
-          "max": "2043000",
-          "disponible": "2035.00"
+          "comerciante": "bjom1610",
+          "min": "290000",
+          "max": "290000",
+          "disponible": "290.00"
         },
         {
-          "precio": 1004.0,
-          "comerciante": "Quick Payment",
-          "min": "1000000",
-          "max": "10000000",
-          "disponible": "3511.17"
+          "precio": 1003.502,
+          "comerciante": "Keimeli",
+          "min": "600000",
+          "max": "4000000",
+          "disponible": "2798.30"
         }
       ]
     },
     "compra": {
-      "promedio": 1000.8478,
+      "promedio": 1000.9438,
       "minimo": 980.54,
-      "maximo": 1007.699,
+      "maximo": 1006.49,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,13 +68,6 @@
           "disponible": "99.75"
         },
         {
-          "precio": 1004.0,
-          "comerciante": "andry0212",
-          "min": "10000",
-          "max": "10001",
-          "disponible": "99.75"
-        },
-        {
           "precio": 1005.0,
           "comerciante": "Críptoec",
           "min": "197999",
@@ -82,21 +75,28 @@
           "disponible": "498.75"
         },
         {
-          "precio": 1007.0,
-          "comerciante": "TicoYPA",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "0.44"
+          "precio": 1006.2,
+          "comerciante": "alfonsin81",
+          "min": "40000",
+          "max": "99000",
+          "disponible": "99.75"
         },
         {
-          "precio": 1007.699,
-          "comerciante": "jaro23",
-          "min": "3000000",
-          "max": "36000000",
-          "disponible": "12643.43"
+          "precio": 1006.489,
+          "comerciante": "VIPChanges",
+          "min": "2500000",
+          "max": "36450000",
+          "disponible": "4418.89"
+        },
+        {
+          "precio": 1006.49,
+          "comerciante": "cambiosIA",
+          "min": "1000000",
+          "max": "16000000",
+          "disponible": "6393.40"
         }
       ]
     }
   },
-  "brecha_pct": 13.19
+  "brecha_pct": 13.23
 }
