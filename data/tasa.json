@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-24T23:26:33+00:00",
-  "actualizado_ve": "2026-10-24T19:26:33-04:00",
+  "actualizado_utc": "2026-10-25T01:22:10+00:00",
+  "actualizado_ve": "2026-10-24T21:22:10-04:00",
   "bcv": {
     "usd": 887.302,
     "eur": 994.03555758,
@@ -10,52 +10,52 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1007.902,
+    "referencia": 1004.73,
     "venta": {
-      "promedio": 1007.902,
-      "minimo": 1007.2,
-      "maximo": 1009.0,
+      "promedio": 1004.73,
+      "minimo": 1004.3,
+      "maximo": 1005.2,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1009.0,
-          "comerciante": "EXCELENTE-",
-          "min": "3000000",
-          "max": "36450000",
-          "disponible": "6926.38"
-        },
-        {
-          "precio": 1008.01,
+          "precio": 1005.2,
           "comerciante": "caguy",
-          "min": "2000000",
+          "min": "1500000",
           "max": "36450000",
-          "disponible": "55296.86"
+          "disponible": "25769.67"
         },
         {
-          "precio": 1008.0,
-          "comerciante": "-TSxRV-",
+          "precio": 1005.0,
+          "comerciante": "TheOchoa",
           "min": "1000000",
           "max": "36450000",
-          "disponible": "13815.00"
+          "disponible": "60000.00"
         },
         {
-          "precio": 1007.3,
-          "comerciante": "TrustyRetriever",
-          "min": "600000",
+          "precio": 1004.6,
+          "comerciante": "securitylc",
+          "min": "15000000",
+          "max": "36400000",
+          "disponible": "65000.00"
+        },
+        {
+          "precio": 1004.55,
+          "comerciante": "Brawcoins",
+          "min": "10000000",
           "max": "36450000",
-          "disponible": "5850.00"
+          "disponible": "70041.83"
         },
         {
-          "precio": 1007.2,
-          "comerciante": "CHACHITRADER18",
-          "min": "700000",
-          "max": "14000000",
-          "disponible": "9114.69"
+          "precio": 1004.3,
+          "comerciante": "IngCryptos",
+          "min": "7000000",
+          "max": "36450000",
+          "disponible": "16813.42"
         }
       ]
     },
     "compra": {
-      "promedio": 1000.108,
+      "promedio": 999.9076,
       "minimo": 980.54,
       "maximo": 1005.0,
       "anuncios_usados": 5,
@@ -68,35 +68,35 @@
           "disponible": "99.75"
         },
         {
-          "precio": 1005.0,
-          "comerciante": "INVERSIONES-MYG",
-          "min": "110000",
-          "max": "110001",
-          "disponible": "119.70"
+          "precio": 1004.0,
+          "comerciante": "Cripto-ven",
+          "min": "300000",
+          "max": "800000",
+          "disponible": "700.24"
         },
         {
-          "precio": 1005.0,
-          "comerciante": "cheot2005",
-          "min": "60000",
-          "max": "135000",
-          "disponible": "74.97"
-        },
-        {
-          "precio": 1005.0,
-          "comerciante": "Ma2317",
-          "min": "3000",
-          "max": "3100",
+          "precio": 1004.999,
+          "comerciante": "Globalbusinessmxsss",
+          "min": "98000",
+          "max": "98001",
           "disponible": "99.75"
         },
         {
+          "precio": 1004.999,
+          "comerciante": "CAMBIOGYM1721",
+          "min": "5000",
+          "max": "30000",
+          "disponible": "94.69"
+        },
+        {
           "precio": 1005.0,
-          "comerciante": "Diego7malave ",
-          "min": "3000",
-          "max": "250000",
-          "disponible": "166.29"
+          "comerciante": "ElMuSa30",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "8542.50"
         }
       ]
     }
   },
-  "brecha_pct": 13.59
+  "brecha_pct": 13.23
 }
