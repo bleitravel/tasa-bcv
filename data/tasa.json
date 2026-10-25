@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-25T01:22:10+00:00",
-  "actualizado_ve": "2026-10-24T21:22:10-04:00",
+  "actualizado_utc": "2026-10-25T06:20:55+00:00",
+  "actualizado_ve": "2026-10-25T02:20:55-04:00",
   "bcv": {
     "usd": 887.302,
     "eur": 994.03555758,
@@ -10,54 +10,54 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1004.73,
+    "referencia": 1004.35,
     "venta": {
-      "promedio": 1004.73,
-      "minimo": 1004.3,
-      "maximo": 1005.2,
+      "promedio": 1004.35,
+      "minimo": 1004.0,
+      "maximo": 1005.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1005.2,
-          "comerciante": "caguy",
-          "min": "1500000",
-          "max": "36450000",
-          "disponible": "25769.67"
-        },
-        {
           "precio": 1005.0,
-          "comerciante": "TheOchoa",
+          "comerciante": "CambiosLGZ",
+          "min": "2000000",
+          "max": "25000000",
+          "disponible": "20664.72"
+        },
+        {
+          "precio": 1004.5,
+          "comerciante": "SebasFnK",
+          "min": "250000",
+          "max": "450000",
+          "disponible": "472.00"
+        },
+        {
+          "precio": 1004.25,
+          "comerciante": "Trust-Broker",
+          "min": "2000000",
+          "max": "36450000",
+          "disponible": "18833.68"
+        },
+        {
+          "precio": 1004.0,
+          "comerciante": "GAleja1011",
+          "min": "1043000",
+          "max": "2043000",
+          "disponible": "2035.00"
+        },
+        {
+          "precio": 1004.0,
+          "comerciante": "Quick Payment",
           "min": "1000000",
-          "max": "36450000",
-          "disponible": "60000.00"
-        },
-        {
-          "precio": 1004.6,
-          "comerciante": "securitylc",
-          "min": "15000000",
-          "max": "36400000",
-          "disponible": "65000.00"
-        },
-        {
-          "precio": 1004.55,
-          "comerciante": "Brawcoins",
-          "min": "10000000",
-          "max": "36450000",
-          "disponible": "70041.83"
-        },
-        {
-          "precio": 1004.3,
-          "comerciante": "IngCryptos",
-          "min": "7000000",
-          "max": "36450000",
-          "disponible": "16813.42"
+          "max": "10000000",
+          "disponible": "3511.17"
         }
       ]
     },
     "compra": {
-      "promedio": 999.9076,
+      "promedio": 1000.8478,
       "minimo": 980.54,
-      "maximo": 1005.0,
+      "maximo": 1007.699,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -69,34 +69,34 @@
         },
         {
           "precio": 1004.0,
-          "comerciante": "Cripto-ven",
-          "min": "300000",
-          "max": "800000",
-          "disponible": "700.24"
-        },
-        {
-          "precio": 1004.999,
-          "comerciante": "Globalbusinessmxsss",
-          "min": "98000",
-          "max": "98001",
+          "comerciante": "andry0212",
+          "min": "10000",
+          "max": "10001",
           "disponible": "99.75"
         },
         {
-          "precio": 1004.999,
-          "comerciante": "CAMBIOGYM1721",
-          "min": "5000",
-          "max": "30000",
-          "disponible": "94.69"
+          "precio": 1005.0,
+          "comerciante": "Críptoec",
+          "min": "197999",
+          "max": "198000",
+          "disponible": "498.75"
         },
         {
-          "precio": 1005.0,
-          "comerciante": "ElMuSa30",
-          "min": "5000000",
-          "max": "36450000",
-          "disponible": "8542.50"
+          "precio": 1007.0,
+          "comerciante": "TicoYPA",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "0.44"
+        },
+        {
+          "precio": 1007.699,
+          "comerciante": "jaro23",
+          "min": "3000000",
+          "max": "36000000",
+          "disponible": "12643.43"
         }
       ]
     }
   },
-  "brecha_pct": 13.23
+  "brecha_pct": 13.19
 }
