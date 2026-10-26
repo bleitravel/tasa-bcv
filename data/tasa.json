@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-25T23:22:35+00:00",
-  "actualizado_ve": "2026-10-25T19:22:35-04:00",
+  "actualizado_utc": "2026-10-26T01:23:45+00:00",
+  "actualizado_ve": "2026-10-25T21:23:45-04:00",
   "bcv": {
     "usd": 887.302,
     "eur": 994.03555758,
@@ -10,54 +10,54 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1007.844,
+    "referencia": 1006.4862,
     "venta": {
-      "promedio": 1007.844,
-      "minimo": 1007.505,
-      "maximo": 1008.5,
+      "promedio": 1006.4862,
+      "minimo": 1006.4,
+      "maximo": 1006.52,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1008.5,
-          "comerciante": "Gatsby_24",
-          "min": "5000000",
-          "max": "36450000",
-          "disponible": "48627.28"
-        },
-        {
-          "precio": 1008.0,
-          "comerciante": "WillyWonka-",
-          "min": "2000000",
-          "max": "36450000",
-          "disponible": "72420.04"
-        },
-        {
-          "precio": 1007.61,
-          "comerciante": "-TSxRV-",
-          "min": "3000000",
-          "max": "36450000",
-          "disponible": "30901.35"
-        },
-        {
-          "precio": 1007.605,
+          "precio": 1006.52,
           "comerciante": "Kingjvl",
           "min": "2000000",
           "max": "36450000",
-          "disponible": "14807.12"
+          "disponible": "8656.48"
         },
         {
-          "precio": 1007.505,
-          "comerciante": "guamo-1",
+          "precio": 1006.51,
+          "comerciante": "Holy_Spirit_",
+          "min": "3000000",
+          "max": "36450000",
+          "disponible": "49526.27"
+        },
+        {
+          "precio": 1006.501,
+          "comerciante": "Juanz17",
           "min": "1000000",
-          "max": "34000000",
-          "disponible": "12684.00"
+          "max": "5000000",
+          "disponible": "15100.00"
+        },
+        {
+          "precio": 1006.5,
+          "comerciante": "WillyWonka-",
+          "min": "3000000",
+          "max": "36450000",
+          "disponible": "80000.00"
+        },
+        {
+          "precio": 1006.4,
+          "comerciante": "NexusPremiun",
+          "min": "1000000",
+          "max": "25500000",
+          "disponible": "11947.18"
         }
       ]
     },
     "compra": {
-      "promedio": 1000.3658,
+      "promedio": 1001.303,
       "minimo": 980.54,
-      "maximo": 1005.499,
+      "maximo": 1006.8,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "99.75"
         },
         {
-          "precio": 1005.0,
-          "comerciante": "Dekar13",
-          "min": "49000",
-          "max": "50000",
-          "disponible": "99.75"
+          "precio": 1005.9,
+          "comerciante": "el_ poller-obispo",
+          "min": "229000",
+          "max": "230000",
+          "disponible": "229.75"
         },
         {
-          "precio": 1005.3,
-          "comerciante": "Yexson",
-          "min": "3000",
-          "max": "4000",
-          "disponible": "99.75"
+          "precio": 1006.5,
+          "comerciante": "LosOteros2619",
+          "min": "15000",
+          "max": "4000000",
+          "disponible": "35.59"
         },
         {
-          "precio": 1005.49,
-          "comerciante": "Diego",
-          "min": "4000000",
-          "max": "6000000",
-          "disponible": "5487.28"
+          "precio": 1006.775,
+          "comerciante": "UroTrader",
+          "min": "2000000",
+          "max": "3000000",
+          "disponible": "2500.00"
         },
         {
-          "precio": 1005.499,
-          "comerciante": "jaro23",
-          "min": "3000000",
-          "max": "36000000",
-          "disponible": "6194.59"
+          "precio": 1006.8,
+          "comerciante": "GSA_Cambios",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "0.33"
         }
       ]
     }
   },
-  "brecha_pct": 13.59
+  "brecha_pct": 13.43
 }
