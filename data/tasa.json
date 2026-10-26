@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-26T06:30:15+00:00",
-  "actualizado_ve": "2026-10-26T02:30:15-04:00",
+  "actualizado_utc": "2026-10-26T13:39:53+00:00",
+  "actualizado_ve": "2026-10-26T09:39:53-04:00",
   "bcv": {
     "usd": 887.302,
     "eur": 994.03555758,
@@ -10,54 +10,54 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1005.574,
+    "referencia": 1006.7812,
     "venta": {
-      "promedio": 1005.574,
-      "minimo": 1004.5,
-      "maximo": 1007.21,
+      "promedio": 1006.7812,
+      "minimo": 1006.5,
+      "maximo": 1007.5,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1007.21,
-          "comerciante": "Kingjvl",
-          "min": "2000000",
+          "precio": 1007.5,
+          "comerciante": "Cripto-venzapla",
+          "min": "200000",
+          "max": "4000000",
+          "disponible": "1825.45"
+        },
+        {
+          "precio": 1006.8,
+          "comerciante": "Elnegrop2p",
+          "min": "447000",
+          "max": "36000000",
+          "disponible": "444.30"
+        },
+        {
+          "precio": 1006.6,
+          "comerciante": "securitylc",
+          "min": "1500000",
           "max": "36450000",
-          "disponible": "8656.48"
+          "disponible": "31800.12"
         },
         {
-          "precio": 1006.05,
-          "comerciante": "Anyelo",
-          "min": "400000",
-          "max": "1200000",
-          "disponible": "787.31"
+          "precio": 1006.506,
+          "comerciante": "agustinS27",
+          "min": "800000",
+          "max": "1000000",
+          "disponible": "8210.92"
         },
         {
-          "precio": 1005.5,
-          "comerciante": "drlm92",
-          "min": "300000",
-          "max": "2010020",
-          "disponible": "1348.76"
-        },
-        {
-          "precio": 1004.61,
-          "comerciante": "MonkeyCryptoSeguro",
-          "min": "500000",
-          "max": "32000000",
-          "disponible": "5245.61"
-        },
-        {
-          "precio": 1004.5,
-          "comerciante": "蒙神祝福者",
-          "min": "400000",
-          "max": "1500000",
-          "disponible": "50000.00"
+          "precio": 1006.5,
+          "comerciante": "Escocrida",
+          "min": "2000000",
+          "max": "14199000",
+          "disponible": "10025.84"
         }
       ]
     },
     "compra": {
-      "promedio": 1002.612,
+      "promedio": 1000.9078,
       "minimo": 980.54,
-      "maximo": 1008.66,
+      "maximo": 1007.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "99.75"
         },
         {
-          "precio": 1007.86,
-          "comerciante": " Blessed ",
-          "min": "36450000",
-          "max": "1000000000",
-          "disponible": "56742.63"
+          "precio": 1005.0,
+          "comerciante": "Davidtigre42",
+          "min": "15000",
+          "max": "191000",
+          "disponible": "155.42"
         },
         {
-          "precio": 1008.0,
-          "comerciante": "HLopezJr",
+          "precio": 1005.0,
+          "comerciante": "JAAC0327",
+          "min": "80000",
+          "max": "400000",
+          "disponible": "199.50"
+        },
+        {
+          "precio": 1006.999,
+          "comerciante": "Cambioseec",
+          "min": "500000",
+          "max": "2500000",
+          "disponible": "1011.02"
+        },
+        {
+          "precio": 1007.0,
+          "comerciante": "Pscosis17",
           "min": "300",
-          "max": "4000000",
-          "disponible": "1.09"
-        },
-        {
-          "precio": 1008.0,
-          "comerciante": "tonycoro88",
-          "min": "100000",
-          "max": "4000000",
-          "disponible": "99.75"
-        },
-        {
-          "precio": 1008.66,
-          "comerciante": "kkkcambios",
-          "min": "300",
-          "max": "108000",
-          "disponible": "0.43"
+          "max": "188000",
+          "disponible": "0.30"
         }
       ]
     }
   },
-  "brecha_pct": 13.33
+  "brecha_pct": 13.47
 }
