@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-27T08:04:20+00:00",
-  "actualizado_ve": "2026-10-27T04:04:20-04:00",
+  "actualizado_utc": "2026-10-27T14:42:38+00:00",
+  "actualizado_ve": "2026-10-27T10:42:38-04:00",
   "bcv": {
     "usd": 887.302,
     "eur": 994.03555758,
@@ -10,54 +10,54 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 999.52,
+    "referencia": 1002.14,
     "venta": {
-      "promedio": 999.52,
-      "minimo": 999.0,
-      "maximo": 1000.6,
+      "promedio": 1002.14,
+      "minimo": 1001.2,
+      "maximo": 1003.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1000.6,
-          "comerciante": "TraderSpace_RO",
+          "precio": 1003.0,
+          "comerciante": "Money77ves",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "5982.00"
+        },
+        {
+          "precio": 1002.5,
+          "comerciante": "JDTRADING",
+          "min": "5000000",
+          "max": "20000000",
+          "disponible": "40000.06"
+        },
+        {
+          "precio": 1002.0,
+          "comerciante": "Daniaarilo",
           "min": "200000",
-          "max": "3009000",
-          "disponible": "590.15"
+          "max": "4000000",
+          "disponible": "389.59"
         },
         {
-          "precio": 1000.0,
-          "comerciante": "Carlos_CDP",
+          "precio": 1002.0,
+          "comerciante": "KAIROS333",
+          "min": "1000000",
+          "max": "36000000",
+          "disponible": "3069.42"
+        },
+        {
+          "precio": 1001.2,
+          "comerciante": "OpCripto",
           "min": "500000",
-          "max": "501000",
-          "disponible": "501.00"
-        },
-        {
-          "precio": 999.0,
-          "comerciante": "Dineroextras",
-          "min": "500000",
-          "max": "1000000",
-          "disponible": "950.00"
-        },
-        {
-          "precio": 999.0,
-          "comerciante": "FEUGENIAR23",
-          "min": "90000",
-          "max": "405000",
-          "disponible": "1330.00"
-        },
-        {
-          "precio": 999.0,
-          "comerciante": "istfny",
-          "min": "50000",
-          "max": "90000",
-          "disponible": "100.00"
+          "max": "20000000",
+          "disponible": "13329.34"
         }
       ]
     },
     "compra": {
-      "promedio": 997.7878,
+      "promedio": 997.838,
       "minimo": 980.54,
-      "maximo": 1002.25,
+      "maximo": 1002.95,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "99.75"
         },
         {
-          "precio": 1001.95,
-          "comerciante": "不會不會他不會",
-          "min": "3000000",
-          "max": "26000000",
-          "disponible": "6600.97"
+          "precio": 1000.8,
+          "comerciante": "CambiosDiFortunato",
+          "min": "500",
+          "max": "150000",
+          "disponible": "2.05"
         },
         {
-          "precio": 1001.999,
-          "comerciante": "蒙神祝福者",
-          "min": "2000000",
+          "precio": 1002.0,
+          "comerciante": "deximpr",
+          "min": "30000",
+          "max": "100000",
+          "disponible": "99.75"
+        },
+        {
+          "precio": 1002.9,
+          "comerciante": "DominicP2P",
+          "min": "10000",
+          "max": "1100000",
+          "disponible": "63.18"
+        },
+        {
+          "precio": 1002.95,
+          "comerciante": "EverCryptoUSDT ",
+          "min": "5000000",
           "max": "36450000",
-          "disponible": "39950.06"
-        },
-        {
-          "precio": 1002.2,
-          "comerciante": "JmExchanges14",
-          "min": "500000",
-          "max": "36450000",
-          "disponible": "584.73"
-        },
-        {
-          "precio": 1002.25,
-          "comerciante": "-_Heisenberg_-",
-          "min": "500000",
-          "max": "20000000",
-          "disponible": "2241.78"
+          "disponible": "10325.53"
         }
       ]
     }
   },
-  "brecha_pct": 12.65
+  "brecha_pct": 12.94
 }
