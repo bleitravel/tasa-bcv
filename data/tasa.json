@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-26T23:24:57+00:00",
-  "actualizado_ve": "2026-10-26T19:24:57-04:00",
+  "actualizado_utc": "2026-10-27T02:11:23+00:00",
+  "actualizado_ve": "2026-10-26T22:11:23-04:00",
   "bcv": {
     "usd": 887.302,
     "eur": 994.03555758,
@@ -10,54 +10,54 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1001.9202,
+    "referencia": 1001.6944,
     "venta": {
-      "promedio": 1001.9202,
-      "minimo": 1001.0,
-      "maximo": 1002.6,
+      "promedio": 1001.6944,
+      "minimo": 1001.32,
+      "maximo": 1002.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1002.6,
-          "comerciante": "活着的价值",
-          "min": "36450000",
-          "max": "1400000000",
-          "disponible": "50000.00"
-        },
-        {
-          "precio": 1002.001,
-          "comerciante": "CriptoseguroAyM",
-          "min": "800000",
-          "max": "3503700",
-          "disponible": "807.15"
-        },
-        {
           "precio": 1002.0,
-          "comerciante": "LosSsoul",
-          "min": "4700000",
-          "max": "36000000",
-          "disponible": "4700.00"
-        },
-        {
-          "precio": 1002.0,
-          "comerciante": "ArepaConCafe",
-          "min": "1000000",
-          "max": "3000000",
-          "disponible": "1281.74"
-        },
-        {
-          "precio": 1001.0,
-          "comerciante": "-MISSDEAL-",
-          "min": "5000000",
+          "comerciante": "AcAy24",
+          "min": "3000000",
           "max": "36450000",
-          "disponible": "29337.83"
+          "disponible": "15900.00"
+        },
+        {
+          "precio": 1002.0,
+          "comerciante": "josemijares2812",
+          "min": "50000",
+          "max": "900000",
+          "disponible": "496.00"
+        },
+        {
+          "precio": 1001.602,
+          "comerciante": "HORUS",
+          "min": "500000",
+          "max": "7000000",
+          "disponible": "1025.00"
+        },
+        {
+          "precio": 1001.55,
+          "comerciante": "Bernaaaaaaa",
+          "min": "500000",
+          "max": "35000000",
+          "disponible": "15455.07"
+        },
+        {
+          "precio": 1001.32,
+          "comerciante": "Comercio_Eficiente",
+          "min": "800000",
+          "max": "34164000",
+          "disponible": "5224.80"
         }
       ]
     },
     "compra": {
-      "promedio": 996.8868,
+      "promedio": 998.3116,
       "minimo": 980.54,
-      "maximo": 1001.0,
+      "maximo": 1002.9,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "99.75"
         },
         {
-          "precio": 1000.9,
-          "comerciante": "Servicios-Criptos-27",
-          "min": "3000000",
-          "max": "14000000",
-          "disponible": "3094.58"
+          "precio": 1002.41,
+          "comerciante": "adrubita",
+          "min": "481000",
+          "max": "10000000",
+          "disponible": "483.05"
         },
         {
-          "precio": 1000.995,
+          "precio": 1002.808,
+          "comerciante": "Kamel_Valencia",
+          "min": "2500",
+          "max": "25000",
+          "disponible": "77.11"
+        },
+        {
+          "precio": 1002.9,
           "comerciante": "josealtu",
           "min": "4000000",
           "max": "10000000",
-          "disponible": "5513.18"
+          "disponible": "5912.40"
         },
         {
-          "precio": 1000.999,
-          "comerciante": "CHATGPTT",
-          "min": "4000000",
-          "max": "36450000",
-          "disponible": "5621.64"
-        },
-        {
-          "precio": 1001.0,
-          "comerciante": "CastllCoins",
-          "min": "2500000",
-          "max": "36450000",
-          "disponible": "25000.74"
+          "precio": 1002.9,
+          "comerciante": "CAMBIOS-CRYPTOS",
+          "min": "1500000",
+          "max": "10000000",
+          "disponible": "1570.92"
         }
       ]
     }
   },
-  "brecha_pct": 12.92
+  "brecha_pct": 12.89
 }
