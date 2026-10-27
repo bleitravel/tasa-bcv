@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-27T14:42:38+00:00",
-  "actualizado_ve": "2026-10-27T10:42:38-04:00",
+  "actualizado_utc": "2026-10-27T19:43:37+00:00",
+  "actualizado_ve": "2026-10-27T15:43:37-04:00",
   "bcv": {
     "usd": 887.302,
     "eur": 994.03555758,
@@ -10,54 +10,54 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1002.14,
+    "referencia": 1004.2082,
     "venta": {
-      "promedio": 1002.14,
-      "minimo": 1001.2,
-      "maximo": 1003.0,
+      "promedio": 1004.2082,
+      "minimo": 1004.05,
+      "maximo": 1004.51,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1003.0,
-          "comerciante": "Money77ves",
-          "min": "5000000",
-          "max": "36450000",
-          "disponible": "5982.00"
-        },
-        {
-          "precio": 1002.5,
-          "comerciante": "JDTRADING",
-          "min": "5000000",
-          "max": "20000000",
-          "disponible": "40000.06"
-        },
-        {
-          "precio": 1002.0,
-          "comerciante": "Daniaarilo",
-          "min": "200000",
-          "max": "4000000",
-          "disponible": "389.59"
-        },
-        {
-          "precio": 1002.0,
-          "comerciante": "KAIROS333",
-          "min": "1000000",
+          "precio": 1004.51,
+          "comerciante": "FlashRaid",
+          "min": "10000000",
           "max": "36000000",
-          "disponible": "3069.42"
+          "disponible": "51906.71"
         },
         {
-          "precio": 1001.2,
-          "comerciante": "OpCripto",
+          "precio": 1004.3,
+          "comerciante": "NitroClash",
+          "min": "7000000",
+          "max": "36450000",
+          "disponible": "62920.06"
+        },
+        {
+          "precio": 1004.13,
+          "comerciante": "ACRYD",
           "min": "500000",
-          "max": "20000000",
-          "disponible": "13329.34"
+          "max": "4000000",
+          "disponible": "6535.05"
+        },
+        {
+          "precio": 1004.051,
+          "comerciante": "AMERICA1492LLC",
+          "min": "27999999",
+          "max": "28000000",
+          "disponible": "28000.00"
+        },
+        {
+          "precio": 1004.05,
+          "comerciante": "VZLAMundialista",
+          "min": "4000000",
+          "max": "9778008",
+          "disponible": "9738.57"
         }
       ]
     },
     "compra": {
-      "promedio": 997.838,
+      "promedio": 999.528,
       "minimo": 980.54,
-      "maximo": 1002.95,
+      "maximo": 1004.7,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "99.75"
         },
         {
-          "precio": 1000.8,
-          "comerciante": "CambiosDiFortunato",
-          "min": "500",
-          "max": "150000",
-          "disponible": "2.05"
+          "precio": 1003.9,
+          "comerciante": "Cambios_Garces",
+          "min": "800",
+          "max": "4000000",
+          "disponible": "6.57"
         },
         {
-          "precio": 1002.0,
-          "comerciante": "deximpr",
-          "min": "30000",
-          "max": "100000",
-          "disponible": "99.75"
+          "precio": 1004.0,
+          "comerciante": "Andres90",
+          "min": "140000",
+          "max": "140560",
+          "disponible": "139.65"
         },
         {
-          "precio": 1002.9,
-          "comerciante": "DominicP2P",
+          "precio": 1004.5,
+          "comerciante": "JairGOVA佳尔",
           "min": "10000",
-          "max": "1100000",
-          "disponible": "63.18"
+          "max": "2000000",
+          "disponible": "718.77"
         },
         {
-          "precio": 1002.95,
-          "comerciante": "EverCryptoUSDT ",
-          "min": "5000000",
-          "max": "36450000",
-          "disponible": "10325.53"
+          "precio": 1004.7,
+          "comerciante": "Albert-VsqzZ",
+          "min": "50000",
+          "max": "4000000",
+          "disponible": "99.49"
         }
       ]
     }
   },
-  "brecha_pct": 12.94
+  "brecha_pct": 13.18
 }
