@@ -1,63 +1,63 @@
 {
-  "actualizado_utc": "2026-10-27T19:43:37+00:00",
-  "actualizado_ve": "2026-10-27T15:43:37-04:00",
+  "actualizado_utc": "2026-10-27T23:17:36+00:00",
+  "actualizado_ve": "2026-10-27T19:17:36-04:00",
   "bcv": {
-    "usd": 887.302,
-    "eur": 994.03555758,
-    "fecha_valor": "2026-10-27T00:00:00-04:00"
+    "usd": 888.1183,
+    "eur": 989.71903352,
+    "fecha_valor": "2026-10-28T00:00:00-04:00"
   },
   "binance_p2p": {
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1004.2082,
+    "referencia": 1006.14,
     "venta": {
-      "promedio": 1004.2082,
-      "minimo": 1004.05,
-      "maximo": 1004.51,
+      "promedio": 1006.14,
+      "minimo": 1005.85,
+      "maximo": 1006.99,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1004.51,
-          "comerciante": "FlashRaid",
-          "min": "10000000",
-          "max": "36000000",
-          "disponible": "51906.71"
+          "precio": 1006.99,
+          "comerciante": "GalaxyRose",
+          "min": "5200",
+          "max": "5300",
+          "disponible": "199.53"
         },
         {
-          "precio": 1004.3,
-          "comerciante": "NitroClash",
-          "min": "7000000",
+          "precio": 1006.01,
+          "comerciante": "Holy_Spirit_",
+          "min": "15000000",
           "max": "36450000",
-          "disponible": "62920.06"
+          "disponible": "24400.00"
         },
         {
-          "precio": 1004.13,
-          "comerciante": "ACRYD",
-          "min": "500000",
-          "max": "4000000",
-          "disponible": "6535.05"
+          "precio": 1006.0,
+          "comerciante": "Gatsby_24",
+          "min": "10000000",
+          "max": "36450000",
+          "disponible": "45559.77"
         },
         {
-          "precio": 1004.051,
-          "comerciante": "AMERICA1492LLC",
-          "min": "27999999",
-          "max": "28000000",
-          "disponible": "28000.00"
+          "precio": 1005.85,
+          "comerciante": "Trust-Broker",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "42500.06"
         },
         {
-          "precio": 1004.05,
-          "comerciante": "VZLAMundialista",
-          "min": "4000000",
-          "max": "9778008",
-          "disponible": "9738.57"
+          "precio": 1005.85,
+          "comerciante": "caguy",
+          "min": "2000000",
+          "max": "36450000",
+          "disponible": "60690.72"
         }
       ]
     },
     "compra": {
-      "promedio": 999.528,
+      "promedio": 1000.0896,
       "minimo": 980.54,
-      "maximo": 1004.7,
+      "maximo": 1005.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "99.75"
         },
         {
-          "precio": 1003.9,
-          "comerciante": "Cambios_Garces",
-          "min": "800",
-          "max": "4000000",
-          "disponible": "6.57"
-        },
-        {
-          "precio": 1004.0,
-          "comerciante": "Andres90",
-          "min": "140000",
-          "max": "140560",
-          "disponible": "139.65"
-        },
-        {
-          "precio": 1004.5,
-          "comerciante": "JairGOVA佳尔",
-          "min": "10000",
-          "max": "2000000",
-          "disponible": "718.77"
-        },
-        {
-          "precio": 1004.7,
-          "comerciante": "Albert-VsqzZ",
+          "precio": 1004.909,
+          "comerciante": "ElrickFx",
           "min": "50000",
+          "max": "280000",
+          "disponible": "129.26"
+        },
+        {
+          "precio": 1004.999,
+          "comerciante": "CriptoFlass",
+          "min": "150000",
           "max": "4000000",
-          "disponible": "99.49"
+          "disponible": "199.50"
+        },
+        {
+          "precio": 1005.0,
+          "comerciante": "GuaribeX",
+          "min": "300",
+          "max": "300000",
+          "disponible": "0.39"
+        },
+        {
+          "precio": 1005.0,
+          "comerciante": "JhonathanH",
+          "min": "36400",
+          "max": "36450",
+          "disponible": "99.75"
         }
       ]
     }
   },
-  "brecha_pct": 13.18
+  "brecha_pct": 13.29
 }
