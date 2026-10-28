@@ -1,29 +1,22 @@
 {
-  "actualizado_utc": "2026-10-28T15:33:22+00:00",
-  "actualizado_ve": "2026-10-28T11:33:22-04:00",
+  "actualizado_utc": "2026-10-28T20:38:14+00:00",
+  "actualizado_ve": "2026-10-28T16:38:14-04:00",
   "bcv": {
-    "usd": 888.1183,
-    "eur": 989.71903352,
-    "fecha_valor": "2026-10-28T00:00:00-04:00"
+    "usd": 888.8909,
+    "eur": 989.38890515,
+    "fecha_valor": "2026-10-29T00:00:00-04:00"
   },
   "binance_p2p": {
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1006.8798,
+    "referencia": 1006.3538,
     "venta": {
-      "promedio": 1006.8798,
-      "minimo": 1006.3,
-      "maximo": 1007.5,
+      "promedio": 1006.3538,
+      "minimo": 1006.002,
+      "maximo": 1007.0,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 1007.5,
-          "comerciante": "Umbrella2503",
-          "min": "500000",
-          "max": "4000000",
-          "disponible": "12110.19"
-        },
         {
           "precio": 1007.0,
           "comerciante": "Brileo",
@@ -32,32 +25,39 @@
           "disponible": "500.00"
         },
         {
-          "precio": 1007.0,
-          "comerciante": "User-67785",
-          "min": "500000",
-          "max": "1000000",
-          "disponible": "501.70"
+          "precio": 1006.75,
+          "comerciante": "上天保佑",
+          "min": "1000000",
+          "max": "4000000",
+          "disponible": "28947.11"
         },
         {
-          "precio": 1006.599,
-          "comerciante": "-C-R-Y-P-T-O__M-0-Y-",
-          "min": "500000",
-          "max": "1000000",
-          "disponible": "43853.00"
+          "precio": 1006.01,
+          "comerciante": "CryptosVzla",
+          "min": "400000",
+          "max": "34500000",
+          "disponible": "11539.02"
         },
         {
-          "precio": 1006.3,
-          "comerciante": "--KROMO_GROUP--",
-          "min": "200000",
-          "max": "1500000",
-          "disponible": "42748.73"
+          "precio": 1006.007,
+          "comerciante": "MekaddeshJM",
+          "min": "500000",
+          "max": "4000000",
+          "disponible": "1659.70"
+        },
+        {
+          "precio": 1006.002,
+          "comerciante": "JR7722",
+          "min": "1000000",
+          "max": "4000000",
+          "disponible": "10000.00"
         }
       ]
     },
     "compra": {
-      "promedio": 1001.6058,
+      "promedio": 1000.108,
       "minimo": 980.54,
-      "maximo": 1007.49,
+      "maximo": 1006.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "99.75"
         },
         {
-          "precio": 1006.0,
-          "comerciante": "Specione",
-          "min": "40000",
-          "max": "40001",
-          "disponible": "89.99"
-        },
-        {
-          "precio": 1006.999,
-          "comerciante": "Jehu07",
-          "min": "30000",
-          "max": "100000",
-          "disponible": "160.43"
-        },
-        {
-          "precio": 1007.0,
-          "comerciante": "JairGOVA佳尔",
+          "precio": 1003.0,
+          "comerciante": "alpa12345",
           "min": "10000",
-          "max": "2000000",
-          "disponible": "322.01"
+          "max": "4000000",
+          "disponible": "54.90"
         },
         {
-          "precio": 1007.49,
-          "comerciante": "JhonathanH",
-          "min": "145400",
-          "max": "145500",
-          "disponible": "145.11"
+          "precio": 1005.0,
+          "comerciante": "Broker Trader",
+          "min": "10000",
+          "max": "10001",
+          "disponible": "64.95"
+        },
+        {
+          "precio": 1006.0,
+          "comerciante": "User-20faf",
+          "min": "300",
+          "max": "519000",
+          "disponible": "0.31"
+        },
+        {
+          "precio": 1006.0,
+          "comerciante": "P2P-c7671eiz",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "0.41"
         }
       ]
     }
   },
-  "brecha_pct": 13.37
+  "brecha_pct": 13.21
 }
