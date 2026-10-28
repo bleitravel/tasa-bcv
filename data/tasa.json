@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-27T23:17:36+00:00",
-  "actualizado_ve": "2026-10-27T19:17:36-04:00",
+  "actualizado_utc": "2026-10-28T02:26:38+00:00",
+  "actualizado_ve": "2026-10-27T22:26:38-04:00",
   "bcv": {
     "usd": 888.1183,
     "eur": 989.71903352,
@@ -10,54 +10,54 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1006.14,
+    "referencia": 1005.672,
     "venta": {
-      "promedio": 1006.14,
-      "minimo": 1005.85,
-      "maximo": 1006.99,
+      "promedio": 1005.672,
+      "minimo": 1005.11,
+      "maximo": 1006.5,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1006.99,
-          "comerciante": "GalaxyRose",
-          "min": "5200",
-          "max": "5300",
-          "disponible": "199.53"
-        },
-        {
-          "precio": 1006.01,
-          "comerciante": "Holy_Spirit_",
-          "min": "15000000",
-          "max": "36450000",
-          "disponible": "24400.00"
-        },
-        {
-          "precio": 1006.0,
+          "precio": 1006.5,
           "comerciante": "Gatsby_24",
           "min": "10000000",
           "max": "36450000",
-          "disponible": "45559.77"
+          "disponible": "80000.00"
         },
         {
-          "precio": 1005.85,
+          "precio": 1006.05,
           "comerciante": "Trust-Broker",
           "min": "5000000",
           "max": "36450000",
-          "disponible": "42500.06"
+          "disponible": "45030.07"
         },
         {
-          "precio": 1005.85,
+          "precio": 1005.5,
           "comerciante": "caguy",
           "min": "2000000",
           "max": "36450000",
-          "disponible": "60690.72"
+          "disponible": "40000.00"
+        },
+        {
+          "precio": 1005.2,
+          "comerciante": "Holy_Spirit_",
+          "min": "1000000",
+          "max": "36450000",
+          "disponible": "1653.00"
+        },
+        {
+          "precio": 1005.11,
+          "comerciante": "FERRARI_F40",
+          "min": "1000000",
+          "max": "36450000",
+          "disponible": "25566.98"
         }
       ]
     },
     "compra": {
-      "promedio": 1000.0896,
+      "promedio": 1000.148,
       "minimo": 980.54,
-      "maximo": 1005.0,
+      "maximo": 1005.7,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "99.75"
         },
         {
-          "precio": 1004.909,
-          "comerciante": "ElrickFx",
-          "min": "50000",
-          "max": "280000",
-          "disponible": "129.26"
-        },
-        {
-          "precio": 1004.999,
-          "comerciante": "CriptoFlass",
-          "min": "150000",
-          "max": "4000000",
-          "disponible": "199.50"
+          "precio": 1004.0,
+          "comerciante": "imp2p",
+          "min": "4000000",
+          "max": "9500000",
+          "disponible": "4001.35"
         },
         {
           "precio": 1005.0,
-          "comerciante": "GuaribeX",
+          "comerciante": "Davidtigre42",
+          "min": "15000",
+          "max": "502000",
+          "disponible": "432.86"
+        },
+        {
+          "precio": 1005.5,
+          "comerciante": "FLASH1009",
           "min": "300",
-          "max": "300000",
-          "disponible": "0.39"
+          "max": "400000",
+          "disponible": "0.41"
         },
         {
-          "precio": 1005.0,
-          "comerciante": "JhonathanH",
-          "min": "36400",
-          "max": "36450",
-          "disponible": "99.75"
+          "precio": 1005.7,
+          "comerciante": "DiosesbuenoDiosteama",
+          "min": "1000000",
+          "max": "15000000",
+          "disponible": "1500.00"
         }
       ]
     }
   },
-  "brecha_pct": 13.29
+  "brecha_pct": 13.24
 }
