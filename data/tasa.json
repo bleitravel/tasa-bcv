@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-28T02:26:38+00:00",
-  "actualizado_ve": "2026-10-27T22:26:38-04:00",
+  "actualizado_utc": "2026-10-28T08:47:18+00:00",
+  "actualizado_ve": "2026-10-28T04:47:18-04:00",
   "bcv": {
     "usd": 888.1183,
     "eur": 989.71903352,
@@ -10,54 +10,54 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1005.672,
+    "referencia": 1002.57,
     "venta": {
-      "promedio": 1005.672,
-      "minimo": 1005.11,
-      "maximo": 1006.5,
+      "promedio": 1002.57,
+      "minimo": 1002.121,
+      "maximo": 1003.004,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1006.5,
-          "comerciante": "Gatsby_24",
-          "min": "10000000",
-          "max": "36450000",
-          "disponible": "80000.00"
+          "precio": 1003.004,
+          "comerciante": "Tusavic",
+          "min": "800000",
+          "max": "3000000",
+          "disponible": "16442.69"
         },
         {
-          "precio": 1006.05,
-          "comerciante": "Trust-Broker",
-          "min": "5000000",
-          "max": "36450000",
-          "disponible": "45030.07"
+          "precio": 1003.0,
+          "comerciante": "R0ck3tvt",
+          "min": "2120000",
+          "max": "2120001",
+          "disponible": "2114.00"
         },
         {
-          "precio": 1005.5,
-          "comerciante": "caguy",
-          "min": "2000000",
-          "max": "36450000",
-          "disponible": "40000.00"
-        },
-        {
-          "precio": 1005.2,
-          "comerciante": "Holy_Spirit_",
+          "precio": 1002.6,
+          "comerciante": "LGD04",
           "min": "1000000",
-          "max": "36450000",
-          "disponible": "1653.00"
+          "max": "20000000",
+          "disponible": "12449.92"
         },
         {
-          "precio": 1005.11,
-          "comerciante": "FERRARI_F40",
-          "min": "1000000",
-          "max": "36450000",
-          "disponible": "25566.98"
+          "precio": 1002.125,
+          "comerciante": "你看_VES_你看_VES_你看Like",
+          "min": "700000",
+          "max": "9000000",
+          "disponible": "4488.11"
+        },
+        {
+          "precio": 1002.121,
+          "comerciante": "Inversiones_CAO",
+          "min": "500000",
+          "max": "4295000",
+          "disponible": "4286.08"
         }
       ]
     },
     "compra": {
-      "promedio": 1000.148,
+      "promedio": 1000.9076,
       "minimo": 980.54,
-      "maximo": 1005.7,
+      "maximo": 1006.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "99.75"
         },
         {
-          "precio": 1004.0,
-          "comerciante": "imp2p",
-          "min": "4000000",
-          "max": "9500000",
-          "disponible": "4001.35"
-        },
-        {
-          "precio": 1005.0,
-          "comerciante": "Davidtigre42",
-          "min": "15000",
-          "max": "502000",
-          "disponible": "432.86"
-        },
-        {
-          "precio": 1005.5,
-          "comerciante": "FLASH1009",
+          "precio": 1005.999,
+          "comerciante": "Nairin19",
           "min": "300",
-          "max": "400000",
-          "disponible": "0.41"
+          "max": "100000",
+          "disponible": "15.21"
         },
         {
-          "precio": 1005.7,
-          "comerciante": "DiosesbuenoDiosteama",
-          "min": "1000000",
-          "max": "15000000",
-          "disponible": "1500.00"
+          "precio": 1005.999,
+          "comerciante": "K3NY94",
+          "min": "1000",
+          "max": "1000000",
+          "disponible": "56.03"
+        },
+        {
+          "precio": 1006.0,
+          "comerciante": "UknowServices",
+          "min": "9000",
+          "max": "20000",
+          "disponible": "89.69"
+        },
+        {
+          "precio": 1006.0,
+          "comerciante": "Amara2026",
+          "min": "990000",
+          "max": "1000000",
+          "disponible": "997.00"
         }
       ]
     }
   },
-  "brecha_pct": 13.24
+  "brecha_pct": 12.89
 }
