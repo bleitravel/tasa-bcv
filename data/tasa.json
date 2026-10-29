@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-29T06:13:09+00:00",
-  "actualizado_ve": "2026-10-29T02:13:09-04:00",
+  "actualizado_utc": "2026-10-29T13:24:00+00:00",
+  "actualizado_ve": "2026-10-29T09:24:00-04:00",
   "bcv": {
     "usd": 888.8909,
     "eur": 989.38890515,
@@ -10,54 +10,54 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1005.2,
+    "referencia": 1004.91,
     "venta": {
-      "promedio": 1005.2,
-      "minimo": 1004.0,
-      "maximo": 1007.0,
+      "promedio": 1004.91,
+      "minimo": 1004.3,
+      "maximo": 1005.8,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1007.0,
-          "comerciante": "Brileo",
-          "min": "100000",
-          "max": "500000",
-          "disponible": "500.00"
-        },
-        {
-          "precio": 1006.0,
-          "comerciante": "Hana_s",
-          "min": "400000",
-          "max": "4000000",
-          "disponible": "440.00"
+          "precio": 1005.8,
+          "comerciante": "Escocrida",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "25512.63"
         },
         {
           "precio": 1005.0,
-          "comerciante": "JEYJEY93",
-          "min": "166000",
-          "max": "166900",
-          "disponible": "170.00"
-        },
-        {
-          "precio": 1004.0,
-          "comerciante": "Catire93",
-          "min": "602400",
-          "max": "602500",
-          "disponible": "600.00"
-        },
-        {
-          "precio": 1004.0,
-          "comerciante": "FromVillage",
-          "min": "1359175",
+          "comerciante": "Gatsby_24",
+          "min": "4000000",
           "max": "36450000",
-          "disponible": "1353.76"
+          "disponible": "47153.43"
+        },
+        {
+          "precio": 1004.8,
+          "comerciante": "Gustavo129",
+          "min": "1000000",
+          "max": "36450000",
+          "disponible": "59765.88"
+        },
+        {
+          "precio": 1004.65,
+          "comerciante": "Trust-Broker",
+          "min": "7000000",
+          "max": "36450000",
+          "disponible": "40000.06"
+        },
+        {
+          "precio": 1004.3,
+          "comerciante": "TENKA_HOLDINGS",
+          "min": "3000000",
+          "max": "36450000",
+          "disponible": "43904.41"
         }
       ]
     },
     "compra": {
-      "promedio": 1001.906,
+      "promedio": 999.8846,
       "minimo": 980.54,
-      "maximo": 1007.5,
+      "maximo": 1005.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "99.75"
         },
         {
-          "precio": 1006.99,
-          "comerciante": "Sunnygreen",
-          "min": "476330",
-          "max": "1000000",
-          "disponible": "2473.81"
+          "precio": 1004.093,
+          "comerciante": "Rapicri",
+          "min": "6000",
+          "max": "4000000",
+          "disponible": "180.37"
         },
         {
-          "precio": 1007.0,
-          "comerciante": "andry0212",
-          "min": "165047",
-          "max": "165048",
-          "disponible": "163.93"
+          "precio": 1004.89,
+          "comerciante": "_SELOPE1975_",
+          "min": "3000001",
+          "max": "7049515",
+          "disponible": "7260.37"
         },
         {
-          "precio": 1007.5,
-          "comerciante": "Armonymx",
-          "min": "98200",
-          "max": "98201",
-          "disponible": "99.75"
+          "precio": 1004.9,
+          "comerciante": "Herstellerin",
+          "min": "2000000",
+          "max": "36000000",
+          "disponible": "17335.50"
         },
         {
-          "precio": 1007.5,
-          "comerciante": "Voldemort9",
-          "min": "300",
-          "max": "405000",
-          "disponible": "199.42"
+          "precio": 1005.0,
+          "comerciante": "TradewCrypto",
+          "min": "2000000",
+          "max": "36000000",
+          "disponible": "11283.04"
         }
       ]
     }
   },
-  "brecha_pct": 13.08
+  "brecha_pct": 13.05
 }
