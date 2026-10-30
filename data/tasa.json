@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-30T09:10:20+00:00",
-  "actualizado_ve": "2026-10-30T05:10:20-04:00",
+  "actualizado_utc": "2026-10-30T16:03:29+00:00",
+  "actualizado_ve": "2026-10-30T12:03:29-04:00",
   "bcv": {
     "usd": 889.2553,
     "eur": 992.80018713,
@@ -10,20 +10,13 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 998.303,
+    "referencia": 992.4,
     "venta": {
-      "promedio": 998.303,
-      "minimo": 996.204,
+      "promedio": 992.4,
+      "minimo": 990.0,
       "maximo": 1000.0,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 1000.0,
-          "comerciante": "carlosprz21",
-          "min": "1000000",
-          "max": "4000000",
-          "disponible": "1000.00"
-        },
         {
           "precio": 1000.0,
           "comerciante": "P2P-FranciscoAmaya",
@@ -32,32 +25,39 @@
           "disponible": "30000.00"
         },
         {
-          "precio": 998.1,
-          "comerciante": "Deiby oliveros ",
-          "min": "800000",
-          "max": "4000000",
-          "disponible": "3680.06"
-        },
-        {
-          "precio": 997.211,
-          "comerciante": "係唔係我",
-          "min": "500000",
-          "max": "36450000",
-          "disponible": "548.02"
-        },
-        {
-          "precio": 996.204,
-          "comerciante": "kikediaz02",
-          "min": "500000",
+          "precio": 992.0,
+          "comerciante": "Amaev_cripto",
+          "min": "4000000",
           "max": "36000000",
-          "disponible": "2789.96"
+          "disponible": "66435.56"
+        },
+        {
+          "precio": 990.0,
+          "comerciante": "Berna Paige oPj6",
+          "min": "2970000",
+          "max": "3000000",
+          "disponible": "3000.00"
+        },
+        {
+          "precio": 990.0,
+          "comerciante": "leomileo2022",
+          "min": "2000000",
+          "max": "20000000",
+          "disponible": "17950.06"
+        },
+        {
+          "precio": 990.0,
+          "comerciante": "被放逐的狐狸",
+          "min": "3000000",
+          "max": "34000000",
+          "disponible": "64155.62"
         }
       ]
     },
     "compra": {
-      "promedio": 996.744,
+      "promedio": 985.3354,
       "minimo": 980.54,
-      "maximo": 1001.2,
+      "maximo": 986.84,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "99.75"
         },
         {
-          "precio": 999.99,
-          "comerciante": "Marbel117",
-          "min": "300",
-          "max": "100000",
-          "disponible": "0.76"
+          "precio": 986.0,
+          "comerciante": "Specione",
+          "min": "40000",
+          "max": "40001",
+          "disponible": "89.18"
         },
         {
-          "precio": 1000.99,
-          "comerciante": "CAMBIO-LAGO",
-          "min": "50000",
+          "precio": 986.458,
+          "comerciante": "OreoBoss",
+          "min": "900000",
+          "max": "2900000",
+          "disponible": "7500.34"
+        },
+        {
+          "precio": 986.839,
+          "comerciante": "-ARKA",
+          "min": "1000000",
           "max": "36450000",
-          "disponible": "381.12"
+          "disponible": "11436.20"
         },
         {
-          "precio": 1001.0,
-          "comerciante": "Verano_p2P",
-          "min": "110000",
-          "max": "111000",
-          "disponible": "110.72"
-        },
-        {
-          "precio": 1001.2,
-          "comerciante": "JoiberCastillo10",
+          "precio": 986.84,
+          "comerciante": "GaAle19",
           "min": "500000",
-          "max": "4000000",
-          "disponible": "598.50"
+          "max": "12000000",
+          "disponible": "973.40"
         }
       ]
     }
   },
-  "brecha_pct": 12.26
+  "brecha_pct": 11.6
 }
