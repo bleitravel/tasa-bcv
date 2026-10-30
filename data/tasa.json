@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-29T23:25:13+00:00",
-  "actualizado_ve": "2026-10-29T19:25:13-04:00",
+  "actualizado_utc": "2026-10-30T02:43:38+00:00",
+  "actualizado_ve": "2026-10-29T22:43:38-04:00",
   "bcv": {
     "usd": 889.2553,
     "eur": 992.80018713,
@@ -10,33 +10,19 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1006.2568,
+    "referencia": 1000.1,
     "venta": {
-      "promedio": 1006.2568,
-      "minimo": 1000.0,
-      "maximo": 1030.28,
+      "promedio": 1000.1,
+      "minimo": 999.0,
+      "maximo": 1002.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1030.28,
-          "comerciante": "User-61171",
-          "min": "400000",
-          "max": "450000",
-          "disponible": "438.00"
-        },
-        {
-          "precio": 1001.004,
-          "comerciante": "Tusavic",
-          "min": "800000",
-          "max": "3000000",
-          "disponible": "9003.92"
-        },
-        {
-          "precio": 1000.0,
-          "comerciante": "carlosprz21",
-          "min": "1000000",
-          "max": "4000000",
-          "disponible": "1000.00"
+          "precio": 1002.0,
+          "comerciante": "Amaev_cripto",
+          "min": "4000000",
+          "max": "36000000",
+          "disponible": "70008.05"
         },
         {
           "precio": 1000.0,
@@ -47,17 +33,31 @@
         },
         {
           "precio": 1000.0,
-          "comerciante": "P2P-f5a47dgu",
-          "min": "70000",
-          "max": "500000",
-          "disponible": "400.00"
+          "comerciante": "GOMEZTUSOLUCION",
+          "min": "15000000",
+          "max": "36450000",
+          "disponible": "80000.00"
+        },
+        {
+          "precio": 999.5,
+          "comerciante": "PEJAGOBLA",
+          "min": "10000000",
+          "max": "36400000",
+          "disponible": "51206.13"
+        },
+        {
+          "precio": 999.0,
+          "comerciante": "BlackVaultt",
+          "min": "300000",
+          "max": "4000000",
+          "disponible": "3660.20"
         }
       ]
     },
     "compra": {
-      "promedio": 993.566,
+      "promedio": 996.6854,
       "minimo": 980.54,
-      "maximo": 997.0,
+      "maximo": 1001.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "99.75"
         },
         {
-          "precio": 996.29,
-          "comerciante": "Legacy_OTC",
-          "min": "4000000",
-          "max": "36000000",
-          "disponible": "47179.02"
+          "precio": 999.887,
+          "comerciante": "P2P-2dc23b9z",
+          "min": "1000000",
+          "max": "4000000",
+          "disponible": "2992.51"
         },
         {
-          "precio": 997.0,
-          "comerciante": "AthenaCryptoP2P",
-          "min": "5000000",
-          "max": "9000000",
-          "disponible": "8042.09"
+          "precio": 1001.0,
+          "comerciante": "aasvdj",
+          "min": "180000",
+          "max": "690000",
+          "disponible": "199.50"
         },
         {
-          "precio": 997.0,
-          "comerciante": "蒙神祝福者",
-          "min": "2000000",
-          "max": "36450000",
-          "disponible": "48722.92"
+          "precio": 1001.0,
+          "comerciante": "Tecnologyh",
+          "min": "250000",
+          "max": "3000000",
+          "disponible": "5027.44"
         },
         {
-          "precio": 997.0,
-          "comerciante": "IronCladP2P",
-          "min": "3000000",
-          "max": "8194750",
-          "disponible": "8143.80"
+          "precio": 1001.0,
+          "comerciante": "Elly_Crypto_",
+          "min": "500000",
+          "max": "5000000",
+          "disponible": "928.27"
         }
       ]
     }
   },
-  "brecha_pct": 13.16
+  "brecha_pct": 12.46
 }
