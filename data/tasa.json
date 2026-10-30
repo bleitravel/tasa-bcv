@@ -1,22 +1,29 @@
 {
-  "actualizado_utc": "2026-10-30T16:03:29+00:00",
-  "actualizado_ve": "2026-10-30T12:03:29-04:00",
+  "actualizado_utc": "2026-10-30T20:55:15+00:00",
+  "actualizado_ve": "2026-10-30T16:55:15-04:00",
   "bcv": {
-    "usd": 889.2553,
-    "eur": 992.80018713,
-    "fecha_valor": "2026-10-30T00:00:00-04:00"
+    "usd": 889.5754,
+    "eur": 991.25386822,
+    "fecha_valor": "2026-11-02T00:00:00-04:00"
   },
   "binance_p2p": {
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 992.4,
+    "referencia": 995.8,
     "venta": {
-      "promedio": 992.4,
-      "minimo": 990.0,
-      "maximo": 1000.0,
+      "promedio": 995.8,
+      "minimo": 988.0,
+      "maximo": 1002.0,
       "anuncios_usados": 5,
       "anuncios": [
+        {
+          "precio": 1002.0,
+          "comerciante": "JuanMoutela",
+          "min": "300",
+          "max": "305",
+          "disponible": "1000.00"
+        },
         {
           "precio": 1000.0,
           "comerciante": "P2P-FranciscoAmaya",
@@ -25,39 +32,32 @@
           "disponible": "30000.00"
         },
         {
-          "precio": 992.0,
-          "comerciante": "Amaev_cripto",
-          "min": "4000000",
-          "max": "36000000",
-          "disponible": "66435.56"
+          "precio": 1000.0,
+          "comerciante": "P2P-01a7aeoi",
+          "min": "10000",
+          "max": "20000",
+          "disponible": "100.00"
         },
         {
-          "precio": 990.0,
-          "comerciante": "Berna Paige oPj6",
-          "min": "2970000",
-          "max": "3000000",
-          "disponible": "3000.00"
+          "precio": 989.0,
+          "comerciante": "CambiosYeri94",
+          "min": "257140",
+          "max": "4000000",
+          "disponible": "260.00"
         },
         {
-          "precio": 990.0,
-          "comerciante": "leomileo2022",
-          "min": "2000000",
-          "max": "20000000",
-          "disponible": "17950.06"
-        },
-        {
-          "precio": 990.0,
-          "comerciante": "被放逐的狐狸",
-          "min": "3000000",
-          "max": "34000000",
-          "disponible": "64155.62"
+          "precio": 988.0,
+          "comerciante": "leoadolfo",
+          "min": "1000000",
+          "max": "4000000",
+          "disponible": "4048.58"
         }
       ]
     },
     "compra": {
-      "promedio": 985.3354,
+      "promedio": 985.6676,
       "minimo": 980.54,
-      "maximo": 986.84,
+      "maximo": 987.399,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -69,34 +69,34 @@
         },
         {
           "precio": 986.0,
-          "comerciante": "Specione",
-          "min": "40000",
-          "max": "40001",
-          "disponible": "89.18"
+          "comerciante": "TelecambioVE",
+          "min": "2000000",
+          "max": "36000000",
+          "disponible": "7047.96"
         },
         {
-          "precio": 986.458,
-          "comerciante": "OreoBoss",
-          "min": "900000",
-          "max": "2900000",
-          "disponible": "7500.34"
-        },
-        {
-          "precio": 986.839,
-          "comerciante": "-ARKA",
-          "min": "1000000",
-          "max": "36450000",
-          "disponible": "11436.20"
-        },
-        {
-          "precio": 986.84,
-          "comerciante": "GaAle19",
+          "precio": 987.0,
+          "comerciante": "Maleono",
           "min": "500000",
-          "max": "12000000",
-          "disponible": "973.40"
+          "max": "34500000",
+          "disponible": "1683.15"
+        },
+        {
+          "precio": 987.399,
+          "comerciante": "MANTEQUILLAA",
+          "min": "8000000",
+          "max": "32000000",
+          "disponible": "34687.27"
+        },
+        {
+          "precio": 987.399,
+          "comerciante": "Dxvid Exchange",
+          "min": "3000000",
+          "max": "8000000",
+          "disponible": "6425.73"
         }
       ]
     }
   },
-  "brecha_pct": 11.6
+  "brecha_pct": 11.94
 }
