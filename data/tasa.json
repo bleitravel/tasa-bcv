@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-31T00:12:43+00:00",
-  "actualizado_ve": "2026-10-30T20:12:43-04:00",
+  "actualizado_utc": "2026-10-31T05:59:17+00:00",
+  "actualizado_ve": "2026-10-31T01:59:17-04:00",
   "bcv": {
     "usd": 889.5754,
     "eur": 991.25386822,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 991.32,
+    "referencia": 994.4202,
     "venta": {
-      "promedio": 991.32,
-      "minimo": 982.1,
+      "promedio": 994.4202,
+      "minimo": 990.0,
       "maximo": 1002.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -32,71 +32,71 @@
           "disponible": "30000.00"
         },
         {
-          "precio": 990.0,
-          "comerciante": "User-9c642",
-          "min": "227000",
-          "max": "230670",
-          "disponible": "233.00"
-        },
-        {
-          "precio": 982.5,
-          "comerciante": "P2P-d40c8dju",
-          "min": "1473750",
-          "max": "2955360",
-          "disponible": "3008.00"
-        },
-        {
-          "precio": 982.1,
-          "comerciante": "Keve_UY",
+          "precio": 990.1,
+          "comerciante": "DerekTitularP2P",
           "min": "100000",
-          "max": "2100000",
-          "disponible": "880.06"
+          "max": "27000000",
+          "disponible": "498.06"
+        },
+        {
+          "precio": 990.001,
+          "comerciante": "ADOLF_PAGO-INMEDIATO",
+          "min": "100000",
+          "max": "288000",
+          "disponible": "110.19"
+        },
+        {
+          "precio": 990.0,
+          "comerciante": "antonymolina",
+          "min": "30000",
+          "max": "4000000",
+          "disponible": "246.10"
         }
       ]
     },
     "compra": {
-      "promedio": 978.9976,
-      "minimo": 978.994,
-      "maximo": 979.0,
+      "promedio": 986.708,
+      "minimo": 980.54,
+      "maximo": 990.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 978.994,
-          "comerciante": "p2peando",
-          "min": "2000000",
+          "precio": 980.54,
+          "comerciante": "P2P-ElMejorCambio",
+          "min": "300",
+          "max": "400",
+          "disponible": "99.75"
+        },
+        {
+          "precio": 987.0,
+          "comerciante": "User-95450",
+          "min": "5000000",
           "max": "36450000",
-          "disponible": "8085.77"
+          "disponible": "6728.55"
         },
         {
-          "precio": 978.995,
-          "comerciante": "亀CryptoKoku",
-          "min": "4000000",
-          "max": "36000000",
-          "disponible": "6483.86"
-        },
-        {
-          "precio": 978.999,
-          "comerciante": "jaro23",
-          "min": "4000000",
-          "max": "18000000",
-          "disponible": "4734.75"
-        },
-        {
-          "precio": 979.0,
-          "comerciante": "ApExchange94",
-          "min": "4000000",
-          "max": "30000000",
-          "disponible": "10964.29"
-        },
-        {
-          "precio": 979.0,
-          "comerciante": "Kalevv",
-          "min": "4000000",
+          "precio": 987.0,
+          "comerciante": "gonzbrh",
+          "min": "5400000",
           "max": "36450000",
-          "disponible": "10246.94"
+          "disponible": "5552.20"
+        },
+        {
+          "precio": 989.0,
+          "comerciante": "Axcapital1",
+          "min": "1000000",
+          "max": "36450000",
+          "disponible": "8920.15"
+        },
+        {
+          "precio": 990.0,
+          "comerciante": "BalduinoIV",
+          "min": "36450000",
+          "max": "200000000",
+          "disponible": "51696.63"
         }
       ]
     }
   },
-  "brecha_pct": 11.44
+  "brecha_pct": 11.79
 }
