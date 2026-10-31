@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-31T05:59:17+00:00",
-  "actualizado_ve": "2026-10-31T01:59:17-04:00",
+  "actualizado_utc": "2026-10-31T11:43:51+00:00",
+  "actualizado_ve": "2026-10-31T07:43:51-04:00",
   "bcv": {
     "usd": 889.5754,
     "eur": 991.25386822,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 994.4202,
+    "referencia": 995.6,
     "venta": {
-      "promedio": 994.4202,
-      "minimo": 990.0,
+      "promedio": 995.6,
+      "minimo": 992.0,
       "maximo": 1002.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -32,32 +32,32 @@
           "disponible": "30000.00"
         },
         {
-          "precio": 990.1,
-          "comerciante": "DerekTitularP2P",
-          "min": "100000",
-          "max": "27000000",
-          "disponible": "498.06"
+          "precio": 992.0,
+          "comerciante": "ENVIO-COMPROBANTE",
+          "min": "500000",
+          "max": "36450000",
+          "disponible": "33789.86"
         },
         {
-          "precio": 990.001,
-          "comerciante": "ADOLF_PAGO-INMEDIATO",
+          "precio": 992.0,
+          "comerciante": "P2P-3f4ce3oo",
           "min": "100000",
-          "max": "288000",
-          "disponible": "110.19"
+          "max": "900000",
+          "disponible": "1205.64"
         },
         {
-          "precio": 990.0,
-          "comerciante": "antonymolina",
-          "min": "30000",
-          "max": "4000000",
-          "disponible": "246.10"
+          "precio": 992.0,
+          "comerciante": "Sandoval-23",
+          "min": "9000",
+          "max": "10000",
+          "disponible": "100.00"
         }
       ]
     },
     "compra": {
-      "promedio": 986.708,
+      "promedio": 988.6678,
       "minimo": 980.54,
-      "maximo": 990.0,
+      "maximo": 991.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "99.75"
         },
         {
-          "precio": 987.0,
-          "comerciante": "User-95450",
-          "min": "5000000",
-          "max": "36450000",
-          "disponible": "6728.55"
-        },
-        {
-          "precio": 987.0,
-          "comerciante": "gonzbrh",
-          "min": "5400000",
-          "max": "36450000",
-          "disponible": "5552.20"
-        },
-        {
-          "precio": 989.0,
-          "comerciante": "Axcapital1",
-          "min": "1000000",
-          "max": "36450000",
-          "disponible": "8920.15"
-        },
-        {
           "precio": 990.0,
           "comerciante": "BalduinoIV",
           "min": "36450000",
           "max": "200000000",
           "disponible": "51696.63"
+        },
+        {
+          "precio": 990.899,
+          "comerciante": "操作",
+          "min": "2500000",
+          "max": "13000000",
+          "disponible": "12577.21"
+        },
+        {
+          "precio": 990.9,
+          "comerciante": "VRSTNE",
+          "min": "2000000",
+          "max": "12467053",
+          "disponible": "10595.85"
+        },
+        {
+          "precio": 991.0,
+          "comerciante": "impulsaca",
+          "min": "500000",
+          "max": "14500000",
+          "disponible": "3368.54"
         }
       ]
     }
   },
-  "brecha_pct": 11.79
+  "brecha_pct": 11.92
 }
