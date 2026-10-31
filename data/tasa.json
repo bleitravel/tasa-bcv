@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-31T20:07:51+00:00",
-  "actualizado_ve": "2026-10-31T16:07:51-04:00",
+  "actualizado_utc": "2026-10-31T23:29:38+00:00",
+  "actualizado_ve": "2026-10-31T19:29:38-04:00",
   "bcv": {
     "usd": 889.5754,
     "eur": 991.25386822,
@@ -10,20 +10,13 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 990.688,
+    "referencia": 984.16,
     "venta": {
-      "promedio": 990.688,
-      "minimo": 982.94,
-      "maximo": 1002.0,
+      "promedio": 984.16,
+      "minimo": 979.8,
+      "maximo": 1000.0,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 1002.0,
-          "comerciante": "JuanMoutela",
-          "min": "300",
-          "max": "305",
-          "disponible": "1000.00"
-        },
         {
           "precio": 1000.0,
           "comerciante": "P2P-FranciscoAmaya",
@@ -32,71 +25,78 @@
           "disponible": "30000.00"
         },
         {
-          "precio": 985.0,
-          "comerciante": "P2P-d40c8dju",
-          "min": "492500",
-          "max": "2962880",
-          "disponible": "3008.00"
+          "precio": 981.0,
+          "comerciante": "EL-EXTRANJERO",
+          "min": "15000000",
+          "max": "36450000",
+          "disponible": "60000.00"
         },
         {
-          "precio": 983.5,
-          "comerciante": "vendomi",
-          "min": "300",
-          "max": "600000",
-          "disponible": "0.56"
+          "precio": 980.0,
+          "comerciante": "RainMoney13",
+          "min": "1000000",
+          "max": "4000000",
+          "disponible": "24233.79"
         },
         {
-          "precio": 982.94,
-          "comerciante": "Hortense Venhorst l9TA",
-          "min": "300",
-          "max": "9100",
-          "disponible": "100.00"
+          "precio": 980.0,
+          "comerciante": "IronCladP2P",
+          "min": "3000000",
+          "max": "8500000",
+          "disponible": "8699.66"
+        },
+        {
+          "precio": 979.8,
+          "comerciante": "TraderSpace_RO",
+          "min": "150000",
+          "max": "4000000",
+          "disponible": "2876.22"
         }
       ]
     },
     "compra": {
-      "promedio": 982.5238,
-      "minimo": 980.54,
-      "maximo": 983.48,
+      "promedio": 979.9182,
+      "minimo": 979.8,
+      "maximo": 979.996,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 980.54,
-          "comerciante": "P2P-ElMejorCambio",
-          "min": "300",
-          "max": "400",
+          "precio": 979.8,
+          "comerciante": "cripto tarde 117",
+          "min": "150000",
+          "max": "1300000",
+          "disponible": "3574.34"
+        },
+        {
+          "precio": 979.9,
+          "comerciante": "Servicios-Criptos-27",
+          "min": "3000000",
+          "max": "14000000",
+          "disponible": "4092.83"
+        },
+        {
+          "precio": 979.9,
+          "comerciante": "PagoVelozCorro",
+          "min": "82809",
+          "max": "82809",
           "disponible": "99.75"
         },
         {
-          "precio": 982.0,
-          "comerciante": "EbenezerAD20",
-          "min": "587000",
-          "max": "589200",
-          "disponible": "598.50"
+          "precio": 979.995,
+          "comerciante": "p2peando",
+          "min": "1000000",
+          "max": "36450000",
+          "disponible": "1499.52"
         },
         {
-          "precio": 983.299,
-          "comerciante": "RashoMcQueen",
-          "min": "2000000",
-          "max": "6000000",
-          "disponible": "2495.63"
-        },
-        {
-          "precio": 983.3,
-          "comerciante": "ChangerExpress",
-          "min": "2000000",
-          "max": "6500000",
-          "disponible": "4763.06"
-        },
-        {
-          "precio": 983.48,
-          "comerciante": "CoinGonzo",
-          "min": "2000000",
-          "max": "9999999",
-          "disponible": "5000.74"
+          "precio": 979.996,
+          "comerciante": "Dergut_23",
+          "min": "4000000",
+          "max": "36450000",
+          "disponible": "5130.40"
         }
       ]
     }
   },
-  "brecha_pct": 11.37
+  "brecha_pct": 10.63
 }
