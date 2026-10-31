@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-31T16:24:34+00:00",
-  "actualizado_ve": "2026-10-31T12:24:34-04:00",
+  "actualizado_utc": "2026-10-31T20:07:51+00:00",
+  "actualizado_ve": "2026-10-31T16:07:51-04:00",
   "bcv": {
     "usd": 889.5754,
     "eur": 991.25386822,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 991.2,
+    "referencia": 990.688,
     "venta": {
-      "promedio": 991.2,
-      "minimo": 982.0,
+      "promedio": 990.688,
+      "minimo": 982.94,
       "maximo": 1002.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -32,32 +32,32 @@
           "disponible": "30000.00"
         },
         {
-          "precio": 989.0,
-          "comerciante": "juanCasP2P",
+          "precio": 985.0,
+          "comerciante": "P2P-d40c8dju",
+          "min": "492500",
+          "max": "2962880",
+          "disponible": "3008.00"
+        },
+        {
+          "precio": 983.5,
+          "comerciante": "vendomi",
           "min": "300",
-          "max": "4000000",
-          "disponible": "400.00"
+          "max": "600000",
+          "disponible": "0.56"
         },
         {
-          "precio": 983.0,
-          "comerciante": "AcAy24",
-          "min": "800000",
-          "max": "36450000",
-          "disponible": "20000.06"
-        },
-        {
-          "precio": 982.0,
-          "comerciante": "-Tyrion-Lannister-",
-          "min": "36450000",
-          "max": "1400000000",
-          "disponible": "100000.00"
+          "precio": 982.94,
+          "comerciante": "Hortense Venhorst l9TA",
+          "min": "300",
+          "max": "9100",
+          "disponible": "100.00"
         }
       ]
     },
     "compra": {
-      "promedio": 982.088,
+      "promedio": 982.5238,
       "minimo": 980.54,
-      "maximo": 983.0,
+      "maximo": 983.48,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -69,34 +69,34 @@
         },
         {
           "precio": 982.0,
-          "comerciante": "gonzbrh",
-          "min": "5400000",
-          "max": "36450000",
-          "disponible": "5662.39"
+          "comerciante": "EbenezerAD20",
+          "min": "587000",
+          "max": "589200",
+          "disponible": "598.50"
         },
         {
-          "precio": 982.0,
-          "comerciante": "Specione",
-          "min": "40000",
-          "max": "40001",
-          "disponible": "48.28"
+          "precio": 983.299,
+          "comerciante": "RashoMcQueen",
+          "min": "2000000",
+          "max": "6000000",
+          "disponible": "2495.63"
         },
         {
-          "precio": 982.9,
-          "comerciante": "AthenaCryptoP2P",
-          "min": "5000000",
-          "max": "9000000",
-          "disponible": "8146.00"
+          "precio": 983.3,
+          "comerciante": "ChangerExpress",
+          "min": "2000000",
+          "max": "6500000",
+          "disponible": "4763.06"
         },
         {
-          "precio": 983.0,
-          "comerciante": "CambiosGrupoGM",
-          "min": "450000",
-          "max": "2065000",
-          "disponible": "479.64"
+          "precio": 983.48,
+          "comerciante": "CoinGonzo",
+          "min": "2000000",
+          "max": "9999999",
+          "disponible": "5000.74"
         }
       ]
     }
   },
-  "brecha_pct": 11.42
+  "brecha_pct": 11.37
 }
