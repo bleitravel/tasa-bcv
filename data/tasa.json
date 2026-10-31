@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-30T20:55:15+00:00",
-  "actualizado_ve": "2026-10-30T16:55:15-04:00",
+  "actualizado_utc": "2026-10-31T00:12:43+00:00",
+  "actualizado_ve": "2026-10-30T20:12:43-04:00",
   "bcv": {
     "usd": 889.5754,
     "eur": 991.25386822,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 995.8,
+    "referencia": 991.32,
     "venta": {
-      "promedio": 995.8,
-      "minimo": 988.0,
+      "promedio": 991.32,
+      "minimo": 982.1,
       "maximo": 1002.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -32,71 +32,71 @@
           "disponible": "30000.00"
         },
         {
-          "precio": 1000.0,
-          "comerciante": "P2P-01a7aeoi",
-          "min": "10000",
-          "max": "20000",
-          "disponible": "100.00"
+          "precio": 990.0,
+          "comerciante": "User-9c642",
+          "min": "227000",
+          "max": "230670",
+          "disponible": "233.00"
         },
         {
-          "precio": 989.0,
-          "comerciante": "CambiosYeri94",
-          "min": "257140",
-          "max": "4000000",
-          "disponible": "260.00"
+          "precio": 982.5,
+          "comerciante": "P2P-d40c8dju",
+          "min": "1473750",
+          "max": "2955360",
+          "disponible": "3008.00"
         },
         {
-          "precio": 988.0,
-          "comerciante": "leoadolfo",
-          "min": "1000000",
-          "max": "4000000",
-          "disponible": "4048.58"
+          "precio": 982.1,
+          "comerciante": "Keve_UY",
+          "min": "100000",
+          "max": "2100000",
+          "disponible": "880.06"
         }
       ]
     },
     "compra": {
-      "promedio": 985.6676,
-      "minimo": 980.54,
-      "maximo": 987.399,
+      "promedio": 978.9976,
+      "minimo": 978.994,
+      "maximo": 979.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 980.54,
-          "comerciante": "P2P-ElMejorCambio",
-          "min": "300",
-          "max": "400",
-          "disponible": "99.75"
-        },
-        {
-          "precio": 986.0,
-          "comerciante": "TelecambioVE",
+          "precio": 978.994,
+          "comerciante": "p2peando",
           "min": "2000000",
+          "max": "36450000",
+          "disponible": "8085.77"
+        },
+        {
+          "precio": 978.995,
+          "comerciante": "亀CryptoKoku",
+          "min": "4000000",
           "max": "36000000",
-          "disponible": "7047.96"
+          "disponible": "6483.86"
         },
         {
-          "precio": 987.0,
-          "comerciante": "Maleono",
-          "min": "500000",
-          "max": "34500000",
-          "disponible": "1683.15"
+          "precio": 978.999,
+          "comerciante": "jaro23",
+          "min": "4000000",
+          "max": "18000000",
+          "disponible": "4734.75"
         },
         {
-          "precio": 987.399,
-          "comerciante": "MANTEQUILLAA",
-          "min": "8000000",
-          "max": "32000000",
-          "disponible": "34687.27"
+          "precio": 979.0,
+          "comerciante": "ApExchange94",
+          "min": "4000000",
+          "max": "30000000",
+          "disponible": "10964.29"
         },
         {
-          "precio": 987.399,
-          "comerciante": "Dxvid Exchange",
-          "min": "3000000",
-          "max": "8000000",
-          "disponible": "6425.73"
+          "precio": 979.0,
+          "comerciante": "Kalevv",
+          "min": "4000000",
+          "max": "36450000",
+          "disponible": "10246.94"
         }
       ]
     }
   },
-  "brecha_pct": 11.94
+  "brecha_pct": 11.44
 }
