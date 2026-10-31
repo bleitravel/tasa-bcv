@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-10-31T11:43:51+00:00",
-  "actualizado_ve": "2026-10-31T07:43:51-04:00",
+  "actualizado_utc": "2026-10-31T16:24:34+00:00",
+  "actualizado_ve": "2026-10-31T12:24:34-04:00",
   "bcv": {
     "usd": 889.5754,
     "eur": 991.25386822,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 995.6,
+    "referencia": 991.2,
     "venta": {
-      "promedio": 995.6,
-      "minimo": 992.0,
+      "promedio": 991.2,
+      "minimo": 982.0,
       "maximo": 1002.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -32,32 +32,32 @@
           "disponible": "30000.00"
         },
         {
-          "precio": 992.0,
-          "comerciante": "ENVIO-COMPROBANTE",
-          "min": "500000",
+          "precio": 989.0,
+          "comerciante": "juanCasP2P",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "400.00"
+        },
+        {
+          "precio": 983.0,
+          "comerciante": "AcAy24",
+          "min": "800000",
           "max": "36450000",
-          "disponible": "33789.86"
+          "disponible": "20000.06"
         },
         {
-          "precio": 992.0,
-          "comerciante": "P2P-3f4ce3oo",
-          "min": "100000",
-          "max": "900000",
-          "disponible": "1205.64"
-        },
-        {
-          "precio": 992.0,
-          "comerciante": "Sandoval-23",
-          "min": "9000",
-          "max": "10000",
-          "disponible": "100.00"
+          "precio": 982.0,
+          "comerciante": "-Tyrion-Lannister-",
+          "min": "36450000",
+          "max": "1400000000",
+          "disponible": "100000.00"
         }
       ]
     },
     "compra": {
-      "promedio": 988.6678,
+      "promedio": 982.088,
       "minimo": 980.54,
-      "maximo": 991.0,
+      "maximo": 983.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "99.75"
         },
         {
-          "precio": 990.0,
-          "comerciante": "BalduinoIV",
-          "min": "36450000",
-          "max": "200000000",
-          "disponible": "51696.63"
+          "precio": 982.0,
+          "comerciante": "gonzbrh",
+          "min": "5400000",
+          "max": "36450000",
+          "disponible": "5662.39"
         },
         {
-          "precio": 990.899,
-          "comerciante": "操作",
-          "min": "2500000",
-          "max": "13000000",
-          "disponible": "12577.21"
+          "precio": 982.0,
+          "comerciante": "Specione",
+          "min": "40000",
+          "max": "40001",
+          "disponible": "48.28"
         },
         {
-          "precio": 990.9,
-          "comerciante": "VRSTNE",
-          "min": "2000000",
-          "max": "12467053",
-          "disponible": "10595.85"
+          "precio": 982.9,
+          "comerciante": "AthenaCryptoP2P",
+          "min": "5000000",
+          "max": "9000000",
+          "disponible": "8146.00"
         },
         {
-          "precio": 991.0,
-          "comerciante": "impulsaca",
-          "min": "500000",
-          "max": "14500000",
-          "disponible": "3368.54"
+          "precio": 983.0,
+          "comerciante": "CambiosGrupoGM",
+          "min": "450000",
+          "max": "2065000",
+          "disponible": "479.64"
         }
       ]
     }
   },
-  "brecha_pct": 11.92
+  "brecha_pct": 11.42
 }
