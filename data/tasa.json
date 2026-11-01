@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-11-01T16:12:11+00:00",
-  "actualizado_ve": "2026-11-01T12:12:11-04:00",
+  "actualizado_utc": "2026-11-01T20:38:33+00:00",
+  "actualizado_ve": "2026-11-01T16:38:33-04:00",
   "bcv": {
     "usd": 889.5754,
     "eur": 991.25386822,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 995.37,
+    "referencia": 995.846,
     "venta": {
-      "promedio": 995.37,
-      "minimo": 994.1,
+      "promedio": 995.846,
+      "minimo": 992.23,
       "maximo": 1000.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -25,39 +25,39 @@
           "disponible": "30000.00"
         },
         {
-          "precio": 994.3,
-          "comerciante": "RainMoney13",
-          "min": "500000",
-          "max": "4000000",
-          "disponible": "21901.94"
+          "precio": 999.0,
+          "comerciante": "P2P-d40c8dju",
+          "min": "499000",
+          "max": "2465060",
+          "disponible": "2470.00"
         },
         {
-          "precio": 994.3,
-          "comerciante": "VkCambios",
-          "min": "500000",
-          "max": "30000000",
-          "disponible": "17784.32"
-        },
-        {
-          "precio": 994.15,
-          "comerciante": "Kingjvl",
+          "precio": 995.0,
+          "comerciante": "MFLORIDACA",
           "min": "1000000",
-          "max": "36450000",
-          "disponible": "2256.29"
+          "max": "4000000",
+          "disponible": "30000.00"
         },
         {
-          "precio": 994.1,
-          "comerciante": "GlobalEth",
-          "min": "500000",
-          "max": "3000000",
-          "disponible": "9032.05"
+          "precio": 993.0,
+          "comerciante": "Escocrida",
+          "min": "3000000",
+          "max": "34000000",
+          "disponible": "12580.22"
+        },
+        {
+          "precio": 992.23,
+          "comerciante": "-HashiramaSenju",
+          "min": "400000",
+          "max": "34000000",
+          "disponible": "6546.48"
         }
       ]
     },
     "compra": {
-      "promedio": 984.844,
+      "promedio": 990.4028,
       "minimo": 980.54,
-      "maximo": 990.0,
+      "maximo": 993.455,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "99.75"
         },
         {
-          "precio": 984.0,
-          "comerciante": "WillyWonka-",
-          "min": "5000000",
-          "max": "36450000",
-          "disponible": "72786.30"
+          "precio": 992.02,
+          "comerciante": "CriptoCambiochp",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "0.54"
         },
         {
-          "precio": 984.5,
-          "comerciante": "QueRapido",
-          "min": "3000000",
-          "max": "36450000",
-          "disponible": "36445.02"
+          "precio": 992.999,
+          "comerciante": "Digital Money SpA",
+          "min": "98600",
+          "max": "99378",
+          "disponible": "100.53"
         },
         {
-          "precio": 985.18,
-          "comerciante": "Josebat23",
-          "min": "5000000",
-          "max": "20000000",
-          "disponible": "9093.23"
+          "precio": 993.0,
+          "comerciante": "Malvina Sedwick N6SR",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "7.49"
         },
         {
-          "precio": 990.0,
-          "comerciante": "Reiber_2005",
-          "min": "3000",
-          "max": "330000",
-          "disponible": "213.82"
+          "precio": 993.455,
+          "comerciante": "eercripto",
+          "min": "500000",
+          "max": "2000000",
+          "disponible": "661.54"
         }
       ]
     }
   },
-  "brecha_pct": 11.89
+  "brecha_pct": 11.95
 }
