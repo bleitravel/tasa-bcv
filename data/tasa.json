@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-11-01T02:26:36+00:00",
-  "actualizado_ve": "2026-10-31T22:26:36-04:00",
+  "actualizado_utc": "2026-11-01T09:27:40+00:00",
+  "actualizado_ve": "2026-11-01T05:27:40-04:00",
   "bcv": {
     "usd": 889.5754,
     "eur": 991.25386822,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 986.2418,
+    "referencia": 984.05,
     "venta": {
-      "promedio": 986.2418,
-      "minimo": 982.0,
+      "promedio": 984.05,
+      "minimo": 979.25,
       "maximo": 1000.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -25,39 +25,39 @@
           "disponible": "30000.00"
         },
         {
-          "precio": 985.0,
-          "comerciante": "P2P-d40c8dju",
-          "min": "492500",
-          "max": "2470380",
-          "disponible": "2508.06"
+          "precio": 981.5,
+          "comerciante": "Cambios_TAWALA_2025",
+          "min": "98000",
+          "max": "268520",
+          "disponible": "1548.12"
         },
         {
-          "precio": 982.11,
-          "comerciante": "mayerlingm",
-          "min": "200000",
-          "max": "30000000",
-          "disponible": "796.36"
+          "precio": 980.0,
+          "comerciante": "Aanda73",
+          "min": "25000",
+          "max": "3000000",
+          "disponible": "1242.55"
         },
         {
-          "precio": 982.099,
-          "comerciante": "-C-R-Y-P-T-O__M-0-Y-",
-          "min": "200000",
-          "max": "1000000",
-          "disponible": "32512.64"
+          "precio": 979.5,
+          "comerciante": "NexusGlobalTradeP2P",
+          "min": "5000000",
+          "max": "8200000",
+          "disponible": "8371.61"
         },
         {
-          "precio": 982.0,
-          "comerciante": "Anderpen",
-          "min": "1300000",
-          "max": "1470000",
-          "disponible": "1500.00"
+          "precio": 979.25,
+          "comerciante": "Marcelos--Cambios",
+          "min": "10000",
+          "max": "4000000",
+          "disponible": "755.80"
         }
       ]
     },
     "compra": {
-      "promedio": 981.4476,
+      "promedio": 982.5036,
       "minimo": 980.54,
-      "maximo": 981.8,
+      "maximo": 982.999,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "99.75"
         },
         {
-          "precio": 981.499,
-          "comerciante": "GlobalBusinessmx",
-          "min": "40545",
-          "max": "40546",
-          "disponible": "99.75"
+          "precio": 982.99,
+          "comerciante": "Atraderspkj",
+          "min": "8000000",
+          "max": "18000000",
+          "disponible": "15042.43"
         },
         {
-          "precio": 981.699,
-          "comerciante": "JDCAPITAL-HOLDING",
-          "min": "100000",
-          "max": "7000000",
-          "disponible": "122.31"
+          "precio": 982.994,
+          "comerciante": "jaro23",
+          "min": "4000000",
+          "max": "18000000",
+          "disponible": "9239.35"
         },
         {
-          "precio": 981.7,
-          "comerciante": "Servicios-Criptos-27",
+          "precio": 982.995,
+          "comerciante": "MolinaJP_",
           "min": "2000000",
-          "max": "14000000",
-          "disponible": "2994.75"
+          "max": "12000000",
+          "disponible": "11268.90"
         },
         {
-          "precio": 981.8,
-          "comerciante": "Rickambios ",
-          "min": "100000",
+          "precio": 982.999,
+          "comerciante": "BalduinoIV",
+          "min": "4000000",
           "max": "36450000",
-          "disponible": "892.95"
+          "disponible": "26850.42"
         }
       ]
     }
   },
-  "brecha_pct": 10.87
+  "brecha_pct": 10.62
 }
