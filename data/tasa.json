@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-11-01T20:38:33+00:00",
-  "actualizado_ve": "2026-11-01T16:38:33-04:00",
+  "actualizado_utc": "2026-11-01T23:59:24+00:00",
+  "actualizado_ve": "2026-11-01T19:59:24-04:00",
   "bcv": {
     "usd": 889.5754,
     "eur": 991.25386822,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 995.846,
+    "referencia": 996.1,
     "venta": {
-      "promedio": 995.846,
-      "minimo": 992.23,
+      "promedio": 996.1,
+      "minimo": 993.2,
       "maximo": 1000.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -27,7 +27,7 @@
         {
           "precio": 999.0,
           "comerciante": "P2P-d40c8dju",
-          "min": "499000",
+          "min": "199800",
           "max": "2465060",
           "disponible": "2470.00"
         },
@@ -36,28 +36,28 @@
           "comerciante": "MFLORIDACA",
           "min": "1000000",
           "max": "4000000",
-          "disponible": "30000.00"
+          "disponible": "26686.66"
         },
         {
-          "precio": 993.0,
-          "comerciante": "Escocrida",
-          "min": "3000000",
-          "max": "34000000",
-          "disponible": "12580.22"
+          "precio": 993.3,
+          "comerciante": "Brawcoins",
+          "min": "14000000",
+          "max": "36450000",
+          "disponible": "45639.74"
         },
         {
-          "precio": 992.23,
-          "comerciante": "-HashiramaSenju",
-          "min": "400000",
-          "max": "34000000",
-          "disponible": "6546.48"
+          "precio": 993.2,
+          "comerciante": "angelchacon",
+          "min": "10000000",
+          "max": "36450000",
+          "disponible": "51031.60"
         }
       ]
     },
     "compra": {
-      "promedio": 990.4028,
+      "promedio": 991.3638,
       "minimo": 980.54,
-      "maximo": 993.455,
+      "maximo": 994.799,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "99.75"
         },
         {
-          "precio": 992.02,
-          "comerciante": "CriptoCambiochp",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "0.54"
+          "precio": 992.0,
+          "comerciante": "imp2p",
+          "min": "7000000",
+          "max": "30000000",
+          "disponible": "7098.55"
         },
         {
-          "precio": 992.999,
-          "comerciante": "Digital Money SpA",
-          "min": "98600",
-          "max": "99378",
-          "disponible": "100.53"
+          "precio": 994.7,
+          "comerciante": "JM2026",
+          "min": "300000",
+          "max": "36450000",
+          "disponible": "869.53"
         },
         {
-          "precio": 993.0,
-          "comerciante": "Malvina Sedwick N6SR",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "7.49"
+          "precio": 994.78,
+          "comerciante": "P2P-5cff8f3n",
+          "min": "800000",
+          "max": "895500",
+          "disponible": "897.75"
         },
         {
-          "precio": 993.455,
-          "comerciante": "eercripto",
-          "min": "500000",
-          "max": "2000000",
-          "disponible": "661.54"
+          "precio": 994.799,
+          "comerciante": "crashko_p2p",
+          "min": "700000",
+          "max": "10000000",
+          "disponible": "805.84"
         }
       ]
     }
   },
-  "brecha_pct": 11.95
+  "brecha_pct": 11.97
 }
