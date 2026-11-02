@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-11-02T04:37:27+00:00",
-  "actualizado_ve": "2026-11-02T00:37:27-04:00",
+  "actualizado_utc": "2026-11-02T12:55:34+00:00",
+  "actualizado_ve": "2026-11-02T08:55:34-04:00",
   "bcv": {
     "usd": 889.5754,
     "eur": 991.25386822,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 995.24,
+    "referencia": 997.5,
     "venta": {
-      "promedio": 995.24,
-      "minimo": 993.6,
+      "promedio": 997.5,
+      "minimo": 996.5,
       "maximo": 1000.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -25,39 +25,39 @@
           "disponible": "30000.00"
         },
         {
-          "precio": 995.0,
-          "comerciante": "lexmarvs",
-          "min": "433000",
+          "precio": 997.0,
+          "comerciante": "SuterlanAvanza",
+          "min": "1000000",
           "max": "4000000",
-          "disponible": "438.00"
+          "disponible": "4060.60"
         },
         {
-          "precio": 994.0,
-          "comerciante": "BlackVaultt",
-          "min": "300000",
-          "max": "4000000",
-          "disponible": "1360.84"
+          "precio": 997.0,
+          "comerciante": "Luishein",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "68251.12"
         },
         {
-          "precio": 993.6,
-          "comerciante": "josemijares2812",
-          "min": "50000",
-          "max": "130000",
-          "disponible": "55.53"
+          "precio": 997.0,
+          "comerciante": "User-9098d",
+          "min": "500000",
+          "max": "690900",
+          "disponible": "700.00"
         },
         {
-          "precio": 993.6,
-          "comerciante": "MisterfastP2P",
-          "min": "59000",
-          "max": "900000",
-          "disponible": "535.98"
+          "precio": 996.5,
+          "comerciante": "NexusGlobalTradeP2P",
+          "min": "5000000",
+          "max": "8000000",
+          "disponible": "8028.09"
         }
       ]
     },
     "compra": {
-      "promedio": 994.6158,
+      "promedio": 993.108,
       "minimo": 980.54,
-      "maximo": 998.35,
+      "maximo": 997.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "99.75"
         },
         {
-          "precio": 997.999,
-          "comerciante": "criptopay2",
-          "min": "998",
-          "max": "102000",
-          "disponible": "24.77"
-        },
-        {
-          "precio": 998.0,
-          "comerciante": "igna2rod",
-          "min": "42400",
-          "max": "42500",
+          "precio": 996.0,
+          "comerciante": "AlejandroWko",
+          "min": "89000",
+          "max": "89200",
           "disponible": "99.75"
         },
         {
-          "precio": 998.19,
-          "comerciante": "P_2_P_Trust",
-          "min": "4000000",
-          "max": "36450000",
-          "disponible": "22233.40"
+          "precio": 996.0,
+          "comerciante": "Arianna1006",
+          "min": "300",
+          "max": "317744",
+          "disponible": "0.74"
         },
         {
-          "precio": 998.35,
-          "comerciante": "MJUL70",
+          "precio": 996.0,
+          "comerciante": "Lubernuflo",
           "min": "300",
-          "max": "30090",
-          "disponible": "4.29"
+          "max": "4000000",
+          "disponible": "1.85"
+        },
+        {
+          "precio": 997.0,
+          "comerciante": "Rafael Weffer ",
+          "min": "300",
+          "max": "101993",
+          "disponible": "16.70"
         }
       ]
     }
   },
-  "brecha_pct": 11.88
+  "brecha_pct": 12.13
 }
