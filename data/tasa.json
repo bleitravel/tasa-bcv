@@ -1,102 +1,102 @@
 {
-  "actualizado_utc": "2026-11-02T12:55:34+00:00",
-  "actualizado_ve": "2026-11-02T08:55:34-04:00",
+  "actualizado_utc": "2026-11-02T21:58:58+00:00",
+  "actualizado_ve": "2026-11-02T17:58:58-04:00",
   "bcv": {
-    "usd": 889.5754,
-    "eur": 991.25386822,
-    "fecha_valor": "2026-11-02T00:00:00-04:00"
+    "usd": 891.1054,
+    "eur": 997.92220429,
+    "fecha_valor": "2026-11-03T00:00:00-04:00"
   },
   "binance_p2p": {
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 997.5,
+    "referencia": 1001.2678,
     "venta": {
-      "promedio": 997.5,
-      "minimo": 996.5,
-      "maximo": 1000.0,
+      "promedio": 1001.2678,
+      "minimo": 1000.5,
+      "maximo": 1002.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1000.0,
-          "comerciante": "P2P-FranciscoAmaya",
-          "min": "30000",
+          "precio": 1002.0,
+          "comerciante": "FakeFk2",
+          "min": "2000000",
           "max": "4000000",
-          "disponible": "30000.00"
+          "disponible": "4000.00"
         },
         {
-          "precio": 997.0,
-          "comerciante": "SuterlanAvanza",
-          "min": "1000000",
+          "precio": 1001.65,
+          "comerciante": "P2P-Mundarain",
+          "min": "2000000",
+          "max": "35000000",
+          "disponible": "4015.51"
+        },
+        {
+          "precio": 1001.1,
+          "comerciante": "RACO1504",
+          "min": "900000",
           "max": "4000000",
-          "disponible": "4060.60"
+          "disponible": "5000.00"
         },
         {
-          "precio": 997.0,
-          "comerciante": "Luishein",
-          "min": "5000000",
-          "max": "36450000",
-          "disponible": "68251.12"
+          "precio": 1001.089,
+          "comerciante": "TradeXJuan ",
+          "min": "2000000",
+          "max": "10000000",
+          "disponible": "3473.25"
         },
         {
-          "precio": 997.0,
-          "comerciante": "User-9098d",
-          "min": "500000",
-          "max": "690900",
-          "disponible": "700.00"
-        },
-        {
-          "precio": 996.5,
-          "comerciante": "NexusGlobalTradeP2P",
-          "min": "5000000",
-          "max": "8000000",
-          "disponible": "8028.09"
+          "precio": 1000.5,
+          "comerciante": "jaigom068",
+          "min": "300000",
+          "max": "4000000",
+          "disponible": "5331.06"
         }
       ]
     },
     "compra": {
-      "promedio": 993.108,
-      "minimo": 980.54,
-      "maximo": 997.0,
+      "promedio": 1002.4772,
+      "minimo": 1002.0,
+      "maximo": 1002.8,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 980.54,
-          "comerciante": "P2P-ElMejorCambio",
-          "min": "300",
-          "max": "400",
-          "disponible": "99.75"
-        },
-        {
-          "precio": 996.0,
-          "comerciante": "AlejandroWko",
-          "min": "89000",
-          "max": "89200",
-          "disponible": "99.75"
-        },
-        {
-          "precio": 996.0,
-          "comerciante": "Arianna1006",
-          "min": "300",
-          "max": "317744",
-          "disponible": "0.74"
-        },
-        {
-          "precio": 996.0,
-          "comerciante": "Lubernuflo",
+          "precio": 1002.0,
+          "comerciante": "andyfernandez",
           "min": "300",
           "max": "4000000",
-          "disponible": "1.85"
+          "disponible": "99.75"
         },
         {
-          "precio": 997.0,
-          "comerciante": "Rafael Weffer ",
-          "min": "300",
-          "max": "101993",
-          "disponible": "16.70"
+          "precio": 1002.0,
+          "comerciante": "GregoriCripto",
+          "min": "80000",
+          "max": "447780",
+          "disponible": "445.98"
+        },
+        {
+          "precio": 1002.787,
+          "comerciante": "Edgar mengual",
+          "min": "1692700",
+          "max": "1692900",
+          "disponible": "2352.03"
+        },
+        {
+          "precio": 1002.799,
+          "comerciante": "GlobalBusinessmx",
+          "min": "485000",
+          "max": "485001",
+          "disponible": "525.71"
+        },
+        {
+          "precio": 1002.8,
+          "comerciante": "ADANJOSE",
+          "min": "700150",
+          "max": "701960",
+          "disponible": "698.25"
         }
       ]
     }
   },
-  "brecha_pct": 12.13
+  "brecha_pct": 12.36
 }
