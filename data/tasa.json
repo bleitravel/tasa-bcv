@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-11-03T03:18:03+00:00",
-  "actualizado_ve": "2026-11-02T23:18:03-04:00",
+  "actualizado_utc": "2026-11-03T11:06:52+00:00",
+  "actualizado_ve": "2026-11-03T07:06:52-04:00",
   "bcv": {
     "usd": 891.1054,
     "eur": 997.92220429,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 999.601,
+    "referencia": 997.98,
     "venta": {
-      "promedio": 999.601,
-      "minimo": 999.0,
+      "promedio": 997.98,
+      "minimo": 996.6,
       "maximo": 1000.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -25,78 +25,78 @@
           "disponible": "30000.00"
         },
         {
-          "precio": 1000.0,
-          "comerciante": "MileGuerrero24",
-          "min": "1500000",
-          "max": "36000000",
-          "disponible": "5791.73"
+          "precio": 998.3,
+          "comerciante": "remPro",
+          "min": "30000",
+          "max": "950000",
+          "disponible": "1362.98"
         },
         {
-          "precio": 1000.0,
-          "comerciante": "-The_Dark_Knight-",
-          "min": "297000",
+          "precio": 998.0,
+          "comerciante": "Godisgift",
+          "min": "4400000",
           "max": "36450000",
-          "disponible": "298.06"
+          "disponible": "4408.82"
         },
         {
-          "precio": 999.005,
-          "comerciante": "Trust-Broker",
-          "min": "2000000",
-          "max": "36450000",
-          "disponible": "27600.06"
-        },
-        {
-          "precio": 999.0,
+          "precio": 997.0,
           "comerciante": "Gustavo129",
-          "min": "2000000",
+          "min": "1000000",
           "max": "36450000",
-          "disponible": "27461.06"
+          "disponible": "24211.20"
+        },
+        {
+          "precio": 996.6,
+          "comerciante": "-RaGnaroK-",
+          "min": "500000",
+          "max": "2557000",
+          "disponible": "2565.00"
         }
       ]
     },
     "compra": {
-      "promedio": 998.8916,
-      "minimo": 998.855,
-      "maximo": 999.0,
+      "promedio": 998.6538,
+      "minimo": 998.48,
+      "maximo": 998.8,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 998.855,
-          "comerciante": "係唔係我",
+          "precio": 998.48,
+          "comerciante": "REY_SALOMON_CRIPTO",
           "min": "5000000",
-          "max": "20000000",
-          "disponible": "16942.10"
+          "max": "16000000",
+          "disponible": "16035.93"
         },
         {
-          "precio": 998.864,
-          "comerciante": "_AltCoinMaster_",
-          "min": "3000000",
+          "precio": 998.49,
+          "comerciante": "CambioVeloz_15",
+          "min": "2000000",
           "max": "36450000",
-          "disponible": "7000.00"
+          "disponible": "22678.87"
         },
         {
-          "precio": 998.869,
-          "comerciante": "YisusCambios",
+          "precio": 998.7,
+          "comerciante": "卡哈塞克尼奧",
           "min": "4000000",
-          "max": "36450000",
-          "disponible": "12775.75"
+          "max": "15000001",
+          "disponible": "10173.89"
         },
         {
-          "precio": 998.87,
-          "comerciante": "好心你自己",
+          "precio": 998.799,
+          "comerciante": "EJ_Pay",
+          "min": "200000",
+          "max": "430838",
+          "disponible": "229.68"
+        },
+        {
+          "precio": 998.8,
+          "comerciante": "Germanctr",
           "min": "5000000",
           "max": "30000000",
-          "disponible": "15141.78"
-        },
-        {
-          "precio": 999.0,
-          "comerciante": "cambiosFP",
-          "min": "900000",
-          "max": "4000000",
-          "disponible": "3990.02"
+          "disponible": "8692.89"
         }
       ]
     }
   },
-  "brecha_pct": 12.18
+  "brecha_pct": 11.99
 }
