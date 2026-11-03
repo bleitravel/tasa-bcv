@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-11-03T11:06:52+00:00",
-  "actualizado_ve": "2026-11-03T07:06:52-04:00",
+  "actualizado_utc": "2026-11-03T18:30:11+00:00",
+  "actualizado_ve": "2026-11-03T14:30:11-04:00",
   "bcv": {
     "usd": 891.1054,
     "eur": 997.92220429,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 997.98,
+    "referencia": 1013.118,
     "venta": {
-      "promedio": 997.98,
-      "minimo": 996.6,
-      "maximo": 1000.0,
+      "promedio": 1013.118,
+      "minimo": 1008.0,
+      "maximo": 1025.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1000.0,
-          "comerciante": "P2P-FranciscoAmaya",
-          "min": "30000",
+          "precio": 1025.0,
+          "comerciante": "User-9c15d",
+          "min": "400000",
           "max": "4000000",
-          "disponible": "30000.00"
+          "disponible": "6000.00"
         },
         {
-          "precio": 998.3,
-          "comerciante": "remPro",
-          "min": "30000",
-          "max": "950000",
-          "disponible": "1362.98"
+          "precio": 1015.88,
+          "comerciante": "FrezzerTraderComing",
+          "min": "800000",
+          "max": "4000000",
+          "disponible": "2567.61"
         },
         {
-          "precio": 998.0,
-          "comerciante": "Godisgift",
-          "min": "4400000",
+          "precio": 1008.36,
+          "comerciante": "P2P-Mundarain",
+          "min": "2000000",
+          "max": "35000000",
+          "disponible": "10331.77"
+        },
+        {
+          "precio": 1008.35,
+          "comerciante": "Money77ves",
+          "min": "1500000",
           "max": "36450000",
-          "disponible": "4408.82"
+          "disponible": "78274.50"
         },
         {
-          "precio": 997.0,
-          "comerciante": "Gustavo129",
-          "min": "1000000",
-          "max": "36450000",
-          "disponible": "24211.20"
-        },
-        {
-          "precio": 996.6,
-          "comerciante": "-RaGnaroK-",
-          "min": "500000",
-          "max": "2557000",
-          "disponible": "2565.00"
+          "precio": 1008.0,
+          "comerciante": "被放逐的狐狸",
+          "min": "5000000",
+          "max": "34000000",
+          "disponible": "64126.99"
         }
       ]
     },
     "compra": {
-      "promedio": 998.6538,
-      "minimo": 998.48,
-      "maximo": 998.8,
+      "promedio": 1005.78,
+      "minimo": 1005.0,
+      "maximo": 1006.9,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 998.48,
-          "comerciante": "REY_SALOMON_CRIPTO",
-          "min": "5000000",
-          "max": "16000000",
-          "disponible": "16035.93"
+          "precio": 1005.0,
+          "comerciante": "Dariingy124",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "0.41"
         },
         {
-          "precio": 998.49,
-          "comerciante": "CambioVeloz_15",
-          "min": "2000000",
-          "max": "36450000",
-          "disponible": "22678.87"
+          "precio": 1005.0,
+          "comerciante": "Carlosjesusbg89",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "1.58"
         },
         {
-          "precio": 998.7,
-          "comerciante": "卡哈塞克尼奧",
-          "min": "4000000",
-          "max": "15000001",
-          "disponible": "10173.89"
+          "precio": 1006.0,
+          "comerciante": "davicenteno",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "0.36"
         },
         {
-          "precio": 998.799,
-          "comerciante": "EJ_Pay",
-          "min": "200000",
-          "max": "430838",
-          "disponible": "229.68"
+          "precio": 1006.0,
+          "comerciante": "CambiosDiFortunato",
+          "min": "500",
+          "max": "150000",
+          "disponible": "3.05"
         },
         {
-          "precio": 998.8,
-          "comerciante": "Germanctr",
-          "min": "5000000",
-          "max": "30000000",
-          "disponible": "8692.89"
+          "precio": 1006.9,
+          "comerciante": "_MoneYca_",
+          "min": "100000",
+          "max": "4000000",
+          "disponible": "276.55"
         }
       ]
     }
   },
-  "brecha_pct": 11.99
+  "brecha_pct": 13.69
 }
