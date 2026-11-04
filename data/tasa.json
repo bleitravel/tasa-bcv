@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-11-04T11:39:57+00:00",
-  "actualizado_ve": "2026-11-04T07:39:57-04:00",
+  "actualizado_utc": "2026-11-04T18:57:10+00:00",
+  "actualizado_ve": "2026-11-04T14:57:10-04:00",
   "bcv": {
     "usd": 893.2173,
     "eur": 999.76919171,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1005.3,
+    "referencia": 1011.5842,
     "venta": {
-      "promedio": 1005.3,
-      "minimo": 1005.0,
-      "maximo": 1006.0,
+      "promedio": 1011.5842,
+      "minimo": 1011.11,
+      "maximo": 1012.5,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1006.0,
-          "comerciante": "Umbrella2503",
-          "min": "500000",
-          "max": "4000000",
-          "disponible": "10308.09"
-        },
-        {
-          "precio": 1005.5,
-          "comerciante": "贝HarveySpecter贝",
+          "precio": 1012.5,
+          "comerciante": "luis12crt",
           "min": "5000000",
+          "max": "36450000",
+          "disponible": "5640.25"
+        },
+        {
+          "precio": 1012.0,
+          "comerciante": "PsicoCash",
+          "min": "1000000",
+          "max": "4000000",
+          "disponible": "3331.35"
+        },
+        {
+          "precio": 1011.2,
+          "comerciante": "SONIMAX_",
+          "min": "2000000",
           "max": "36000000",
-          "disponible": "51507.26"
+          "disponible": "16931.77"
         },
         {
-          "precio": 1005.0,
-          "comerciante": "GAleja1011",
-          "min": "390000",
-          "max": "391000",
-          "disponible": "395.00"
-        },
-        {
-          "precio": 1005.0,
-          "comerciante": "azulexchange",
+          "precio": 1011.111,
+          "comerciante": "NathPiggy",
           "min": "200000",
-          "max": "4000000",
-          "disponible": "1007.41"
+          "max": "500000",
+          "disponible": "304.02"
         },
         {
-          "precio": 1005.0,
-          "comerciante": "P2P-e7ff80hg",
-          "min": "5000",
-          "max": "4000000",
-          "disponible": "12.12"
+          "precio": 1011.11,
+          "comerciante": "Mad4",
+          "min": "300000",
+          "max": "500000",
+          "disponible": "540.00"
         }
       ]
     },
     "compra": {
-      "promedio": 1006.9014,
-      "minimo": 1006.598,
-      "maximo": 1007.0,
+      "promedio": 1011.113,
+      "minimo": 1010.0,
+      "maximo": 1011.79,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1006.598,
-          "comerciante": "RobertCQ",
-          "min": "14000",
-          "max": "14200",
-          "disponible": "104.33"
+          "precio": 1010.0,
+          "comerciante": "imp2p",
+          "min": "5500000",
+          "max": "30000000",
+          "disponible": "5504.60"
         },
         {
-          "precio": 1006.95,
-          "comerciante": "CAMBIO-LAGO",
-          "min": "50000",
-          "max": "36450000",
-          "disponible": "53.36"
-        },
-        {
-          "precio": 1006.96,
-          "comerciante": "Estheban_H",
-          "min": "100000",
+          "precio": 1010.2,
+          "comerciante": "jhonnyp2p2000",
+          "min": "1000",
           "max": "4000000",
-          "disponible": "399.00"
+          "disponible": "299.25"
         },
         {
-          "precio": 1006.999,
-          "comerciante": "LeoMessi07",
-          "min": "1000000",
-          "max": "2787356",
-          "disponible": "1570.41"
-        },
-        {
-          "precio": 1007.0,
-          "comerciante": "WorldTradeinCripto",
+          "precio": 1011.787,
+          "comerciante": "_BRUCE_WAYNE_",
           "min": "4000000",
-          "max": "33450000",
-          "disponible": "20000.00"
+          "max": "36450000",
+          "disponible": "15181.41"
+        },
+        {
+          "precio": 1011.788,
+          "comerciante": "__TraderFocus__",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "29867.58"
+        },
+        {
+          "precio": 1011.79,
+          "comerciante": "好心你自己",
+          "min": "5000000",
+          "max": "30000000",
+          "disponible": "14656.47"
         }
       ]
     }
   },
-  "brecha_pct": 12.55
+  "brecha_pct": 13.25
 }
