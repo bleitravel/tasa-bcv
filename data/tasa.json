@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-11-04T03:35:52+00:00",
-  "actualizado_ve": "2026-11-03T23:35:52-04:00",
+  "actualizado_utc": "2026-11-04T11:39:57+00:00",
+  "actualizado_ve": "2026-11-04T07:39:57-04:00",
   "bcv": {
     "usd": 893.2173,
     "eur": 999.76919171,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1007.6,
+    "referencia": 1005.3,
     "venta": {
-      "promedio": 1007.6,
-      "minimo": 1006.5,
-      "maximo": 1010.0,
+      "promedio": 1005.3,
+      "minimo": 1005.0,
+      "maximo": 1006.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1010.0,
-          "comerciante": "Cheree Eke YL7W",
-          "min": "20000",
-          "max": "1909500",
-          "disponible": "1900.00"
-        },
-        {
-          "precio": 1008.0,
-          "comerciante": "TheOchoa",
-          "min": "500000",
-          "max": "36450000",
-          "disponible": "48891.13"
-        },
-        {
-          "precio": 1006.999,
-          "comerciante": "leonlido",
+          "precio": 1006.0,
+          "comerciante": "Umbrella2503",
           "min": "500000",
           "max": "4000000",
-          "disponible": "5776.32"
+          "disponible": "10308.09"
         },
         {
-          "precio": 1006.501,
-          "comerciante": "你就变得更强",
-          "min": "1000000",
-          "max": "36450000",
-          "disponible": "76868.96"
+          "precio": 1005.5,
+          "comerciante": "贝HarveySpecter贝",
+          "min": "5000000",
+          "max": "36000000",
+          "disponible": "51507.26"
         },
         {
-          "precio": 1006.5,
-          "comerciante": "PerdomoFintech",
-          "min": "1000000",
+          "precio": 1005.0,
+          "comerciante": "GAleja1011",
+          "min": "390000",
+          "max": "391000",
+          "disponible": "395.00"
+        },
+        {
+          "precio": 1005.0,
+          "comerciante": "azulexchange",
+          "min": "200000",
           "max": "4000000",
-          "disponible": "1081.23"
+          "disponible": "1007.41"
+        },
+        {
+          "precio": 1005.0,
+          "comerciante": "P2P-e7ff80hg",
+          "min": "5000",
+          "max": "4000000",
+          "disponible": "12.12"
         }
       ]
     },
     "compra": {
-      "promedio": 1007.2798,
-      "minimo": 1006.999,
-      "maximo": 1008.0,
+      "promedio": 1006.9014,
+      "minimo": 1006.598,
+      "maximo": 1007.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1006.999,
-          "comerciante": "GlobalBusinessmx",
-          "min": "48800",
-          "max": "48801",
-          "disponible": "100.07"
+          "precio": 1006.598,
+          "comerciante": "RobertCQ",
+          "min": "14000",
+          "max": "14200",
+          "disponible": "104.33"
         },
         {
-          "precio": 1007.0,
-          "comerciante": "b3nzema9",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "3.45"
-        },
-        {
-          "precio": 1007.0,
-          "comerciante": "doctor_zoidberg",
-          "min": "2000000",
+          "precio": 1006.95,
+          "comerciante": "CAMBIO-LAGO",
+          "min": "50000",
           "max": "36450000",
-          "disponible": "21192.01"
+          "disponible": "53.36"
         },
         {
-          "precio": 1007.4,
-          "comerciante": "User-881a0",
+          "precio": 1006.96,
+          "comerciante": "Estheban_H",
           "min": "100000",
-          "max": "500000",
-          "disponible": "107.23"
+          "max": "4000000",
+          "disponible": "399.00"
         },
         {
-          "precio": 1008.0,
-          "comerciante": "YaiBarboza",
-          "min": "10000",
-          "max": "4000000",
-          "disponible": "129.67"
+          "precio": 1006.999,
+          "comerciante": "LeoMessi07",
+          "min": "1000000",
+          "max": "2787356",
+          "disponible": "1570.41"
+        },
+        {
+          "precio": 1007.0,
+          "comerciante": "WorldTradeinCripto",
+          "min": "4000000",
+          "max": "33450000",
+          "disponible": "20000.00"
         }
       ]
     }
   },
-  "brecha_pct": 12.81
+  "brecha_pct": 12.55
 }
