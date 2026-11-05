@@ -1,102 +1,102 @@
 {
-  "actualizado_utc": "2026-11-04T18:57:10+00:00",
-  "actualizado_ve": "2026-11-04T14:57:10-04:00",
+  "actualizado_utc": "2026-11-05T00:04:11+00:00",
+  "actualizado_ve": "2026-11-04T20:04:11-04:00",
   "bcv": {
-    "usd": 893.2173,
-    "eur": 999.76919171,
-    "fecha_valor": "2026-11-04T00:00:00-04:00"
+    "usd": 894.8876,
+    "eur": 1006.03263992,
+    "fecha_valor": "2026-11-05T00:00:00-04:00"
   },
   "binance_p2p": {
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1011.5842,
+    "referencia": 1010.7242,
     "venta": {
-      "promedio": 1011.5842,
-      "minimo": 1011.11,
-      "maximo": 1012.5,
+      "promedio": 1010.7242,
+      "minimo": 1010.5,
+      "maximo": 1011.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1012.5,
+          "precio": 1011.0,
+          "comerciante": "Toptradedog",
+          "min": "1000000",
+          "max": "4000000",
+          "disponible": "7107.13"
+        },
+        {
+          "precio": 1011.0,
+          "comerciante": "Drek50",
+          "min": "119999",
+          "max": "120000",
+          "disponible": "120.00"
+        },
+        {
+          "precio": 1010.601,
+          "comerciante": "DOCTOR_CAMBIO",
+          "min": "7000000",
+          "max": "36450000",
+          "disponible": "22920.12"
+        },
+        {
+          "precio": 1010.52,
+          "comerciante": "securitylc",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "33500.06"
+        },
+        {
+          "precio": 1010.5,
           "comerciante": "luis12crt",
           "min": "5000000",
           "max": "36450000",
-          "disponible": "5640.25"
-        },
-        {
-          "precio": 1012.0,
-          "comerciante": "PsicoCash",
-          "min": "1000000",
-          "max": "4000000",
-          "disponible": "3331.35"
-        },
-        {
-          "precio": 1011.2,
-          "comerciante": "SONIMAX_",
-          "min": "2000000",
-          "max": "36000000",
-          "disponible": "16931.77"
-        },
-        {
-          "precio": 1011.111,
-          "comerciante": "NathPiggy",
-          "min": "200000",
-          "max": "500000",
-          "disponible": "304.02"
-        },
-        {
-          "precio": 1011.11,
-          "comerciante": "Mad4",
-          "min": "300000",
-          "max": "500000",
-          "disponible": "540.00"
+          "disponible": "80000.00"
         }
       ]
     },
     "compra": {
-      "promedio": 1011.113,
+      "promedio": 1010.7406,
       "minimo": 1010.0,
-      "maximo": 1011.79,
+      "maximo": 1011.6,
       "anuncios_usados": 5,
       "anuncios": [
         {
           "precio": 1010.0,
-          "comerciante": "imp2p",
-          "min": "5500000",
-          "max": "30000000",
-          "disponible": "5504.60"
+          "comerciante": "Kricardo_uv",
+          "min": "21000",
+          "max": "22000",
+          "disponible": "99.75"
         },
         {
           "precio": 1010.2,
           "comerciante": "jhonnyp2p2000",
           "min": "1000",
           "max": "4000000",
-          "disponible": "299.25"
+          "disponible": "3.19"
         },
         {
-          "precio": 1011.787,
-          "comerciante": "_BRUCE_WAYNE_",
-          "min": "4000000",
-          "max": "36450000",
-          "disponible": "15181.41"
+          "precio": 1010.5,
+          "comerciante": "ReadyToTrade_",
+          "min": "36450000",
+          "max": "130000000",
+          "disponible": "133578.68"
         },
         {
-          "precio": 1011.788,
-          "comerciante": "__TraderFocus__",
-          "min": "5000000",
-          "max": "36450000",
-          "disponible": "29867.58"
+          "precio": 1011.403,
+          "comerciante": "ElrickFx",
+          "min": "50000",
+          "max": "350000",
+          "disponible": "179.55"
         },
         {
-          "precio": 1011.79,
-          "comerciante": "好心你自己",
-          "min": "5000000",
-          "max": "30000000",
-          "disponible": "14656.47"
+          "precio": 1011.6,
+          "comerciante": "GasuMoneyPlus",
+          "min": "2000",
+          "max": "20000",
+          "disponible": "13.31"
         }
       ]
     }
   },
-  "brecha_pct": 13.25
+  "brecha_pct": 12.94
 }
