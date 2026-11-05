@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-11-05T07:04:11+00:00",
-  "actualizado_ve": "2026-11-05T03:04:11-04:00",
+  "actualizado_utc": "2026-11-05T15:38:52+00:00",
+  "actualizado_ve": "2026-11-05T11:38:52-04:00",
   "bcv": {
     "usd": 894.8876,
     "eur": 1006.03263992,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1008.476,
+    "referencia": 1009.5608,
     "venta": {
-      "promedio": 1008.476,
-      "minimo": 1008.169,
-      "maximo": 1008.81,
+      "promedio": 1009.5608,
+      "minimo": 1009.004,
+      "maximo": 1010.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1008.81,
-          "comerciante": "Jeisa",
-          "min": "80000",
-          "max": "2239213",
-          "disponible": "862.37"
+          "precio": 1010.0,
+          "comerciante": "P2P-2dc23b9z",
+          "min": "500000",
+          "max": "4000000",
+          "disponible": "4449.51"
         },
         {
-          "precio": 1008.8,
-          "comerciante": "-The_Dark_Knight-",
-          "min": "625000",
-          "max": "36450000",
-          "disponible": "4454.13"
-        },
-        {
-          "precio": 1008.401,
-          "comerciante": "YecidAmaya",
-          "min": "80000",
-          "max": "1000000",
-          "disponible": "791.44"
-        },
-        {
-          "precio": 1008.2,
-          "comerciante": "EL-EXTRANJERO",
-          "min": "1000000",
-          "max": "36450000",
+          "precio": 1010.0,
+          "comerciante": "PirateJay",
+          "min": "2500000",
+          "max": "4000000",
           "disponible": "30000.00"
         },
         {
-          "precio": 1008.169,
-          "comerciante": "doctor_zoidberg",
-          "min": "200000",
-          "max": "36450000",
-          "disponible": "17918.85"
+          "precio": 1009.6,
+          "comerciante": "IngCryptos",
+          "min": "2000000",
+          "max": "15039667",
+          "disponible": "14900.00"
+        },
+        {
+          "precio": 1009.2,
+          "comerciante": "Diomedes14",
+          "min": "2000000",
+          "max": "13936000",
+          "disponible": "4694.57"
+        },
+        {
+          "precio": 1009.004,
+          "comerciante": "cambio",
+          "min": "600000",
+          "max": "35000000",
+          "disponible": "12954.22"
         }
       ]
     },
     "compra": {
-      "promedio": 1011.6396,
-      "minimo": 1010.2,
-      "maximo": 1012.0,
+      "promedio": 1009.1968,
+      "minimo": 1008.0,
+      "maximo": 1009.998,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1010.2,
-          "comerciante": "jhonnyp2p2000",
-          "min": "1000",
-          "max": "4000000",
-          "disponible": "3.19"
+          "precio": 1008.0,
+          "comerciante": "YOSOYNINGUNO",
+          "min": "40000",
+          "max": "40001",
+          "disponible": "99.75"
         },
         {
-          "precio": 1011.998,
-          "comerciante": "AlexDaOnee",
-          "min": "10000",
-          "max": "403880",
-          "disponible": "315.05"
+          "precio": 1008.988,
+          "comerciante": "IsLoganPaul",
+          "min": "100000",
+          "max": "36450000",
+          "disponible": "2127.92"
         },
         {
-          "precio": 1012.0,
-          "comerciante": "Nicole_sg3",
-          "min": "4000",
-          "max": "4000000",
-          "disponible": "19.67"
-        },
-        {
-          "precio": 1012.0,
-          "comerciante": "MARIELYSGUT",
+          "precio": 1009.0,
+          "comerciante": "BabyBroker",
           "min": "10000",
           "max": "4000000",
-          "disponible": "352.29"
+          "disponible": "36.10"
         },
         {
-          "precio": 1012.0,
-          "comerciante": "CriptoJDBalitaaaaaaa",
-          "min": "7000",
-          "max": "1000000",
-          "disponible": "88.05"
+          "precio": 1009.998,
+          "comerciante": "IsLoganPaul",
+          "min": "50000",
+          "max": "36450000",
+          "disponible": "2127.92"
+        },
+        {
+          "precio": 1009.998,
+          "comerciante": "Dakone",
+          "min": "100000",
+          "max": "36450000",
+          "disponible": "112.83"
         }
       ]
     }
   },
-  "brecha_pct": 12.69
+  "brecha_pct": 12.81
 }
