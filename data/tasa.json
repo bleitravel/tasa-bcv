@@ -1,102 +1,102 @@
 {
-  "actualizado_utc": "2026-11-05T15:38:52+00:00",
-  "actualizado_ve": "2026-11-05T11:38:52-04:00",
+  "actualizado_utc": "2026-11-05T21:37:49+00:00",
+  "actualizado_ve": "2026-11-05T17:37:49-04:00",
   "bcv": {
-    "usd": 894.8876,
-    "eur": 1006.03263992,
-    "fecha_valor": "2026-11-05T00:00:00-04:00"
+    "usd": 896.1225,
+    "eur": 1004.95657762,
+    "fecha_valor": "2026-11-06T00:00:00-04:00"
   },
   "binance_p2p": {
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1009.5608,
+    "referencia": 1014.1106,
     "venta": {
-      "promedio": 1009.5608,
-      "minimo": 1009.004,
-      "maximo": 1010.0,
+      "promedio": 1014.1106,
+      "minimo": 1013.0,
+      "maximo": 1016.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1010.0,
-          "comerciante": "P2P-2dc23b9z",
-          "min": "500000",
+          "precio": 1016.0,
+          "comerciante": "Contratista Coquivacoa ",
+          "min": "1500000",
           "max": "4000000",
-          "disponible": "4449.51"
+          "disponible": "12456.85"
         },
         {
-          "precio": 1010.0,
+          "precio": 1014.05,
+          "comerciante": "Trust-Broker",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "28751.36"
+        },
+        {
+          "precio": 1014.0,
           "comerciante": "PirateJay",
           "min": "2500000",
           "max": "4000000",
           "disponible": "30000.00"
         },
         {
-          "precio": 1009.6,
-          "comerciante": "IngCryptos",
-          "min": "2000000",
-          "max": "15039667",
-          "disponible": "14900.00"
+          "precio": 1013.503,
+          "comerciante": "CriptoseguroAyM",
+          "min": "1000000",
+          "max": "34000000",
+          "disponible": "68987.83"
         },
         {
-          "precio": 1009.2,
-          "comerciante": "Diomedes14",
-          "min": "2000000",
-          "max": "13936000",
-          "disponible": "4694.57"
-        },
-        {
-          "precio": 1009.004,
-          "comerciante": "cambio",
-          "min": "600000",
-          "max": "35000000",
-          "disponible": "12954.22"
+          "precio": 1013.0,
+          "comerciante": "TheOchoa",
+          "min": "10000000",
+          "max": "36450000",
+          "disponible": "80000.00"
         }
       ]
     },
     "compra": {
-      "promedio": 1009.1968,
-      "minimo": 1008.0,
-      "maximo": 1009.998,
+      "promedio": 1011.04,
+      "minimo": 1009.5,
+      "maximo": 1012.5,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1008.0,
-          "comerciante": "YOSOYNINGUNO",
-          "min": "40000",
-          "max": "40001",
-          "disponible": "99.75"
+          "precio": 1009.5,
+          "comerciante": "imp2p",
+          "min": "5000000",
+          "max": "30000000",
+          "disponible": "5361.72"
         },
         {
-          "precio": 1008.988,
-          "comerciante": "IsLoganPaul",
-          "min": "100000",
-          "max": "36450000",
-          "disponible": "2127.92"
-        },
-        {
-          "precio": 1009.0,
-          "comerciante": "BabyBroker",
-          "min": "10000",
+          "precio": 1010.2,
+          "comerciante": "jhonnyp2p2000",
+          "min": "1000",
           "max": "4000000",
-          "disponible": "36.10"
+          "disponible": "3.19"
         },
         {
-          "precio": 1009.998,
-          "comerciante": "IsLoganPaul",
-          "min": "50000",
+          "precio": 1011.0,
+          "comerciante": "ElMuSa30",
+          "min": "5000000",
           "max": "36450000",
-          "disponible": "2127.92"
+          "disponible": "10008.02"
         },
         {
-          "precio": 1009.998,
-          "comerciante": "Dakone",
+          "precio": 1012.0,
+          "comerciante": "Carsalazar",
+          "min": "30000",
+          "max": "4000000",
+          "disponible": "74.33"
+        },
+        {
+          "precio": 1012.5,
+          "comerciante": "RemesasCV",
           "min": "100000",
-          "max": "36450000",
-          "disponible": "112.83"
+          "max": "384750",
+          "disponible": "379.05"
         }
       ]
     }
   },
-  "brecha_pct": 12.81
+  "brecha_pct": 13.17
 }
