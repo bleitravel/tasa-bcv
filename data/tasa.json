@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-11-06T01:51:18+00:00",
-  "actualizado_ve": "2026-11-05T21:51:18-04:00",
+  "actualizado_utc": "2026-11-06T08:39:39+00:00",
+  "actualizado_ve": "2026-11-06T04:39:39-04:00",
   "bcv": {
     "usd": 896.1225,
     "eur": 1004.95657762,
@@ -10,54 +10,54 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1013.401,
+    "referencia": 1010.3438,
     "venta": {
-      "promedio": 1013.401,
-      "minimo": 1012.0,
-      "maximo": 1014.0,
+      "promedio": 1010.3438,
+      "minimo": 1010.0,
+      "maximo": 1011.1,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1014.0,
-          "comerciante": "PirateJay",
-          "min": "2500000",
-          "max": "4000000",
+          "precio": 1011.1,
+          "comerciante": "TrustyRetriever",
+          "min": "500000",
+          "max": "36450000",
           "disponible": "30000.00"
         },
         {
-          "precio": 1014.0,
-          "comerciante": "Trust-Broker",
-          "min": "36450000",
-          "max": "500000000",
-          "disponible": "100000.00"
+          "precio": 1010.61,
+          "comerciante": "Casadecambio Amanon",
+          "min": "350000",
+          "max": "350001",
+          "disponible": "346.33"
         },
         {
-          "precio": 1014.0,
-          "comerciante": "安全与信任",
-          "min": "5000000",
+          "precio": 1010.005,
+          "comerciante": "_BRUCE_WAYNE_",
+          "min": "18000",
           "max": "36450000",
-          "disponible": "20942.06"
+          "disponible": "784.87"
         },
         {
-          "precio": 1013.005,
-          "comerciante": "Trust-Broker",
-          "min": "3000000",
+          "precio": 1010.004,
+          "comerciante": "kikediaz02",
+          "min": "90000",
           "max": "36450000",
-          "disponible": "20368.85"
+          "disponible": "2340.89"
         },
         {
-          "precio": 1012.0,
-          "comerciante": "Col-Primavera",
-          "min": "400000",
-          "max": "2018000",
-          "disponible": "2000.00"
+          "precio": 1010.0,
+          "comerciante": "ASOCCAMBIARIA-VZLA",
+          "min": "100000",
+          "max": "2392000",
+          "disponible": "2373.00"
         }
       ]
     },
     "compra": {
-      "promedio": 1012.319,
+      "promedio": 1013.1794,
       "minimo": 1010.2,
-      "maximo": 1013.395,
+      "maximo": 1014.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "3.19"
         },
         {
-          "precio": 1012.0,
-          "comerciante": "YariCambios",
-          "min": "374488",
-          "max": "375452",
-          "disponible": "370.07"
+          "precio": 1013.7,
+          "comerciante": "MONTERCICP-3",
+          "min": "700000",
+          "max": "5000000",
+          "disponible": "1239.21"
         },
         {
-          "precio": 1013.0,
-          "comerciante": "User-be15b",
-          "min": "105500",
+          "precio": 1013.997,
+          "comerciante": "L D V M",
+          "min": "300",
           "max": "4000000",
-          "disponible": "104.73"
+          "disponible": "1.19"
         },
         {
-          "precio": 1013.0,
-          "comerciante": "MariaCoins",
-          "min": "126200",
+          "precio": 1014.0,
+          "comerciante": "Qbito3005",
+          "min": "1000",
           "max": "4000000",
-          "disponible": "125.02"
+          "disponible": "1.57"
         },
         {
-          "precio": 1013.395,
-          "comerciante": "Parzival1012",
-          "min": "10000",
-          "max": "278000",
-          "disponible": "15.10"
+          "precio": 1014.0,
+          "comerciante": "luis21al",
+          "min": "30000",
+          "max": "4000000",
+          "disponible": "134.34"
         }
       ]
     }
   },
-  "brecha_pct": 13.09
+  "brecha_pct": 12.75
 }
