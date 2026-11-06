@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-11-05T21:37:49+00:00",
-  "actualizado_ve": "2026-11-05T17:37:49-04:00",
+  "actualizado_utc": "2026-11-06T01:51:18+00:00",
+  "actualizado_ve": "2026-11-05T21:51:18-04:00",
   "bcv": {
     "usd": 896.1225,
     "eur": 1004.95657762,
@@ -10,27 +10,13 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1014.1106,
+    "referencia": 1013.401,
     "venta": {
-      "promedio": 1014.1106,
-      "minimo": 1013.0,
-      "maximo": 1016.0,
+      "promedio": 1013.401,
+      "minimo": 1012.0,
+      "maximo": 1014.0,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 1016.0,
-          "comerciante": "Contratista Coquivacoa ",
-          "min": "1500000",
-          "max": "4000000",
-          "disponible": "12456.85"
-        },
-        {
-          "precio": 1014.05,
-          "comerciante": "Trust-Broker",
-          "min": "5000000",
-          "max": "36450000",
-          "disponible": "28751.36"
-        },
         {
           "precio": 1014.0,
           "comerciante": "PirateJay",
@@ -39,34 +25,41 @@
           "disponible": "30000.00"
         },
         {
-          "precio": 1013.503,
-          "comerciante": "CriptoseguroAyM",
-          "min": "1000000",
-          "max": "34000000",
-          "disponible": "68987.83"
+          "precio": 1014.0,
+          "comerciante": "Trust-Broker",
+          "min": "36450000",
+          "max": "500000000",
+          "disponible": "100000.00"
         },
         {
-          "precio": 1013.0,
-          "comerciante": "TheOchoa",
-          "min": "10000000",
+          "precio": 1014.0,
+          "comerciante": "安全与信任",
+          "min": "5000000",
           "max": "36450000",
-          "disponible": "80000.00"
+          "disponible": "20942.06"
+        },
+        {
+          "precio": 1013.005,
+          "comerciante": "Trust-Broker",
+          "min": "3000000",
+          "max": "36450000",
+          "disponible": "20368.85"
+        },
+        {
+          "precio": 1012.0,
+          "comerciante": "Col-Primavera",
+          "min": "400000",
+          "max": "2018000",
+          "disponible": "2000.00"
         }
       ]
     },
     "compra": {
-      "promedio": 1011.04,
-      "minimo": 1009.5,
-      "maximo": 1012.5,
+      "promedio": 1012.319,
+      "minimo": 1010.2,
+      "maximo": 1013.395,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 1009.5,
-          "comerciante": "imp2p",
-          "min": "5000000",
-          "max": "30000000",
-          "disponible": "5361.72"
-        },
         {
           "precio": 1010.2,
           "comerciante": "jhonnyp2p2000",
@@ -75,28 +68,35 @@
           "disponible": "3.19"
         },
         {
-          "precio": 1011.0,
-          "comerciante": "ElMuSa30",
-          "min": "5000000",
-          "max": "36450000",
-          "disponible": "10008.02"
-        },
-        {
           "precio": 1012.0,
-          "comerciante": "Carsalazar",
-          "min": "30000",
-          "max": "4000000",
-          "disponible": "74.33"
+          "comerciante": "YariCambios",
+          "min": "374488",
+          "max": "375452",
+          "disponible": "370.07"
         },
         {
-          "precio": 1012.5,
-          "comerciante": "RemesasCV",
-          "min": "100000",
-          "max": "384750",
-          "disponible": "379.05"
+          "precio": 1013.0,
+          "comerciante": "User-be15b",
+          "min": "105500",
+          "max": "4000000",
+          "disponible": "104.73"
+        },
+        {
+          "precio": 1013.0,
+          "comerciante": "MariaCoins",
+          "min": "126200",
+          "max": "4000000",
+          "disponible": "125.02"
+        },
+        {
+          "precio": 1013.395,
+          "comerciante": "Parzival1012",
+          "min": "10000",
+          "max": "278000",
+          "disponible": "15.10"
         }
       ]
     }
   },
-  "brecha_pct": 13.17
+  "brecha_pct": 13.09
 }
