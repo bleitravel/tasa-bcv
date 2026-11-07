@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-11-07T01:22:32+00:00",
-  "actualizado_ve": "2026-11-06T21:22:32-04:00",
+  "actualizado_utc": "2026-11-07T07:23:35+00:00",
+  "actualizado_ve": "2026-11-07T03:23:35-04:00",
   "bcv": {
     "usd": 897.5383,
     "eur": 1001.18602288,
@@ -10,54 +10,54 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1107.437,
+    "referencia": 1024.1676,
     "venta": {
-      "promedio": 1107.437,
-      "minimo": 1025.55,
-      "maximo": 1434.035,
+      "promedio": 1024.1676,
+      "minimo": 1023.201,
+      "maximo": 1025.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1434.035,
-          "comerciante": "eltripolitanop2p",
-          "min": "32000",
-          "max": "14000000",
-          "disponible": "100.00"
+          "precio": 1025.0,
+          "comerciante": "TheOchoa",
+          "min": "1000000",
+          "max": "36450000",
+          "disponible": "14129.90"
         },
         {
-          "precio": 1026.0,
-          "comerciante": "被放逐的狐狸",
-          "min": "5133800",
-          "max": "5133801",
-          "disponible": "6000.00"
-        },
-        {
-          "precio": 1026.0,
-          "comerciante": "Fiorecoin",
-          "min": "7580000",
-          "max": "7580001",
-          "disponible": "7500.00"
-        },
-        {
-          "precio": 1025.6,
-          "comerciante": "jaigom068",
-          "min": "500000",
-          "max": "4000000",
-          "disponible": "2656.54"
-        },
-        {
-          "precio": 1025.55,
-          "comerciante": "REA_PRO",
-          "min": "900000",
+          "precio": 1024.5,
+          "comerciante": "蒙神祝福者",
+          "min": "400000",
           "max": "36000000",
-          "disponible": "894.99"
+          "disponible": "49218.75"
+        },
+        {
+          "precio": 1024.126,
+          "comerciante": "jmdavidp2p",
+          "min": "39000",
+          "max": "59000",
+          "disponible": "50.06"
+        },
+        {
+          "precio": 1024.011,
+          "comerciante": "我哋要求",
+          "min": "500000",
+          "max": "10602000",
+          "disponible": "9376.45"
+        },
+        {
+          "precio": 1023.201,
+          "comerciante": "CONFIABLE-SERVICIOS",
+          "min": "100000",
+          "max": "700000",
+          "disponible": "8277.59"
         }
       ]
     },
     "compra": {
-      "promedio": 1019.1398,
+      "promedio": 1020.62,
       "minimo": 1010.2,
-      "maximo": 1024.499,
+      "maximo": 1027.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -75,28 +75,28 @@
           "disponible": "2.64"
         },
         {
-          "precio": 1021.0,
+          "precio": 1023.0,
           "comerciante": "imp2p",
           "min": "5000000",
           "max": "8000000",
-          "disponible": "11078.74"
+          "disponible": "5097.50"
         },
         {
-          "precio": 1024.0,
-          "comerciante": "CarlosProgress",
-          "min": "10000",
-          "max": "11000",
-          "disponible": "79.64"
+          "precio": 1026.9,
+          "comerciante": "Thefiurerth",
+          "min": "500000",
+          "max": "4000000",
+          "disponible": "501.24"
         },
         {
-          "precio": 1024.499,
-          "comerciante": "Notorio-",
-          "min": "36450000",
-          "max": "100000000",
-          "disponible": "53320.09"
+          "precio": 1027.0,
+          "comerciante": "MatheusP2P-",
+          "min": "400000",
+          "max": "467100",
+          "disponible": "453.78"
         }
       ]
     }
   },
-  "brecha_pct": 23.39
+  "brecha_pct": 14.11
 }
