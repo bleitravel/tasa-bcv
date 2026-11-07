@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-11-06T21:39:38+00:00",
-  "actualizado_ve": "2026-11-06T17:39:38-04:00",
+  "actualizado_utc": "2026-11-07T01:22:32+00:00",
+  "actualizado_ve": "2026-11-06T21:22:32-04:00",
   "bcv": {
     "usd": 897.5383,
     "eur": 1001.18602288,
@@ -10,54 +10,54 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1021.6598,
+    "referencia": 1107.437,
     "venta": {
-      "promedio": 1021.6598,
-      "minimo": 1021.499,
-      "maximo": 1022.0,
+      "promedio": 1107.437,
+      "minimo": 1025.55,
+      "maximo": 1434.035,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1022.0,
-          "comerciante": "DOCTOR_CAMBIO",
-          "min": "36450000",
-          "max": "1380000000",
-          "disponible": "200000.00"
+          "precio": 1434.035,
+          "comerciante": "eltripolitanop2p",
+          "min": "32000",
+          "max": "14000000",
+          "disponible": "100.00"
         },
         {
-          "precio": 1021.7,
-          "comerciante": "IngCryptos",
-          "min": "3000000",
-          "max": "36450000",
-          "disponible": "48658.96"
+          "precio": 1026.0,
+          "comerciante": "被放逐的狐狸",
+          "min": "5133800",
+          "max": "5133801",
+          "disponible": "6000.00"
         },
         {
-          "precio": 1021.6,
-          "comerciante": "TheOchoa",
+          "precio": 1026.0,
+          "comerciante": "Fiorecoin",
+          "min": "7580000",
+          "max": "7580001",
+          "disponible": "7500.00"
+        },
+        {
+          "precio": 1025.6,
+          "comerciante": "jaigom068",
           "min": "500000",
-          "max": "36450000",
-          "disponible": "48600.06"
+          "max": "4000000",
+          "disponible": "2656.54"
         },
         {
-          "precio": 1021.5,
-          "comerciante": "EL-EXTRANJERO",
-          "min": "20000000",
-          "max": "36450000",
-          "disponible": "80000.00"
-        },
-        {
-          "precio": 1021.499,
-          "comerciante": "angelchacon",
-          "min": "15000000",
-          "max": "36450000",
-          "disponible": "80000.00"
+          "precio": 1025.55,
+          "comerciante": "REA_PRO",
+          "min": "900000",
+          "max": "36000000",
+          "disponible": "894.99"
         }
       ]
     },
     "compra": {
-      "promedio": 1015.5996,
+      "promedio": 1019.1398,
       "minimo": 1010.2,
-      "maximo": 1018.898,
+      "maximo": 1024.499,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,13 +68,6 @@
           "disponible": "3.19"
         },
         {
-          "precio": 1015.9,
-          "comerciante": "José Marrufo",
-          "min": "500",
-          "max": "400000",
-          "disponible": "128.00"
-        },
-        {
           "precio": 1016.0,
           "comerciante": "b3nzema9",
           "min": "300",
@@ -82,21 +75,28 @@
           "disponible": "2.64"
         },
         {
-          "precio": 1017.0,
-          "comerciante": "Empanadasalajillo",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "0.78"
+          "precio": 1021.0,
+          "comerciante": "imp2p",
+          "min": "5000000",
+          "max": "8000000",
+          "disponible": "11078.74"
         },
         {
-          "precio": 1018.898,
-          "comerciante": "MonkyCrypto33",
-          "min": "300",
-          "max": "123611",
-          "disponible": "0.45"
+          "precio": 1024.0,
+          "comerciante": "CarlosProgress",
+          "min": "10000",
+          "max": "11000",
+          "disponible": "79.64"
+        },
+        {
+          "precio": 1024.499,
+          "comerciante": "Notorio-",
+          "min": "36450000",
+          "max": "100000000",
+          "disponible": "53320.09"
         }
       ]
     }
   },
-  "brecha_pct": 13.83
+  "brecha_pct": 23.39
 }
