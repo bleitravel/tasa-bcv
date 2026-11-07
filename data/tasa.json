@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-11-07T18:55:20+00:00",
-  "actualizado_ve": "2026-11-07T14:55:20-04:00",
+  "actualizado_utc": "2026-11-07T22:24:36+00:00",
+  "actualizado_ve": "2026-11-07T18:24:36-04:00",
   "bcv": {
     "usd": 897.5383,
     "eur": 1001.18602288,
@@ -10,54 +10,54 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1036.6,
+    "referencia": 1037.2408,
     "venta": {
-      "promedio": 1036.6,
-      "minimo": 1031.5,
-      "maximo": 1048.0,
+      "promedio": 1037.2408,
+      "minimo": 1036.0,
+      "maximo": 1040.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1048.0,
-          "comerciante": "MARCELLAP",
-          "min": "1048000",
-          "max": "4000000",
-          "disponible": "26115.30"
-        },
-        {
           "precio": 1040.0,
-          "comerciante": "User-9c15d",
-          "min": "1150000",
-          "max": "1170000",
-          "disponible": "1200.00"
+          "comerciante": "Cambio_rxx",
+          "min": "200000",
+          "max": "4000000",
+          "disponible": "230.00"
         },
         {
-          "precio": 1032.0,
-          "comerciante": "P2P-d40c8dju",
-          "min": "1000000",
-          "max": "1035096",
-          "disponible": "1003.00"
+          "precio": 1037.2,
+          "comerciante": "CRIPTO-2026",
+          "min": "10000000",
+          "max": "36450000",
+          "disponible": "70358.66"
         },
         {
-          "precio": 1031.5,
-          "comerciante": "TradeLion2026",
-          "min": "37000000",
-          "max": "300000000",
-          "disponible": "300000.00"
+          "precio": 1037.0,
+          "comerciante": "JoseParedez",
+          "min": "7000000",
+          "max": "36450000",
+          "disponible": "80000.00"
         },
         {
-          "precio": 1031.5,
+          "precio": 1036.004,
+          "comerciante": "TOPlevelS",
+          "min": "5000000",
+          "max": "28646902",
+          "disponible": "50000.00"
+        },
+        {
+          "precio": 1036.0,
           "comerciante": "黑块黑块",
-          "min": "8000000",
+          "min": "4000000",
           "max": "30000000",
-          "disponible": "66864.89"
+          "disponible": "20000.00"
         }
       ]
     },
     "compra": {
-      "promedio": 1023.115,
+      "promedio": 1024.44,
       "minimo": 1010.2,
-      "maximo": 1026.999,
+      "maximo": 1029.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "3.19"
         },
         {
-          "precio": 1024.9,
-          "comerciante": "javi_0812",
-          "min": "300",
-          "max": "180000",
-          "disponible": "1.91"
+          "precio": 1027.0,
+          "comerciante": "Eljack27",
+          "min": "100000",
+          "max": "103000",
+          "disponible": "99.75"
         },
         {
-          "precio": 1026.699,
-          "comerciante": "Zuly1760",
-          "min": "300",
-          "max": "300000",
-          "disponible": "0.31"
+          "precio": 1028.0,
+          "comerciante": "gonzbrh",
+          "min": "10000000",
+          "max": "36450000",
+          "disponible": "11893.09"
         },
         {
-          "precio": 1026.777,
-          "comerciante": "Victor_SG",
-          "min": "300",
-          "max": "100000",
-          "disponible": "1.03"
+          "precio": 1028.0,
+          "comerciante": "Tioricky",
+          "min": "485000",
+          "max": "485100",
+          "disponible": "471.82"
         },
         {
-          "precio": 1026.999,
-          "comerciante": "Basstew",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "0.83"
+          "precio": 1029.0,
+          "comerciante": "Aaron201",
+          "min": "4000000",
+          "max": "36450000",
+          "disponible": "4001.80"
         }
       ]
     }
   },
-  "brecha_pct": 15.49
+  "brecha_pct": 15.57
 }
