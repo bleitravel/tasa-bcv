@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-11-07T07:23:35+00:00",
-  "actualizado_ve": "2026-11-07T03:23:35-04:00",
+  "actualizado_utc": "2026-11-07T14:13:29+00:00",
+  "actualizado_ve": "2026-11-07T10:13:29-04:00",
   "bcv": {
     "usd": 897.5383,
     "eur": 1001.18602288,
@@ -10,54 +10,54 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1024.1676,
+    "referencia": 1026.02,
     "venta": {
-      "promedio": 1024.1676,
-      "minimo": 1023.201,
-      "maximo": 1025.0,
+      "promedio": 1026.02,
+      "minimo": 1025.7,
+      "maximo": 1026.2,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1025.0,
-          "comerciante": "TheOchoa",
-          "min": "1000000",
-          "max": "36450000",
-          "disponible": "14129.90"
-        },
-        {
-          "precio": 1024.5,
-          "comerciante": "蒙神祝福者",
-          "min": "400000",
-          "max": "36000000",
-          "disponible": "49218.75"
-        },
-        {
-          "precio": 1024.126,
-          "comerciante": "jmdavidp2p",
-          "min": "39000",
-          "max": "59000",
-          "disponible": "50.06"
-        },
-        {
-          "precio": 1024.011,
-          "comerciante": "我哋要求",
+          "precio": 1026.2,
+          "comerciante": "selah1",
           "min": "500000",
-          "max": "10602000",
-          "disponible": "9376.45"
+          "max": "4000000",
+          "disponible": "9428.09"
         },
         {
-          "precio": 1023.201,
-          "comerciante": "CONFIABLE-SERVICIOS",
-          "min": "100000",
-          "max": "700000",
-          "disponible": "8277.59"
+          "precio": 1026.1,
+          "comerciante": "TheOchoa",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "54510.64"
+        },
+        {
+          "precio": 1026.1,
+          "comerciante": "Cryptomed7",
+          "min": "15250",
+          "max": "15300",
+          "disponible": "100.00"
+        },
+        {
+          "precio": 1026.0,
+          "comerciante": "Julian",
+          "min": "200000",
+          "max": "4000000",
+          "disponible": "256.04"
+        },
+        {
+          "precio": 1025.7,
+          "comerciante": "Saw_01x",
+          "min": "800000",
+          "max": "4000000",
+          "disponible": "2640.60"
         }
       ]
     },
     "compra": {
-      "promedio": 1020.62,
+      "promedio": 1021.3,
       "minimo": 1010.2,
-      "maximo": 1027.0,
+      "maximo": 1024.8,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "3.19"
         },
         {
-          "precio": 1016.0,
-          "comerciante": "b3nzema9",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "2.64"
-        },
-        {
           "precio": 1023.0,
-          "comerciante": "imp2p",
-          "min": "5000000",
-          "max": "8000000",
-          "disponible": "5097.50"
+          "comerciante": "mileisicasanova",
+          "min": "1000",
+          "max": "10000",
+          "disponible": "89.98"
         },
         {
-          "precio": 1026.9,
-          "comerciante": "Thefiurerth",
-          "min": "500000",
+          "precio": 1024.0,
+          "comerciante": "Specione",
+          "min": "60000",
+          "max": "60001",
+          "disponible": "71.15"
+        },
+        {
+          "precio": 1024.5,
+          "comerciante": "yordanys1",
+          "min": "20000",
           "max": "4000000",
-          "disponible": "501.24"
+          "disponible": "159.01"
         },
         {
-          "precio": 1027.0,
-          "comerciante": "MatheusP2P-",
-          "min": "400000",
-          "max": "467100",
-          "disponible": "453.78"
+          "precio": 1024.8,
+          "comerciante": "Michang",
+          "min": "20000",
+          "max": "4000000",
+          "disponible": "109.72"
         }
       ]
     }
   },
-  "brecha_pct": 14.11
+  "brecha_pct": 14.31
 }
