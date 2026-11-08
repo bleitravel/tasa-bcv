@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-11-08T15:24:50+00:00",
-  "actualizado_ve": "2026-11-08T11:24:50-04:00",
+  "actualizado_utc": "2026-11-08T19:48:24+00:00",
+  "actualizado_ve": "2026-11-08T15:48:24-04:00",
   "bcv": {
     "usd": 897.5383,
     "eur": 1001.18602288,
@@ -10,54 +10,54 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1035.02,
+    "referencia": 1038.3202,
     "venta": {
-      "promedio": 1035.02,
-      "minimo": 1035.0,
-      "maximo": 1035.1,
+      "promedio": 1038.3202,
+      "minimo": 1037.5,
+      "maximo": 1039.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1035.1,
+          "precio": 1039.0,
+          "comerciante": "CRIPTO-2026",
+          "min": "36450000",
+          "max": "100000000",
+          "disponible": "112341.17"
+        },
+        {
+          "precio": 1038.6,
           "comerciante": "DOCTOR_CAMBIO",
-          "min": "7000000",
+          "min": "15000000",
           "max": "36450000",
-          "disponible": "50000.00"
+          "disponible": "60000.00"
         },
         {
-          "precio": 1035.0,
-          "comerciante": "TheOchoa",
-          "min": "2000000",
-          "max": "36450000",
-          "disponible": "48572.00"
+          "precio": 1038.501,
+          "comerciante": "黑块黑块",
+          "min": "15000000",
+          "max": "30000000",
+          "disponible": "42536.88"
         },
         {
-          "precio": 1035.0,
-          "comerciante": "ArepaConCafe",
-          "min": "3000000",
-          "max": "36450000",
-          "disponible": "21346.31"
+          "precio": 1038.0,
+          "comerciante": "IXOYECOIN",
+          "min": "2810000",
+          "max": "2811000",
+          "disponible": "2790.06"
         },
         {
-          "precio": 1035.0,
-          "comerciante": "P2P-103c6abl",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "1.21"
-        },
-        {
-          "precio": 1035.0,
-          "comerciante": "TuPesadilla008",
-          "min": "1650000",
+          "precio": 1037.5,
+          "comerciante": "Brawcoins",
+          "min": "10000000",
           "max": "36450000",
-          "disponible": "1594.21"
+          "disponible": "80000.00"
         }
       ]
     },
     "compra": {
-      "promedio": 1028.198,
+      "promedio": 1029.5178,
       "minimo": 1010.2,
-      "maximo": 1033.99,
+      "maximo": 1034.899,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "3.19"
         },
         {
-          "precio": 1030.0,
-          "comerciante": "Victorup8",
-          "min": "15524",
-          "max": "15525",
+          "precio": 1033.99,
+          "comerciante": "Cambios21",
+          "min": "19000",
+          "max": "149000",
           "disponible": "99.75"
         },
         {
-          "precio": 1033.0,
-          "comerciante": "andresjmorenom",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "1.47"
-        },
-        {
-          "precio": 1033.8,
-          "comerciante": "JoscarX",
-          "min": "2000",
-          "max": "15000",
-          "disponible": "85.25"
-        },
-        {
-          "precio": 1033.99,
-          "comerciante": "TheEspartano",
-          "min": "10000",
+          "precio": 1034.0,
+          "comerciante": "CriptoAleM",
+          "min": "450000",
           "max": "500000",
-          "disponible": "1467.09"
+          "disponible": "1012.71"
+        },
+        {
+          "precio": 1034.5,
+          "comerciante": "resu2k",
+          "min": "2900000",
+          "max": "5000000",
+          "disponible": "3028.32"
+        },
+        {
+          "precio": 1034.899,
+          "comerciante": "FastUSDTMc",
+          "min": "1000000",
+          "max": "14800100",
+          "disponible": "3309.35"
         }
       ]
     }
   },
-  "brecha_pct": 15.32
+  "brecha_pct": 15.69
 }
