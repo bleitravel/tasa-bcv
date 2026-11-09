@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-11-09T02:47:08+00:00",
-  "actualizado_ve": "2026-11-08T22:47:08-04:00",
+  "actualizado_utc": "2026-11-09T10:29:58+00:00",
+  "actualizado_ve": "2026-11-09T06:29:58-04:00",
   "bcv": {
     "usd": 897.5383,
     "eur": 1001.18602288,
@@ -10,54 +10,54 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1035.1014,
+    "referencia": 1032.33,
     "venta": {
-      "promedio": 1035.1014,
-      "minimo": 1035.0,
-      "maximo": 1035.257,
+      "promedio": 1032.33,
+      "minimo": 1031.4,
+      "maximo": 1033.8,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1035.257,
-          "comerciante": "TOPlevelS",
-          "min": "7000000",
-          "max": "36000000",
-          "disponible": "48738.40"
-        },
-        {
-          "precio": 1035.25,
-          "comerciante": "Rapidflorio84",
-          "min": "7000000",
-          "max": "36450000",
-          "disponible": "42050.89"
-        },
-        {
-          "precio": 1035.0,
-          "comerciante": "P2P-335ab5ou",
-          "min": "13080",
-          "max": "13086",
-          "disponible": "100.00"
-        },
-        {
-          "precio": 1035.0,
-          "comerciante": "SuterlanAvanza",
+          "precio": 1033.8,
+          "comerciante": "talepagos",
           "min": "500000",
-          "max": "4000000",
-          "disponible": "5946.34"
+          "max": "5880000",
+          "disponible": "1227.01"
         },
         {
-          "precio": 1035.0,
-          "comerciante": "安全与信任",
+          "precio": 1033.0,
+          "comerciante": "Odiseo_09",
           "min": "10000000",
           "max": "36450000",
-          "disponible": "42002.43"
+          "disponible": "80000.00"
+        },
+        {
+          "precio": 1032.0,
+          "comerciante": "J-Carlos_NR",
+          "min": "100000",
+          "max": "200000",
+          "disponible": "102.73"
+        },
+        {
+          "precio": 1031.45,
+          "comerciante": "Spider-Nova",
+          "min": "1000000",
+          "max": "36450000",
+          "disponible": "1100.00"
+        },
+        {
+          "precio": 1031.4,
+          "comerciante": "CambioVeloz_15",
+          "min": "1500000",
+          "max": "36450000",
+          "disponible": "28600.06"
         }
       ]
     },
     "compra": {
-      "promedio": 1028.79,
+      "promedio": 1030.22,
       "minimo": 1010.2,
-      "maximo": 1034.9,
+      "maximo": 1035.5,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "3.19"
         },
         {
-          "precio": 1031.05,
-          "comerciante": "KennyR83",
+          "precio": 1035.0,
+          "comerciante": "b3nzema9",
           "min": "300",
-          "max": "100000",
-          "disponible": "14.51"
+          "max": "4000000",
+          "disponible": "0.91"
         },
         {
-          "precio": 1033.3,
-          "comerciante": "exchanHk",
-          "min": "100000",
-          "max": "102000",
+          "precio": 1035.0,
+          "comerciante": "AlejandroWko",
+          "min": "90000",
+          "max": "90200",
           "disponible": "99.75"
         },
         {
-          "precio": 1034.5,
-          "comerciante": "Servicios-Criptos-27",
-          "min": "1000000",
-          "max": "14000000",
-          "disponible": "998.25"
+          "precio": 1035.4,
+          "comerciante": "fabita13",
+          "min": "1000",
+          "max": "520000",
+          "disponible": "199.50"
         },
         {
-          "precio": 1034.9,
-          "comerciante": "Eudis1012",
-          "min": "1100",
-          "max": "4000000",
-          "disponible": "1.17"
+          "precio": 1035.5,
+          "comerciante": "CambiosLM23",
+          "min": "92999",
+          "max": "93000",
+          "disponible": "99.75"
         }
       ]
     }
   },
-  "brecha_pct": 15.33
+  "brecha_pct": 15.02
 }
