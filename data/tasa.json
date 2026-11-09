@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-11-08T23:14:31+00:00",
-  "actualizado_ve": "2026-11-08T19:14:31-04:00",
+  "actualizado_utc": "2026-11-09T02:47:08+00:00",
+  "actualizado_ve": "2026-11-08T22:47:08-04:00",
   "bcv": {
     "usd": 897.5383,
     "eur": 1001.18602288,
@@ -10,54 +10,54 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1035.702,
+    "referencia": 1035.1014,
     "venta": {
-      "promedio": 1035.702,
-      "minimo": 1035.5,
-      "maximo": 1036.0,
+      "promedio": 1035.1014,
+      "minimo": 1035.0,
+      "maximo": 1035.257,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1036.0,
-          "comerciante": "CRIPTO-2026",
-          "min": "15000000",
-          "max": "36450000",
-          "disponible": "60000.06"
+          "precio": 1035.257,
+          "comerciante": "TOPlevelS",
+          "min": "7000000",
+          "max": "36000000",
+          "disponible": "48738.40"
         },
         {
-          "precio": 1036.0,
-          "comerciante": "THE_BOSS_962",
-          "min": "295000",
-          "max": "36450000",
-          "disponible": "284.75"
-        },
-        {
-          "precio": 1035.51,
+          "precio": 1035.25,
           "comerciante": "Rapidflorio84",
           "min": "7000000",
           "max": "36450000",
-          "disponible": "80000.00"
+          "disponible": "42050.89"
         },
         {
-          "precio": 1035.5,
-          "comerciante": "Brawcoins",
+          "precio": 1035.0,
+          "comerciante": "P2P-335ab5ou",
+          "min": "13080",
+          "max": "13086",
+          "disponible": "100.00"
+        },
+        {
+          "precio": 1035.0,
+          "comerciante": "SuterlanAvanza",
+          "min": "500000",
+          "max": "4000000",
+          "disponible": "5946.34"
+        },
+        {
+          "precio": 1035.0,
+          "comerciante": "安全与信任",
           "min": "10000000",
           "max": "36450000",
-          "disponible": "58766.53"
-        },
-        {
-          "precio": 1035.5,
-          "comerciante": "Inversiones-ADSC",
-          "min": "5000000",
-          "max": "36450000",
-          "disponible": "69721.12"
+          "disponible": "42002.43"
         }
       ]
     },
     "compra": {
-      "promedio": 1027.36,
+      "promedio": 1028.79,
       "minimo": 1010.2,
-      "maximo": 1032.5,
+      "maximo": 1034.9,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "3.19"
         },
         {
-          "precio": 1030.1,
-          "comerciante": "Gollo98",
-          "min": "40000",
-          "max": "510822",
-          "disponible": "46.04"
+          "precio": 1031.05,
+          "comerciante": "KennyR83",
+          "min": "300",
+          "max": "100000",
+          "disponible": "14.51"
         },
         {
-          "precio": 1032.0,
-          "comerciante": "Aaron201",
-          "min": "4000000",
-          "max": "36450000",
-          "disponible": "3992.01"
+          "precio": 1033.3,
+          "comerciante": "exchanHk",
+          "min": "100000",
+          "max": "102000",
+          "disponible": "99.75"
         },
         {
-          "precio": 1032.0,
-          "comerciante": "Cambiosnahy",
-          "min": "20000",
-          "max": "30000",
-          "disponible": "79.69"
+          "precio": 1034.5,
+          "comerciante": "Servicios-Criptos-27",
+          "min": "1000000",
+          "max": "14000000",
+          "disponible": "998.25"
         },
         {
-          "precio": 1032.5,
-          "comerciante": "gregorioferrer",
-          "min": "200000",
-          "max": "202338",
-          "disponible": "195.29"
+          "precio": 1034.9,
+          "comerciante": "Eudis1012",
+          "min": "1100",
+          "max": "4000000",
+          "disponible": "1.17"
         }
       ]
     }
   },
-  "brecha_pct": 15.39
+  "brecha_pct": 15.33
 }
