@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-11-10T03:05:53+00:00",
-  "actualizado_ve": "2026-11-09T23:05:53-04:00",
+  "actualizado_utc": "2026-11-10T11:26:54+00:00",
+  "actualizado_ve": "2026-11-10T07:26:54-04:00",
   "bcv": {
     "usd": 899.2705,
     "eur": 1006.60742688,
@@ -10,69 +10,69 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1054.314,
+    "referencia": 1055.0042,
     "venta": {
-      "promedio": 1054.314,
-      "minimo": 1054.0,
-      "maximo": 1054.8,
+      "promedio": 1055.0042,
+      "minimo": 1055.0,
+      "maximo": 1055.01,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1054.8,
-          "comerciante": "Ateneaaa",
-          "min": "2000000",
-          "max": "27777564",
-          "disponible": "15030.49"
+          "precio": 1055.01,
+          "comerciante": "josealtu",
+          "min": "1500000",
+          "max": "30000000",
+          "disponible": "10005.00"
         },
         {
-          "precio": 1054.5,
-          "comerciante": "-The_Dark_Knight-",
-          "min": "480000",
-          "max": "36450000",
-          "disponible": "1644.00"
+          "precio": 1055.01,
+          "comerciante": "-TobiramaSenju",
+          "min": "400000",
+          "max": "26350000",
+          "disponible": "4085.12"
         },
         {
-          "precio": 1054.25,
-          "comerciante": "P2P-8401481r",
+          "precio": 1055.001,
+          "comerciante": "ServicioGT",
+          "min": "600000",
+          "max": "36000000",
+          "disponible": "6543.13"
+        },
+        {
+          "precio": 1055.0,
+          "comerciante": "Bernaaaaaaa",
           "min": "500000",
-          "max": "4000000",
-          "disponible": "21685.19"
+          "max": "36000000",
+          "disponible": "16138.33"
         },
         {
-          "precio": 1054.02,
-          "comerciante": "VISÓN CRIPTØ",
-          "min": "5000000",
+          "precio": 1055.0,
+          "comerciante": "CAMBIOSJFG",
+          "min": "400000",
           "max": "36450000",
-          "disponible": "48469.36"
-        },
-        {
-          "precio": 1054.0,
-          "comerciante": "Buey",
-          "min": "75000",
-          "max": "75001",
-          "disponible": "100.00"
+          "disponible": "9506.64"
         }
       ]
     },
     "compra": {
-      "promedio": 1055.58,
-      "minimo": 1054.0,
-      "maximo": 1056.5,
+      "promedio": 1056.074,
+      "minimo": 1055.0,
+      "maximo": 1057.19,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1054.0,
-          "comerciante": "ShaolinMcbo",
-          "min": "300",
-          "max": "666665",
-          "disponible": "0.29"
+          "precio": 1055.0,
+          "comerciante": "User-f9258",
+          "min": "100000",
+          "max": "4000000",
+          "disponible": "309.18"
         },
         {
           "precio": 1055.0,
           "comerciante": "ElMuSa30",
-          "min": "3000000",
+          "min": "2000000",
           "max": "36450000",
-          "disponible": "4990.01"
+          "disponible": "2994.01"
         },
         {
           "precio": 1056.0,
@@ -82,21 +82,21 @@
           "disponible": "0.75"
         },
         {
-          "precio": 1056.4,
-          "comerciante": "RocaBit100",
-          "min": "104000",
-          "max": "105000",
-          "disponible": "99.75"
+          "precio": 1057.18,
+          "comerciante": "Vicsuscambios",
+          "min": "3000000",
+          "max": "5000000",
+          "disponible": "4636.37"
         },
         {
-          "precio": 1056.5,
-          "comerciante": "MiguelVenta",
-          "min": "90000",
-          "max": "100000",
-          "disponible": "99.75"
+          "precio": 1057.19,
+          "comerciante": "CambiosToGo",
+          "min": "1000000",
+          "max": "36450000",
+          "disponible": "998.00"
         }
       ]
     }
   },
-  "brecha_pct": 17.24
+  "brecha_pct": 17.32
 }
