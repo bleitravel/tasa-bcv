@@ -1,102 +1,102 @@
 {
-  "actualizado_utc": "2026-11-10T18:44:12+00:00",
-  "actualizado_ve": "2026-11-10T14:44:12-04:00",
+  "actualizado_utc": "2026-11-10T23:47:59+00:00",
+  "actualizado_ve": "2026-11-10T19:47:59-04:00",
   "bcv": {
-    "usd": 899.2705,
-    "eur": 1006.60742688,
-    "fecha_valor": "2026-11-10T00:00:00-04:00"
+    "usd": 901.6175,
+    "eur": 1007.96328412,
+    "fecha_valor": "2026-11-11T00:00:00-04:00"
   },
   "binance_p2p": {
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1076.902,
+    "referencia": 1079.914,
     "venta": {
-      "promedio": 1076.902,
-      "minimo": 1076.51,
-      "maximo": 1077.5,
+      "promedio": 1079.914,
+      "minimo": 1075.6,
+      "maximo": 1095.5,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1077.5,
-          "comerciante": "GG-Cripto96",
-          "min": "3000000",
-          "max": "4000000",
-          "disponible": "20000.00"
+          "precio": 1095.5,
+          "comerciante": "ckrys",
+          "min": "3980000",
+          "max": "3990000",
+          "disponible": "25366.96"
         },
         {
-          "precio": 1077.0,
-          "comerciante": "-AMATERATSU-",
-          "min": "10000000",
+          "precio": 1077.1,
+          "comerciante": "TheOchoa",
+          "min": "7000000",
           "max": "36450000",
-          "disponible": "38858.06"
+          "disponible": "64182.87"
         },
         {
-          "precio": 1076.8,
-          "comerciante": "Support_IAm",
-          "min": "500000",
-          "max": "36450000",
-          "disponible": "9475.40"
-        },
-        {
-          "precio": 1076.7,
-          "comerciante": "SasukeTrader",
-          "min": "6000000",
-          "max": "36450000",
-          "disponible": "15053.29"
-        },
-        {
-          "precio": 1076.51,
-          "comerciante": "EL-EXTRANJERO",
+          "precio": 1075.72,
+          "comerciante": "TH3K1NGP2P",
           "min": "5000000",
           "max": "36450000",
-          "disponible": "40844.62"
+          "disponible": "63104.26"
+        },
+        {
+          "precio": 1075.65,
+          "comerciante": "FlashRaid",
+          "min": "3000000",
+          "max": "36000000",
+          "disponible": "23098.86"
+        },
+        {
+          "precio": 1075.6,
+          "comerciante": "Rufus542",
+          "min": "2000000",
+          "max": "36450000",
+          "disponible": "53558.42"
         }
       ]
     },
     "compra": {
-      "promedio": 1071.4686,
-      "minimo": 1069.999,
-      "maximo": 1072.999,
+      "promedio": 1071.2178,
+      "minimo": 1070.5,
+      "maximo": 1072.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1069.999,
-          "comerciante": "cambioSuramerica1",
-          "min": "25000",
-          "max": "70000",
-          "disponible": "54.88"
+          "precio": 1070.5,
+          "comerciante": "Nerio Gonzalez",
+          "min": "118000",
+          "max": "374728",
+          "disponible": "110.73"
         },
         {
-          "precio": 1070.0,
-          "comerciante": "P2P_LlaveDeRiqueza",
-          "min": "300",
-          "max": "70000",
-          "disponible": "0.47"
+          "precio": 1070.999,
+          "comerciante": "SGeralXchange",
+          "min": "10000",
+          "max": "1010000",
+          "disponible": "151.44"
         },
         {
-          "precio": 1071.998,
-          "comerciante": "L D V M",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "17.50"
+          "precio": 1071.0,
+          "comerciante": "Sterling Kvamme Eiqc",
+          "min": "20000",
+          "max": "107200",
+          "disponible": "25.64"
         },
         {
-          "precio": 1072.347,
-          "comerciante": "guamo-1",
-          "min": "3000000",
-          "max": "36450000",
-          "disponible": "6093.13"
+          "precio": 1071.59,
+          "comerciante": "Pedrodv16",
+          "min": "396480",
+          "max": "396490",
+          "disponible": "370.07"
         },
         {
-          "precio": 1072.999,
-          "comerciante": "ORLAN52",
-          "min": "300",
-          "max": "220000",
-          "disponible": "1.91"
+          "precio": 1072.0,
+          "comerciante": "CambioSofi",
+          "min": "5000",
+          "max": "40000",
+          "disponible": "6.54"
         }
       ]
     }
   },
-  "brecha_pct": 19.75
+  "brecha_pct": 19.78
 }
