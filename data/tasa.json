@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-11-09T20:57:33+00:00",
-  "actualizado_ve": "2026-11-09T16:57:33-04:00",
+  "actualizado_utc": "2026-11-10T03:05:53+00:00",
+  "actualizado_ve": "2026-11-09T23:05:53-04:00",
   "bcv": {
     "usd": 899.2705,
     "eur": 1006.60742688,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1051.974,
+    "referencia": 1054.314,
     "venta": {
-      "promedio": 1051.974,
-      "minimo": 1050.0,
-      "maximo": 1054.07,
+      "promedio": 1054.314,
+      "minimo": 1054.0,
+      "maximo": 1054.8,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1054.07,
-          "comerciante": "Axongroup",
-          "min": "3900000",
-          "max": "3950000",
-          "disponible": "21505.32"
-        },
-        {
-          "precio": 1052.5,
-          "comerciante": "Amaev_cripto",
-          "min": "5000000",
-          "max": "36000000",
-          "disponible": "75073.97"
-        },
-        {
-          "precio": 1052.5,
-          "comerciante": "TheOchoa",
-          "min": "5000000",
-          "max": "36450000",
-          "disponible": "46159.87"
-        },
-        {
-          "precio": 1050.8,
+          "precio": 1054.8,
           "comerciante": "Ateneaaa",
-          "min": "1535500",
-          "max": "1535845",
-          "disponible": "1461.59"
+          "min": "2000000",
+          "max": "27777564",
+          "disponible": "15030.49"
         },
         {
-          "precio": 1050.0,
-          "comerciante": "安全与信任",
-          "min": "3000000",
+          "precio": 1054.5,
+          "comerciante": "-The_Dark_Knight-",
+          "min": "480000",
           "max": "36450000",
-          "disponible": "80000.00"
+          "disponible": "1644.00"
+        },
+        {
+          "precio": 1054.25,
+          "comerciante": "P2P-8401481r",
+          "min": "500000",
+          "max": "4000000",
+          "disponible": "21685.19"
+        },
+        {
+          "precio": 1054.02,
+          "comerciante": "VISÓN CRIPTØ",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "48469.36"
+        },
+        {
+          "precio": 1054.0,
+          "comerciante": "Buey",
+          "min": "75000",
+          "max": "75001",
+          "disponible": "100.00"
         }
       ]
     },
     "compra": {
-      "promedio": 1048.24,
-      "minimo": 1045.0,
-      "maximo": 1049.8,
+      "promedio": 1055.58,
+      "minimo": 1054.0,
+      "maximo": 1056.5,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1045.0,
-          "comerciante": "InversionesFor",
+          "precio": 1054.0,
+          "comerciante": "ShaolinMcbo",
+          "min": "300",
+          "max": "666665",
+          "disponible": "0.29"
+        },
+        {
+          "precio": 1055.0,
+          "comerciante": "ElMuSa30",
+          "min": "3000000",
+          "max": "36450000",
+          "disponible": "4990.01"
+        },
+        {
+          "precio": 1056.0,
+          "comerciante": "Malvina Sedwick N6SR",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "0.75"
+        },
+        {
+          "precio": 1056.4,
+          "comerciante": "RocaBit100",
+          "min": "104000",
+          "max": "105000",
+          "disponible": "99.75"
+        },
+        {
+          "precio": 1056.5,
+          "comerciante": "MiguelVenta",
           "min": "90000",
-          "max": "94000",
-          "disponible": "101.74"
-        },
-        {
-          "precio": 1048.4,
-          "comerciante": "Globalbusinessmxsss",
-          "min": "166074",
-          "max": "166075",
-          "disponible": "159.60"
-        },
-        {
-          "precio": 1049.0,
-          "comerciante": "Raygv",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "0.40"
-        },
-        {
-          "precio": 1049.0,
-          "comerciante": "marcochacon",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "307.55"
-        },
-        {
-          "precio": 1049.8,
-          "comerciante": "INVERSIONES-MYG",
-          "min": "295000",
-          "max": "296000",
-          "disponible": "299.25"
+          "max": "100000",
+          "disponible": "99.75"
         }
       ]
     }
   },
-  "brecha_pct": 16.98
+  "brecha_pct": 17.24
 }
