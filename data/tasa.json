@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-11-11T11:16:41+00:00",
-  "actualizado_ve": "2026-11-11T07:16:41-04:00",
+  "actualizado_utc": "2026-11-11T18:47:00+00:00",
+  "actualizado_ve": "2026-11-11T14:47:00-04:00",
   "bcv": {
     "usd": 901.6175,
     "eur": 1007.96328412,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1077.9802,
+    "referencia": 1091.234,
     "venta": {
-      "promedio": 1077.9802,
-      "minimo": 1076.8,
-      "maximo": 1079.0,
+      "promedio": 1091.234,
+      "minimo": 1069.0,
+      "maximo": 1126.67,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1079.0,
-          "comerciante": "dasainv",
-          "min": "160000",
-          "max": "161000",
-          "disponible": "149.00"
+          "precio": 1126.67,
+          "comerciante": "MundoCambioLT",
+          "min": "500000",
+          "max": "2000000",
+          "disponible": "1787.00"
         },
         {
-          "precio": 1078.1,
-          "comerciante": "GR_SS",
-          "min": "1000000",
+          "precio": 1120.0,
+          "comerciante": "User-1849dakl",
+          "min": "200000",
           "max": "4000000",
-          "disponible": "27043.44"
+          "disponible": "2951.92"
         },
         {
-          "precio": 1078.001,
-          "comerciante": "你就变得更强",
-          "min": "1000000",
-          "max": "17132000",
-          "disponible": "15907.00"
+          "precio": 1070.5,
+          "comerciante": "x88rising",
+          "min": "500000",
+          "max": "4172000",
+          "disponible": "1485.46"
         },
         {
-          "precio": 1078.0,
-          "comerciante": "-Akopan-",
-          "min": "1500000",
-          "max": "34650000",
-          "disponible": "60000.00"
+          "precio": 1070.0,
+          "comerciante": "Trust-Broker",
+          "min": "800000",
+          "max": "36450000",
+          "disponible": "9800.06"
         },
         {
-          "precio": 1076.8,
-          "comerciante": "Deiby oliveros ",
-          "min": "600000",
+          "precio": 1069.0,
+          "comerciante": "KaterinaB_76",
+          "min": "50000",
           "max": "4000000",
-          "disponible": "1500.00"
+          "disponible": "100.00"
         }
       ]
     },
     "compra": {
-      "promedio": 1065.5474,
-      "minimo": 1010.0,
-      "maximo": 1079.99,
+      "promedio": 1066.9734,
+      "minimo": 1063.091,
+      "maximo": 1068.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1010.0,
-          "comerciante": "usaintbolt",
-          "min": "25000",
-          "max": "6598000",
-          "disponible": "1952.64"
+          "precio": 1063.091,
+          "comerciante": "edjaen",
+          "min": "7499",
+          "max": "20000",
+          "disponible": "51.42"
         },
         {
-          "precio": 1079.0,
-          "comerciante": "TopoDigital",
-          "min": "90000",
-          "max": "1000000",
-          "disponible": "299.26"
+          "precio": 1067.877,
+          "comerciante": "CambiosLaReinaGR",
+          "min": "1000",
+          "max": "77700",
+          "disponible": "41.73"
         },
         {
-          "precio": 1079.247,
-          "comerciante": "GuapotoriDex",
-          "min": "21600",
-          "max": "21800",
+          "precio": 1067.899,
+          "comerciante": "MVSairethca",
+          "min": "300",
+          "max": "5000",
+          "disponible": "92.28"
+        },
+        {
+          "precio": 1068.0,
+          "comerciante": "Malvina Sedwick N6SR",
+          "min": "30000",
+          "max": "4000000",
+          "disponible": "59.45"
+        },
+        {
+          "precio": 1068.0,
+          "comerciante": "SOLO_TITULARES_OJO",
+          "min": "1000",
+          "max": "10000",
           "disponible": "99.75"
-        },
-        {
-          "precio": 1079.5,
-          "comerciante": "bcpolo",
-          "min": "193000",
-          "max": "194310",
-          "disponible": "179.55"
-        },
-        {
-          "precio": 1079.99,
-          "comerciante": "ChinquiFX",
-          "min": "100000",
-          "max": "125000",
-          "disponible": "113.37"
         }
       ]
     }
   },
-  "brecha_pct": 19.56
+  "brecha_pct": 21.03
 }
