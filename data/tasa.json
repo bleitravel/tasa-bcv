@@ -1,102 +1,102 @@
 {
-  "actualizado_utc": "2026-11-12T16:58:11+00:00",
-  "actualizado_ve": "2026-11-12T12:58:11-04:00",
+  "actualizado_utc": "2026-11-12T22:32:32+00:00",
+  "actualizado_ve": "2026-11-12T18:32:32-04:00",
   "bcv": {
-    "usd": 904.4485,
-    "eur": 1003.49465523,
-    "fecha_valor": "2026-11-12T00:00:00-04:00"
+    "usd": 911.6243,
+    "eur": 1009.34130871,
+    "fecha_valor": "2026-11-13T00:00:00-04:00"
   },
   "binance_p2p": {
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1077.85,
+    "referencia": 1073.327,
     "venta": {
-      "promedio": 1077.85,
-      "minimo": 1066.15,
-      "maximo": 1120.8,
+      "promedio": 1073.327,
+      "minimo": 1073.0,
+      "maximo": 1073.701,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1120.8,
-          "comerciante": "ReadyCambiosFast-",
-          "min": "700000",
-          "max": "4000000",
-          "disponible": "5000.00"
+          "precio": 1073.701,
+          "comerciante": "JuanFlash",
+          "min": "1000750",
+          "max": "1000787",
+          "disponible": "932.60"
         },
         {
-          "precio": 1069.0,
-          "comerciante": "KaterinaB_76",
-          "min": "50000",
-          "max": "4000000",
-          "disponible": "100.00"
+          "precio": 1073.7,
+          "comerciante": "Hcompa",
+          "min": "10000000",
+          "max": "36450000",
+          "disponible": "70536.41"
         },
         {
-          "precio": 1067.0,
-          "comerciante": "KAIROS333",
-          "min": "700000",
+          "precio": 1073.15,
+          "comerciante": "EL-EXTRANJERO",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "36163.45"
+        },
+        {
+          "precio": 1073.084,
+          "comerciante": "THE_BOSS_962",
+          "min": "3000000",
+          "max": "36450000",
+          "disponible": "32221.40"
+        },
+        {
+          "precio": 1073.0,
+          "comerciante": "zoecambios_21",
+          "min": "1500000",
           "max": "35000000",
-          "disponible": "7363.61"
-        },
-        {
-          "precio": 1066.3,
-          "comerciante": "Anselmi",
-          "min": "200000",
-          "max": "1000000",
-          "disponible": "1160.00"
-        },
-        {
-          "precio": 1066.15,
-          "comerciante": "FUERZA_ELITE",
-          "min": "1090000",
-          "max": "1097000",
-          "disponible": "1030.00"
+          "disponible": "18753.87"
         }
       ]
     },
     "compra": {
-      "promedio": 1063.9736,
-      "minimo": 1060.47,
-      "maximo": 1065.0,
+      "promedio": 1069.14,
+      "minimo": 1068.0,
+      "maximo": 1070.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1060.47,
-          "comerciante": "sagon33",
-          "min": "11000",
-          "max": "4000000",
-          "disponible": "155.66"
+          "precio": 1068.0,
+          "comerciante": "Aaron201",
+          "min": "3500000",
+          "max": "36450000",
+          "disponible": "3566.12"
         },
         {
-          "precio": 1064.5,
-          "comerciante": "cambioswillfashion",
-          "min": "743000",
-          "max": "745500",
-          "disponible": "698.25"
+          "precio": 1068.7,
+          "comerciante": "Cambio-Ideal",
+          "min": "5000",
+          "max": "250000",
+          "disponible": "35.61"
         },
         {
-          "precio": 1064.899,
-          "comerciante": "GlobalBusinessmx",
-          "min": "52200",
-          "max": "52204",
-          "disponible": "51.29"
-        },
-        {
-          "precio": 1064.999,
-          "comerciante": "MVSairethca",
+          "precio": 1069.0,
+          "comerciante": "R-E_A_E-1982",
           "min": "300",
-          "max": "5000",
-          "disponible": "94.32"
+          "max": "4000000",
+          "disponible": "0.80"
         },
         {
-          "precio": 1065.0,
-          "comerciante": "clopez75",
-          "min": "51000",
-          "max": "52000",
-          "disponible": "56.21"
+          "precio": 1070.0,
+          "comerciante": "JoseMuji",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "0.77"
+        },
+        {
+          "precio": 1070.0,
+          "comerciante": "JyG-Exchange-Flash",
+          "min": "500",
+          "max": "131379",
+          "disponible": "0.71"
         }
       ]
     }
   },
-  "brecha_pct": 19.17
+  "brecha_pct": 17.74
 }
