@@ -1,102 +1,102 @@
 {
-  "actualizado_utc": "2026-11-11T18:47:00+00:00",
-  "actualizado_ve": "2026-11-11T14:47:00-04:00",
+  "actualizado_utc": "2026-11-12T01:07:24+00:00",
+  "actualizado_ve": "2026-11-11T21:07:24-04:00",
   "bcv": {
-    "usd": 901.6175,
-    "eur": 1007.96328412,
-    "fecha_valor": "2026-11-11T00:00:00-04:00"
+    "usd": 904.4485,
+    "eur": 1003.49465523,
+    "fecha_valor": "2026-11-12T00:00:00-04:00"
   },
   "binance_p2p": {
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1091.234,
+    "referencia": 1077.201,
     "venta": {
-      "promedio": 1091.234,
-      "minimo": 1069.0,
-      "maximo": 1126.67,
+      "promedio": 1077.201,
+      "minimo": 1076.5,
+      "maximo": 1078.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1126.67,
-          "comerciante": "MundoCambioLT",
-          "min": "500000",
-          "max": "2000000",
-          "disponible": "1787.00"
+          "precio": 1078.0,
+          "comerciante": "JJRS_GAGD",
+          "min": "400000",
+          "max": "429600",
+          "disponible": "400.00"
         },
         {
-          "precio": 1120.0,
-          "comerciante": "User-1849dakl",
-          "min": "200000",
-          "max": "4000000",
-          "disponible": "2951.92"
-        },
-        {
-          "precio": 1070.5,
-          "comerciante": "x88rising",
-          "min": "500000",
-          "max": "4172000",
-          "disponible": "1485.46"
-        },
-        {
-          "precio": 1070.0,
-          "comerciante": "Trust-Broker",
-          "min": "800000",
+          "precio": 1077.5,
+          "comerciante": "安全与信任",
+          "min": "3000000",
           "max": "36450000",
-          "disponible": "9800.06"
+          "disponible": "52830.70"
         },
         {
-          "precio": 1069.0,
-          "comerciante": "KaterinaB_76",
-          "min": "50000",
+          "precio": 1077.005,
+          "comerciante": "Trust-Broker",
+          "min": "2000000",
+          "max": "36450000",
+          "disponible": "35816.24"
+        },
+        {
+          "precio": 1077.0,
+          "comerciante": "P2P-14dd97zg",
+          "min": "1560000",
           "max": "4000000",
-          "disponible": "100.00"
+          "disponible": "18964.72"
+        },
+        {
+          "precio": 1076.5,
+          "comerciante": "--KROMO_GROUP--",
+          "min": "400000",
+          "max": "1500000",
+          "disponible": "22994.25"
         }
       ]
     },
     "compra": {
-      "promedio": 1066.9734,
-      "minimo": 1063.091,
-      "maximo": 1068.0,
+      "promedio": 1075.3196,
+      "minimo": 1074.6,
+      "maximo": 1075.999,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1063.091,
-          "comerciante": "edjaen",
-          "min": "7499",
-          "max": "20000",
-          "disponible": "51.42"
-        },
-        {
-          "precio": 1067.877,
-          "comerciante": "CambiosLaReinaGR",
-          "min": "1000",
-          "max": "77700",
-          "disponible": "41.73"
-        },
-        {
-          "precio": 1067.899,
-          "comerciante": "MVSairethca",
-          "min": "300",
-          "max": "5000",
-          "disponible": "92.28"
-        },
-        {
-          "precio": 1068.0,
-          "comerciante": "Malvina Sedwick N6SR",
-          "min": "30000",
+          "precio": 1074.6,
+          "comerciante": "Isaiasv",
+          "min": "21492",
           "max": "4000000",
-          "disponible": "59.45"
+          "disponible": "124.68"
         },
         {
-          "precio": 1068.0,
-          "comerciante": "SOLO_TITULARES_OJO",
-          "min": "1000",
-          "max": "10000",
+          "precio": 1075.0,
+          "comerciante": "joselindfv",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "1.86"
+        },
+        {
+          "precio": 1075.0,
+          "comerciante": "Angel629",
+          "min": "300",
+          "max": "236500",
+          "disponible": "219.45"
+        },
+        {
+          "precio": 1075.999,
+          "comerciante": "Armonymx",
+          "min": "73220",
+          "max": "73220",
           "disponible": "99.75"
+        },
+        {
+          "precio": 1075.999,
+          "comerciante": "Josebat23",
+          "min": "1000000",
+          "max": "36450000",
+          "disponible": "3890.75"
         }
       ]
     }
   },
-  "brecha_pct": 21.03
+  "brecha_pct": 19.1
 }
