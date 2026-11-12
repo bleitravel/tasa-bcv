@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-11-12T08:29:10+00:00",
-  "actualizado_ve": "2026-11-12T04:29:10-04:00",
+  "actualizado_utc": "2026-11-12T16:58:11+00:00",
+  "actualizado_ve": "2026-11-12T12:58:11-04:00",
   "bcv": {
     "usd": 904.4485,
     "eur": 1003.49465523,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1075.8582,
+    "referencia": 1077.85,
     "venta": {
-      "promedio": 1075.8582,
-      "minimo": 1075.07,
-      "maximo": 1076.1,
+      "promedio": 1077.85,
+      "minimo": 1066.15,
+      "maximo": 1120.8,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1076.1,
-          "comerciante": "Invoker-",
-          "min": "685000",
-          "max": "685001",
-          "disponible": "636.56"
+          "precio": 1120.8,
+          "comerciante": "ReadyCambiosFast-",
+          "min": "700000",
+          "max": "4000000",
+          "disponible": "5000.00"
         },
         {
-          "precio": 1076.061,
-          "comerciante": "kikediaz02",
-          "min": "400000",
-          "max": "36450000",
-          "disponible": "66841.91"
-        },
-        {
-          "precio": 1076.06,
-          "comerciante": "蒙神祝福者",
-          "min": "1000000",
-          "max": "26000000",
-          "disponible": "35860.20"
-        },
-        {
-          "precio": 1076.0,
-          "comerciante": "Zeldash",
-          "min": "15000",
-          "max": "17000",
+          "precio": 1069.0,
+          "comerciante": "KaterinaB_76",
+          "min": "50000",
+          "max": "4000000",
           "disponible": "100.00"
         },
         {
-          "precio": 1075.07,
-          "comerciante": "-Scarface_",
-          "min": "600000",
-          "max": "27987815",
-          "disponible": "3257.05"
+          "precio": 1067.0,
+          "comerciante": "KAIROS333",
+          "min": "700000",
+          "max": "35000000",
+          "disponible": "7363.61"
+        },
+        {
+          "precio": 1066.3,
+          "comerciante": "Anselmi",
+          "min": "200000",
+          "max": "1000000",
+          "disponible": "1160.00"
+        },
+        {
+          "precio": 1066.15,
+          "comerciante": "FUERZA_ELITE",
+          "min": "1090000",
+          "max": "1097000",
+          "disponible": "1030.00"
         }
       ]
     },
     "compra": {
-      "promedio": 1077.5998,
-      "minimo": 1077.0,
-      "maximo": 1078.0,
+      "promedio": 1063.9736,
+      "minimo": 1060.47,
+      "maximo": 1065.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1077.0,
-          "comerciante": "JoseMuji",
-          "min": "300",
+          "precio": 1060.47,
+          "comerciante": "sagon33",
+          "min": "11000",
           "max": "4000000",
-          "disponible": "0.33"
+          "disponible": "155.66"
         },
         {
-          "precio": 1077.0,
-          "comerciante": "Jhoneyker GP5",
-          "min": "100000",
-          "max": "4000000",
-          "disponible": "498.75"
+          "precio": 1064.5,
+          "comerciante": "cambioswillfashion",
+          "min": "743000",
+          "max": "745500",
+          "disponible": "698.25"
         },
         {
-          "precio": 1077.999,
-          "comerciante": "fabita13",
-          "min": "1000",
-          "max": "907675",
-          "disponible": "839.90"
+          "precio": 1064.899,
+          "comerciante": "GlobalBusinessmx",
+          "min": "52200",
+          "max": "52204",
+          "disponible": "51.29"
         },
         {
-          "precio": 1078.0,
-          "comerciante": "vicentt26",
+          "precio": 1064.999,
+          "comerciante": "MVSairethca",
           "min": "300",
-          "max": "107000",
-          "disponible": "0.38"
+          "max": "5000",
+          "disponible": "94.32"
         },
         {
-          "precio": 1078.0,
-          "comerciante": "Albert_Chavez26",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "0.39"
+          "precio": 1065.0,
+          "comerciante": "clopez75",
+          "min": "51000",
+          "max": "52000",
+          "disponible": "56.21"
         }
       ]
     }
   },
-  "brecha_pct": 18.95
+  "brecha_pct": 19.17
 }
