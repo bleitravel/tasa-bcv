@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-11-13T10:37:13+00:00",
-  "actualizado_ve": "2026-11-13T06:37:13-04:00",
+  "actualizado_utc": "2026-11-13T18:13:10+00:00",
+  "actualizado_ve": "2026-11-13T14:13:10-04:00",
   "bcv": {
     "usd": 911.6243,
     "eur": 1009.34130871,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1073.93,
+    "referencia": 1055.1898,
     "venta": {
-      "promedio": 1073.93,
-      "minimo": 1073.5,
-      "maximo": 1075.0,
+      "promedio": 1055.1898,
+      "minimo": 1050.0,
+      "maximo": 1069.95,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1075.0,
-          "comerciante": "JJRS_GAGD",
-          "min": "1500000",
-          "max": "1505000",
-          "disponible": "1400.00"
+          "precio": 1069.95,
+          "comerciante": "KaterinaB_76",
+          "min": "50000",
+          "max": "4000000",
+          "disponible": "100.00"
         },
         {
-          "precio": 1074.0,
-          "comerciante": "EMTRADECHANGE69",
+          "precio": 1055.999,
+          "comerciante": "In_God-I_trust",
+          "min": "50000",
+          "max": "8000000",
+          "disponible": "14533.91"
+        },
+        {
+          "precio": 1050.0,
+          "comerciante": "P2P-741351go",
+          "min": "1000000",
+          "max": "4000000",
+          "disponible": "1000.00"
+        },
+        {
+          "precio": 1050.0,
+          "comerciante": "P2P-f8fe9dsn",
+          "min": "1050000",
+          "max": "3150000",
+          "disponible": "3000.00"
+        },
+        {
+          "precio": 1050.0,
+          "comerciante": "LeonBlanco11",
           "min": "500000",
           "max": "4000000",
-          "disponible": "2000.12"
-        },
-        {
-          "precio": 1073.6,
-          "comerciante": "User-95450",
-          "min": "800000",
-          "max": "25000000",
-          "disponible": "5990.00"
-        },
-        {
-          "precio": 1073.55,
-          "comerciante": "彡ReinaPepiadaCoin彡",
-          "min": "1500000",
-          "max": "36450000",
-          "disponible": "21749.73"
-        },
-        {
-          "precio": 1073.5,
-          "comerciante": "ConfianzaseguraP2P",
-          "min": "500000",
-          "max": "1000000",
-          "disponible": "5700.00"
+          "disponible": "4500.00"
         }
       ]
     },
     "compra": {
-      "promedio": 1071.368,
-      "minimo": 1055.54,
-      "maximo": 1075.9,
+      "promedio": 1048.9,
+      "minimo": 1048.75,
+      "maximo": 1049.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1055.54,
-          "comerciante": "P2P-ElMejorCambio",
-          "min": "300",
-          "max": "301",
-          "disponible": "99.75"
+          "precio": 1048.75,
+          "comerciante": "EXCHANGE-PRO",
+          "min": "2000000",
+          "max": "36450000",
+          "disponible": "13480.58"
         },
         {
-          "precio": 1074.9,
-          "comerciante": "tucambioseguro",
-          "min": "90000",
-          "max": "4000000",
-          "disponible": "698.25"
+          "precio": 1048.8,
+          "comerciante": "CDanielgg10",
+          "min": "10000000",
+          "max": "30000000",
+          "disponible": "20273.09"
         },
         {
-          "precio": 1075.0,
-          "comerciante": "ALIRIOXXL",
-          "min": "2720000",
-          "max": "4000000",
-          "disponible": "2533.25"
+          "precio": 1048.95,
+          "comerciante": "AENETEACHEOENEYE",
+          "min": "3000000",
+          "max": "9000000",
+          "disponible": "7986.02"
         },
         {
-          "precio": 1075.5,
-          "comerciante": "Rick",
-          "min": "30000",
-          "max": "4000000",
-          "disponible": "179.60"
+          "precio": 1049.0,
+          "comerciante": "Daniel2108",
+          "min": "4000",
+          "max": "187287",
+          "disponible": "4.04"
         },
         {
-          "precio": 1075.9,
-          "comerciante": "Davidtigre42",
-          "min": "25000",
-          "max": "720000",
-          "disponible": "380.91"
+          "precio": 1049.0,
+          "comerciante": "ChangerExpress",
+          "min": "1200000",
+          "max": "2100000",
+          "disponible": "2635.04"
         }
       ]
     }
   },
-  "brecha_pct": 17.8
+  "brecha_pct": 15.75
 }
