@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-11-12T22:32:32+00:00",
-  "actualizado_ve": "2026-11-12T18:32:32-04:00",
+  "actualizado_utc": "2026-11-13T02:59:43+00:00",
+  "actualizado_ve": "2026-11-12T22:59:43-04:00",
   "bcv": {
     "usd": 911.6243,
     "eur": 1009.34130871,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1073.327,
+    "referencia": 1077.7022,
     "venta": {
-      "promedio": 1073.327,
-      "minimo": 1073.0,
-      "maximo": 1073.701,
+      "promedio": 1077.7022,
+      "minimo": 1074.51,
+      "maximo": 1087.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1073.701,
-          "comerciante": "JuanFlash",
-          "min": "1000750",
-          "max": "1000787",
-          "disponible": "932.60"
+          "precio": 1087.0,
+          "comerciante": "User-6193a",
+          "min": "4399",
+          "max": "4400",
+          "disponible": "100.00"
         },
         {
-          "precio": 1073.7,
-          "comerciante": "Hcompa",
+          "precio": 1077.0,
+          "comerciante": "User-2347904b",
+          "min": "1000",
+          "max": "2000",
+          "disponible": "99.08"
+        },
+        {
+          "precio": 1075.001,
+          "comerciante": "Condor_2",
+          "min": "300000",
+          "max": "1000000",
+          "disponible": "4700.06"
+        },
+        {
+          "precio": 1075.0,
+          "comerciante": "JJRS_GAGD",
+          "min": "1500000",
+          "max": "1505000",
+          "disponible": "1400.00"
+        },
+        {
+          "precio": 1074.51,
+          "comerciante": "-TSxRV-",
           "min": "10000000",
           "max": "36450000",
-          "disponible": "70536.41"
-        },
-        {
-          "precio": 1073.15,
-          "comerciante": "EL-EXTRANJERO",
-          "min": "5000000",
-          "max": "36450000",
-          "disponible": "36163.45"
-        },
-        {
-          "precio": 1073.084,
-          "comerciante": "THE_BOSS_962",
-          "min": "3000000",
-          "max": "36450000",
-          "disponible": "32221.40"
-        },
-        {
-          "precio": 1073.0,
-          "comerciante": "zoecambios_21",
-          "min": "1500000",
-          "max": "35000000",
-          "disponible": "18753.87"
+          "disponible": "80000.00"
         }
       ]
     },
     "compra": {
-      "promedio": 1069.14,
-      "minimo": 1068.0,
-      "maximo": 1070.0,
+      "promedio": 1075.2598,
+      "minimo": 1074.999,
+      "maximo": 1075.8,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1068.0,
-          "comerciante": "Aaron201",
-          "min": "3500000",
+          "precio": 1074.999,
+          "comerciante": "CRIPTO--PRO",
+          "min": "1000000",
+          "max": "4000000",
+          "disponible": "3894.15"
+        },
+        {
+          "precio": 1075.0,
+          "comerciante": "ALIRIOXXL",
+          "min": "2720000",
+          "max": "4000000",
+          "disponible": "2533.25"
+        },
+        {
+          "precio": 1075.0,
+          "comerciante": "CambiosGrupoGM",
+          "min": "1500000",
+          "max": "2881850",
+          "disponible": "1409.94"
+        },
+        {
+          "precio": 1075.5,
+          "comerciante": "CryptoVelozz",
+          "min": "3000000",
+          "max": "3435000",
+          "disponible": "3192.22"
+        },
+        {
+          "precio": 1075.8,
+          "comerciante": "Yosedg",
+          "min": "2000000",
           "max": "36450000",
-          "disponible": "3566.12"
-        },
-        {
-          "precio": 1068.7,
-          "comerciante": "Cambio-Ideal",
-          "min": "5000",
-          "max": "250000",
-          "disponible": "35.61"
-        },
-        {
-          "precio": 1069.0,
-          "comerciante": "R-E_A_E-1982",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "0.80"
-        },
-        {
-          "precio": 1070.0,
-          "comerciante": "JoseMuji",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "0.77"
-        },
-        {
-          "precio": 1070.0,
-          "comerciante": "JyG-Exchange-Flash",
-          "min": "500",
-          "max": "131379",
-          "disponible": "0.71"
+          "disponible": "6767.95"
         }
       ]
     }
   },
-  "brecha_pct": 17.74
+  "brecha_pct": 18.22
 }
