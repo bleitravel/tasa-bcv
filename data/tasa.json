@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-11-13T02:59:43+00:00",
-  "actualizado_ve": "2026-11-12T22:59:43-04:00",
+  "actualizado_utc": "2026-11-13T10:37:13+00:00",
+  "actualizado_ve": "2026-11-13T06:37:13-04:00",
   "bcv": {
     "usd": 911.6243,
     "eur": 1009.34130871,
@@ -10,34 +10,13 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1077.7022,
+    "referencia": 1073.93,
     "venta": {
-      "promedio": 1077.7022,
-      "minimo": 1074.51,
-      "maximo": 1087.0,
+      "promedio": 1073.93,
+      "minimo": 1073.5,
+      "maximo": 1075.0,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 1087.0,
-          "comerciante": "User-6193a",
-          "min": "4399",
-          "max": "4400",
-          "disponible": "100.00"
-        },
-        {
-          "precio": 1077.0,
-          "comerciante": "User-2347904b",
-          "min": "1000",
-          "max": "2000",
-          "disponible": "99.08"
-        },
-        {
-          "precio": 1075.001,
-          "comerciante": "Condor_2",
-          "min": "300000",
-          "max": "1000000",
-          "disponible": "4700.06"
-        },
         {
           "precio": 1075.0,
           "comerciante": "JJRS_GAGD",
@@ -46,26 +25,54 @@
           "disponible": "1400.00"
         },
         {
-          "precio": 1074.51,
-          "comerciante": "-TSxRV-",
-          "min": "10000000",
+          "precio": 1074.0,
+          "comerciante": "EMTRADECHANGE69",
+          "min": "500000",
+          "max": "4000000",
+          "disponible": "2000.12"
+        },
+        {
+          "precio": 1073.6,
+          "comerciante": "User-95450",
+          "min": "800000",
+          "max": "25000000",
+          "disponible": "5990.00"
+        },
+        {
+          "precio": 1073.55,
+          "comerciante": "彡ReinaPepiadaCoin彡",
+          "min": "1500000",
           "max": "36450000",
-          "disponible": "80000.00"
+          "disponible": "21749.73"
+        },
+        {
+          "precio": 1073.5,
+          "comerciante": "ConfianzaseguraP2P",
+          "min": "500000",
+          "max": "1000000",
+          "disponible": "5700.00"
         }
       ]
     },
     "compra": {
-      "promedio": 1075.2598,
-      "minimo": 1074.999,
-      "maximo": 1075.8,
+      "promedio": 1071.368,
+      "minimo": 1055.54,
+      "maximo": 1075.9,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1074.999,
-          "comerciante": "CRIPTO--PRO",
-          "min": "1000000",
+          "precio": 1055.54,
+          "comerciante": "P2P-ElMejorCambio",
+          "min": "300",
+          "max": "301",
+          "disponible": "99.75"
+        },
+        {
+          "precio": 1074.9,
+          "comerciante": "tucambioseguro",
+          "min": "90000",
           "max": "4000000",
-          "disponible": "3894.15"
+          "disponible": "698.25"
         },
         {
           "precio": 1075.0,
@@ -75,28 +82,21 @@
           "disponible": "2533.25"
         },
         {
-          "precio": 1075.0,
-          "comerciante": "CambiosGrupoGM",
-          "min": "1500000",
-          "max": "2881850",
-          "disponible": "1409.94"
-        },
-        {
           "precio": 1075.5,
-          "comerciante": "CryptoVelozz",
-          "min": "3000000",
-          "max": "3435000",
-          "disponible": "3192.22"
+          "comerciante": "Rick",
+          "min": "30000",
+          "max": "4000000",
+          "disponible": "179.60"
         },
         {
-          "precio": 1075.8,
-          "comerciante": "Yosedg",
-          "min": "2000000",
-          "max": "36450000",
-          "disponible": "6767.95"
+          "precio": 1075.9,
+          "comerciante": "Davidtigre42",
+          "min": "25000",
+          "max": "720000",
+          "disponible": "380.91"
         }
       ]
     }
   },
-  "brecha_pct": 18.22
+  "brecha_pct": 17.8
 }
