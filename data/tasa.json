@@ -1,22 +1,36 @@
 {
-  "actualizado_utc": "2026-11-13T18:13:10+00:00",
-  "actualizado_ve": "2026-11-13T14:13:10-04:00",
+  "actualizado_utc": "2026-11-13T23:44:06+00:00",
+  "actualizado_ve": "2026-11-13T19:44:06-04:00",
   "bcv": {
-    "usd": 911.6243,
-    "eur": 1009.34130871,
-    "fecha_valor": "2026-11-13T00:00:00-04:00"
+    "usd": 914.0218,
+    "eur": 1010.56078251,
+    "fecha_valor": "2026-11-16T00:00:00-04:00"
   },
   "binance_p2p": {
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1055.1898,
+    "referencia": 1068.69,
     "venta": {
-      "promedio": 1055.1898,
-      "minimo": 1050.0,
-      "maximo": 1069.95,
+      "promedio": 1068.69,
+      "minimo": 1061.5,
+      "maximo": 1076.0,
       "anuncios_usados": 5,
       "anuncios": [
+        {
+          "precio": 1076.0,
+          "comerciante": "Richardxom",
+          "min": "100000",
+          "max": "250000",
+          "disponible": "200.00"
+        },
+        {
+          "precio": 1070.0,
+          "comerciante": "P2P-d40c8dju",
+          "min": "750000",
+          "max": "751140",
+          "disponible": "702.00"
+        },
         {
           "precio": 1069.95,
           "comerciante": "KaterinaB_76",
@@ -25,78 +39,64 @@
           "disponible": "100.00"
         },
         {
-          "precio": 1055.999,
-          "comerciante": "In_God-I_trust",
-          "min": "50000",
-          "max": "8000000",
-          "disponible": "14533.91"
+          "precio": 1066.0,
+          "comerciante": "DistAlimentosGep",
+          "min": "450000",
+          "max": "600000",
+          "disponible": "4370.06"
         },
         {
-          "precio": 1050.0,
-          "comerciante": "P2P-741351go",
-          "min": "1000000",
-          "max": "4000000",
-          "disponible": "1000.00"
-        },
-        {
-          "precio": 1050.0,
-          "comerciante": "P2P-f8fe9dsn",
-          "min": "1050000",
-          "max": "3150000",
-          "disponible": "3000.00"
-        },
-        {
-          "precio": 1050.0,
-          "comerciante": "LeonBlanco11",
-          "min": "500000",
-          "max": "4000000",
-          "disponible": "4500.00"
+          "precio": 1061.5,
+          "comerciante": "-PositiveMind-",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "30000.00"
         }
       ]
     },
     "compra": {
-      "promedio": 1048.9,
-      "minimo": 1048.75,
-      "maximo": 1049.0,
+      "promedio": 1058.108,
+      "minimo": 1055.54,
+      "maximo": 1060.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1048.75,
-          "comerciante": "EXCHANGE-PRO",
-          "min": "2000000",
-          "max": "36450000",
-          "disponible": "13480.58"
+          "precio": 1055.54,
+          "comerciante": "P2P-ElMejorCambio",
+          "min": "300",
+          "max": "301",
+          "disponible": "99.75"
         },
         {
-          "precio": 1048.8,
-          "comerciante": "CDanielgg10",
+          "precio": 1058.0,
+          "comerciante": "Aaron201",
+          "min": "4000000",
+          "max": "36450000",
+          "disponible": "3997.00"
+        },
+        {
+          "precio": 1058.0,
+          "comerciante": "gonzbrh",
+          "min": "9000000",
+          "max": "36450000",
+          "disponible": "8970.56"
+        },
+        {
+          "precio": 1059.0,
+          "comerciante": "imp2p",
           "min": "10000000",
           "max": "30000000",
-          "disponible": "20273.09"
+          "disponible": "9751.24"
         },
         {
-          "precio": 1048.95,
-          "comerciante": "AENETEACHEOENEYE",
-          "min": "3000000",
-          "max": "9000000",
-          "disponible": "7986.02"
-        },
-        {
-          "precio": 1049.0,
-          "comerciante": "Daniel2108",
-          "min": "4000",
-          "max": "187287",
-          "disponible": "4.04"
-        },
-        {
-          "precio": 1049.0,
-          "comerciante": "ChangerExpress",
-          "min": "1200000",
-          "max": "2100000",
-          "disponible": "2635.04"
+          "precio": 1060.0,
+          "comerciante": "Freylin21",
+          "min": "300",
+          "max": "133613",
+          "disponible": "0.46"
         }
       ]
     }
   },
-  "brecha_pct": 15.75
+  "brecha_pct": 16.92
 }
