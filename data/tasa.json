@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-11-14T03:48:12+00:00",
-  "actualizado_ve": "2026-11-13T23:48:12-04:00",
+  "actualizado_utc": "2026-11-14T11:01:42+00:00",
+  "actualizado_ve": "2026-11-14T07:01:42-04:00",
   "bcv": {
     "usd": 914.0218,
     "eur": 1010.56078251,
@@ -10,54 +10,54 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1072.6544,
+    "referencia": 1072.314,
     "venta": {
-      "promedio": 1072.6544,
-      "minimo": 1072.5,
-      "maximo": 1072.801,
+      "promedio": 1072.314,
+      "minimo": 1071.505,
+      "maximo": 1074.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1072.801,
-          "comerciante": "YAHVEH777",
-          "min": "2000",
-          "max": "3645",
-          "disponible": "100.00"
+          "precio": 1074.0,
+          "comerciante": "P2P-7c4a10km",
+          "min": "200000",
+          "max": "4000000",
+          "disponible": "2029.01"
         },
         {
-          "precio": 1072.711,
-          "comerciante": "MonkyCrypto33",
-          "min": "10000",
-          "max": "404855",
-          "disponible": "125.24"
+          "precio": 1073.0,
+          "comerciante": "MegalinkFinance",
+          "min": "500000",
+          "max": "1000000",
+          "disponible": "3399.69"
         },
         {
-          "precio": 1072.71,
-          "comerciante": "ORLAN52",
-          "min": "10000",
-          "max": "13800",
-          "disponible": "100.00"
+          "precio": 1071.55,
+          "comerciante": "EverCryptoUSDT ",
+          "min": "500000",
+          "max": "5033930",
+          "disponible": "4226.06"
         },
         {
-          "precio": 1072.55,
-          "comerciante": "AngheloT",
+          "precio": 1071.515,
+          "comerciante": "AndradeGasconTITULAR",
+          "min": "500000",
+          "max": "5000000",
+          "disponible": "2855.52"
+        },
+        {
+          "precio": 1071.505,
+          "comerciante": "Facd90",
           "min": "300000",
-          "max": "310000",
-          "disponible": "285.67"
-        },
-        {
-          "precio": 1072.5,
-          "comerciante": "Maylo26",
-          "min": "300",
-          "max": "300000",
-          "disponible": "13.82"
+          "max": "36450000",
+          "disponible": "1560.00"
         }
       ]
     },
     "compra": {
-      "promedio": 1068.908,
+      "promedio": 1069.5638,
       "minimo": 1055.54,
-      "maximo": 1073.0,
+      "maximo": 1074.479,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -75,28 +75,28 @@
           "disponible": "3992.01"
         },
         {
-          "precio": 1073.0,
-          "comerciante": "Servicios-Criptos-27",
-          "min": "2000000",
-          "max": "14000000",
-          "disponible": "2135.72"
+          "precio": 1073.8,
+          "comerciante": "Elnegrop2p",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "14054.15"
         },
         {
-          "precio": 1073.0,
-          "comerciante": "Luishein",
+          "precio": 1074.0,
+          "comerciante": "EL-PODER-ES-DE-DIOS",
           "min": "1000000",
-          "max": "29473772",
-          "disponible": "26411.48"
+          "max": "36450000",
+          "disponible": "7371.35"
         },
         {
-          "precio": 1073.0,
-          "comerciante": "CAMBIOS-CRYPTOS",
-          "min": "1400000",
-          "max": "10000000",
-          "disponible": "1330.56"
+          "precio": 1074.479,
+          "comerciante": "Gjsan",
+          "min": "10000000",
+          "max": "36450000",
+          "disponible": "31314.33"
         }
       ]
     }
   },
-  "brecha_pct": 17.36
+  "brecha_pct": 17.32
 }
