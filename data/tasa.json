@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-11-13T23:44:06+00:00",
-  "actualizado_ve": "2026-11-13T19:44:06-04:00",
+  "actualizado_utc": "2026-11-14T03:48:12+00:00",
+  "actualizado_ve": "2026-11-13T23:48:12-04:00",
   "bcv": {
     "usd": 914.0218,
     "eur": 1010.56078251,
@@ -10,54 +10,54 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1068.69,
+    "referencia": 1072.6544,
     "venta": {
-      "promedio": 1068.69,
-      "minimo": 1061.5,
-      "maximo": 1076.0,
+      "promedio": 1072.6544,
+      "minimo": 1072.5,
+      "maximo": 1072.801,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1076.0,
-          "comerciante": "Richardxom",
-          "min": "100000",
-          "max": "250000",
-          "disponible": "200.00"
-        },
-        {
-          "precio": 1070.0,
-          "comerciante": "P2P-d40c8dju",
-          "min": "750000",
-          "max": "751140",
-          "disponible": "702.00"
-        },
-        {
-          "precio": 1069.95,
-          "comerciante": "KaterinaB_76",
-          "min": "50000",
-          "max": "4000000",
+          "precio": 1072.801,
+          "comerciante": "YAHVEH777",
+          "min": "2000",
+          "max": "3645",
           "disponible": "100.00"
         },
         {
-          "precio": 1066.0,
-          "comerciante": "DistAlimentosGep",
-          "min": "450000",
-          "max": "600000",
-          "disponible": "4370.06"
+          "precio": 1072.711,
+          "comerciante": "MonkyCrypto33",
+          "min": "10000",
+          "max": "404855",
+          "disponible": "125.24"
         },
         {
-          "precio": 1061.5,
-          "comerciante": "-PositiveMind-",
-          "min": "5000000",
-          "max": "36450000",
-          "disponible": "30000.00"
+          "precio": 1072.71,
+          "comerciante": "ORLAN52",
+          "min": "10000",
+          "max": "13800",
+          "disponible": "100.00"
+        },
+        {
+          "precio": 1072.55,
+          "comerciante": "AngheloT",
+          "min": "300000",
+          "max": "310000",
+          "disponible": "285.67"
+        },
+        {
+          "precio": 1072.5,
+          "comerciante": "Maylo26",
+          "min": "300",
+          "max": "300000",
+          "disponible": "13.82"
         }
       ]
     },
     "compra": {
-      "promedio": 1058.108,
+      "promedio": 1068.908,
       "minimo": 1055.54,
-      "maximo": 1060.0,
+      "maximo": 1073.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "99.75"
         },
         {
-          "precio": 1058.0,
+          "precio": 1070.0,
           "comerciante": "Aaron201",
           "min": "4000000",
           "max": "36450000",
-          "disponible": "3997.00"
+          "disponible": "3992.01"
         },
         {
-          "precio": 1058.0,
-          "comerciante": "gonzbrh",
-          "min": "9000000",
-          "max": "36450000",
-          "disponible": "8970.56"
+          "precio": 1073.0,
+          "comerciante": "Servicios-Criptos-27",
+          "min": "2000000",
+          "max": "14000000",
+          "disponible": "2135.72"
         },
         {
-          "precio": 1059.0,
-          "comerciante": "imp2p",
-          "min": "10000000",
-          "max": "30000000",
-          "disponible": "9751.24"
+          "precio": 1073.0,
+          "comerciante": "Luishein",
+          "min": "1000000",
+          "max": "29473772",
+          "disponible": "26411.48"
         },
         {
-          "precio": 1060.0,
-          "comerciante": "Freylin21",
-          "min": "300",
-          "max": "133613",
-          "disponible": "0.46"
+          "precio": 1073.0,
+          "comerciante": "CAMBIOS-CRYPTOS",
+          "min": "1400000",
+          "max": "10000000",
+          "disponible": "1330.56"
         }
       ]
     }
   },
-  "brecha_pct": 16.92
+  "brecha_pct": 17.36
 }
