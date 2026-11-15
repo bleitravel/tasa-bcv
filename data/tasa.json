@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-11-15T15:16:20+00:00",
-  "actualizado_ve": "2026-11-15T11:16:20-04:00",
+  "actualizado_utc": "2026-11-15T20:27:03+00:00",
+  "actualizado_ve": "2026-11-15T16:27:03-04:00",
   "bcv": {
     "usd": 914.0218,
     "eur": 1010.56078251,
@@ -10,54 +10,54 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1075.49,
+    "referencia": 1076.5794,
     "venta": {
-      "promedio": 1075.49,
-      "minimo": 1075.0,
-      "maximo": 1076.0,
+      "promedio": 1076.5794,
+      "minimo": 1076.5,
+      "maximo": 1076.891,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1076.0,
-          "comerciante": "Godisgift",
-          "min": "9200000",
-          "max": "36450000",
-          "disponible": "8550.19"
+          "precio": 1076.891,
+          "comerciante": "User-08164",
+          "min": "21500",
+          "max": "301000",
+          "disponible": "224.20"
         },
         {
-          "precio": 1075.55,
-          "comerciante": "Bernaaaaaaa",
-          "min": "1000000",
-          "max": "35000000",
-          "disponible": "5651.36"
-        },
-        {
-          "precio": 1075.5,
-          "comerciante": "securitylc",
-          "min": "1000000",
-          "max": "36450000",
-          "disponible": "19352.17"
-        },
-        {
-          "precio": 1075.4,
-          "comerciante": "CambiosElCapiLG",
-          "min": "300000",
+          "precio": 1076.505,
+          "comerciante": "RainMoney13",
+          "min": "100000",
           "max": "4000000",
-          "disponible": "5320.48"
+          "disponible": "4117.54"
         },
         {
-          "precio": 1075.0,
-          "comerciante": "Dubaiusdt",
-          "min": "800000",
-          "max": "9000000",
-          "disponible": "4255.00"
+          "precio": 1076.501,
+          "comerciante": "CambiosElCapiLG",
+          "min": "100000",
+          "max": "4000000",
+          "disponible": "2321.90"
+        },
+        {
+          "precio": 1076.5,
+          "comerciante": "Otter Exchange",
+          "min": "100000",
+          "max": "3800000",
+          "disponible": "2580.58"
+        },
+        {
+          "precio": 1076.5,
+          "comerciante": "selah1",
+          "min": "500000",
+          "max": "4000000",
+          "disponible": "6983.17"
         }
       ]
     },
     "compra": {
-      "promedio": 1070.888,
+      "promedio": 1072.7116,
       "minimo": 1055.54,
-      "maximo": 1075.0,
+      "maximo": 1078.518,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "99.75"
         },
         {
-          "precio": 1074.0,
-          "comerciante": "User-ddda9fax",
-          "min": "330000",
-          "max": "336608",
-          "disponible": "313.21"
-        },
-        {
-          "precio": 1074.9,
-          "comerciante": "gelittle1980",
-          "min": "5000",
-          "max": "10001",
-          "disponible": "99.75"
-        },
-        {
-          "precio": 1075.0,
-          "comerciante": "Aaron201",
+          "precio": 1076.0,
+          "comerciante": "Gatsby_24",
           "min": "4000000",
           "max": "36450000",
-          "disponible": "4000.00"
+          "disponible": "37120.05"
         },
         {
-          "precio": 1075.0,
-          "comerciante": "User-c2af1",
-          "min": "50000",
-          "max": "4000000",
-          "disponible": "299.26"
+          "precio": 1076.0,
+          "comerciante": "Mag96",
+          "min": "5000",
+          "max": "55000",
+          "disponible": "87.03"
+        },
+        {
+          "precio": 1077.5,
+          "comerciante": "Vaneandreina7",
+          "min": "698000",
+          "max": "700000",
+          "disponible": "1147.73"
+        },
+        {
+          "precio": 1078.518,
+          "comerciante": "ENVIO-COMPROBANTE",
+          "min": "10000000",
+          "max": "36450000",
+          "disponible": "17042.76"
         }
       ]
     }
   },
-  "brecha_pct": 17.67
+  "brecha_pct": 17.78
 }
