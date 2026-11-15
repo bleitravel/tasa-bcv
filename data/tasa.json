@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-11-15T01:24:23+00:00",
-  "actualizado_ve": "2026-11-14T21:24:23-04:00",
+  "actualizado_utc": "2026-11-15T07:58:19+00:00",
+  "actualizado_ve": "2026-11-15T03:58:19-04:00",
   "bcv": {
     "usd": 914.0218,
     "eur": 1010.56078251,
@@ -10,54 +10,54 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1072.4138,
+    "referencia": 1069.0544,
     "venta": {
-      "promedio": 1072.4138,
-      "minimo": 1072.22,
-      "maximo": 1072.9,
+      "promedio": 1069.0544,
+      "minimo": 1068.05,
+      "maximo": 1070.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1072.9,
-          "comerciante": "Saw_01x",
+          "precio": 1070.0,
+          "comerciante": "User-70be2",
+          "min": "496400",
+          "max": "496470",
+          "disponible": "464.00"
+        },
+        {
+          "precio": 1069.622,
+          "comerciante": "金钱与价值",
           "min": "500000",
           "max": "4000000",
-          "disponible": "3950.51"
+          "disponible": "647.84"
         },
         {
-          "precio": 1072.35,
-          "comerciante": "Moreno_Inv",
-          "min": "600000",
-          "max": "2500000",
-          "disponible": "4006.31"
-        },
-        {
-          "precio": 1072.3,
-          "comerciante": "ConfianzaseguraP2P",
-          "min": "500000",
-          "max": "1500000",
-          "disponible": "1250.61"
-        },
-        {
-          "precio": 1072.299,
-          "comerciante": "-C-R-Y-P-T-O__M-0-Y-",
-          "min": "500000",
-          "max": "1000000",
-          "disponible": "35367.87"
-        },
-        {
-          "precio": 1072.22,
-          "comerciante": "User-1ad033qs",
-          "min": "98000",
-          "max": "99000",
+          "precio": 1069.0,
+          "comerciante": "HARBTHAT",
+          "min": "80615",
+          "max": "80616",
           "disponible": "100.00"
+        },
+        {
+          "precio": 1068.6,
+          "comerciante": "carlstar",
+          "min": "7000",
+          "max": "4000000",
+          "disponible": "6.60"
+        },
+        {
+          "precio": 1068.05,
+          "comerciante": "Old Parr",
+          "min": "500000",
+          "max": "36450000",
+          "disponible": "22375.35"
         }
       ]
     },
     "compra": {
-      "promedio": 1068.926,
+      "promedio": 1071.0436,
       "minimo": 1055.54,
-      "maximo": 1072.4,
+      "maximo": 1075.98,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "99.75"
         },
         {
-          "precio": 1072.0,
-          "comerciante": "Servicios-Criptos-27",
-          "min": "2000000",
-          "max": "14000000",
-          "disponible": "3225.42"
+          "precio": 1073.998,
+          "comerciante": "kaizenholder",
+          "min": "5000000",
+          "max": "36000000",
+          "disponible": "6468.37"
         },
         {
-          "precio": 1072.3,
-          "comerciante": "zama2004",
-          "min": "10000000",
-          "max": "36450000",
-          "disponible": "22302.87"
-        },
-        {
-          "precio": 1072.39,
-          "comerciante": "Atraderspkj",
-          "min": "8000000",
-          "max": "18000000",
-          "disponible": "16398.66"
-        },
-        {
-          "precio": 1072.4,
-          "comerciante": "TUSKARR",
+          "precio": 1074.8,
+          "comerciante": " Blessed ",
           "min": "36450000",
-          "max": "500000000",
-          "disponible": "123000.00"
+          "max": "1000000000",
+          "disponible": "100000.00"
+        },
+        {
+          "precio": 1074.9,
+          "comerciante": "卡哈塞克尼奧",
+          "min": "4000000",
+          "max": "20000001",
+          "disponible": "5793.67"
+        },
+        {
+          "precio": 1075.98,
+          "comerciante": "Snayderk",
+          "min": "3000000",
+          "max": "36450000",
+          "disponible": "9889.71"
         }
       ]
     }
   },
-  "brecha_pct": 17.33
+  "brecha_pct": 16.96
 }
