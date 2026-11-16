@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-11-15T20:27:03+00:00",
-  "actualizado_ve": "2026-11-15T16:27:03-04:00",
+  "actualizado_utc": "2026-11-16T00:06:10+00:00",
+  "actualizado_ve": "2026-11-15T20:06:10-04:00",
   "bcv": {
     "usd": 914.0218,
     "eur": 1010.56078251,
@@ -10,54 +10,54 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1076.5794,
+    "referencia": 1078.3,
     "venta": {
-      "promedio": 1076.5794,
-      "minimo": 1076.5,
-      "maximo": 1076.891,
+      "promedio": 1078.3,
+      "minimo": 1075.0,
+      "maximo": 1084.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1076.891,
-          "comerciante": "User-08164",
-          "min": "21500",
-          "max": "301000",
-          "disponible": "224.20"
+          "precio": 1084.0,
+          "comerciante": "Col-Primavera",
+          "min": "542000",
+          "max": "975600",
+          "disponible": "900.00"
         },
         {
-          "precio": 1076.505,
-          "comerciante": "RainMoney13",
-          "min": "100000",
+          "precio": 1081.5,
+          "comerciante": "Lestor32",
+          "min": "3980000",
+          "max": "3985000",
+          "disponible": "29000.00"
+        },
+        {
+          "precio": 1076.0,
+          "comerciante": "SoleneblueCR",
+          "min": "300",
           "max": "4000000",
-          "disponible": "4117.54"
+          "disponible": "0.37"
         },
         {
-          "precio": 1076.501,
-          "comerciante": "CambiosElCapiLG",
-          "min": "100000",
+          "precio": 1075.0,
+          "comerciante": "Skymecc",
+          "min": "40000",
           "max": "4000000",
-          "disponible": "2321.90"
+          "disponible": "1176.67"
         },
         {
-          "precio": 1076.5,
-          "comerciante": "Otter Exchange",
+          "precio": 1075.0,
+          "comerciante": "LAPTOPS",
           "min": "100000",
-          "max": "3800000",
-          "disponible": "2580.58"
-        },
-        {
-          "precio": 1076.5,
-          "comerciante": "selah1",
-          "min": "500000",
-          "max": "4000000",
-          "disponible": "6983.17"
+          "max": "521000",
+          "disponible": "216.83"
         }
       ]
     },
     "compra": {
-      "promedio": 1072.7116,
+      "promedio": 1072.7016,
       "minimo": 1055.54,
-      "maximo": 1078.518,
+      "maximo": 1076.997,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "99.75"
         },
         {
-          "precio": 1076.0,
-          "comerciante": "Gatsby_24",
+          "precio": 1076.987,
+          "comerciante": "_BRUCE_WAYNE_",
           "min": "4000000",
           "max": "36450000",
-          "disponible": "37120.05"
+          "disponible": "26440.95"
         },
         {
-          "precio": 1076.0,
-          "comerciante": "Mag96",
-          "min": "5000",
-          "max": "55000",
-          "disponible": "87.03"
-        },
-        {
-          "precio": 1077.5,
-          "comerciante": "Vaneandreina7",
-          "min": "698000",
-          "max": "700000",
-          "disponible": "1147.73"
-        },
-        {
-          "precio": 1078.518,
-          "comerciante": "ENVIO-COMPROBANTE",
-          "min": "10000000",
+          "precio": 1076.988,
+          "comerciante": "YisusCambios",
+          "min": "2500000",
           "max": "36450000",
-          "disponible": "17042.76"
+          "disponible": "13982.52"
+        },
+        {
+          "precio": 1076.996,
+          "comerciante": "Sr_____Trader",
+          "min": "5000000",
+          "max": "17500000",
+          "disponible": "16361.36"
+        },
+        {
+          "precio": 1076.997,
+          "comerciante": "CASHEAA",
+          "min": "8000000",
+          "max": "18730000",
+          "disponible": "17385.28"
         }
       ]
     }
   },
-  "brecha_pct": 17.78
+  "brecha_pct": 17.97
 }
