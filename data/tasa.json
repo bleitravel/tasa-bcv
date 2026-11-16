@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-11-16T00:06:10+00:00",
-  "actualizado_ve": "2026-11-15T20:06:10-04:00",
+  "actualizado_utc": "2026-11-16T06:53:16+00:00",
+  "actualizado_ve": "2026-11-16T02:53:16-04:00",
   "bcv": {
     "usd": 914.0218,
     "eur": 1010.56078251,
@@ -10,33 +10,19 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1078.3,
+    "referencia": 1075.3288,
     "venta": {
-      "promedio": 1078.3,
-      "minimo": 1075.0,
-      "maximo": 1084.0,
+      "promedio": 1075.3288,
+      "minimo": 1072.555,
+      "maximo": 1081.985,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1084.0,
-          "comerciante": "Col-Primavera",
-          "min": "542000",
-          "max": "975600",
-          "disponible": "900.00"
-        },
-        {
-          "precio": 1081.5,
-          "comerciante": "Lestor32",
-          "min": "3980000",
-          "max": "3985000",
-          "disponible": "29000.00"
-        },
-        {
-          "precio": 1076.0,
-          "comerciante": "SoleneblueCR",
-          "min": "300",
+          "precio": 1081.985,
+          "comerciante": "KaterinaB_76",
+          "min": "20000",
           "max": "4000000",
-          "disponible": "0.37"
+          "disponible": "100.00"
         },
         {
           "precio": 1075.0,
@@ -46,18 +32,32 @@
           "disponible": "1176.67"
         },
         {
-          "precio": 1075.0,
-          "comerciante": "LAPTOPS",
-          "min": "100000",
-          "max": "521000",
-          "disponible": "216.83"
+          "precio": 1074.0,
+          "comerciante": "Reyesser90",
+          "min": "54900",
+          "max": "55000",
+          "disponible": "100.00"
+        },
+        {
+          "precio": 1073.104,
+          "comerciante": "mlescritos",
+          "min": "300",
+          "max": "1665447",
+          "disponible": "0.29"
+        },
+        {
+          "precio": 1072.555,
+          "comerciante": "maferalvz",
+          "min": "1000000",
+          "max": "4000000",
+          "disponible": "10492.45"
         }
       ]
     },
     "compra": {
-      "promedio": 1072.7016,
+      "promedio": 1074.1876,
       "minimo": 1055.54,
-      "maximo": 1076.997,
+      "maximo": 1079.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "99.75"
         },
         {
-          "precio": 1076.987,
+          "precio": 1078.798,
           "comerciante": "_BRUCE_WAYNE_",
           "min": "4000000",
           "max": "36450000",
-          "disponible": "26440.95"
+          "disponible": "23257.40"
         },
         {
-          "precio": 1076.988,
-          "comerciante": "YisusCambios",
-          "min": "2500000",
-          "max": "36450000",
-          "disponible": "13982.52"
+          "precio": 1078.8,
+          "comerciante": "S3bss_Exchang3",
+          "min": "6000000",
+          "max": "25000000",
+          "disponible": "7737.42"
         },
         {
-          "precio": 1076.996,
-          "comerciante": "Sr_____Trader",
+          "precio": 1078.8,
+          "comerciante": "Fast_54",
           "min": "5000000",
-          "max": "17500000",
-          "disponible": "16361.36"
+          "max": "36000000",
+          "disponible": "12983.77"
         },
         {
-          "precio": 1076.997,
-          "comerciante": "CASHEAA",
-          "min": "8000000",
-          "max": "18730000",
-          "disponible": "17385.28"
+          "precio": 1079.0,
+          "comerciante": "NewtScamander",
+          "min": "5000001",
+          "max": "36450000",
+          "disponible": "6661.13"
         }
       ]
     }
   },
-  "brecha_pct": 17.97
+  "brecha_pct": 17.65
 }
