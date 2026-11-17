@@ -1,63 +1,63 @@
 {
-  "actualizado_utc": "2026-11-16T16:33:17+00:00",
-  "actualizado_ve": "2026-11-16T12:33:17-04:00",
+  "actualizado_utc": "2026-11-17T00:32:35+00:00",
+  "actualizado_ve": "2026-11-16T20:32:35-04:00",
   "bcv": {
-    "usd": 914.0218,
-    "eur": 1010.56078251,
-    "fecha_valor": "2026-11-16T00:00:00-04:00"
+    "usd": 915.7476,
+    "eur": 1008.3113674,
+    "fecha_valor": "2026-11-17T00:00:00-04:00"
   },
   "binance_p2p": {
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1067.31,
+    "referencia": 1071.01,
     "venta": {
-      "promedio": 1067.31,
-      "minimo": 1064.5,
-      "maximo": 1071.0,
+      "promedio": 1071.01,
+      "minimo": 1070.001,
+      "maximo": 1073.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1071.0,
-          "comerciante": "divisasgold",
-          "min": "300",
-          "max": "25000",
-          "disponible": "0.46"
-        },
-        {
-          "precio": 1070.0,
-          "comerciante": "Skymecc",
-          "min": "100000",
-          "max": "4000000",
-          "disponible": "2800.00"
-        },
-        {
-          "precio": 1066.05,
-          "comerciante": "Anyelo",
-          "min": "250000",
-          "max": "1200000",
-          "disponible": "1170.53"
-        },
-        {
-          "precio": 1065.0,
-          "comerciante": "Estefanny Hernández",
-          "min": "500000",
-          "max": "3180000",
-          "disponible": "2984.93"
-        },
-        {
-          "precio": 1064.5,
-          "comerciante": "尺-ROMA",
-          "min": "1000000",
+          "precio": 1073.0,
+          "comerciante": "Trust-Broker",
+          "min": "2000000",
           "max": "36450000",
-          "disponible": "8476.04"
+          "disponible": "26646.85"
+        },
+        {
+          "precio": 1071.0,
+          "comerciante": "BlackVaultt",
+          "min": "300000",
+          "max": "4000000",
+          "disponible": "15331.09"
+        },
+        {
+          "precio": 1071.0,
+          "comerciante": "OLDesk",
+          "min": "1000000",
+          "max": "4000000",
+          "disponible": "2373.27"
+        },
+        {
+          "precio": 1070.049,
+          "comerciante": "Swordfish_J",
+          "min": "100000",
+          "max": "2366000",
+          "disponible": "113.96"
+        },
+        {
+          "precio": 1070.001,
+          "comerciante": "Maranto",
+          "min": "50000",
+          "max": "100000",
+          "disponible": "100.00"
         }
       ]
     },
     "compra": {
-      "promedio": 1061.108,
+      "promedio": 1067.288,
       "minimo": 1055.54,
-      "maximo": 1063.0,
+      "maximo": 1071.3,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "99.75"
         },
         {
-          "precio": 1062.0,
-          "comerciante": "-Ledger-",
-          "min": "36450000",
-          "max": "300000000",
-          "disponible": "150000.00"
+          "precio": 1068.0,
+          "comerciante": "Eras18",
+          "min": "19000",
+          "max": "20000",
+          "disponible": "81.03"
         },
         {
-          "precio": 1062.0,
-          "comerciante": "FUERZA_ELITE",
-          "min": "36450000",
-          "max": "500000000",
-          "disponible": "122501.15"
+          "precio": 1070.5,
+          "comerciante": "imp2p",
+          "min": "4500000",
+          "max": "30000000",
+          "disponible": "4289.46"
         },
         {
-          "precio": 1063.0,
-          "comerciante": "User-db2bb",
-          "min": "54000",
-          "max": "55000",
-          "disponible": "99.75"
+          "precio": 1071.1,
+          "comerciante": "Keimeli",
+          "min": "1000000",
+          "max": "4000000",
+          "disponible": "3990.02"
         },
         {
-          "precio": 1063.0,
-          "comerciante": "Elnegrop2p",
-          "min": "10000000",
+          "precio": 1071.3,
+          "comerciante": "Legacy_OTC",
+          "min": "5000000",
           "max": "36450000",
-          "disponible": "26797.08"
+          "disponible": "6856.43"
         }
       ]
     }
   },
-  "brecha_pct": 16.77
+  "brecha_pct": 16.95
 }
