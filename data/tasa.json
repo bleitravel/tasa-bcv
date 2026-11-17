@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-11-17T00:32:35+00:00",
-  "actualizado_ve": "2026-11-16T20:32:35-04:00",
+  "actualizado_utc": "2026-11-17T08:37:45+00:00",
+  "actualizado_ve": "2026-11-17T04:37:45-04:00",
   "bcv": {
     "usd": 915.7476,
     "eur": 1008.3113674,
@@ -10,54 +10,54 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1071.01,
+    "referencia": 1065.1002,
     "venta": {
-      "promedio": 1071.01,
-      "minimo": 1070.001,
-      "maximo": 1073.0,
+      "promedio": 1065.1002,
+      "minimo": 1063.3,
+      "maximo": 1070.001,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 1073.0,
-          "comerciante": "Trust-Broker",
-          "min": "2000000",
-          "max": "36450000",
-          "disponible": "26646.85"
-        },
-        {
-          "precio": 1071.0,
-          "comerciante": "BlackVaultt",
-          "min": "300000",
-          "max": "4000000",
-          "disponible": "15331.09"
-        },
-        {
-          "precio": 1071.0,
-          "comerciante": "OLDesk",
-          "min": "1000000",
-          "max": "4000000",
-          "disponible": "2373.27"
-        },
-        {
-          "precio": 1070.049,
-          "comerciante": "Swordfish_J",
-          "min": "100000",
-          "max": "2366000",
-          "disponible": "113.96"
-        },
         {
           "precio": 1070.001,
           "comerciante": "Maranto",
           "min": "50000",
           "max": "100000",
           "disponible": "100.00"
+        },
+        {
+          "precio": 1064.2,
+          "comerciante": "User-0c065",
+          "min": "200000",
+          "max": "4000000",
+          "disponible": "1500.00"
+        },
+        {
+          "precio": 1064.0,
+          "comerciante": "cambiojusto28",
+          "min": "500000",
+          "max": "4000000",
+          "disponible": "2300.00"
+        },
+        {
+          "precio": 1064.0,
+          "comerciante": "Burgerland",
+          "min": "100000",
+          "max": "1064000",
+          "disponible": "1000.00"
+        },
+        {
+          "precio": 1063.3,
+          "comerciante": "Pcambios10",
+          "min": "1253056",
+          "max": "36000000",
+          "disponible": "1178.46"
         }
       ]
     },
     "compra": {
-      "promedio": 1067.288,
+      "promedio": 1065.8664,
       "minimo": 1055.54,
-      "maximo": 1071.3,
+      "maximo": 1069.405,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "99.75"
         },
         {
+          "precio": 1067.999,
+          "comerciante": "Gjsan",
+          "min": "10000000",
+          "max": "36450000",
+          "disponible": "24173.24"
+        },
+        {
           "precio": 1068.0,
-          "comerciante": "Eras18",
-          "min": "19000",
-          "max": "20000",
-          "disponible": "81.03"
+          "comerciante": "Melani_sublimascione",
+          "min": "4000000",
+          "max": "20316680",
+          "disponible": "18967.39"
         },
         {
-          "precio": 1070.5,
-          "comerciante": "imp2p",
-          "min": "4500000",
-          "max": "30000000",
-          "disponible": "4289.46"
-        },
-        {
-          "precio": 1071.1,
-          "comerciante": "Keimeli",
-          "min": "1000000",
-          "max": "4000000",
-          "disponible": "3990.02"
-        },
-        {
-          "precio": 1071.3,
-          "comerciante": "Legacy_OTC",
+          "precio": 1068.388,
+          "comerciante": "__TraderFocus__",
           "min": "5000000",
           "max": "36450000",
-          "disponible": "6856.43"
+          "disponible": "9707.60"
+        },
+        {
+          "precio": 1069.405,
+          "comerciante": "MANTEQUILLAA",
+          "min": "4000000",
+          "max": "36400000",
+          "disponible": "27337.51"
         }
       ]
     }
   },
-  "brecha_pct": 16.95
+  "brecha_pct": 16.31
 }
