@@ -1,63 +1,63 @@
 {
-  "actualizado_utc": "2026-11-17T17:57:05+00:00",
-  "actualizado_ve": "2026-11-17T13:57:05-04:00",
+  "actualizado_utc": "2026-11-18T00:19:27+00:00",
+  "actualizado_ve": "2026-11-17T20:19:27-04:00",
   "bcv": {
-    "usd": 915.7476,
-    "eur": 1008.3113674,
-    "fecha_valor": "2026-11-17T00:00:00-04:00"
+    "usd": 916.6477,
+    "eur": 1007.38665582,
+    "fecha_valor": "2026-11-18T00:00:00-04:00"
   },
   "binance_p2p": {
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1075.3122,
+    "referencia": 1083.1622,
     "venta": {
-      "promedio": 1075.3122,
-      "minimo": 1074.06,
-      "maximo": 1078.0,
+      "promedio": 1083.1622,
+      "minimo": 1070.0,
+      "maximo": 1125.8,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1078.0,
-          "comerciante": "Trust-Broker",
-          "min": "2000000",
-          "max": "36450000",
-          "disponible": "23145.81"
-        },
-        {
-          "precio": 1075.301,
-          "comerciante": "SEGUROS_LLC",
-          "min": "1500000",
-          "max": "33021821",
-          "disponible": "1755.89"
-        },
-        {
-          "precio": 1075.0,
-          "comerciante": "Japg1789",
-          "min": "212000",
-          "max": "4000000",
-          "disponible": "802.80"
-        },
-        {
-          "precio": 1074.2,
-          "comerciante": "German_Rios",
-          "min": "2000000",
-          "max": "36450000",
-          "disponible": "8400.00"
-        },
-        {
-          "precio": 1074.06,
-          "comerciante": "ConfianzaseguraP2P",
+          "precio": 1125.8,
+          "comerciante": "ReadyCambiosFast-",
           "min": "500000",
-          "max": "5000000",
-          "disponible": "4395.91"
+          "max": "1500000",
+          "disponible": "885.88"
+        },
+        {
+          "precio": 1080.0,
+          "comerciante": "Skymecc",
+          "min": "50000",
+          "max": "4000000",
+          "disponible": "6000.00"
+        },
+        {
+          "precio": 1070.01,
+          "comerciante": "GusCotton",
+          "min": "50000",
+          "max": "213196",
+          "disponible": "143.18"
+        },
+        {
+          "precio": 1070.001,
+          "comerciante": "Maranto",
+          "min": "50000",
+          "max": "100000",
+          "disponible": "100.00"
+        },
+        {
+          "precio": 1070.0,
+          "comerciante": "Trust-Broker",
+          "min": "1000000",
+          "max": "36450000",
+          "disponible": "10180.54"
         }
       ]
     },
     "compra": {
-      "promedio": 1069.487,
+      "promedio": 1067.3078,
       "minimo": 1055.54,
-      "maximo": 1073.595,
+      "maximo": 1070.5,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "99.75"
         },
         {
-          "precio": 1072.0,
-          "comerciante": "Jon_Sup",
-          "min": "300000",
-          "max": "4000000",
-          "disponible": "299.25"
-        },
-        {
-          "precio": 1073.0,
-          "comerciante": "VISÓN CRIPTØ",
+          "precio": 1070.0,
+          "comerciante": "DOCTOR_CAMBIO",
           "min": "36450000",
-          "max": "500000000",
-          "disponible": "139957.54"
+          "max": "600000000",
+          "disponible": "99999.94"
         },
         {
-          "precio": 1073.3,
-          "comerciante": "蒙神祝福者",
-          "min": "4000008",
+          "precio": 1070.0,
+          "comerciante": "imp2p",
+          "min": "5000000",
+          "max": "30000000",
+          "disponible": "6578.13"
+        },
+        {
+          "precio": 1070.499,
+          "comerciante": "_BRUCE_WAYNE_",
+          "min": "4000000",
           "max": "36450000",
-          "disponible": "4369.65"
+          "disponible": "21798.60"
         },
         {
-          "precio": 1073.595,
-          "comerciante": "JDVR_05",
+          "precio": 1070.5,
+          "comerciante": "Elnegrop2p",
           "min": "5000000",
           "max": "36450000",
-          "disponible": "13116.73"
+          "disponible": "11152.10"
         }
       ]
     }
   },
-  "brecha_pct": 17.42
+  "brecha_pct": 18.17
 }
