@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-11-18T00:19:27+00:00",
-  "actualizado_ve": "2026-11-17T20:19:27-04:00",
+  "actualizado_utc": "2026-11-18T07:45:02+00:00",
+  "actualizado_ve": "2026-11-18T03:45:02-04:00",
   "bcv": {
     "usd": 916.6477,
     "eur": 1007.38665582,
@@ -10,34 +10,13 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1083.1622,
+    "referencia": 1066.9032,
     "venta": {
-      "promedio": 1083.1622,
-      "minimo": 1070.0,
-      "maximo": 1125.8,
+      "promedio": 1066.9032,
+      "minimo": 1064.5,
+      "maximo": 1070.001,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 1125.8,
-          "comerciante": "ReadyCambiosFast-",
-          "min": "500000",
-          "max": "1500000",
-          "disponible": "885.88"
-        },
-        {
-          "precio": 1080.0,
-          "comerciante": "Skymecc",
-          "min": "50000",
-          "max": "4000000",
-          "disponible": "6000.00"
-        },
-        {
-          "precio": 1070.01,
-          "comerciante": "GusCotton",
-          "min": "50000",
-          "max": "213196",
-          "disponible": "143.18"
-        },
         {
           "precio": 1070.001,
           "comerciante": "Maranto",
@@ -47,17 +26,38 @@
         },
         {
           "precio": 1070.0,
-          "comerciante": "Trust-Broker",
-          "min": "1000000",
-          "max": "36450000",
-          "disponible": "10180.54"
+          "comerciante": "Skymecc",
+          "min": "50000",
+          "max": "4000000",
+          "disponible": "2000.00"
+        },
+        {
+          "precio": 1065.015,
+          "comerciante": "CAMBIOSBBJ",
+          "min": "20000",
+          "max": "110000",
+          "disponible": "200.00"
+        },
+        {
+          "precio": 1065.0,
+          "comerciante": "CambiosLM23",
+          "min": "10000",
+          "max": "12200",
+          "disponible": "100.00"
+        },
+        {
+          "precio": 1064.5,
+          "comerciante": "ValMas89",
+          "min": "250000",
+          "max": "4000000",
+          "disponible": "2435.82"
         }
       ]
     },
     "compra": {
-      "promedio": 1067.3078,
+      "promedio": 1066.6178,
       "minimo": 1055.54,
-      "maximo": 1070.5,
+      "maximo": 1069.899,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "99.75"
         },
         {
-          "precio": 1070.0,
-          "comerciante": "DOCTOR_CAMBIO",
+          "precio": 1068.0,
+          "comerciante": "NewtScamander",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "12198.92"
+        },
+        {
+          "precio": 1069.8,
+          "comerciante": "Mr-Bean-",
+          "min": "500000",
+          "max": "36450000",
+          "disponible": "5719.56"
+        },
+        {
+          "precio": 1069.85,
+          "comerciante": "ReadyToTrade_",
           "min": "36450000",
-          "max": "600000000",
-          "disponible": "99999.94"
+          "max": "120000000",
+          "disponible": "130240.77"
         },
         {
-          "precio": 1070.0,
-          "comerciante": "imp2p",
-          "min": "5000000",
-          "max": "30000000",
-          "disponible": "6578.13"
-        },
-        {
-          "precio": 1070.499,
-          "comerciante": "_BRUCE_WAYNE_",
-          "min": "4000000",
+          "precio": 1069.899,
+          "comerciante": "__TraderFocus__",
+          "min": "6000000",
           "max": "36450000",
-          "disponible": "21798.60"
-        },
-        {
-          "precio": 1070.5,
-          "comerciante": "Elnegrop2p",
-          "min": "5000000",
-          "max": "36450000",
-          "disponible": "11152.10"
+          "disponible": "13531.15"
         }
       ]
     }
   },
-  "brecha_pct": 18.17
+  "brecha_pct": 16.39
 }
