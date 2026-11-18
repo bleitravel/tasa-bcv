@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-11-18T07:45:02+00:00",
-  "actualizado_ve": "2026-11-18T03:45:02-04:00",
+  "actualizado_utc": "2026-11-18T16:46:20+00:00",
+  "actualizado_ve": "2026-11-18T12:46:20-04:00",
   "bcv": {
     "usd": 916.6477,
     "eur": 1007.38665582,
@@ -10,54 +10,54 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1066.9032,
+    "referencia": 1075.1564,
     "venta": {
-      "promedio": 1066.9032,
-      "minimo": 1064.5,
-      "maximo": 1070.001,
+      "promedio": 1075.1564,
+      "minimo": 1074.1,
+      "maximo": 1077.672,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1070.001,
-          "comerciante": "Maranto",
-          "min": "50000",
-          "max": "100000",
-          "disponible": "100.00"
+          "precio": 1077.672,
+          "comerciante": "girosmorain05",
+          "min": "100000",
+          "max": "200000",
+          "disponible": "226.37"
         },
         {
-          "precio": 1070.0,
-          "comerciante": "Skymecc",
-          "min": "50000",
+          "precio": 1075.0,
+          "comerciante": "GenesisCryptoP2P",
+          "min": "400000",
+          "max": "3000000",
+          "disponible": "4610.34"
+        },
+        {
+          "precio": 1074.51,
+          "comerciante": "jaigom068",
+          "min": "100000",
           "max": "4000000",
-          "disponible": "2000.00"
+          "disponible": "2663.25"
         },
         {
-          "precio": 1065.015,
-          "comerciante": "CAMBIOSBBJ",
-          "min": "20000",
-          "max": "110000",
-          "disponible": "200.00"
-        },
-        {
-          "precio": 1065.0,
-          "comerciante": "CambiosLM23",
-          "min": "10000",
-          "max": "12200",
-          "disponible": "100.00"
-        },
-        {
-          "precio": 1064.5,
-          "comerciante": "ValMas89",
-          "min": "250000",
+          "precio": 1074.5,
+          "comerciante": "Tepagofast192",
+          "min": "100000",
           "max": "4000000",
-          "disponible": "2435.82"
+          "disponible": "16618.37"
+        },
+        {
+          "precio": 1074.1,
+          "comerciante": "SecurityXpress11",
+          "min": "100000",
+          "max": "1450000",
+          "disponible": "616.12"
         }
       ]
     },
     "compra": {
-      "promedio": 1066.6178,
+      "promedio": 1068.8822,
       "minimo": 1055.54,
-      "maximo": 1069.899,
+      "maximo": 1072.3,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "99.75"
         },
         {
-          "precio": 1068.0,
-          "comerciante": "NewtScamander",
-          "min": "5000000",
-          "max": "36450000",
-          "disponible": "12198.92"
+          "precio": 1072.0,
+          "comerciante": "J F C",
+          "min": "1600000",
+          "max": "4000000",
+          "disponible": "1496.25"
         },
         {
-          "precio": 1069.8,
-          "comerciante": "Mr-Bean-",
-          "min": "500000",
-          "max": "36450000",
-          "disponible": "5719.56"
-        },
-        {
-          "precio": 1069.85,
-          "comerciante": "ReadyToTrade_",
-          "min": "36450000",
-          "max": "120000000",
-          "disponible": "130240.77"
-        },
-        {
-          "precio": 1069.899,
-          "comerciante": "__TraderFocus__",
+          "precio": 1072.283,
+          "comerciante": "JDVR_05",
           "min": "6000000",
           "max": "36450000",
-          "disponible": "13531.15"
+          "disponible": "32353.18"
+        },
+        {
+          "precio": 1072.288,
+          "comerciante": "Sxun01",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "13504.91"
+        },
+        {
+          "precio": 1072.3,
+          "comerciante": "Elnegrop2p",
+          "min": "10000000",
+          "max": "36450000",
+          "disponible": "27566.44"
         }
       ]
     }
   },
-  "brecha_pct": 16.39
+  "brecha_pct": 17.29
 }
