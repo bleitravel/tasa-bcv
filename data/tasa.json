@@ -1,19 +1,19 @@
 {
-  "actualizado_utc": "2026-11-19T13:37:07+00:00",
-  "actualizado_ve": "2026-11-19T09:37:07-04:00",
+  "actualizado_utc": "2026-11-19T21:53:56+00:00",
+  "actualizado_ve": "2026-11-19T17:53:56-04:00",
   "bcv": {
-    "usd": 917.7751,
-    "eur": 1007.39583851,
-    "fecha_valor": "2026-11-19T00:00:00-04:00"
+    "usd": 918.7662,
+    "eur": 1009.07172979,
+    "fecha_valor": "2026-11-20T00:00:00-04:00"
   },
   "binance_p2p": {
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1079.9002,
+    "referencia": 1079.3506,
     "venta": {
-      "promedio": 1079.9002,
-      "minimo": 1074.0,
+      "promedio": 1079.3506,
+      "minimo": 1073.6,
       "maximo": 1100.001,
       "anuncios_usados": 5,
       "anuncios": [
@@ -22,81 +22,81 @@
           "comerciante": "CAMBIOBEMOVIL",
           "min": "1000",
           "max": "100000",
-          "disponible": "29917.92"
-        },
-        {
-          "precio": 1076.0,
-          "comerciante": "JJRS_GAGD",
-          "min": "1900000",
-          "max": "2152000",
-          "disponible": "2000.00"
+          "disponible": "29908.36"
         },
         {
           "precio": 1075.0,
-          "comerciante": "Skymecc",
-          "min": "50000",
-          "max": "4000000",
-          "disponible": "9000.00"
-        },
-        {
-          "precio": 1074.5,
-          "comerciante": "安全与信任",
+          "comerciante": "Luishein",
           "min": "5000000",
-          "max": "36450000",
-          "disponible": "41423.99"
+          "max": "27700000",
+          "disponible": "16450.01"
         },
         {
-          "precio": 1074.0,
-          "comerciante": "Mariloviu",
-          "min": "500000",
-          "max": "500200",
-          "disponible": "1068.92"
+          "precio": 1074.102,
+          "comerciante": "GR_SS",
+          "min": "2000000",
+          "max": "4000000",
+          "disponible": "27952.06"
+        },
+        {
+          "precio": 1074.05,
+          "comerciante": "DOCTOR_CAMBIO",
+          "min": "6000000",
+          "max": "36450000",
+          "disponible": "50000.00"
+        },
+        {
+          "precio": 1073.6,
+          "comerciante": "_Vortex12_",
+          "min": "4000000",
+          "max": "36450000",
+          "disponible": "50000.00"
         }
       ]
     },
     "compra": {
-      "promedio": 1073.7638,
-      "minimo": 1072.9,
-      "maximo": 1073.99,
+      "promedio": 1074.3958,
+      "minimo": 1073.99,
+      "maximo": 1074.995,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1072.9,
-          "comerciante": "tucambioseguro",
-          "min": "90000",
-          "max": "4000000",
-          "disponible": "162.72"
-        },
-        {
-          "precio": 1073.969,
-          "comerciante": "_BRUCE_WAYNE_",
-          "min": "4000000",
-          "max": "36450000",
-          "disponible": "33314.99"
-        },
-        {
-          "precio": 1073.97,
+          "precio": 1073.99,
           "comerciante": "_SELOPE1975_",
           "min": "5000001",
           "max": "9072456",
-          "disponible": "8437.06"
+          "disponible": "8650.11"
         },
         {
-          "precio": 1073.99,
-          "comerciante": "SEGURIDAD-FINANCIERA",
-          "min": "4000000",
-          "max": "36450000",
-          "disponible": "4987.64"
+          "precio": 1074.0,
+          "comerciante": "Aaron201",
+          "min": "3000000",
+          "max": "6976507",
+          "disponible": "2994.01"
         },
         {
-          "precio": 1073.99,
-          "comerciante": "Toshiro626",
-          "min": "2000000",
+          "precio": 1074.0,
+          "comerciante": "Krypto-Handeln",
+          "min": "5000000",
           "max": "36450000",
-          "disponible": "7708.80"
+          "disponible": "16486.34"
+        },
+        {
+          "precio": 1074.994,
+          "comerciante": "_BRUCE_WAYNE_",
+          "min": "8000000",
+          "max": "36450000",
+          "disponible": "34870.32"
+        },
+        {
+          "precio": 1074.995,
+          "comerciante": "JDVR_05",
+          "min": "8000000",
+          "max": "36450000",
+          "disponible": "30000.00"
         }
       ]
     }
   },
-  "brecha_pct": 17.67
+  "brecha_pct": 17.48
 }
