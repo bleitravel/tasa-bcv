@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-11-19T21:53:56+00:00",
-  "actualizado_ve": "2026-11-19T17:53:56-04:00",
+  "actualizado_utc": "2026-11-20T02:43:09+00:00",
+  "actualizado_ve": "2026-11-19T22:43:09-04:00",
   "bcv": {
     "usd": 918.7662,
     "eur": 1009.07172979,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1079.3506,
+    "referencia": 1074.0802,
     "venta": {
-      "promedio": 1079.3506,
-      "minimo": 1073.6,
+      "promedio": 1074.0802,
+      "minimo": 1066.2,
       "maximo": 1100.001,
       "anuncios_usados": 5,
       "anuncios": [
@@ -22,81 +22,81 @@
           "comerciante": "CAMBIOBEMOVIL",
           "min": "1000",
           "max": "100000",
-          "disponible": "29908.36"
+          "disponible": "29895.20"
         },
         {
-          "precio": 1075.0,
-          "comerciante": "Luishein",
-          "min": "5000000",
-          "max": "27700000",
-          "disponible": "16450.01"
-        },
-        {
-          "precio": 1074.102,
-          "comerciante": "GR_SS",
-          "min": "2000000",
+          "precio": 1071.0,
+          "comerciante": "fabirm30",
+          "min": "300",
           "max": "4000000",
-          "disponible": "27952.06"
+          "disponible": "180.00"
         },
         {
-          "precio": 1074.05,
-          "comerciante": "DOCTOR_CAMBIO",
-          "min": "6000000",
-          "max": "36450000",
-          "disponible": "50000.00"
+          "precio": 1067.0,
+          "comerciante": "FLASH_ARLY_2050",
+          "min": "15000",
+          "max": "266750",
+          "disponible": "57.25"
         },
         {
-          "precio": 1073.6,
-          "comerciante": "_Vortex12_",
-          "min": "4000000",
-          "max": "36450000",
-          "disponible": "50000.00"
+          "precio": 1066.2,
+          "comerciante": "caramedio",
+          "min": "1930000",
+          "max": "1950000",
+          "disponible": "2000.00"
+        },
+        {
+          "precio": 1066.2,
+          "comerciante": "REA_PRO",
+          "min": "950000",
+          "max": "36000000",
+          "disponible": "910.00"
         }
       ]
     },
     "compra": {
-      "promedio": 1074.3958,
-      "minimo": 1073.99,
-      "maximo": 1074.995,
+      "promedio": 1065.6702,
+      "minimo": 1064.999,
+      "maximo": 1066.477,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1073.99,
-          "comerciante": "_SELOPE1975_",
-          "min": "5000001",
-          "max": "9072456",
-          "disponible": "8650.11"
+          "precio": 1064.999,
+          "comerciante": "Dergut_23",
+          "min": "4000000",
+          "max": "36450000",
+          "disponible": "5154.75"
         },
         {
-          "precio": 1074.0,
-          "comerciante": "Aaron201",
-          "min": "3000000",
-          "max": "6976507",
-          "disponible": "2994.01"
-        },
-        {
-          "precio": 1074.0,
-          "comerciante": "Krypto-Handeln",
+          "precio": 1065.0,
+          "comerciante": "胡须医生",
           "min": "5000000",
           "max": "36450000",
-          "disponible": "16486.34"
+          "disponible": "11477.35"
         },
         {
-          "precio": 1074.994,
+          "precio": 1065.399,
+          "comerciante": "__TraderFocus__",
+          "min": "2000000",
+          "max": "36450000",
+          "disponible": "21823.92"
+        },
+        {
+          "precio": 1066.476,
           "comerciante": "_BRUCE_WAYNE_",
-          "min": "8000000",
+          "min": "4000000",
           "max": "36450000",
-          "disponible": "34870.32"
+          "disponible": "26505.03"
         },
         {
-          "precio": 1074.995,
-          "comerciante": "JDVR_05",
-          "min": "8000000",
-          "max": "36450000",
-          "disponible": "30000.00"
+          "precio": 1066.477,
+          "comerciante": "MANTEQUILLAA",
+          "min": "4000000",
+          "max": "36400000",
+          "disponible": "17978.71"
         }
       ]
     }
   },
-  "brecha_pct": 17.48
+  "brecha_pct": 16.9
 }
