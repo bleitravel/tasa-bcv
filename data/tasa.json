@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-11-20T10:39:20+00:00",
-  "actualizado_ve": "2026-11-20T06:39:20-04:00",
+  "actualizado_utc": "2026-11-20T18:53:32+00:00",
+  "actualizado_ve": "2026-11-20T14:53:32-04:00",
   "bcv": {
     "usd": 918.7662,
     "eur": 1009.07172979,
@@ -10,13 +10,20 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1064.682,
+    "referencia": 1076.15,
     "venta": {
-      "promedio": 1064.682,
-      "minimo": 1063.0,
-      "maximo": 1071.0,
+      "promedio": 1076.15,
+      "minimo": 1069.15,
+      "maximo": 1100.0,
       "anuncios_usados": 5,
       "anuncios": [
+        {
+          "precio": 1100.0,
+          "comerciante": "CAMBIOBEMOVIL",
+          "min": "1000",
+          "max": "100000",
+          "disponible": "29895.20"
+        },
         {
           "precio": 1071.0,
           "comerciante": "fabirm30",
@@ -25,78 +32,71 @@
           "disponible": "180.00"
         },
         {
-          "precio": 1063.2,
-          "comerciante": "Condor_1",
-          "min": "200000",
-          "max": "4000000",
-          "disponible": "3324.92"
+          "precio": 1071.0,
+          "comerciante": "web1973",
+          "min": "1749000",
+          "max": "1750000",
+          "disponible": "1633.99"
         },
         {
-          "precio": 1063.15,
-          "comerciante": "Aanda73",
-          "min": "50000",
-          "max": "3000000",
-          "disponible": "1018.19"
+          "precio": 1069.6,
+          "comerciante": "Bernaaaaaaa",
+          "min": "1000000",
+          "max": "35000000",
+          "disponible": "18944.20"
         },
         {
-          "precio": 1063.06,
-          "comerciante": "Condor_2",
-          "min": "100000",
-          "max": "1000000",
-          "disponible": "3000.00"
-        },
-        {
-          "precio": 1063.0,
-          "comerciante": "Daniaarilo",
-          "min": "100000",
-          "max": "4000000",
-          "disponible": "1500.00"
+          "precio": 1069.15,
+          "comerciante": "JS_Valentine",
+          "min": "700000",
+          "max": "8166000",
+          "disponible": "1332.48"
         }
       ]
     },
     "compra": {
-      "promedio": 1065.6778,
-      "minimo": 1063.5,
-      "maximo": 1066.98,
+      "promedio": 1070.2,
+      "minimo": 1070.0,
+      "maximo": 1071.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1063.5,
-          "comerciante": "Mariangel_Exchange",
-          "min": "5000",
+          "precio": 1070.0,
+          "comerciante": "P2P-7062e22d",
+          "min": "1070000",
           "max": "4000000",
-          "disponible": "199.50"
+          "disponible": "2194.51"
         },
         {
-          "precio": 1065.0,
-          "comerciante": "JvPRO18",
-          "min": "40000",
-          "max": "36450000",
-          "disponible": "1035.62"
-        },
-        {
-          "precio": 1065.999,
-          "comerciante": "Dantecripto",
+          "precio": 1070.0,
+          "comerciante": "cambiosamu",
           "min": "500000",
-          "max": "873158",
-          "disponible": "812.21"
+          "max": "500001",
+          "disponible": "598.50"
         },
         {
-          "precio": 1066.91,
-          "comerciante": "adrubita",
-          "min": "1075000",
-          "max": "10000000",
-          "disponible": "1007.98"
+          "precio": 1070.0,
+          "comerciante": "Popoche",
+          "min": "1000",
+          "max": "4000000",
+          "disponible": "1.37"
         },
         {
-          "precio": 1066.98,
-          "comerciante": "AngelesP2P",
-          "min": "450000",
-          "max": "3645000",
-          "disponible": "697.07"
+          "precio": 1070.0,
+          "comerciante": "ELIRIPAOLA",
+          "min": "10700",
+          "max": "53500",
+          "disponible": "42.10"
+        },
+        {
+          "precio": 1071.0,
+          "comerciante": "SECURITYPRO",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "0.34"
         }
       ]
     }
   },
-  "brecha_pct": 15.88
+  "brecha_pct": 17.13
 }
