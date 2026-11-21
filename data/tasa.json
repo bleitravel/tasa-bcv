@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-11-21T07:28:24+00:00",
-  "actualizado_ve": "2026-11-21T03:28:24-04:00",
+  "actualizado_utc": "2026-11-21T15:30:00+00:00",
+  "actualizado_ve": "2026-11-21T11:30:00-04:00",
   "bcv": {
     "usd": 919.8227,
     "eur": 1011.17949056,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1078.033,
+    "referencia": 1086.69,
     "venta": {
-      "promedio": 1078.033,
-      "minimo": 1077.932,
-      "maximo": 1078.209,
+      "promedio": 1086.69,
+      "minimo": 1083.05,
+      "maximo": 1100.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1078.209,
-          "comerciante": "AngelMolinaC",
-          "min": "300000",
-          "max": "36450000",
-          "disponible": "17000.00"
+          "precio": 1100.0,
+          "comerciante": "CAMBIOBEMOVIL",
+          "min": "1000",
+          "max": "100000",
+          "disponible": "29884.95"
         },
         {
-          "precio": 1078.05,
+          "precio": 1084.0,
+          "comerciante": "CAMBIOSJFG",
+          "min": "500000",
+          "max": "36450000",
+          "disponible": "6984.73"
+        },
+        {
+          "precio": 1083.3,
+          "comerciante": "EPONTA",
+          "min": "500000",
+          "max": "30000000",
+          "disponible": "6000.55"
+        },
+        {
+          "precio": 1083.1,
+          "comerciante": "彡ReinaPepiadaCoin彡",
+          "min": "4000000",
+          "max": "36450000",
+          "disponible": "16912.75"
+        },
+        {
+          "precio": 1083.05,
           "comerciante": "Anyelo",
           "min": "200000",
           "max": "1200000",
-          "disponible": "1043.00"
-        },
-        {
-          "precio": 1077.988,
-          "comerciante": "Molyflash777",
-          "min": "200000",
-          "max": "36400000",
-          "disponible": "12050.43"
-        },
-        {
-          "precio": 1077.986,
-          "comerciante": "桃子內斯蒂亞",
-          "min": "200000",
-          "max": "36450000",
-          "disponible": "66846.42"
-        },
-        {
-          "precio": 1077.932,
-          "comerciante": "CONFIABLE-SERVICIOS",
-          "min": "200000",
-          "max": "1106000",
-          "disponible": "29034.02"
+          "disponible": "9865.52"
         }
       ]
     },
     "compra": {
-      "promedio": 1083.2662,
+      "promedio": 1083.0,
       "minimo": 1083.0,
-      "maximo": 1083.5,
+      "maximo": 1083.0,
       "anuncios_usados": 5,
       "anuncios": [
+        {
+          "precio": 1083.0,
+          "comerciante": "Inter-Pagos",
+          "min": "250000",
+          "max": "4000000",
+          "disponible": "1684.68"
+        },
         {
           "precio": 1083.0,
           "comerciante": "P2P-66a403zo",
           "min": "300",
           "max": "4000000",
-          "disponible": "0.31"
+          "disponible": "31.62"
         },
         {
           "precio": 1083.0,
-          "comerciante": "Much_Dolar",
-          "min": "200000",
-          "max": "400000",
-          "disponible": "299.25"
-        },
-        {
-          "precio": 1083.399,
-          "comerciante": "__TraderFocus__",
-          "min": "5000000",
-          "max": "36450000",
-          "disponible": "15980.02"
-        },
-        {
-          "precio": 1083.432,
-          "comerciante": "escalonacambio",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "2.39"
-        },
-        {
-          "precio": 1083.5,
-          "comerciante": "-Ledger-",
+          "comerciante": "gonzbrh",
           "min": "10000000",
           "max": "36450000",
-          "disponible": "61842.47"
+          "disponible": "9841.77"
+        },
+        {
+          "precio": 1083.0,
+          "comerciante": "_DemoCambios_",
+          "min": "350000",
+          "max": "3500000",
+          "disponible": "498.75"
+        },
+        {
+          "precio": 1083.0,
+          "comerciante": "AquilesArturo",
+          "min": "500000",
+          "max": "6000000",
+          "disponible": "1497.55"
         }
       ]
     }
   },
-  "brecha_pct": 17.2
+  "brecha_pct": 18.14
 }
