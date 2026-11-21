@@ -1,19 +1,19 @@
 {
-  "actualizado_utc": "2026-11-20T18:53:32+00:00",
-  "actualizado_ve": "2026-11-20T14:53:32-04:00",
+  "actualizado_utc": "2026-11-21T00:24:17+00:00",
+  "actualizado_ve": "2026-11-20T20:24:17-04:00",
   "bcv": {
-    "usd": 918.7662,
-    "eur": 1009.07172979,
-    "fecha_valor": "2026-11-20T00:00:00-04:00"
+    "usd": 919.8227,
+    "eur": 1011.17949056,
+    "fecha_valor": "2026-11-24T00:00:00-04:00"
   },
   "binance_p2p": {
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1076.15,
+    "referencia": 1081.0404,
     "venta": {
-      "promedio": 1076.15,
-      "minimo": 1069.15,
+      "promedio": 1081.0404,
+      "minimo": 1076.1,
       "maximo": 1100.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -22,81 +22,81 @@
           "comerciante": "CAMBIOBEMOVIL",
           "min": "1000",
           "max": "100000",
-          "disponible": "29895.20"
+          "disponible": "29884.95"
         },
         {
-          "precio": 1071.0,
-          "comerciante": "fabirm30",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "180.00"
+          "precio": 1076.5,
+          "comerciante": "TOPlevelS",
+          "min": "15000000",
+          "max": "36450000",
+          "disponible": "80000.00"
         },
         {
-          "precio": 1071.0,
-          "comerciante": "web1973",
-          "min": "1749000",
-          "max": "1750000",
-          "disponible": "1633.99"
+          "precio": 1076.5,
+          "comerciante": "Caniel02",
+          "min": "1500000",
+          "max": "34000000",
+          "disponible": "6470.00"
         },
         {
-          "precio": 1069.6,
+          "precio": 1076.102,
+          "comerciante": "Capital_Carreno",
+          "min": "1000000",
+          "max": "36450000",
+          "disponible": "16676.17"
+        },
+        {
+          "precio": 1076.1,
           "comerciante": "Bernaaaaaaa",
           "min": "1000000",
           "max": "35000000",
-          "disponible": "18944.20"
-        },
-        {
-          "precio": 1069.15,
-          "comerciante": "JS_Valentine",
-          "min": "700000",
-          "max": "8166000",
-          "disponible": "1332.48"
+          "disponible": "10017.51"
         }
       ]
     },
     "compra": {
-      "promedio": 1070.2,
-      "minimo": 1070.0,
-      "maximo": 1071.0,
+      "promedio": 1076.68,
+      "minimo": 1075.0,
+      "maximo": 1078.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1070.0,
-          "comerciante": "P2P-7062e22d",
-          "min": "1070000",
+          "precio": 1075.0,
+          "comerciante": "Zona_Elite",
+          "min": "300",
           "max": "4000000",
-          "disponible": "2194.51"
+          "disponible": "0.71"
         },
         {
-          "precio": 1070.0,
-          "comerciante": "cambiosamu",
-          "min": "500000",
-          "max": "500001",
+          "precio": 1075.0,
+          "comerciante": "rosniyissel",
+          "min": "550000",
+          "max": "600000",
           "disponible": "598.50"
         },
         {
-          "precio": 1070.0,
-          "comerciante": "Popoche",
-          "min": "1000",
-          "max": "4000000",
-          "disponible": "1.37"
+          "precio": 1077.4,
+          "comerciante": "EKExpress",
+          "min": "3000000",
+          "max": "36450000",
+          "disponible": "4087.16"
         },
         {
-          "precio": 1070.0,
-          "comerciante": "ELIRIPAOLA",
-          "min": "10700",
-          "max": "53500",
-          "disponible": "42.10"
+          "precio": 1078.0,
+          "comerciante": "zaco10",
+          "min": "10000",
+          "max": "4000000",
+          "disponible": "149.62"
         },
         {
-          "precio": 1071.0,
-          "comerciante": "SECURITYPRO",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "0.34"
+          "precio": 1078.0,
+          "comerciante": "imp2p",
+          "min": "5500000",
+          "max": "30000000",
+          "disponible": "5539.76"
         }
       ]
     }
   },
-  "brecha_pct": 17.13
+  "brecha_pct": 17.53
 }
