@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-11-21T15:30:00+00:00",
-  "actualizado_ve": "2026-11-21T11:30:00-04:00",
+  "actualizado_utc": "2026-11-21T20:59:25+00:00",
+  "actualizado_ve": "2026-11-21T16:59:25-04:00",
   "bcv": {
     "usd": 919.8227,
     "eur": 1011.17949056,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1086.69,
+    "referencia": 1097.356,
     "venta": {
-      "promedio": 1086.69,
-      "minimo": 1083.05,
-      "maximo": 1100.0,
+      "promedio": 1097.356,
+      "minimo": 1090.0,
+      "maximo": 1115.78,
       "anuncios_usados": 5,
       "anuncios": [
+        {
+          "precio": 1115.78,
+          "comerciante": "IntiX",
+          "min": "5000",
+          "max": "190000",
+          "disponible": "170.00"
+        },
         {
           "precio": 1100.0,
           "comerciante": "CAMBIOBEMOVIL",
           "min": "1000",
           "max": "100000",
-          "disponible": "29884.95"
+          "disponible": "29869.50"
         },
         {
-          "precio": 1084.0,
-          "comerciante": "CAMBIOSJFG",
-          "min": "500000",
+          "precio": 1091.0,
+          "comerciante": "Godisgift",
+          "min": "36450000",
+          "max": "500000000",
+          "disponible": "485945.38"
+        },
+        {
+          "precio": 1090.0,
+          "comerciante": "黑块黑块",
+          "min": "36450000",
+          "max": "500000000",
+          "disponible": "200000.00"
+        },
+        {
+          "precio": 1090.0,
+          "comerciante": "DOCTOR_CAMBIO",
+          "min": "10000000",
           "max": "36450000",
-          "disponible": "6984.73"
-        },
-        {
-          "precio": 1083.3,
-          "comerciante": "EPONTA",
-          "min": "500000",
-          "max": "30000000",
-          "disponible": "6000.55"
-        },
-        {
-          "precio": 1083.1,
-          "comerciante": "彡ReinaPepiadaCoin彡",
-          "min": "4000000",
-          "max": "36450000",
-          "disponible": "16912.75"
-        },
-        {
-          "precio": 1083.05,
-          "comerciante": "Anyelo",
-          "min": "200000",
-          "max": "1200000",
-          "disponible": "9865.52"
+          "disponible": "80000.00"
         }
       ]
     },
     "compra": {
-      "promedio": 1083.0,
-      "minimo": 1083.0,
-      "maximo": 1083.0,
+      "promedio": 1086.8,
+      "minimo": 1086.0,
+      "maximo": 1087.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1083.0,
-          "comerciante": "Inter-Pagos",
-          "min": "250000",
-          "max": "4000000",
-          "disponible": "1684.68"
+          "precio": 1086.0,
+          "comerciante": "JhonathanH",
+          "min": "97000",
+          "max": "97200",
+          "disponible": "99.75"
         },
         {
-          "precio": 1083.0,
-          "comerciante": "P2P-66a403zo",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "31.62"
-        },
-        {
-          "precio": 1083.0,
-          "comerciante": "gonzbrh",
-          "min": "10000000",
+          "precio": 1087.0,
+          "comerciante": "ElMuSa30",
+          "min": "2000000",
           "max": "36450000",
-          "disponible": "9841.77"
+          "disponible": "1989.96"
         },
         {
-          "precio": 1083.0,
+          "precio": 1087.0,
+          "comerciante": "SPAICER",
+          "min": "320",
+          "max": "877000",
+          "disponible": "1.06"
+        },
+        {
+          "precio": 1087.0,
+          "comerciante": "Trade_Llanos",
+          "min": "53500",
+          "max": "53500",
+          "disponible": "99.80"
+        },
+        {
+          "precio": 1087.0,
           "comerciante": "_DemoCambios_",
           "min": "350000",
           "max": "3500000",
           "disponible": "498.75"
-        },
-        {
-          "precio": 1083.0,
-          "comerciante": "AquilesArturo",
-          "min": "500000",
-          "max": "6000000",
-          "disponible": "1497.55"
         }
       ]
     }
   },
-  "brecha_pct": 18.14
+  "brecha_pct": 19.3
 }
