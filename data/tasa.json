@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-11-22T07:42:39+00:00",
-  "actualizado_ve": "2026-11-22T03:42:39-04:00",
+  "actualizado_utc": "2026-11-22T15:44:33+00:00",
+  "actualizado_ve": "2026-11-22T11:44:33-04:00",
   "bcv": {
     "usd": 919.8227,
     "eur": 1011.17949056,
@@ -10,54 +10,54 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1089.765,
+    "referencia": 1096.7518,
     "venta": {
-      "promedio": 1089.765,
-      "minimo": 1089.0,
-      "maximo": 1090.403,
+      "promedio": 1096.7518,
+      "minimo": 1094.2,
+      "maximo": 1101.059,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1090.403,
-          "comerciante": "胡须医生",
-          "min": "300000",
+          "precio": 1101.059,
+          "comerciante": "CAMBIOSSEscSALMO33",
+          "min": "3000",
+          "max": "150000",
+          "disponible": "1160.50"
+        },
+        {
+          "precio": 1100.0,
+          "comerciante": "CAMBIOBEMOVIL",
+          "min": "1000",
+          "max": "100000",
+          "disponible": "29856.54"
+        },
+        {
+          "precio": 1094.3,
+          "comerciante": "Brawcoins",
+          "min": "10000000",
           "max": "36450000",
-          "disponible": "65413.78"
+          "disponible": "80000.00"
         },
         {
-          "precio": 1090.402,
-          "comerciante": "CONFIABLE-SERVICIOS",
-          "min": "300000",
-          "max": "1323000",
-          "disponible": "15289.66"
-        },
-        {
-          "precio": 1090.0,
-          "comerciante": "BalduinoIV",
-          "min": "800000",
+          "precio": 1094.2,
+          "comerciante": "AguilasTrade",
+          "min": "7000000",
           "max": "36450000",
-          "disponible": "4562.23"
+          "disponible": "57716.90"
         },
         {
-          "precio": 1089.02,
-          "comerciante": "emnu30",
-          "min": "500000",
-          "max": "4000000",
-          "disponible": "22031.49"
-        },
-        {
-          "precio": 1089.0,
-          "comerciante": "PAGO-Y-COMPROBANTE",
-          "min": "90000",
-          "max": "36450000",
-          "disponible": "1841.23"
+          "precio": 1094.2,
+          "comerciante": "CAMBIOS_RAPIDOS",
+          "min": "1100000",
+          "max": "30000000",
+          "disponible": "2203.24"
         }
       ]
     },
     "compra": {
-      "promedio": 1092.3596,
+      "promedio": 1092.1,
       "minimo": 1090.0,
-      "maximo": 1093.0,
+      "maximo": 1094.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "0.93"
         },
         {
-          "precio": 1092.899,
-          "comerciante": "-TOPBOY27-",
-          "min": "36450000",
-          "max": "600000000",
-          "disponible": "34972.67"
-        },
-        {
-          "precio": 1092.9,
-          "comerciante": "ArepaConCafe",
-          "min": "36450000",
-          "max": "200000000",
-          "disponible": "173913.35"
-        },
-        {
-          "precio": 1092.999,
-          "comerciante": "carlosmot1",
-          "min": "300",
-          "max": "145000",
-          "disponible": "0.35"
+          "precio": 1090.0,
+          "comerciante": "MaryC",
+          "min": "5000",
+          "max": "30000",
+          "disponible": "100.20"
         },
         {
           "precio": 1093.0,
-          "comerciante": "Notorio-",
-          "min": "36450000",
-          "max": "100000000",
-          "disponible": "52726.41"
+          "comerciante": "Aaron201",
+          "min": "4300000",
+          "max": "36450000",
+          "disponible": "3992.01"
+        },
+        {
+          "precio": 1093.5,
+          "comerciante": "yaracripto",
+          "min": "54000",
+          "max": "54001",
+          "disponible": "50.37"
+        },
+        {
+          "precio": 1094.0,
+          "comerciante": "Specione",
+          "min": "60000",
+          "max": "60001",
+          "disponible": "64.93"
         }
       ]
     }
   },
-  "brecha_pct": 18.48
+  "brecha_pct": 19.24
 }
