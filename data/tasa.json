@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-11-22T15:44:33+00:00",
-  "actualizado_ve": "2026-11-22T11:44:33-04:00",
+  "actualizado_utc": "2026-11-22T21:22:02+00:00",
+  "actualizado_ve": "2026-11-22T17:22:02-04:00",
   "bcv": {
     "usd": 919.8227,
     "eur": 1011.17949056,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1096.7518,
+    "referencia": 1095.0122,
     "venta": {
-      "promedio": 1096.7518,
-      "minimo": 1094.2,
+      "promedio": 1095.0122,
+      "minimo": 1090.501,
       "maximo": 1101.059,
       "anuncios_usados": 5,
       "anuncios": [
@@ -22,81 +22,81 @@
           "comerciante": "CAMBIOSSEscSALMO33",
           "min": "3000",
           "max": "150000",
-          "disponible": "1160.50"
+          "disponible": "1157.75"
         },
         {
           "precio": 1100.0,
           "comerciante": "CAMBIOBEMOVIL",
           "min": "1000",
           "max": "100000",
-          "disponible": "29856.54"
+          "disponible": "29850.18"
         },
         {
-          "precio": 1094.3,
-          "comerciante": "Brawcoins",
-          "min": "10000000",
-          "max": "36450000",
-          "disponible": "80000.00"
+          "precio": 1093.0,
+          "comerciante": "Skayle Pago",
+          "min": "1000000",
+          "max": "2000000",
+          "disponible": "914.92"
         },
         {
-          "precio": 1094.2,
-          "comerciante": "AguilasTrade",
-          "min": "7000000",
-          "max": "36450000",
-          "disponible": "57716.90"
+          "precio": 1090.501,
+          "comerciante": "F-A-I-R-TULO",
+          "min": "400000",
+          "max": "2000000",
+          "disponible": "45618.12"
         },
         {
-          "precio": 1094.2,
-          "comerciante": "CAMBIOS_RAPIDOS",
-          "min": "1100000",
-          "max": "30000000",
-          "disponible": "2203.24"
+          "precio": 1090.501,
+          "comerciante": "F_A_I_R---T_E_A_M",
+          "min": "500000",
+          "max": "3000000",
+          "disponible": "23705.37"
         }
       ]
     },
     "compra": {
-      "promedio": 1092.1,
+      "promedio": 1090.5798,
       "minimo": 1090.0,
-      "maximo": 1094.0,
+      "maximo": 1091.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
           "precio": 1090.0,
-          "comerciante": "GrupoEVONUT",
-          "min": "1000",
-          "max": "110000",
-          "disponible": "0.93"
+          "comerciante": "In_God-I_trust",
+          "min": "3800000",
+          "max": "10000000",
+          "disponible": "11519.26"
         },
         {
           "precio": 1090.0,
-          "comerciante": "MaryC",
-          "min": "5000",
-          "max": "30000",
-          "disponible": "100.20"
+          "comerciante": "User-5bb6fboj",
+          "min": "100000",
+          "max": "599500",
+          "disponible": "548.62"
         },
         {
-          "precio": 1093.0,
+          "precio": 1090.9,
+          "comerciante": "Horusrs",
+          "min": "500000",
+          "max": "4400000",
+          "disponible": "933.98"
+        },
+        {
+          "precio": 1090.999,
+          "comerciante": "NimaX-64",
+          "min": "4000000",
+          "max": "21100000",
+          "disponible": "14775.65"
+        },
+        {
+          "precio": 1091.0,
           "comerciante": "Aaron201",
-          "min": "4300000",
+          "min": "5400000",
           "max": "36450000",
-          "disponible": "3992.01"
-        },
-        {
-          "precio": 1093.5,
-          "comerciante": "yaracripto",
-          "min": "54000",
-          "max": "54001",
-          "disponible": "50.37"
-        },
-        {
-          "precio": 1094.0,
-          "comerciante": "Specione",
-          "min": "60000",
-          "max": "60001",
-          "disponible": "64.93"
+          "disponible": "6094.38"
         }
       ]
     }
   },
-  "brecha_pct": 19.24
+  "brecha_pct": 19.05
 }
