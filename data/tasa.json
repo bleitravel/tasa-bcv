@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-11-23T09:55:08+00:00",
-  "actualizado_ve": "2026-11-23T05:55:08-04:00",
+  "actualizado_utc": "2026-11-23T21:46:41+00:00",
+  "actualizado_ve": "2026-11-23T17:46:41-04:00",
   "bcv": {
     "usd": 919.8227,
     "eur": 1011.17949056,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1088.652,
+    "referencia": 1108.6242,
     "venta": {
-      "promedio": 1088.652,
-      "minimo": 1088.0,
-      "maximo": 1089.5,
+      "promedio": 1108.6242,
+      "minimo": 1108.3,
+      "maximo": 1109.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1089.5,
-          "comerciante": "pelota 2525",
-          "min": "272500",
-          "max": "273000",
-          "disponible": "251.00"
+          "precio": 1109.0,
+          "comerciante": "P2P-d40c8dju",
+          "min": "312000",
+          "max": "312738",
+          "disponible": "282.00"
         },
         {
-          "precio": 1089.0,
-          "comerciante": "maisondorada",
-          "min": "1000000",
-          "max": "4000000",
-          "disponible": "20000.00"
+          "precio": 1109.0,
+          "comerciante": "CambiosflashB",
+          "min": "10000",
+          "max": "121990",
+          "disponible": "100.06"
         },
         {
-          "precio": 1088.76,
-          "comerciante": "蒙神祝福者",
-          "min": "500000",
+          "precio": 1108.51,
+          "comerciante": "bigmitchum",
+          "min": "6000000",
+          "max": "6085000",
+          "disponible": "5500.00"
+        },
+        {
+          "precio": 1108.311,
+          "comerciante": "NeoCambios01",
+          "min": "3000000",
           "max": "36000000",
-          "disponible": "27273.39"
+          "disponible": "66400.97"
         },
         {
-          "precio": 1088.0,
-          "comerciante": "Don-Cangrejo",
-          "min": "2000000",
-          "max": "36450000",
-          "disponible": "50000.00"
-        },
-        {
-          "precio": 1088.0,
-          "comerciante": "-Ledger-",
-          "min": "300000",
-          "max": "36450000",
-          "disponible": "17013.31"
+          "precio": 1108.3,
+          "comerciante": "CambiosMD",
+          "min": "332000",
+          "max": "332100",
+          "disponible": "300.00"
         }
       ]
     },
     "compra": {
-      "promedio": 1091.18,
-      "minimo": 1088.0,
-      "maximo": 1093.0,
+      "promedio": 1108.598,
+      "minimo": 1105.0,
+      "maximo": 1110.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1088.0,
+          "precio": 1105.0,
+          "comerciante": "iPandaTech",
+          "min": "10000",
+          "max": "1000000",
+          "disponible": "172.38"
+        },
+        {
+          "precio": 1109.0,
           "comerciante": "Aaron201",
-          "min": "5400000",
+          "min": "3200000",
           "max": "36450000",
-          "disponible": "4990.01"
+          "disponible": "2994.01"
         },
         {
-          "precio": 1090.9,
-          "comerciante": "Horusrs",
-          "min": "500000",
-          "max": "4400000",
-          "disponible": "933.98"
-        },
-        {
-          "precio": 1091.0,
-          "comerciante": "-Ledger-",
-          "min": "36450000",
-          "max": "300000000",
-          "disponible": "132954.16"
-        },
-        {
-          "precio": 1093.0,
-          "comerciante": "b3nzema9",
-          "min": "300",
+          "precio": 1109.0,
+          "comerciante": "Cece777",
+          "min": "10000",
           "max": "4000000",
-          "disponible": "0.86"
+          "disponible": "120.36"
         },
         {
-          "precio": 1093.0,
-          "comerciante": "Fannieviloria",
-          "min": "300",
-          "max": "4000000",
-          "disponible": "0.37"
+          "precio": 1109.99,
+          "comerciante": "Danicha1 ",
+          "min": "20000",
+          "max": "65000",
+          "disponible": "102.37"
+        },
+        {
+          "precio": 1110.0,
+          "comerciante": "ElMuSa30",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "11636.31"
         }
       ]
     }
   },
-  "brecha_pct": 18.35
+  "brecha_pct": 20.53
 }
