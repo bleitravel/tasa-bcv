@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-11-22T21:22:02+00:00",
-  "actualizado_ve": "2026-11-22T17:22:02-04:00",
+  "actualizado_utc": "2026-11-23T01:51:28+00:00",
+  "actualizado_ve": "2026-11-22T21:51:28-04:00",
   "bcv": {
     "usd": 919.8227,
     "eur": 1011.17949056,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1095.0122,
+    "referencia": 1092.43,
     "venta": {
-      "promedio": 1095.0122,
-      "minimo": 1090.501,
-      "maximo": 1101.059,
+      "promedio": 1092.43,
+      "minimo": 1090.0,
+      "maximo": 1100.0,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 1101.059,
-          "comerciante": "CAMBIOSSEscSALMO33",
-          "min": "3000",
-          "max": "150000",
-          "disponible": "1157.75"
-        },
         {
           "precio": 1100.0,
           "comerciante": "CAMBIOBEMOVIL",
           "min": "1000",
-          "max": "100000",
+          "max": "20000",
           "disponible": "29850.18"
         },
         {
-          "precio": 1093.0,
-          "comerciante": "Skayle Pago",
-          "min": "1000000",
-          "max": "2000000",
-          "disponible": "914.92"
+          "precio": 1092.0,
+          "comerciante": "TheNumberOneMaturin",
+          "min": "3900000",
+          "max": "4000000",
+          "disponible": "18000.00"
         },
         {
-          "precio": 1090.501,
-          "comerciante": "F-A-I-R-TULO",
-          "min": "400000",
-          "max": "2000000",
-          "disponible": "45618.12"
+          "precio": 1090.1,
+          "comerciante": "Brawcoins",
+          "min": "10000000",
+          "max": "36450000",
+          "disponible": "61680.58"
         },
         {
-          "precio": 1090.501,
-          "comerciante": "F_A_I_R---T_E_A_M",
-          "min": "500000",
-          "max": "3000000",
-          "disponible": "23705.37"
+          "precio": 1090.05,
+          "comerciante": "AguilasTrade",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "69909.26"
+        },
+        {
+          "precio": 1090.0,
+          "comerciante": "GoldenLion_",
+          "min": "3000000",
+          "max": "30000000",
+          "disponible": "50000.00"
         }
       ]
     },
     "compra": {
-      "promedio": 1090.5798,
-      "minimo": 1090.0,
-      "maximo": 1091.0,
+      "promedio": 1089.2,
+      "minimo": 1088.0,
+      "maximo": 1090.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1090.0,
-          "comerciante": "In_God-I_trust",
-          "min": "3800000",
-          "max": "10000000",
-          "disponible": "11519.26"
-        },
-        {
-          "precio": 1090.0,
-          "comerciante": "User-5bb6fboj",
-          "min": "100000",
-          "max": "599500",
-          "disponible": "548.62"
-        },
-        {
-          "precio": 1090.9,
-          "comerciante": "Horusrs",
-          "min": "500000",
-          "max": "4400000",
-          "disponible": "933.98"
-        },
-        {
-          "precio": 1090.999,
-          "comerciante": "NimaX-64",
-          "min": "4000000",
-          "max": "21100000",
-          "disponible": "14775.65"
-        },
-        {
-          "precio": 1091.0,
+          "precio": 1088.0,
           "comerciante": "Aaron201",
           "min": "5400000",
           "max": "36450000",
-          "disponible": "6094.38"
+          "disponible": "4990.01"
+        },
+        {
+          "precio": 1089.0,
+          "comerciante": "gonzbrh",
+          "min": "11000000",
+          "max": "36450000",
+          "disponible": "10415.65"
+        },
+        {
+          "precio": 1089.0,
+          "comerciante": "AESE_",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "6.24"
+        },
+        {
+          "precio": 1090.0,
+          "comerciante": "Vadidi17",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "0.78"
+        },
+        {
+          "precio": 1090.0,
+          "comerciante": "andry0212",
+          "min": "20143",
+          "max": "20144",
+          "disponible": "99.75"
         }
       ]
     }
   },
-  "brecha_pct": 19.05
+  "brecha_pct": 18.77
 }
