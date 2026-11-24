@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-11-23T21:46:41+00:00",
-  "actualizado_ve": "2026-11-23T17:46:41-04:00",
+  "actualizado_utc": "2026-11-24T05:38:57+00:00",
+  "actualizado_ve": "2026-11-24T01:38:57-04:00",
   "bcv": {
     "usd": 919.8227,
     "eur": 1011.17949056,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1108.6242,
+    "referencia": 1106.21,
     "venta": {
-      "promedio": 1108.6242,
-      "minimo": 1108.3,
+      "promedio": 1106.21,
+      "minimo": 1104.05,
       "maximo": 1109.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -25,39 +25,39 @@
           "disponible": "282.00"
         },
         {
-          "precio": 1109.0,
-          "comerciante": "CambiosflashB",
-          "min": "10000",
-          "max": "121990",
-          "disponible": "100.06"
+          "precio": 1107.0,
+          "comerciante": "EMTRADECHANGE69",
+          "min": "500000",
+          "max": "4000000",
+          "disponible": "1155.89"
         },
         {
-          "precio": 1108.51,
-          "comerciante": "bigmitchum",
-          "min": "6000000",
-          "max": "6085000",
-          "disponible": "5500.00"
+          "precio": 1106.0,
+          "comerciante": "yunexpress",
+          "min": "300000",
+          "max": "4000000",
+          "disponible": "350.28"
         },
         {
-          "precio": 1108.311,
-          "comerciante": "NeoCambios01",
-          "min": "3000000",
-          "max": "36000000",
-          "disponible": "66400.97"
+          "precio": 1105.0,
+          "comerciante": "eladio20",
+          "min": "552500",
+          "max": "4000000",
+          "disponible": "500.00"
         },
         {
-          "precio": 1108.3,
-          "comerciante": "CambiosMD",
-          "min": "332000",
-          "max": "332100",
-          "disponible": "300.00"
+          "precio": 1104.05,
+          "comerciante": "Anyelo",
+          "min": "300000",
+          "max": "1200000",
+          "disponible": "7779.54"
         }
       ]
     },
     "compra": {
-      "promedio": 1108.598,
+      "promedio": 1106.1998,
       "minimo": 1105.0,
-      "maximo": 1110.0,
+      "maximo": 1107.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
@@ -68,35 +68,35 @@
           "disponible": "172.38"
         },
         {
-          "precio": 1109.0,
-          "comerciante": "Aaron201",
-          "min": "3200000",
-          "max": "36450000",
-          "disponible": "2994.01"
+          "precio": 1105.0,
+          "comerciante": "User-38df5",
+          "min": "300",
+          "max": "2145269",
+          "disponible": "9.38"
         },
         {
-          "precio": 1109.0,
-          "comerciante": "Cece777",
-          "min": "10000",
+          "precio": 1106.999,
+          "comerciante": "P2P-9779f2ni",
+          "min": "300",
           "max": "4000000",
-          "disponible": "120.36"
+          "disponible": "11.72"
         },
         {
-          "precio": 1109.99,
-          "comerciante": "Danicha1 ",
-          "min": "20000",
-          "max": "65000",
-          "disponible": "102.37"
-        },
-        {
-          "precio": 1110.0,
-          "comerciante": "ElMuSa30",
+          "precio": 1107.0,
+          "comerciante": "_SWIFT_TRADER_",
           "min": "5000000",
           "max": "36450000",
-          "disponible": "11636.31"
+          "disponible": "48833.45"
+        },
+        {
+          "precio": 1107.0,
+          "comerciante": "P4P4L3T4",
+          "min": "50000",
+          "max": "4000000",
+          "disponible": "359.10"
         }
       ]
     }
   },
-  "brecha_pct": 20.53
+  "brecha_pct": 20.26
 }
