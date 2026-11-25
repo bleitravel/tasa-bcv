@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-11-25T01:09:39+00:00",
-  "actualizado_ve": "2026-11-24T21:09:39-04:00",
+  "actualizado_utc": "2026-11-25T09:57:55+00:00",
+  "actualizado_ve": "2026-11-25T05:57:55-04:00",
   "bcv": {
     "usd": 922.5637,
     "eur": 1012.21844036,
@@ -10,34 +10,13 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1109.53,
+    "referencia": 1102.8634,
     "venta": {
-      "promedio": 1109.53,
-      "minimo": 1108.5,
-      "maximo": 1110.1,
+      "promedio": 1102.8634,
+      "minimo": 1100.004,
+      "maximo": 1109.0,
       "anuncios_usados": 5,
       "anuncios": [
-        {
-          "precio": 1110.1,
-          "comerciante": "CoorpLogistic",
-          "min": "986000",
-          "max": "986812",
-          "disponible": "889.00"
-        },
-        {
-          "precio": 1110.05,
-          "comerciante": "上天保佑",
-          "min": "1000000",
-          "max": "4000000",
-          "disponible": "11495.76"
-        },
-        {
-          "precio": 1110.0,
-          "comerciante": "Trust-Broker",
-          "min": "10000000",
-          "max": "36450000",
-          "disponible": "38000.06"
-        },
         {
           "precio": 1109.0,
           "comerciante": "P2P-d40c8dju",
@@ -46,57 +25,78 @@
           "disponible": "282.00"
         },
         {
-          "precio": 1108.5,
-          "comerciante": "Money77ves",
+          "precio": 1102.0,
+          "comerciante": "maisondorada",
+          "min": "1000000",
+          "max": "4000000",
+          "disponible": "2815.52"
+        },
+        {
+          "precio": 1102.0,
+          "comerciante": "Trust-Broker",
           "min": "5000000",
           "max": "36450000",
-          "disponible": "39995.50"
+          "disponible": "50000.00"
+        },
+        {
+          "precio": 1101.313,
+          "comerciante": "CAMBIOSFLASH1109",
+          "min": "3000000",
+          "max": "4000000",
+          "disponible": "4800.00"
+        },
+        {
+          "precio": 1100.004,
+          "comerciante": "P2P-3604f12o",
+          "min": "100000",
+          "max": "4000000",
+          "disponible": "100.00"
         }
       ]
     },
     "compra": {
-      "promedio": 1107.0196,
-      "minimo": 1105.7,
-      "maximo": 1108.0,
+      "promedio": 1103.358,
+      "minimo": 1102.97,
+      "maximo": 1104.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1105.7,
-          "comerciante": "German_Rios",
-          "min": "200000",
-          "max": "36450000",
-          "disponible": "196.24"
-        },
-        {
-          "precio": 1105.998,
-          "comerciante": "Edw_Crypto",
-          "min": "200000",
-          "max": "12000000",
-          "disponible": "639.90"
-        },
-        {
-          "precio": 1107.5,
-          "comerciante": "josealtu",
-          "min": "5000000",
-          "max": "20000000",
-          "disponible": "6814.80"
-        },
-        {
-          "precio": 1107.9,
-          "comerciante": "IngeP2P",
-          "min": "300",
-          "max": "1000000",
-          "disponible": "0.38"
-        },
-        {
-          "precio": 1108.0,
-          "comerciante": "Lubernuflo",
-          "min": "300",
+          "precio": 1102.97,
+          "comerciante": "Estheban_H",
+          "min": "100000",
           "max": "4000000",
-          "disponible": "0.50"
+          "disponible": "349.12"
+        },
+        {
+          "precio": 1103.0,
+          "comerciante": "skyval",
+          "min": "100000",
+          "max": "4000000",
+          "disponible": "405.31"
+        },
+        {
+          "precio": 1103.0,
+          "comerciante": "NewtScamander",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "19975.04"
+        },
+        {
+          "precio": 1103.82,
+          "comerciante": "Edwin",
+          "min": "50000",
+          "max": "4000000",
+          "disponible": "168.51"
+        },
+        {
+          "precio": 1104.0,
+          "comerciante": "P2P-42613ahd",
+          "min": "30000",
+          "max": "804038",
+          "disponible": "284.26"
         }
       ]
     }
   },
-  "brecha_pct": 20.27
+  "brecha_pct": 19.54
 }
