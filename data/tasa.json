@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-11-26T11:37:38+00:00",
-  "actualizado_ve": "2026-11-26T07:37:38-04:00",
+  "actualizado_utc": "2026-11-26T20:38:04+00:00",
+  "actualizado_ve": "2026-11-26T16:38:04-04:00",
   "bcv": {
     "usd": 924.3534,
     "eur": 1011.7325269,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1103.46,
+    "referencia": 1098.4,
     "venta": {
-      "promedio": 1103.46,
-      "minimo": 1100.0,
+      "promedio": 1098.4,
+      "minimo": 1094.0,
       "maximo": 1110.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -22,81 +22,81 @@
           "comerciante": "CAMBIOBEMOVIL",
           "min": "1000",
           "max": "20000",
-          "disponible": "29831.22"
+          "disponible": "29828.07"
         },
         {
-          "precio": 1105.0,
-          "comerciante": "Skymecc",
-          "min": "50000",
-          "max": "4000000",
-          "disponible": "5000.00"
-        },
-        {
-          "precio": 1102.0,
-          "comerciante": "maisondorada",
+          "precio": 1098.0,
+          "comerciante": "key_laram",
           "min": "1000000",
+          "max": "1644000",
+          "disponible": "1497.26"
+        },
+        {
+          "precio": 1095.0,
+          "comerciante": "Francisco25",
+          "min": "552000",
+          "max": "3315000",
+          "disponible": "2553.65"
+        },
+        {
+          "precio": 1095.0,
+          "comerciante": "Burdyn",
+          "min": "2000000",
+          "max": "36000000",
+          "disponible": "36664.21"
+        },
+        {
+          "precio": 1094.0,
+          "comerciante": "LantzAvance",
+          "min": "800000",
           "max": "4000000",
-          "disponible": "2815.52"
-        },
-        {
-          "precio": 1100.3,
-          "comerciante": "P-R-O-F-E-T-A",
-          "min": "10000",
-          "max": "20000",
-          "disponible": "72.75"
-        },
-        {
-          "precio": 1100.0,
-          "comerciante": "MKAISER1",
-          "min": "500000",
-          "max": "1100000",
-          "disponible": "8954.61"
+          "disponible": "2604.76"
         }
       ]
     },
     "compra": {
-      "promedio": 1101.3996,
-      "minimo": 1100.0,
-      "maximo": 1102.0,
+      "promedio": 1095.7474,
+      "minimo": 1095.49,
+      "maximo": 1095.963,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1100.0,
-          "comerciante": "JAACOSTA",
-          "min": "860000",
-          "max": "1100000",
-          "disponible": "997.50"
+          "precio": 1095.49,
+          "comerciante": "Elnegrop2p",
+          "min": "10000000",
+          "max": "36450000",
+          "disponible": "29731.54"
         },
         {
-          "precio": 1101.0,
-          "comerciante": "BictVenz",
-          "min": "50000",
-          "max": "4000000",
-          "disponible": "230.88"
+          "precio": 1095.5,
+          "comerciante": "Srexchanges",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "15000.14"
         },
         {
-          "precio": 1101.999,
-          "comerciante": "david_grado33",
-          "min": "1000000",
-          "max": "1035500",
-          "disponible": "936.72"
-        },
-        {
-          "precio": 1101.999,
-          "comerciante": "AmazonTrader",
-          "min": "110000",
-          "max": "110200",
-          "disponible": "112.33"
-        },
-        {
-          "precio": 1102.0,
-          "comerciante": "OPABIANCHI",
+          "precio": 1095.864,
+          "comerciante": "CHATGPTT",
           "min": "4000000",
-          "max": "17000000",
-          "disponible": "4902.39"
+          "max": "36450000",
+          "disponible": "4273.58"
+        },
+        {
+          "precio": 1095.92,
+          "comerciante": "Bull_Rrun_Trading",
+          "min": "4000000",
+          "max": "36000000",
+          "disponible": "5098.40"
+        },
+        {
+          "precio": 1095.963,
+          "comerciante": "Josebat23",
+          "min": "3000000",
+          "max": "35000000",
+          "disponible": "13167.16"
         }
       ]
     }
   },
-  "brecha_pct": 19.38
+  "brecha_pct": 18.83
 }
