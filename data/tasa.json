@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-11-27T03:19:48+00:00",
-  "actualizado_ve": "2026-11-26T23:19:48-04:00",
+  "actualizado_utc": "2026-11-27T12:51:01+00:00",
+  "actualizado_ve": "2026-11-27T08:51:01-04:00",
   "bcv": {
     "usd": 926.3592,
     "eur": 1016.86449384,
@@ -10,10 +10,10 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1094.3,
+    "referencia": 1091.62,
     "venta": {
-      "promedio": 1094.3,
-      "minimo": 1088.0,
+      "promedio": 1091.62,
+      "minimo": 1085.5,
       "maximo": 1110.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -25,13 +25,6 @@
           "disponible": "29828.07"
         },
         {
-          "precio": 1093.5,
-          "comerciante": "FlashSeguroConfiable",
-          "min": "1000000",
-          "max": "4000000",
-          "disponible": "5000.00"
-        },
-        {
           "precio": 1091.0,
           "comerciante": "KaterinaB_76",
           "min": "20000",
@@ -39,64 +32,71 @@
           "disponible": "100.00"
         },
         {
-          "precio": 1089.0,
-          "comerciante": "VIP_CAMBIOS",
-          "min": "400",
-          "max": "1252",
-          "disponible": "100.00"
+          "precio": 1086.0,
+          "comerciante": "FAST-MD05",
+          "min": "300",
+          "max": "4000000",
+          "disponible": "0.34"
         },
         {
-          "precio": 1088.0,
-          "comerciante": "人民币FERMICON人民币",
-          "min": "100000",
-          "max": "1170000",
-          "disponible": "1070.00"
+          "precio": 1085.6,
+          "comerciante": "Yosedg",
+          "min": "1000000",
+          "max": "36450000",
+          "disponible": "4137.74"
+        },
+        {
+          "precio": 1085.5,
+          "comerciante": "Lucky--Luciano",
+          "min": "1500000",
+          "max": "36450000",
+          "disponible": "25012.46"
         }
       ]
     },
     "compra": {
-      "promedio": 1090.819,
-      "minimo": 1090.0,
-      "maximo": 1091.098,
+      "promedio": 1087.0,
+      "minimo": 1087.0,
+      "maximo": 1087.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1090.0,
-          "comerciante": "gonzbrh",
-          "min": "11500000",
-          "max": "36450000",
-          "disponible": "10807.70"
+          "precio": 1087.0,
+          "comerciante": "los100cien",
+          "min": "5000000",
+          "max": "36000000",
+          "disponible": "4728.91"
         },
         {
-          "precio": 1090.997,
-          "comerciante": "现象",
-          "min": "1300000",
-          "max": "25000000",
-          "disponible": "3495.63"
-        },
-        {
-          "precio": 1091.0,
-          "comerciante": "_SWIFT_TRADER_",
+          "precio": 1087.0,
+          "comerciante": "ElMuSa30",
           "min": "5000000",
           "max": "36450000",
-          "disponible": "8618.05"
+          "disponible": "10821.49"
         },
         {
-          "precio": 1091.0,
-          "comerciante": "ExchangeVeskha",
-          "min": "1000000",
+          "precio": 1087.0,
+          "comerciante": "Elnegrop2p",
+          "min": "7000000",
           "max": "36450000",
-          "disponible": "10062.04"
+          "disponible": "29798.01"
         },
         {
-          "precio": 1091.098,
-          "comerciante": "CHATGPTT",
-          "min": "5000000",
+          "precio": 1087.0,
+          "comerciante": "Musicoin",
+          "min": "2000000",
           "max": "36450000",
-          "disponible": "16959.07"
+          "disponible": "6036.59"
+        },
+        {
+          "precio": 1087.0,
+          "comerciante": "BatsaikhanBDV",
+          "min": "4000000",
+          "max": "36450000",
+          "disponible": "7952.94"
         }
       ]
     }
   },
-  "brecha_pct": 18.13
+  "brecha_pct": 17.84
 }
