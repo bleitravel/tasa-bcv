@@ -1,19 +1,19 @@
 {
-  "actualizado_utc": "2026-11-26T20:38:04+00:00",
-  "actualizado_ve": "2026-11-26T16:38:04-04:00",
+  "actualizado_utc": "2026-11-27T03:19:48+00:00",
+  "actualizado_ve": "2026-11-26T23:19:48-04:00",
   "bcv": {
-    "usd": 924.3534,
-    "eur": 1011.7325269,
-    "fecha_valor": "2026-11-26T00:00:00-04:00"
+    "usd": 926.3592,
+    "eur": 1016.86449384,
+    "fecha_valor": "2026-11-27T00:00:00-04:00"
   },
   "binance_p2p": {
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1098.4,
+    "referencia": 1094.3,
     "venta": {
-      "promedio": 1098.4,
-      "minimo": 1094.0,
+      "promedio": 1094.3,
+      "minimo": 1088.0,
       "maximo": 1110.0,
       "anuncios_usados": 5,
       "anuncios": [
@@ -25,78 +25,78 @@
           "disponible": "29828.07"
         },
         {
-          "precio": 1098.0,
-          "comerciante": "key_laram",
+          "precio": 1093.5,
+          "comerciante": "FlashSeguroConfiable",
           "min": "1000000",
-          "max": "1644000",
-          "disponible": "1497.26"
-        },
-        {
-          "precio": 1095.0,
-          "comerciante": "Francisco25",
-          "min": "552000",
-          "max": "3315000",
-          "disponible": "2553.65"
-        },
-        {
-          "precio": 1095.0,
-          "comerciante": "Burdyn",
-          "min": "2000000",
-          "max": "36000000",
-          "disponible": "36664.21"
-        },
-        {
-          "precio": 1094.0,
-          "comerciante": "LantzAvance",
-          "min": "800000",
           "max": "4000000",
-          "disponible": "2604.76"
+          "disponible": "5000.00"
+        },
+        {
+          "precio": 1091.0,
+          "comerciante": "KaterinaB_76",
+          "min": "20000",
+          "max": "4000000",
+          "disponible": "100.00"
+        },
+        {
+          "precio": 1089.0,
+          "comerciante": "VIP_CAMBIOS",
+          "min": "400",
+          "max": "1252",
+          "disponible": "100.00"
+        },
+        {
+          "precio": 1088.0,
+          "comerciante": "人民币FERMICON人民币",
+          "min": "100000",
+          "max": "1170000",
+          "disponible": "1070.00"
         }
       ]
     },
     "compra": {
-      "promedio": 1095.7474,
-      "minimo": 1095.49,
-      "maximo": 1095.963,
+      "promedio": 1090.819,
+      "minimo": 1090.0,
+      "maximo": 1091.098,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1095.49,
-          "comerciante": "Elnegrop2p",
-          "min": "10000000",
+          "precio": 1090.0,
+          "comerciante": "gonzbrh",
+          "min": "11500000",
           "max": "36450000",
-          "disponible": "29731.54"
+          "disponible": "10807.70"
         },
         {
-          "precio": 1095.5,
-          "comerciante": "Srexchanges",
+          "precio": 1090.997,
+          "comerciante": "现象",
+          "min": "1300000",
+          "max": "25000000",
+          "disponible": "3495.63"
+        },
+        {
+          "precio": 1091.0,
+          "comerciante": "_SWIFT_TRADER_",
           "min": "5000000",
           "max": "36450000",
-          "disponible": "15000.14"
+          "disponible": "8618.05"
         },
         {
-          "precio": 1095.864,
-          "comerciante": "CHATGPTT",
-          "min": "4000000",
+          "precio": 1091.0,
+          "comerciante": "ExchangeVeskha",
+          "min": "1000000",
           "max": "36450000",
-          "disponible": "4273.58"
+          "disponible": "10062.04"
         },
         {
-          "precio": 1095.92,
-          "comerciante": "Bull_Rrun_Trading",
-          "min": "4000000",
-          "max": "36000000",
-          "disponible": "5098.40"
-        },
-        {
-          "precio": 1095.963,
-          "comerciante": "Josebat23",
-          "min": "3000000",
-          "max": "35000000",
-          "disponible": "13167.16"
+          "precio": 1091.098,
+          "comerciante": "CHATGPTT",
+          "min": "5000000",
+          "max": "36450000",
+          "disponible": "16959.07"
         }
       ]
     }
   },
-  "brecha_pct": 18.83
+  "brecha_pct": 18.13
 }
