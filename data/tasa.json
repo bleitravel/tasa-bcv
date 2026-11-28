@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-11-27T21:42:41+00:00",
-  "actualizado_ve": "2026-11-27T17:42:41-04:00",
+  "actualizado_utc": "2026-11-28T03:36:43+00:00",
+  "actualizado_ve": "2026-11-27T23:36:43-04:00",
   "bcv": {
     "usd": 928.5454,
     "eur": 1016.30222575,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1094.9006,
+    "referencia": 1094.6,
     "venta": {
-      "promedio": 1094.9006,
-      "minimo": 1091.0,
-      "maximo": 1110.0,
+      "promedio": 1094.6,
+      "minimo": 1094.0,
+      "maximo": 1095.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1110.0,
-          "comerciante": "CAMBIOBEMOVIL",
-          "min": "1000",
-          "max": "20000",
-          "disponible": "29814.57"
+          "precio": 1095.0,
+          "comerciante": "GAleja1011",
+          "min": "926300",
+          "max": "926500",
+          "disponible": "3228.28"
         },
         {
-          "precio": 1091.5,
-          "comerciante": "Dovinson",
-          "min": "1000000",
+          "precio": 1095.0,
+          "comerciante": "Rxjess",
+          "min": "120000",
           "max": "4000000",
-          "disponible": "6016.13"
+          "disponible": "1799.15"
         },
         {
-          "precio": 1091.003,
-          "comerciante": "CriptoseguroAyM",
+          "precio": 1094.7,
+          "comerciante": "el_que_te_detona",
+          "min": "500000",
+          "max": "1000000",
+          "disponible": "17638.01"
+        },
+        {
+          "precio": 1094.3,
+          "comerciante": "Camklaro25",
+          "min": "1012227",
+          "max": "1013000",
+          "disponible": "925.00"
+        },
+        {
+          "precio": 1094.0,
+          "comerciante": "-AMATERATSU-",
           "min": "2000000",
-          "max": "34000000",
-          "disponible": "39514.97"
-        },
-        {
-          "precio": 1091.0,
-          "comerciante": "KaterinaB_76",
-          "min": "20000",
-          "max": "4000000",
-          "disponible": "100.00"
-        },
-        {
-          "precio": 1091.0,
-          "comerciante": "TrustCapitalP2P",
-          "min": "2200000",
-          "max": "2400000",
-          "disponible": "2400.00"
+          "max": "36450000",
+          "disponible": "65722.26"
         }
       ]
     },
     "compra": {
-      "promedio": 1089.8,
-      "minimo": 1088.0,
-      "maximo": 1091.0,
+      "promedio": 1096.52,
+      "minimo": 1096.1,
+      "maximo": 1096.8,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1088.0,
-          "comerciante": "BatsaikhanBDV",
-          "min": "4000000",
+          "precio": 1096.1,
+          "comerciante": "Cambios_DP15",
+          "min": "20000000",
           "max": "36450000",
-          "disponible": "18502.75"
+          "disponible": "27249.69"
         },
         {
-          "precio": 1090.0,
-          "comerciante": "SPAICER",
-          "min": "320",
-          "max": "877000",
-          "disponible": "0.63"
-        },
-        {
-          "precio": 1090.0,
-          "comerciante": "Aaron201",
+          "precio": 1096.4,
+          "comerciante": "蒙神祝福者",
           "min": "3000000",
-          "max": "36450000",
-          "disponible": "4000.00"
+          "max": "36000000",
+          "disponible": "47077.94"
         },
         {
-          "precio": 1090.0,
-          "comerciante": "pacmandoodle",
-          "min": "2000000",
-          "max": "4000000",
-          "disponible": "13965.08"
+          "precio": 1096.5,
+          "comerciante": "Sr_____Trader",
+          "min": "10000000",
+          "max": "17604000",
+          "disponible": "16026.95"
         },
         {
-          "precio": 1091.0,
-          "comerciante": "Jhonybass",
-          "min": "2000000",
-          "max": "36450000",
-          "disponible": "3822.48"
+          "precio": 1096.8,
+          "comerciante": "Daikokuten-Finance",
+          "min": "36450000",
+          "max": "200000000",
+          "disponible": "137914.63"
+        },
+        {
+          "precio": 1096.8,
+          "comerciante": "jjmac",
+          "min": "3000000",
+          "max": "20000000",
+          "disponible": "13180.14"
         }
       ]
     }
   },
-  "brecha_pct": 17.92
+  "brecha_pct": 17.88
 }
