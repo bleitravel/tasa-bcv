@@ -1,6 +1,6 @@
 {
-  "actualizado_utc": "2026-11-28T03:36:43+00:00",
-  "actualizado_ve": "2026-11-27T23:36:43-04:00",
+  "actualizado_utc": "2026-11-28T12:30:46+00:00",
+  "actualizado_ve": "2026-11-28T08:30:46-04:00",
   "bcv": {
     "usd": 928.5454,
     "eur": 1016.30222575,
@@ -10,93 +10,93 @@
     "asset": "USDT",
     "fiat": "VES",
     "top_n": 5,
-    "referencia": 1094.6,
+    "referencia": 1099.4,
     "venta": {
-      "promedio": 1094.6,
-      "minimo": 1094.0,
-      "maximo": 1095.0,
+      "promedio": 1099.4,
+      "minimo": 1096.0,
+      "maximo": 1110.0,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1095.0,
-          "comerciante": "GAleja1011",
-          "min": "926300",
-          "max": "926500",
-          "disponible": "3228.28"
+          "precio": 1110.0,
+          "comerciante": "CAMBIOBEMOVIL",
+          "min": "1000",
+          "max": "20000",
+          "disponible": "29814.57"
         },
         {
-          "precio": 1095.0,
-          "comerciante": "Rxjess",
-          "min": "120000",
-          "max": "4000000",
-          "disponible": "1799.15"
+          "precio": 1098.0,
+          "comerciante": "RubenNYC",
+          "min": "25000000",
+          "max": "36000000",
+          "disponible": "50000.00"
         },
         {
-          "precio": 1094.7,
-          "comerciante": "el_que_te_detona",
-          "min": "500000",
-          "max": "1000000",
-          "disponible": "17638.01"
+          "precio": 1097.0,
+          "comerciante": "DavidR",
+          "min": "165000",
+          "max": "465500",
+          "disponible": "424.30"
         },
         {
-          "precio": 1094.3,
-          "comerciante": "Camklaro25",
-          "min": "1012227",
-          "max": "1013000",
-          "disponible": "925.00"
-        },
-        {
-          "precio": 1094.0,
-          "comerciante": "-AMATERATSU-",
-          "min": "2000000",
+          "precio": 1096.0,
+          "comerciante": "TH3K1NGP2P",
+          "min": "7000000",
           "max": "36450000",
-          "disponible": "65722.26"
+          "disponible": "66013.00"
+        },
+        {
+          "precio": 1096.0,
+          "comerciante": "Seguro_ExchangeJM",
+          "min": "100000",
+          "max": "4000000",
+          "disponible": "4170.04"
         }
       ]
     },
     "compra": {
-      "promedio": 1096.52,
-      "minimo": 1096.1,
-      "maximo": 1096.8,
+      "promedio": 1099.12,
+      "minimo": 1099.0,
+      "maximo": 1099.3,
       "anuncios_usados": 5,
       "anuncios": [
         {
-          "precio": 1096.1,
-          "comerciante": "Cambios_DP15",
-          "min": "20000000",
+          "precio": 1099.0,
+          "comerciante": "carlos",
+          "min": "100000",
+          "max": "4000000",
+          "disponible": "2512.09"
+        },
+        {
+          "precio": 1099.0,
+          "comerciante": "Musicoin",
+          "min": "1000000",
           "max": "36450000",
-          "disponible": "27249.69"
+          "disponible": "7100.16"
         },
         {
-          "precio": 1096.4,
-          "comerciante": "蒙神祝福者",
-          "min": "3000000",
-          "max": "36000000",
-          "disponible": "47077.94"
+          "precio": 1099.0,
+          "comerciante": "Trade_Llanos",
+          "min": "110000",
+          "max": "110000",
+          "disponible": "168.79"
         },
         {
-          "precio": 1096.5,
-          "comerciante": "Sr_____Trader",
-          "min": "10000000",
-          "max": "17604000",
-          "disponible": "16026.95"
+          "precio": 1099.3,
+          "comerciante": "FREQUIMO",
+          "min": "210141",
+          "max": "210142",
+          "disponible": "191.16"
         },
         {
-          "precio": 1096.8,
-          "comerciante": "Daikokuten-Finance",
-          "min": "36450000",
-          "max": "200000000",
-          "disponible": "137914.63"
-        },
-        {
-          "precio": 1096.8,
-          "comerciante": "jjmac",
-          "min": "3000000",
-          "max": "20000000",
-          "disponible": "13180.14"
+          "precio": 1099.3,
+          "comerciante": "OzzieMendoza",
+          "min": "2000000",
+          "max": "10950000",
+          "disponible": "4502.98"
         }
       ]
     }
   },
-  "brecha_pct": 17.88
+  "brecha_pct": 18.4
 }
